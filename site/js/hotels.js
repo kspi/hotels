@@ -13,10 +13,11 @@ function initializeMap() {
   geocoder = new google.maps.Geocoder();
 }
 
-function putMarker(loc) {
+function putMarker(title, loc) {
   var marker = new google.maps.Marker({
-      map: map,
-      position: loc
+    map: map,
+    position: loc,
+    title: title
   });
 }
 
@@ -26,7 +27,7 @@ $(function(){
     var hotel = hotels[i];
     var c = hotel.coords;
     if (c) {
-      putMarker(new google.maps.LatLng(c.lat, c.lng));
+      putMarker(hotel.name, new google.maps.LatLng(c.lat, c.lng));
     }
   }
 });
