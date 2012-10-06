@@ -1,4 +1,4 @@
-var map;
+﻿var map;
 var geocoder;
 var markerArray;
 
@@ -55,7 +55,7 @@ $(function(){
     
     var passed = false;
     $.each(model.grades, function(i, el) {
-      if (el + "*" == item.info['Klas\u0117']) {
+      if (el + "*" == item.info['Klasė']) {
         passed = true;
       }
     });    

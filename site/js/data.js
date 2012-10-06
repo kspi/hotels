@@ -1,27 +1,27 @@
-hotels = ([
+﻿hotels = ([
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"S\u0105lytis\" ir partneriai", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Sąlytis\" ir partneriai", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "10", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "10", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "52167898", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2009.11.26", 
-            "El. pa\u0161tas": "info@hotelacappella.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2009.11.26", 
+            "El. paštas": "info@hotelacappella.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52167241", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "25", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "25", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -29,31 +29,31 @@ hotels = ([
             "lng": 25.2800243
         }, 
         "name": "ACAPPELLA", 
-        "address": "Vilniaus m. sav., Vilnius, Dariaus ir Gir\u0117no g. 61"
+        "address": "Vilniaus m. sav., Vilnius, Dariaus ir Girėno g. 61"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"\u017daliasis tiltas\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė, Restoranas", 
+            "Oficialus įm. pavadinimas": "UAB \"Žaliasis tiltas\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "80", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "80", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruoklių salė", 
             "Telefonas": "52691919", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.02.01", 
-            "El. pa\u0161tas": "info@congress.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.02.01", 
+            "El. paštas": "info@congress.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52514280", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "139", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "139", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -61,7 +61,7 @@ hotels = ([
                     "Ekranas", 
                     "Mikrofonas", 
                     "Multimedia", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Video grotuvas"
                 ], 
@@ -78,14 +78,14 @@ hotels = ([
                     "Ekranas", 
                     "Mikrofonas", 
                     "Multimedia", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Video grotuvas"
                 ], 
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 50
                     }
                 ]
@@ -101,71 +101,71 @@ hotels = ([
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB vie\u0161butis \"J\u016bragis\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "1", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB viešbutis \"Jūragis\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "1", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "46300944", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.05.14", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.05.14", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46343142", 
-            "Klas\u0117": "1*", 
-            "Viet\u0173 skai\u010dius": "32", 
+            "Klasė": "1*", 
+            "Vietų skaičius": "32", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
             "lat": 55.71080260000001, 
             "lng": 21.1318065
         }, 
-        "name": "J\u016aRAGIS", 
-        "address": "Klaip\u0117dos m. sav., Klaip\u0117da, Debreceno g. 27"
+        "name": "JŪRAGIS", 
+        "address": "Klaipėdos m. sav., Klaipėda, Debreceno g. 27"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \u017dem\u0117s \u016bkio kooperacijos ir verslo mokymo centras", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė Žemės ūkio kooperacijos ir verslo mokymo centras", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "34", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "34", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "52683999", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "52721305", 
-            "Klas\u0117 suteikta iki": "2007.03.29", 
-            "El. pa\u0161tas": "pusis@pusishotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2007.03.29", 
+            "El. paštas": "pusis@pusishotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52721305", 
-            "Klas\u0117": "1*", 
-            "Viet\u0173 skai\u010dius": "52", 
+            "Klasė": "1*", 
+            "Vietų skaičius": "52", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Multimedia", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "TV"
                 ], 
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 25
                     }, 
                     {
@@ -177,8 +177,8 @@ hotels = ([
             {
                 "hardware": [
                     "Multimedia", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "TV"
                 ], 
                 "name": "", 
@@ -194,32 +194,32 @@ hotels = ([
             "lat": 54.6969929, 
             "lng": 25.2397069
         }, 
-        "name": "PU\u0160IS", 
-        "address": "Blind\u017ei\u0173 g. 17, Vilnius"
+        "name": "PUŠIS", 
+        "address": "Blindžių g. 17, Vilnius"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "Akcin\u0117 bendrov\u0117 \u201dNAUJASIS VILNIUS\u201d", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "114", 
-            "Priklausomyb\u0117 tinklui": "Best Western", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Baseinas, Kirpykla, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Suvenyr\u0173 parduotuv\u0117, Treniruokli\u0173 sal\u0117, Valiutos keitykla, Verslo centras", 
+            "Oficialus įm. pavadinimas": "Akcinė bendrovė ”NAUJASIS VILNIUS”", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "114", 
+            "Priklausomybė tinklui": "Best Western", 
+            "Papildomos paslaugos": "Automobilių nuoma, Baseinas, Kirpykla, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Suvenyrų parduotuvė, Treniruoklių salė, Valiutos keitykla, Verslo centras", 
             "Telefonas": "52739595", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.05.14", 
-            "El. pa\u0161tas": "office@hotelnv.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "Fakso aparatas, Internetinis ry\u0161ys, Kompiuteris(-iai), Kopijavimo aparatas", 
+            "Klasė suteikta iki": "2015.05.14", 
+            "El. paštas": "office@hotelnv.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "Fakso aparatas, Internetinis ryšys, Kompiuteris(-iai), Kopijavimo aparatas", 
             "Faksas": "2739500", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "216", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "216", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "Sveikatingumo klubas", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -229,22 +229,22 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Granito", 
                 "configurations": [
@@ -253,7 +253,7 @@ hotels = ([
                         "people": 200
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 120
                     }, 
                     {
@@ -277,22 +277,22 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Granito A", 
                 "configurations": [
@@ -301,7 +301,7 @@ hotels = ([
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -321,22 +321,22 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Granito A+B", 
                 "configurations": [
@@ -345,7 +345,7 @@ hotels = ([
                         "people": 120
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 60
                     }, 
                     {
@@ -365,22 +365,22 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Marmuro", 
                 "configurations": [
@@ -389,7 +389,7 @@ hotels = ([
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 40
                     }, 
                     {
@@ -413,16 +413,16 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Interneto ryšys", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
                     "Video grotuvas"
                 ], 
-                "name": "Pos\u0117d\u017ei\u0173 sal\u0117", 
+                "name": "Posėdžių salė", 
                 "configurations": [
                     {
                         "name": "Apvalaus stalo stilius", 
@@ -437,22 +437,22 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Stiklo A", 
                 "configurations": [
@@ -461,7 +461,7 @@ hotels = ([
                         "people": 220
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 150
                     }, 
                     {
@@ -485,22 +485,22 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Stiklo A+B", 
                 "configurations": [
@@ -509,7 +509,7 @@ hotels = ([
                         "people": 420
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 268
                     }, 
                     {
@@ -533,22 +533,22 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Stiklo B", 
                 "configurations": [
@@ -557,7 +557,7 @@ hotels = ([
                         "people": 180
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 130
                     }, 
                     {
@@ -586,25 +586,25 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"MINGINT\u0116\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"MINGINTĖ\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "25", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "25", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Treniruoklių salė", 
             "Telefonas": "41524526", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "info@medziotojujuuzeiga.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "info@medziotojujuuzeiga.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "41524525", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "50", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "50", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -625,32 +625,32 @@ hotels = ([
             "lat": 55.9280315, 
             "lng": 23.297225
         }, 
-        "name": "\u0160IAULI\u0172 KRA\u0160TO MED\u017dIOTOJ\u0172 U\u017dEIGA", 
-        "address": "Dubijos g. 20, \u0160iauliai"
+        "name": "ŠIAULIŲ KRAŠTO MEDŽIOTOJŲ UŽEIGA", 
+        "address": "Dubijos g. 20, Šiauliai"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "Beatri\u010d\u0117s Lau\u017eikien\u0117s individuali \u012fmon\u0117", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "12", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Oficialus įm. pavadinimas": "Beatričės Laužikienės individuali įmonė", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "12", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Treniruoklių salė", 
             "Telefonas": "44168525", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.04.28", 
-            "El. pa\u0161tas": "ventaine@takas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.04.28", 
+            "El. paštas": "ventaine@takas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "44147422", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "32", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "32", 
             "Sveikatingumo paslaugos": "", 
-            "Pramogos": "Sporto aik\u0161tel\u0117", 
-            "Svetain\u0117s adresas": ""
+            "Pramogos": "Sporto aikštelė", 
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -659,16 +659,16 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Biliardin\u0117", 
+                "name": "Biliardinė", 
                 "configurations": [
                     {
                         "name": "Apvalaus stalo stilius", 
@@ -683,22 +683,22 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Did\u017eioji", 
+                "name": "Didžioji", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -712,21 +712,21 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Ma\u017eoji", 
+                "name": "Mažoji", 
                 "configurations": [
                     {
                         "name": "Apvalaus stalo stilius", 
@@ -739,64 +739,64 @@ hotels = ([
             "lat": 55.3500117, 
             "lng": 21.1992241
         }, 
-        "name": "VENTAIN\u0116", 
-        "address": "Vent\u0117, \u0160ilut\u0117s r."
+        "name": "VENTAINĖ", 
+        "address": "Ventė, Šilutės r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "Sporto inventorius", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Anyk\u0161\u010di\u0173 sporto ir laisvalaikio centras\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "27", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas, Teniso kortai, Treniruokli\u0173 sal\u0117", 
+            "Oficialus įm. pavadinimas": "UAB \"Anykščių sporto ir laisvalaikio centras\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "27", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas, Teniso kortai, Treniruoklių salė", 
             "Telefonas": "38158520", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.05.14", 
-            "El. pa\u0161tas": "reception@keturikalnai.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.05.14", 
+            "El. paštas": "reception@keturikalnai.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "38158640", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "55", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "55", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
             "lat": 55.520581, 
             "lng": 25.1157457
         }, 
-        "name": "ANYK\u0160\u010cI\u0172 SPORTO IR LAISVALAIKIO CENTRAS", 
-        "address": "Liudi\u0161ki\u0173 g. 18, Anyk\u0161\u010diai"
+        "name": "ANYKŠČIŲ SPORTO IR LAISVALAIKIO CENTRAS", 
+        "address": "Liudiškių g. 18, Anykščiai"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"GALIA\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "55", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Maitinimo paslaugos": "Kavinė, Restoranas", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"GALIA\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "55", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Pirtis/Sauna, Treniruoklių salė", 
             "Telefonas": "31360514", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "hotel4@galia.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "hotel4@galia.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31355100", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "124", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "124", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -810,7 +810,7 @@ hotels = ([
                         "people": 120
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 90
                     }, 
                     {
@@ -826,31 +826,31 @@ hotels = ([
         ], 
         "coords": null, 
         "name": "GALIA", 
-        "address": "Druskinink\u0173 sav., Druskininkai, M. K. \u010ciurlionio g. 97"
+        "address": "Druskininkų sav., Druskininkai, M. K. Čiurlionio g. 97"
     }, 
     {
         "info": {
-            "Inventoriaus nuoma": "Dvira\u010diai", 
+            "Inventoriaus nuoma": "Dviračiai", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Palangos v\u0117tra\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Palangos vėtra\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "29", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Pirtis/Sauna, Po\u017eeminis gara\u017eas, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "29", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Pirtis/Sauna, Požeminis garažas, Seifas, Skalbimas ir valymas, Treniruoklių salė", 
             "Telefonas": "46053032", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.02.01", 
-            "El. pa\u0161tas": "hotel@vetra.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "Internetinis ry\u0161ys, Kopijavimo aparatas", 
+            "Klasė suteikta iki": "2015.02.01", 
+            "El. paštas": "hotel@vetra.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "Internetinis ryšys, Kopijavimo aparatas", 
             "Faksas": "46051021", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "57", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "57", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -864,7 +864,7 @@ hotels = ([
                         "people": 85
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 48
                     }, 
                     {
@@ -884,7 +884,7 @@ hotels = ([
                         "people": 80
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 34
                     }, 
                     {
@@ -898,32 +898,32 @@ hotels = ([
             "lat": 55.9121319, 
             "lng": 21.058719
         }, 
-        "name": "PALANGOS V\u0116TRA", 
+        "name": "PALANGOS VĖTRA", 
         "address": "S. Daukanto g. 35, Palangos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Viljelita\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "15", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Oficialus įm. pavadinimas": "UAB \"Viljelita\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "15", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna", 
             "Telefonas": "46951150", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2008.01.20", 
-            "El. pa\u0161tas": "jelita@jelita.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2008.01.20", 
+            "El. paštas": "jelita@jelita.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46952287", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "53", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "53", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -936,33 +936,33 @@ hotels = ([
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Baras, Kavin\u0117, Valgykla", 
-            "Oficialus \u012fm. pavadinimas": "Valstyb\u0117s \u012fmon\u0117 Tarptautinis Vilniaus oro uostas", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Baras, Kavinė, Valgykla", 
+            "Oficialus įm. pavadinimas": "Valstybės įmonė Tarptautinis Vilniaus oro uostas", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "50", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Pirtis/Sauna, Po\u017eeminis gara\u017eas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "50", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Pirtis/Sauna, Požeminis garažas, Skalbimas ir valymas, Treniruoklių salė", 
             "Telefonas": "2739362", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2011.05.23", 
-            "El. pa\u0161tas": "hotel@vno.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2011.05.23", 
+            "El. paštas": "hotel@vno.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "2306498", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "108", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "108", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     ""
                 ], 
-                "name": "Konferencij\u0173 sal\u0117 1", 
+                "name": "Konferencijų salė 1", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -974,7 +974,7 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Konferencij\u0173 sal\u0117 2", 
+                "name": "Konferencijų salė 2", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -986,7 +986,7 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Konferencij\u0173 sal\u0117 3", 
+                "name": "Konferencijų salė 3", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -1000,70 +1000,70 @@ hotels = ([
             "lng": 25.2785548
         }, 
         "name": "SKRYDIS", 
-        "address": "Rod\u016bnios kelias 8, Vilniaus m."
+        "address": "Rodūnios kelias 8, Vilniaus m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"OGIVA\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"OGIVA\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "12", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Gara\u017eas, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "12", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Garažas, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
             "Telefonas": "46051231", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.04.19", 
-            "El. pa\u0161tas": "info@zaliasnamas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.04.19", 
+            "El. paštas": "info@zaliasnamas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46051231", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "26", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "26", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
             "lat": 55.9246224, 
             "lng": 21.0705219
         }, 
-        "name": "\u017dALIAS NAMAS", 
+        "name": "ŽALIAS NAMAS", 
         "address": "Vytauto g. 97, Palangos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"V&G\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"V&G\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "28", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Po\u017eeminis gara\u017eas, Seifas, Skalbimas ir valymas, Suvenyr\u0173 parduotuv\u0117, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "28", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Požeminis garažas, Seifas, Skalbimas ir valymas, Suvenyrų parduotuvė, Treniruoklių salė", 
             "Telefonas": "2107777", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.02.01", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.02.01", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "2107770", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "46", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "46", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     ""
                 ], 
-                "name": "Riteri\u0173", 
+                "name": "Riterių", 
                 "configurations": [
                     {
                         "name": "Banketo stilius", 
@@ -1082,26 +1082,26 @@ hotels = ([
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117, Valgykla", 
-            "Oficialus \u012fm. pavadinimas": "Akcin\u0117 bendrov\u0117 \u201dJ\u016brat\u0117\u201d", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė, Valgykla", 
+            "Oficialus įm. pavadinimas": "Akcinė bendrovė ”Jūratė”", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "118", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "118", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Treniruoklių salė", 
             "Telefonas": "46952618", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2007.03.08", 
-            "El. pa\u0161tas": "jurate-nida@takas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2007.03.08", 
+            "El. paštas": "jurate-nida@takas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46951118", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "226", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "226", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -1121,32 +1121,32 @@ hotels = ([
             "lat": 55.3062984, 
             "lng": 21.0062504
         }, 
-        "name": "J\u016aRAT\u0116", 
+        "name": "JŪRATĖ", 
         "address": "Pamario g. 3, Neringa"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Baras, Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "A.GRIGALI\u016aNO INDIVIDUALI \u012eMON\u0116", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Baras, Kavinė", 
+            "Oficialus įm. pavadinimas": "A.GRIGALIŪNO INDIVIDUALI ĮMONĖ", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "17", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Rusi\u0161ka pirtis", 
+            "Kambarių skaičius": "17", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna, Rusiška pirtis", 
             "Telefonas": "42261211", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2009.05.14", 
-            "El. pa\u0161tas": "grigaliunas@one.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2009.05.14", 
+            "El. paštas": "grigaliunas@one.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "42251185", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "43", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "43", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -1164,60 +1164,60 @@ hotels = ([
         ], 
         "coords": null, 
         "name": "PURIENA", 
-        "address": "Radvili\u0161kio r. sav., Radvili\u0161kio miesto sen., Radvili\u0161kis, Daujo\u010di\u0173 g. 10B"
+        "address": "Radviliškio r. sav., Radviliškio miesto sen., Radviliškis, Daujočių g. 10B"
     }, 
     {
         "info": {
-            "Inventoriaus nuoma": "Dvira\u010diai", 
+            "Inventoriaus nuoma": "Dviračiai", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Palangos \u017euv\u0117dra\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "76", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Biliardas, Seifas", 
+            "Oficialus įm. pavadinimas": "UAB \"Palangos žuvėdra\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "76", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Biliardas, Seifas", 
             "Telefonas": "46052353", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.06.26", 
-            "El. pa\u0161tas": "info@palangos-zuvedra.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.06.26", 
+            "El. paštas": "info@palangos-zuvedra.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46053852", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "151", 
-            "Sveikatingumo paslaugos": "Klasikinis masa\u017eas", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "151", 
+            "Sveikatingumo paslaugos": "Klasikinis masažas", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": null, 
-        "name": "PALANGOS \u017dUV\u0116DRA", 
-        "address": "Meil\u0117s al. 11, Palangos m."
+        "name": "PALANGOS ŽUVĖDRA", 
+        "address": "Meilės al. 11, Palangos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Jot\u0117ja\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "40", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Jotėja\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "40", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "81359060", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.12.22", 
-            "El. pa\u0161tas": "reservation@regina.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.12.22", 
+            "El. paštas": "reservation@regina.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "81359061", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "77", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "77", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": "www.regina.lt"
+            "Svetainės adresas": "www.regina.lt"
         }, 
         "halls": [
             {
@@ -1227,12 +1227,12 @@ hotels = ([
                     "Mikrofonas", 
                     "Multimedia", 
                     "TV", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 90
                     }
                 ]
@@ -1244,7 +1244,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 90
                     }, 
                     {
@@ -1268,31 +1268,31 @@ hotels = ([
         ], 
         "coords": null, 
         "name": "REGINA", 
-        "address": "Druskinink\u0173 sav."
+        "address": "Druskininkų sav."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Pusry\u010diai", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"INTERSELAS\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Pusryčiai", 
+            "Oficialus įm. pavadinimas": "UAB \"INTERSELAS\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "27", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "27", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "45508118", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.04.19", 
-            "El. pa\u0161tas": "hotel@pervaza.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.04.19", 
+            "El. paštas": "hotel@pervaza.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "45508118", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "76", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "76", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -1312,32 +1312,32 @@ hotels = ([
             "lat": 55.7443601, 
             "lng": 24.3708575
         }, 
-        "name": "PERVA\u017dA", 
-        "address": "Sm\u0117lyn\u0117s g. 112, Panev\u0117\u017eio m."
+        "name": "PERVAŽA", 
+        "address": "Smėlynės g. 112, Panevėžio m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Naujasis uostas\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "23", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
+            "Oficialus įm. pavadinimas": "UAB \"Naujasis uostas\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "23", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
             "Telefonas": "46301002", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2010.12.03", 
-            "El. pa\u0161tas": "info@vecekrug.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2010.12.03", 
+            "El. paštas": "info@vecekrug.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46312262", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "45", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "45", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -1345,9 +1345,9 @@ hotels = ([
                     "CD grotuvas", 
                     "DVD grotuvas", 
                     "Ekranas", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "TV", 
                     "Video grotuvas"
                 ], 
@@ -1358,7 +1358,7 @@ hotels = ([
                         "people": 40
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }, 
                     {
@@ -1381,38 +1381,38 @@ hotels = ([
             "lng": 21.1255676
         }, 
         "name": "VECEKRUG", 
-        "address": "J\u016bros g. 23, Klaip\u0117da"
+        "address": "Jūros g. 23, Klaipėda"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"EVLADA\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"EVLADA\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "10", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "10", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas", 
             "Telefonas": "37452433", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.02.01", 
-            "El. pa\u0161tas": "pphotel@hotmail.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.02.01", 
+            "El. paštas": "pphotel@hotmail.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "37351554", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "21", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "21", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     ""
                 ], 
-                "name": "Banketin\u0117 sal\u0117", 
+                "name": "Banketinė salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -1429,32 +1429,32 @@ hotels = ([
             "lat": 54.8832783, 
             "lng": 24.0079674
         }, 
-        "name": "PA\u017dAISLIS PARK HOTEL", 
+        "name": "PAŽAISLIS PARK HOTEL", 
         "address": "T. Masiulio g. 18E, Kauno m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"D\u017eesklauda\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Džesklauda\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "13", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "13", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "Baseinas, Pirtis/Sauna", 
             "Telefonas": "31945200", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.05.17", 
-            "El. pa\u0161tas": "info@sofijosrezidencija.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.05.17", 
+            "El. paštas": "info@sofijosrezidencija.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31945201", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "28", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "28", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -1462,63 +1462,63 @@ hotels = ([
             "lng": 24.0265699
         }, 
         "name": "SOFIJOS REZIDENCIJA", 
-        "address": "Jaunimo g. 6, Bir\u0161tono m., Bir\u0161tono sav."
+        "address": "Jaunimo g. 6, Birštono m., Birštono sav."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Pusry\u010diai", 
-            "Oficialus \u012fm. pavadinimas": "O.Puod\u017ei\u016blaitien\u0117s \u012fmon\u0117 \"Asimar\u0117\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Pusryčiai", 
+            "Oficialus įm. pavadinimas": "O.Puodžiūlaitienės įmonė \"Asimarė\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "12", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "12", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "5714001", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.12.22", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.12.22", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52703282", 
-            "Klas\u0117": "1*", 
-            "Viet\u0173 skai\u010dius": "28", 
+            "Klasė": "1*", 
+            "Vietų skaičius": "28", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
             "lat": 54.6893865, 
             "lng": 25.2800243
         }, 
-        "name": "ASIMAR\u0116", 
-        "address": "Vilniaus m. sav., Vilnius, \u017dirm\u016bn\u0173 g. 149"
+        "name": "ASIMARĖ", 
+        "address": "Vilniaus m. sav., Vilnius, Žirmūnų g. 149"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Palangos dail\u0117\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"Palangos dailė\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "47", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "47", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "46053136", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "info@palangosdaile.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "info@palangosdaile.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46053136", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "99", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "99", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -1528,7 +1528,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 20
                     }
                 ]
@@ -1538,39 +1538,39 @@ hotels = ([
             "lat": 55.9130681, 
             "lng": 21.0593434
         }, 
-        "name": "\"PALANGOS DAIL\u0116\"", 
+        "name": "\"PALANGOS DAILĖ\"", 
         "address": "S. Daukanto g. 33, Palangos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"MIKOTELIS\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"MIKOTELIS\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "57", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "57", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas", 
             "Telefonas": "52648833", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.06.07", 
-            "El. pa\u0161tas": "reservation@comfort.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.06.07", 
+            "El. paštas": "reservation@comfort.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52648833", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "110", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "110", 
             "Sveikatingumo paslaugos": "", 
-            "Pramogos": "Interneto kavin\u0117", 
-            "Svetain\u0117s adresas": ""
+            "Pramogos": "Interneto kavinė", 
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     ""
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "name": "Didžioji salė", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -1582,7 +1582,7 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Ma\u017eoji sal\u0117", 
+                "name": "Mažoji salė", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -1596,60 +1596,60 @@ hotels = ([
             "lng": 25.2800243
         }, 
         "name": "COMFORT VILNIUS", 
-        "address": "Vilniaus m. sav., Vilnius, G\u0117li\u0173 g. 5"
+        "address": "Vilniaus m. sav., Vilnius, Gėlių g. 5"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"BALTIJOS ENERGIJA\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"BALTIJOS ENERGIJA\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "70", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "70", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
             "Telefonas": "46045644", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "info@kursiukaimas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "info@kursiukaimas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46045644", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "152", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "152", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": null, 
-        "name": "KUR\u0160I\u0172 KAIMAS", 
+        "name": "KURŠIŲ KAIMAS", 
         "address": "Vytauto g. 79/Gintaro g.30, Palangos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"SENAMIES\u010cIO KOMFORTAS\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "50", 
-            "Priklausomyb\u0117 tinklui": "GROUP EUROPA", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"SENAMIESČIO KOMFORTAS\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "50", 
+            "Priklausomybė tinklui": "GROUP EUROPA", 
             "Papildomos paslaugos": "", 
             "Telefonas": "46404444", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.04.19", 
-            "El. pa\u0161tas": "palace@hoteleuropa.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.04.19", 
+            "El. paštas": "palace@hoteleuropa.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46404445", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "93", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "93", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -1663,7 +1663,7 @@ hotels = ([
                         "people": 40
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 28
                     }, 
                     {
@@ -1691,7 +1691,7 @@ hotels = ([
                         "people": 40
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 26
                     }, 
                     {
@@ -1714,38 +1714,38 @@ hotels = ([
             "lng": 21.1313968
         }, 
         "name": "NATIONAL HOTEL", 
-        "address": "Teatro g. 1, Klaip\u0117da"
+        "address": "Teatro g. 1, Klaipėda"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "Bendra Lietuvos - Vokietjos \u012fmon\u0117 UAB \"Litbela\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "Bendra Lietuvos - Vokietjos įmonė UAB \"Litbela\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "32", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, P\u016blas, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "32", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pūlas, Seifas, Skalbimas ir valymas", 
             "Telefonas": "34354202", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "34356806", 
-            "Klas\u0117 suteikta iki": "2015.06.07", 
-            "El. pa\u0161tas": "Litbela@litbela.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.06.07", 
+            "El. paštas": "Litbela@litbela.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "64", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "64", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "Boulingas, Naktinis klubas", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "DVD grotuvas", 
                     "Mikrofonas", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Video grotuvas", 
                     "Video projektorius"
                 ], 
@@ -1762,32 +1762,32 @@ hotels = ([
             "lat": 54.557812, 
             "lng": 23.3498124
         }, 
-        "name": "L\u016aNA", 
-        "address": "Marijampol\u0117s sav."
+        "name": "LŪNA", 
+        "address": "Marijampolės sav."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"\u0160ventaragio sl\u0117nis\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Šventaragio slėnis\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "77", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Pirtis/Sauna, Po\u017eeminis gara\u017eas, Skalbimas ir valymas, Teniso kortai, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "77", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Pirtis/Sauna, Požeminis garažas, Skalbimas ir valymas, Teniso kortai, Treniruoklių salė", 
             "Telefonas": "52107461", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "vilnius@klaipedahotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "vilnius@klaipedahotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52107460", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "134", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "134", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -1801,7 +1801,7 @@ hotels = ([
                         "people": 80
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 80
                     }, 
                     {
@@ -1824,31 +1824,31 @@ hotels = ([
             "lng": 25.2855815
         }, 
         "name": "AMBERTON", 
-        "address": "L. Stuokos-Gucevi\u010diaus g. 1, Vilniaus m."
+        "address": "L. Stuokos-Gucevičiaus g. 1, Vilniaus m."
     }, 
     {
         "info": {
-            "Inventoriaus nuoma": "Dvira\u010diai, Vandens dvira\u010diai", 
+            "Inventoriaus nuoma": "Dviračiai, Vandens dviračiai", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"PRIE MAL\u016aNO\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"PRIE MALŪNO\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "8", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas", 
+            "Kambarių skaičius": "8", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas", 
             "Telefonas": "52438406", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2005.06.15", 
-            "El. pa\u0161tas": "priemaluno@delfi.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2005.06.15", 
+            "El. paštas": "priemaluno@delfi.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52438406", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "24", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "24", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "Sveikatingumo klubas", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -1858,20 +1858,20 @@ hotels = ([
                     "Grafinis projektorius", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
                     "Video grotuvas"
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "name": "Didžioji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 70
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 28
                     }, 
                     {
@@ -1895,20 +1895,20 @@ hotels = ([
                     "Grafinis projektorius", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
                     "Video grotuvas"
                 ], 
-                "name": "Ma\u017eoji sal\u0117", 
+                "name": "Mažoji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 40
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 16
                     }, 
                     {
@@ -1926,32 +1926,32 @@ hotels = ([
             "lat": 54.7163851, 
             "lng": 25.0290524
         }, 
-        "name": "PRIE MAL\u016aNO", 
-        "address": "Vosyliuk\u0173 k., Lentvario sen., Trak\u0173 r."
+        "name": "PRIE MALŪNO", 
+        "address": "Vosyliukų k., Lentvario sen., Trakų r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "SADOVALIS", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "SADOVALIS", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "10", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "10", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "44849422", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "info@linelis.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "info@linelis.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "44849422", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "19", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "19", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -1972,31 +1972,31 @@ hotels = ([
             "lng": 21.8886997
         }, 
         "name": "LINELIS", 
-        "address": "Paplatel\u0117s k., \u017demai\u010di\u0173 Kalvarijos sen., Plung\u0117s r."
+        "address": "Paplatelės k., Žemaičių Kalvarijos sen., Plungės r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Baras, Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Gabileta\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Baras, Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"Gabileta\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "10", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "10", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "37552258", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.01.06", 
-            "El. pa\u0161tas": "info@vilasenjora.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.01.06", 
+            "El. paštas": "info@vilasenjora.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "37557161", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "22", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "22", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -2017,31 +2017,31 @@ hotels = ([
             "lng": 26.1966482
         }, 
         "name": "VILA SENJORA", 
-        "address": "\u017dalioji g., Garliavos m., Kauno r."
+        "address": "Žalioji g., Garliavos m., Kauno r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Pusry\u010diai", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"TAURAG\u0116S VIE\u0160BUTIS\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Pusryčiai", 
+            "Oficialus įm. pavadinimas": "UAB \"TAURAGĖS VIEŠBUTIS\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "14", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "14", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "44661523", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2011.05.16", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2011.05.16", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "44661523", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "29", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "29", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -2055,7 +2055,7 @@ hotels = ([
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -2077,32 +2077,32 @@ hotels = ([
             "lat": 55.25335699999999, 
             "lng": 22.2850513
         }, 
-        "name": "TAURAG\u0116", 
-        "address": "Taurag\u0117s r. sav., Taurag\u0117s miesto sen., Taurag\u0117, Vytauto g. 83"
+        "name": "TAURAGĖ", 
+        "address": "Tauragės r. sav., Tauragės miesto sen., Tauragė, Vytauto g. 83"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"NAUJASIS VILNIUS\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"NAUJASIS VILNIUS\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "36", 
-            "Priklausomyb\u0117 tinklui": "Best Western", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "36", 
+            "Priklausomybė tinklui": "Best Western", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "31360533", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.12.22", 
-            "El. pa\u0161tas": "office@centralhotel.eu", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.12.22", 
+            "El. paštas": "office@centralhotel.eu", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31360534", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "71", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "71", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -2112,7 +2112,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 25
                     }, 
                     {
@@ -2127,31 +2127,31 @@ hotels = ([
             "lng": -77.85959629999999
         }, 
         "name": "BEST WESTERN HOTEL CENTRAL", 
-        "address": "\u0160v. Jok\u016bbo g., Druskinink\u0173 m., Druskinink\u0173 sav."
+        "address": "Šv. Jokūbo g., Druskininkų m., Druskininkų sav."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Noring\u0117\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Noringė\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "47", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Soliariumas, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "47", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Soliariumas, Treniruoklių salė", 
             "Telefonas": "34397778", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.12.22", 
-            "El. pa\u0161tas": "marijampole@europaroyale.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.12.22", 
+            "El. paštas": "marijampole@europaroyale.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "34331011", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "88", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "88", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -2165,7 +2165,7 @@ hotels = ([
                         "people": 70
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 40
                     }, 
                     {
@@ -2201,7 +2201,7 @@ hotels = ([
                         "people": 200
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 80
                     }, 
                     {
@@ -2225,7 +2225,7 @@ hotels = ([
                         "people": 120
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 60
                     }, 
                     {
@@ -2249,7 +2249,7 @@ hotels = ([
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -2267,32 +2267,32 @@ hotels = ([
             "lat": 54.6418604, 
             "lng": 22.7465161
         }, 
-        "name": "EUROPA ROYALE MARIJAMPOL\u0116", 
-        "address": "J. Basanavi\u010diaus a. 8, Marijampol\u0117s m., Marijampol\u0117s sav."
+        "name": "EUROPA ROYALE MARIJAMPOLĖ", 
+        "address": "J. Basanavičiaus a. 8, Marijampolės m., Marijampolės sav."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Palangos v\u0117tra\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"Palangos vėtra\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "21", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Biliardas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Kambarių skaičius": "21", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Biliardas, Mašinų stovėjimo aikštelė, Pirtis/Sauna", 
             "Telefonas": "46053032", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.02.01", 
-            "El. pa\u0161tas": "hotel@vetra.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.02.01", 
+            "El. paštas": "hotel@vetra.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46057231", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "42", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "42", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -2312,32 +2312,32 @@ hotels = ([
             "lat": 55.9221629, 
             "lng": 21.0624742
         }, 
-        "name": "AUST\u0116JA", 
-        "address": "Smil\u010di\u0173 g. 31, Palanga"
+        "name": "AUSTĖJA", 
+        "address": "Smilčių g. 31, Palanga"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "AB \"Nam\u0173 fabrikas\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "10", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Teniso kortai, Treniruokli\u0173 sal\u0117", 
+            "Oficialus įm. pavadinimas": "AB \"Namų fabrikas\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "10", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Teniso kortai, Treniruoklių salė", 
             "Telefonas": "38652314", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "info@zuvedra.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "info@zuvedra.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "38652314", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "24", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "24", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -2347,7 +2347,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 40
                     }
                 ]
@@ -2357,51 +2357,51 @@ hotels = ([
             "lat": 56.12082059999999, 
             "lng": 21.7959563
         }, 
-        "name": "\u017dUV\u0116DRA", 
+        "name": "ŽUVĖDRA", 
         "address": "Mokyklos g. 11, Ignalinos m., Ignalinos r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UA \"City gate\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UA \"City gate\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "24", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "24", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas", 
             "Telefonas": "2107306", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.12.22", 
-            "El. pa\u0161tas": "citygate@mail.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "Fakso aparatas, Kopijavimo aparatas", 
+            "Klasė suteikta iki": "2013.12.22", 
+            "El. paštas": "citygate@mail.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "Fakso aparatas, Kopijavimo aparatas", 
             "Faksas": "2107307", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "39", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "39", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Ekranas", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
                     "Multimedia", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Telefonas"
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "name": "Didžioji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -2421,14 +2421,14 @@ hotels = ([
             {
                 "hardware": [
                     "Ekranas", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
                     "Mikrofonas", 
                     "Multimedia", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Telefonas"
                 ], 
-                "name": "Ma\u017eoji sal\u0117", 
+                "name": "Mažoji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -2442,31 +2442,31 @@ hotels = ([
             "lng": 25.2874522
         }, 
         "name": "CITY GATE", 
-        "address": "Bazilijon\u0173 g. 3, Vilniaus m."
+        "address": "Bazilijonų g. 3, Vilniaus m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB\"LET\u0116JOS GASTRONOMIJA\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB\"LETĖJOS GASTRONOMIJA\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "88", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117, Vaik\u0173 prie\u017eiura", 
+            "Kambarių skaičius": "88", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruoklių salė, Vaikų priežiura", 
             "Telefonas": "52514111", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.11.08", 
-            "El. pa\u0161tas": "info@contihotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.11.08", 
+            "El. paštas": "info@contihotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52514100", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "159", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "159", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -2482,7 +2482,7 @@ hotels = ([
                         "people": 120
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 70
                     }, 
                     {
@@ -2504,7 +2504,7 @@ hotels = ([
                         "people": 250
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 190
                     }, 
                     {
@@ -2526,7 +2526,7 @@ hotels = ([
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -2548,7 +2548,7 @@ hotels = ([
                         "people": 160
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 100
                     }, 
                     {
@@ -2581,27 +2581,27 @@ hotels = ([
     }, 
     {
         "info": {
-            "Inventoriaus nuoma": "Dvira\u010diai", 
+            "Inventoriaus nuoma": "Dviračiai", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \u201dRCD ROOM CONCEPT DESIGN\u201d", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė ”RCD ROOM CONCEPT DESIGN”", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "77", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Gara\u017eas, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117, Valiutos keitykla", 
+            "Kambarių skaičius": "77", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Garažas, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruoklių salė, Valiutos keitykla", 
             "Telefonas": "52123515", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2007.01.20", 
-            "El. pa\u0161tas": "citypark@citypark.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "Fakso aparatas, Internetinis ry\u0161ys, Kompiuteris(-iai)", 
+            "Klasė suteikta iki": "2007.01.20", 
+            "El. paštas": "citypark@citypark.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "Fakso aparatas, Internetinis ryšys, Kompiuteris(-iai)", 
             "Faksas": "52107460", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "134", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "134", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -2609,14 +2609,14 @@ hotels = ([
                     "CD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
                     "TV", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas"
                 ], 
                 "name": "City hall", 
@@ -2626,7 +2626,7 @@ hotels = ([
                         "people": 80
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 42
                     }, 
                     {
@@ -2647,14 +2647,14 @@ hotels = ([
                 "hardware": [
                     "CD grotuvas", 
                     "Ekranas", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
                     "TV", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas"
                 ], 
                 "name": "Park hall", 
@@ -2664,7 +2664,7 @@ hotels = ([
                         "people": 80
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 42
                     }, 
                     {
@@ -2687,31 +2687,31 @@ hotels = ([
             "lng": 25.2852187
         }, 
         "name": "CITY PARK HOTEL", 
-        "address": "L. Stuokos-Gucevi\u010diaus g. 3, Vilnius"
+        "address": "L. Stuokos-Gucevičiaus g. 3, Vilnius"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"ELEKTROS VIE\u0160BUTIS\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"ELEKTROS VIEŠBUTIS\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "14", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "14", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "52626748", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2005.03.08", 
-            "El. pa\u0161tas": "hotel.elektra@lpc.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2005.03.08", 
+            "El. paštas": "hotel.elektra@lpc.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52723779", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "23", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "23", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -2719,43 +2719,43 @@ hotels = ([
             "lng": 25.2876827
         }, 
         "name": "ELEKTRA", 
-        "address": "\u017dvej\u0173 g. 14A, Vilnius"
+        "address": "Žvejų g. 14A, Vilnius"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"\u0160e\u0161up\u0117s vingis\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Šešupės vingis\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "16", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Skalbimas ir valymas", 
+            "Kambarių skaičius": "16", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Skalbimas ir valymas", 
             "Telefonas": "34320980", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.06.07", 
-            "El. pa\u0161tas": "viesbutis@hotel-vingis.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.06.07", 
+            "El. paštas": "viesbutis@hotel-vingis.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "34", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "34", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "Telefonas"
                 ], 
                 "name": "", 
@@ -2765,7 +2765,7 @@ hotels = ([
                         "people": 70
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 36
                     }, 
                     {
@@ -2788,31 +2788,31 @@ hotels = ([
             "lng": 21.1615713
         }, 
         "name": "VINGIS", 
-        "address": "Poilsio g. 21, Marijampol\u0117s m., Marijampol\u0117s sav."
+        "address": "Poilsio g. 21, Marijampolės m., Marijampolės sav."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117, Valgykla", 
-            "Oficialus \u012fm. pavadinimas": "AB \"Raseini\u0173 prekyba\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė, Valgykla", 
+            "Oficialus įm. pavadinimas": "AB \"Raseinių prekyba\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "10", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "10", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "42870334", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2009.05.14", 
-            "El. pa\u0161tas": "rasprek@delfi.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2009.05.14", 
+            "El. paštas": "rasprek@delfi.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "42870334", 
-            "Klas\u0117": "1*", 
-            "Viet\u0173 skai\u010dius": "23", 
+            "Klasė": "1*", 
+            "Vietų skaičius": "23", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -2839,25 +2839,25 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "AB \"Klaip\u0117da\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "28", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Po\u017eeminis gara\u017eas, Seifas, Skalbimas ir valymas, Teniso kortai, Treniruokli\u0173 sal\u0117", 
+            "Oficialus įm. pavadinimas": "AB \"Klaipėda\"", 
+            "Priėmimo mėn.": "", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "28", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Požeminis garažas, Seifas, Skalbimas ir valymas, Teniso kortai, Treniruoklių salė", 
             "Telefonas": "", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "kaunas@klaipedahotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "kaunas@klaipedahotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "53", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "53", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "Boulingas", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -2869,27 +2869,27 @@ hotels = ([
     }, 
     {
         "info": {
-            "Inventoriaus nuoma": "Dvira\u010diai", 
+            "Inventoriaus nuoma": "Dviračiai", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "AB \"CENTRO KUBAS\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "33", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Biliardas, Gara\u017eas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Po\u017eeminis gara\u017eas, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117", 
+            "Oficialus įm. pavadinimas": "AB \"CENTRO KUBAS\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "33", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Biliardas, Garažas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Požeminis garažas, Seifas, Skalbimas ir valymas, Treniruoklių salė", 
             "Telefonas": "52660840", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2011.03.03", 
-            "El. pa\u0161tas": "barbacan@centrokubas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2011.03.03", 
+            "El. paštas": "barbacan@centrokubas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52660841", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "64", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "64", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "Boulingas", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -2903,7 +2903,7 @@ hotels = ([
                         "people": 80
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 40
                     }, 
                     {
@@ -2922,31 +2922,31 @@ hotels = ([
             "lng": 25.2800243
         }, 
         "name": "BARBACAN PALACE", 
-        "address": "Vilnius, Bok\u0161to g. 19/\u0160v.Kazimiero g. 12"
+        "address": "Vilnius, Bokšto g. 19/Šv.Kazimiero g. 12"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "\u017dem\u0117s \u016bkio bendrov\u0117 \"Turizmo ir sveikatingumo bendrov\u0117 \"Juknai\u010diai\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "Žemės ūkio bendrovė \"Turizmo ir sveikatingumo bendrovė \"Juknaičiai\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "24", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "24", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Treniruoklių salė", 
             "Telefonas": "44158973", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2007.05.12", 
-            "El. pa\u0161tas": "tsab@one.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2007.05.12", 
+            "El. paštas": "tsab@one.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "44158963", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "50", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "50", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -2963,32 +2963,32 @@ hotels = ([
             }
         ], 
         "coords": null, 
-        "name": "JUKNAI\u010cIAI", 
-        "address": "Ber\u017e\u0173 g. 3, Juknai\u010diai, Juknai\u010di\u0173 sen., \u0160ilut\u0117s raj."
+        "name": "JUKNAIČIAI", 
+        "address": "Beržų g. 3, Juknaičiai, Juknaičių sen., Šilutės raj."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Liukrena\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Liukrena\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "25", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "25", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "Baseinas, Pirtis/Sauna", 
             "Telefonas": "46052521", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "liuka_sks@palanga.omnitel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "liuka_sks@palanga.omnitel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46048954", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "47", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "47", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -3001,7 +3001,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }
                 ]
@@ -3018,25 +3018,25 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Bistroma\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Bistroma\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "10", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "10", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas", 
             "Telefonas": "37202545", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2011.03.03", 
-            "El. pa\u0161tas": "babilonas@hotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2011.03.03", 
+            "El. paštas": "babilonas@hotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "37209156", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "19", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "19", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -3050,7 +3050,7 @@ hotels = ([
                         "people": 8
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 14
                     }, 
                     {
@@ -3069,31 +3069,31 @@ hotels = ([
             "lng": 23.9061726
         }, 
         "name": "BABILONAS", 
-        "address": "\u017dalioji g. 38A, Kauno m."
+        "address": "Žalioji g. 38A, Kauno m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Pusry\u010diai", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"\u0160varos formul\u0117\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Pusryčiai", 
+            "Oficialus įm. pavadinimas": "UAB \"Švaros formulė\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "10", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Skalbimas ir valymas", 
+            "Kambarių skaičius": "10", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Skalbimas ir valymas", 
             "Telefonas": "2311028", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2011.04.07", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2011.04.07", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "2311028", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "28", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "28", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -3101,31 +3101,31 @@ hotels = ([
             "lng": 25.2800243
         }, 
         "name": "A PENKI", 
-        "address": "Savanori\u0173 pr. 176, Vilniaus m."
+        "address": "Savanorių pr. 176, Vilniaus m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Valgykla", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Palturas\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Palturas\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "22", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas", 
+            "Kambarių skaičius": "22", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas", 
             "Telefonas": "46048462", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.12.22", 
-            "El. pa\u0161tas": "palturas@is.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.12.22", 
+            "El. paštas": "palturas@is.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46048461", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "40", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "40", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -3145,32 +3145,32 @@ hotels = ([
             "lat": 55.9148516, 
             "lng": 21.0647949
         }, 
-        "name": "R\u0104\u017d\u0116", 
+        "name": "RĄŽĖ", 
         "address": "Vytauto g. 74, Palangos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "Sporto inventorius", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Lausna\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "31", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Teniso kortai, Treniruokli\u0173 sal\u0117, Vaik\u0173 prie\u017eiura", 
+            "Oficialus įm. pavadinimas": "UAB \"Lausna\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "31", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Teniso kortai, Treniruoklių salė, Vaikų priežiura", 
             "Telefonas": "52821717", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "52821716", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "21720", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "104", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "104", 
             "Sveikatingumo paslaugos": "", 
-            "Pramogos": "Sporto aik\u0161tel\u0117", 
-            "Svetain\u0117s adresas": ""
+            "Pramogos": "Sporto aikštelė", 
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -3180,14 +3180,14 @@ hotels = ([
                     "Mikrofonas", 
                     "Multimedia", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "Video projektorius"
                 ], 
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 140
                     }, 
                     {
@@ -3199,43 +3199,43 @@ hotels = ([
         ], 
         "coords": null, 
         "name": "MARGIS", 
-        "address": "Pensinink\u0173 km., Trak\u0173 r."
+        "address": "Pensininkų km., Trakų r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras", 
-            "Oficialus \u012fm. pavadinimas": "UAB \" Grob\u0161to ragas\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \" Grobšto ragas\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "17", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "17", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "46953024", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.06.07", 
-            "El. pa\u0161tas": "VILAFLORA@TAKAS.LT", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.06.07", 
+            "El. paštas": "VILAFLORA@TAKAS.LT", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46953421", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "43", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "43", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Ekranas", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Video projektorius"
                 ], 
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }
                 ]
@@ -3252,25 +3252,25 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Du broliai\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Du broliai\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "10", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Pirtis/Sauna, Po\u017eeminis gara\u017eas, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "10", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Pirtis/Sauna, Požeminis garažas, Seifas, Skalbimas ir valymas, Treniruoklių salė", 
             "Telefonas": "46048108", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2009.08.20", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2009.08.20", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46054028", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "24", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "24", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -3283,26 +3283,26 @@ hotels = ([
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Pusry\u010diai", 
-            "Oficialus \u012fm. pavadinimas": "G.\u017dilinsko firma \"\u017dilina\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Pusryčiai", 
+            "Oficialus įm. pavadinimas": "G.Žilinsko firma \"Žilina\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "10", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "10", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "34355749", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2010.10.27", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2010.10.27", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "34353535", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "17", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "17", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -3312,7 +3312,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 25
                     }
                 ]
@@ -3322,32 +3322,32 @@ hotels = ([
             "lat": 54.78199710000001, 
             "lng": 23.1341364
         }, 
-        "name": "\u017dILINA", 
-        "address": "Marijampol\u0117s sav., Marijampol\u0117, L. Giros g. 42"
+        "name": "ŽILINA", 
+        "address": "Marijampolės sav., Marijampolė, L. Giros g. 42"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Alminga\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Alminga\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "48", 
-            "Priklausomyb\u0117 tinklui": "Best Eastern", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Teniso kortai, Treniruokli\u0173 sal\u0117, Vaik\u0173 prie\u017eiura, Valiutos keitykla", 
+            "Kambarių skaičius": "48", 
+            "Priklausomybė tinklui": "Best Eastern", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Teniso kortai, Treniruoklių salė, Vaikų priežiura, Valiutos keitykla", 
             "Telefonas": "46049215", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.02.01", 
-            "El. pa\u0161tas": "info@alanga.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.02.01", 
+            "El. paštas": "info@alanga.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46049316", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "100", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "100", 
             "Sveikatingumo paslaugos": "", 
-            "Pramogos": "Vaik\u0173 \u017eaidimo aik\u0161tel\u0117", 
-            "Svetain\u0117s adresas": ""
+            "Pramogos": "Vaikų žaidimo aikštelė", 
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -3358,7 +3358,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 60
                     }
                 ]
@@ -3369,37 +3369,37 @@ hotels = ([
             "lng": 21.0608284
         }, 
         "name": "\"ALANGA\"", 
-        "address": "S. N\u0117ries g. 14, Palangos m."
+        "address": "S. Nėries g. 14, Palangos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"NEMUNO VIE\u0160BUTIS\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"NEMUNO VIEŠBUTIS\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "43", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "43", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas", 
             "Telefonas": "44162481", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "info@deims.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "info@deims.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "44152345", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "85", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "85", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Ekranas", 
-                    "Ra\u0161ymo lenta"
+                    "Rašymo lenta"
                 ], 
                 "name": "", 
                 "configurations": [
@@ -3415,31 +3415,31 @@ hotels = ([
             "lng": 21.4765091
         }, 
         "name": "DEIMS", 
-        "address": "Lietuvinink\u0173 g. 70, \u0160ilut\u0117s m., \u0160ilut\u0117s r."
+        "address": "Lietuvininkų g. 70, Šilutės m., Šilutės r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Liuks\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Liuks\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "40", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Baseinas, Pirtis/Sauna, Po\u017eeminis gara\u017eas, Skalbimas ir valymas, Suvenyr\u0173 parduotuv\u0117, Valiutos keitykla", 
+            "Kambarių skaičius": "40", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Baseinas, Pirtis/Sauna, Požeminis garažas, Skalbimas ir valymas, Suvenyrų parduotuvė, Valiutos keitykla", 
             "Telefonas": "37302702", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.12.22", 
-            "El. pa\u0161tas": "office@santaka.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.12.22", 
+            "El. paštas": "office@santaka.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "37302700", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "76", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "76", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -3453,7 +3453,7 @@ hotels = ([
                         "people": 30
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 20
                     }, 
                     {
@@ -3477,7 +3477,7 @@ hotels = ([
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -3505,7 +3505,7 @@ hotels = ([
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -3533,7 +3533,7 @@ hotels = ([
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -3550,14 +3550,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "\u0160ventoji", 
+                "name": "Šventoji", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 200
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 80
                     }, 
                     {
@@ -3576,42 +3576,42 @@ hotels = ([
             "lng": 23.9008
         }, 
         "name": "BEST WESTERN SANTAKOS", 
-        "address": "J. Gruod\u017eio g. 21, Kauno m."
+        "address": "J. Gruodžio g. 21, Kauno m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"PAS KATIN\u0104\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"PAS KATINĄ\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "12", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Kambarių skaičius": "12", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna", 
             "Telefonas": "551944", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "581685", 
-            "Klas\u0117 suteikta iki": "2015.06.07", 
-            "El. pa\u0161tas": "paskatina@erdves.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.06.07", 
+            "El. paštas": "paskatina@erdves.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "45551944", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "30", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "30", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Grafinis projektorius", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 100
                     }
                 ]
@@ -3623,7 +3623,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 150
                     }
                 ]
@@ -3633,32 +3633,32 @@ hotels = ([
             "lat": 55.7595951, 
             "lng": 24.403435
         }, 
-        "name": "PAS KATIN\u0104", 
-        "address": "Vilkatupio g. 1, Vaivad\u0173 k., Panev\u0117\u017eio r."
+        "name": "PAS KATINĄ", 
+        "address": "Vilkatupio g. 1, Vaivadų k., Panevėžio r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Stamitos turto valdymas\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Stamitos turto valdymas\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "91", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "91", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "31359195", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.02.01", 
-            "El. pa\u0161tas": "aquameduna@stamita.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.02.01", 
+            "El. paštas": "aquameduna@stamita.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31359194", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "273", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "273", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -3668,7 +3668,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 155
                     }
                 ]
@@ -3680,7 +3680,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 250
                     }
                 ]
@@ -3690,40 +3690,40 @@ hotels = ([
             "lat": 54.6893865, 
             "lng": 25.2800243
         }, 
-        "name": "DRUSKININK\u0172 SVEIKATINIMO IR POILSIO CENTRAS AQUA", 
-        "address": "Vilniaus al. 13, Druskinink\u0173 m., Druskinink\u0173 sav."
+        "name": "DRUSKININKŲ SVEIKATINIMO IR POILSIO CENTRAS AQUA", 
+        "address": "Vilniaus al. 13, Druskininkų m., Druskininkų sav."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Hago\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Hago\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "28", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "28", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas", 
             "Telefonas": "52722250", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2011.07.22", 
-            "El. pa\u0161tas": "info@embassyhotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2011.07.22", 
+            "El. paštas": "info@embassyhotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52784942", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "51", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "51", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Kompiuteris", 
                     "Multimedia", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius"
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius"
                 ], 
                 "name": "", 
                 "configurations": [
@@ -3739,31 +3739,31 @@ hotels = ([
             "lng": 25.2473892
         }, 
         "name": "EMBASSY HOTEL BALATONAS", 
-        "address": "Latvi\u0173 g. 38, Vilniaus m."
+        "address": "Latvių g. 38, Vilniaus m."
     }, 
     {
         "info": {
-            "Inventoriaus nuoma": "Dvira\u010diai, Sporto inventorius", 
+            "Inventoriaus nuoma": "Dviračiai, Sporto inventorius", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"ARIAND\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "29", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Oficialus įm. pavadinimas": "UAB \"ARIAND\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "29", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "Baseinas, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
             "Telefonas": "52113356", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "office@parkvilla.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "office@parkvilla.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52113357", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "59", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "59", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -3771,31 +3771,31 @@ hotels = ([
             "lng": 25.295776
         }, 
         "name": "PARK VILLA", 
-        "address": "Vaidilut\u0117s 6A, Vilnius"
+        "address": "Vaidilutės 6A, Vilnius"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Hekon\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "159", 
-            "Priklausomyb\u0117 tinklui": "ACCOR", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117, Turki\u0161ka pirtis, Vaik\u0173 prie\u017eiura", 
+            "Oficialus įm. pavadinimas": "UAB \"Hekon\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "159", 
+            "Priklausomybė tinklui": "ACCOR", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruoklių salė, Turkiška pirtis, Vaikų priežiura", 
             "Telefonas": "52666200", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.05.14", 
-            "El. pa\u0161tas": "h5209@accor.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.05.14", 
+            "El. paštas": "h5209@accor.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52666201", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "318", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "318", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "Sveikatingumo klubas", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -3809,7 +3809,7 @@ hotels = ([
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 34
                     }, 
                     {
@@ -3837,7 +3837,7 @@ hotels = ([
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 34
                     }, 
                     {
@@ -3858,14 +3858,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "J\u016brat\u0117", 
+                "name": "Jūratė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 30
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 16
                     }, 
                     {
@@ -3885,7 +3885,7 @@ hotels = ([
                         "people": 30
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 16
                     }, 
                     {
@@ -3906,25 +3906,25 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras", 
-            "Oficialus \u012fm. pavadinimas": "UAB\"ODILIJA\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB\"ODILIJA\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "22", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "22", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "34532929", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2011.05.23", 
-            "El. pa\u0161tas": "ode@vaidila.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2011.05.23", 
+            "El. paštas": "ode@vaidila.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31520871", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "30", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "30", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -3944,32 +3944,32 @@ hotels = ([
             "lat": 54.3967622, 
             "lng": 24.0306287
         }, 
-        "name": "OD\u0116", 
+        "name": "ODĖ", 
         "address": "Naujoji g. 8-C, Alytaus m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edarosios akcin\u0117s bendrov\u0117s \"Liuks\" filialas \"Santakos vie\u0161butis\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "40", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Vaik\u0173 prie\u017eiura", 
+            "Oficialus įm. pavadinimas": "Uždarosios akcinės bendrovės \"Liuks\" filialas \"Santakos viešbutis\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "40", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Vaikų priežiura", 
             "Telefonas": "37302702", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2008.01.20", 
-            "El. pa\u0161tas": "office@santaka.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2008.01.20", 
+            "El. paštas": "office@santaka.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "37302700", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "76", 
-            "Sveikatingumo paslaugos": "Klasikinis masa\u017eas", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "76", 
+            "Sveikatingumo paslaugos": "Klasikinis masažas", 
             "Pramogos": "Naktinis klubas", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -3978,27 +3978,27 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Multimedia", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Did\u017eioji", 
+                "name": "Didžioji", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 40
                     }, 
                     {
@@ -4017,25 +4017,25 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
                     "Video grotuvas"
                 ], 
-                "name": "Ma\u017eoji", 
+                "name": "Mažoji", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 30
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 22
                     }, 
                     {
@@ -4054,19 +4054,19 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Vienuolyno", 
                 "configurations": [
@@ -4075,7 +4075,7 @@ hotels = ([
                         "people": 200
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 110
                     }, 
                     {
@@ -4098,31 +4098,31 @@ hotels = ([
             "lng": 23.9008
         }, 
         "name": "SANTAKOS", 
-        "address": "J. Gruod\u017eio g. 21, Kaunas"
+        "address": "J. Gruodžio g. 21, Kaunas"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"PRIE LUK\u0160TO\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"PRIE LUKŠTO\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "7", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "7", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "Biliardas, Pirtis/Sauna", 
             "Telefonas": "44454789", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "telsiulukstas@takas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "telsiulukstas@takas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "44454789", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "12", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "12", 
             "Sveikatingumo paslaugos": "", 
-            "Pramogos": "\u017daidimo automatai", 
-            "Svetain\u0117s adresas": ""
+            "Pramogos": "Žaidimo automatai", 
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -4142,32 +4142,32 @@ hotels = ([
             "lat": 55.9835785, 
             "lng": 22.2508131
         }, 
-        "name": "PRIE LUK\u0160TO", 
-        "address": "Tel\u0161i\u0173 r. sav., Varni\u0173 sen., Varniai, Medinink\u0173 a. 1/1"
+        "name": "PRIE LUKŠTO", 
+        "address": "Telšių r. sav., Varnių sen., Varniai, Medininkų a. 1/1"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"Gamanta servisas\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"Gamanta servisas\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "33", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Skalbimas ir valymas", 
+            "Kambarių skaičius": "33", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Skalbimas ir valymas", 
             "Telefonas": "46048885", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "46040000", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "info@gamanta.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "info@gamanta.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46048889", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "66", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "66", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -4181,7 +4181,7 @@ hotels = ([
                         "people": 30
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -4204,38 +4204,38 @@ hotels = ([
             "lng": 21.0700038
         }, 
         "name": "GAMANTA", 
-        "address": "Plyt\u0173 g. 7, Palanga"
+        "address": "Plytų g. 7, Palanga"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Promenade\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Promenade\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "20", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Skalbimas ir valymas", 
+            "Kambarių skaičius": "20", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Skalbimas ir valymas", 
             "Telefonas": "", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.04.28", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.04.28", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "40", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "40", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Ekranas"
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "name": "Konferencijų salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -4249,60 +4249,60 @@ hotels = ([
             "lng": 23.2980745
         }, 
         "name": "PROMENADA", 
-        "address": "\u0160iauli\u0173 g. 41, Klaip\u0117dos m."
+        "address": "Šiaulių g. 41, Klaipėdos m."
     }, 
     {
         "info": {
-            "Inventoriaus nuoma": "\u017d\u016bkl\u0117s priemon\u0117s", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"\"NEMUNO\" VIE\u0160BUTIS", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Inventoriaus nuoma": "Žūklės priemonės", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"\"NEMUNO\" VIEŠBUTIS", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "23", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "23", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "44152345", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2006.03.29", 
-            "El. pa\u0161tas": "nemunas@siltec.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2006.03.29", 
+            "El. paštas": "nemunas@siltec.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "44162480", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "39", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "39", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": null, 
-        "name": "NEMUNO VIE\u0160BUTIS", 
-        "address": "\u0160ilut\u0117s r. sav., \u0160ilut\u0117s sen., \u0160ilut\u0117, Lietuvinink\u0173 g. 70"
+        "name": "NEMUNO VIEŠBUTIS", 
+        "address": "Šilutės r. sav., Šilutės sen., Šilutė, Lietuvininkų g. 70"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Hateksa\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"Hateksa\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "10", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "10", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas", 
             "Telefonas": "45508302", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "64035300", 
-            "Klas\u0117 suteikta iki": "2013.11.08", 
-            "El. pa\u0161tas": "info@conviva.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.11.08", 
+            "El. paštas": "info@conviva.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "45508303", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "18", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "18", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -4310,31 +4310,31 @@ hotels = ([
             "lng": 24.3626272
         }, 
         "name": "CONVIVA", 
-        "address": "Laisv\u0117s a. 16, Panev\u0117\u017eio m."
+        "address": "Laisvės a. 16, Panevėžio m."
     }, 
     {
         "info": {
-            "Inventoriaus nuoma": "Dvira\u010diai", 
+            "Inventoriaus nuoma": "Dviračiai", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"SENAMIES\u010cIO KOMFORTAS\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"SENAMIESČIO KOMFORTAS\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "39", 
-            "Priklausomyb\u0117 tinklui": "GROUP EUROPA", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas, Vaik\u0173 prie\u017eiura", 
+            "Kambarių skaičius": "39", 
+            "Priklausomybė tinklui": "GROUP EUROPA", 
+            "Papildomos paslaugos": "Automobilių nuoma, Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas, Vaikų priežiura", 
             "Telefonas": "52660770", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.04.19", 
-            "El. pa\u0161tas": "reservation@hoteleuropa.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.04.19", 
+            "El. paštas": "reservation@hoteleuropa.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "5262000", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "76", 
-            "Sveikatingumo paslaugos": "Klasikinis masa\u017eas, Relakcinis masa\u017eas", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "76", 
+            "Sveikatingumo paslaugos": "Klasikinis masažas, Relakcinis masažas", 
             "Pramogos": "Naktinis klubas", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -4343,26 +4343,26 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Interneto ryšys", 
+                    "Lazerinė rodyklė", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas"
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "name": "Konferencijų salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 45
                     }, 
                     {
@@ -4385,27 +4385,27 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Interneto ryšys", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas"
                 ], 
-                "name": "Pos\u0117d\u017ei\u0173 sal\u0117", 
+                "name": "Posėdžių salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 20
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 12
                     }, 
                     {
@@ -4428,31 +4428,31 @@ hotels = ([
             "lng": 25.2884037
         }, 
         "name": "EUROPA ROYALE", 
-        "address": "Au\u0161ros Vart\u0173 g. 6, Vilnius"
+        "address": "Aušros Vartų g. 6, Vilnius"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Baras, Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"B\u016aR\u0172 U\u017dEIGA\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "18", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Maitinimo paslaugos": "Baras, Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"BŪRŲ UŽEIGA\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "18", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna", 
             "Telefonas": "46351314", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "admin@morenahotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "admin@morenahotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46401905", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "31", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "31", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -4466,7 +4466,7 @@ hotels = ([
                         "people": 120
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 80
                     }, 
                     {
@@ -4494,7 +4494,7 @@ hotels = ([
                         "people": 20
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 18
                     }, 
                     {
@@ -4517,31 +4517,31 @@ hotels = ([
             "lng": 21.0920962
         }, 
         "name": "MORENA", 
-        "address": "Audros g. 8a, Klaip\u0117da"
+        "address": "Audros g. 8a, Klaipėda"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "Akcin\u0117 bendrov\u0117 \"\u0160iauli\u0173\" vie\u0161butis", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "Akcinė bendrovė \"Šiaulių\" viešbutis", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "117", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "117", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Treniruoklių salė", 
             "Telefonas": "41434554", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "41438339", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "210", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "210", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -4561,32 +4561,32 @@ hotels = ([
             "lat": 55.9320758, 
             "lng": 23.3142194
         }, 
-        "name": "\u0160IAULIAI", 
-        "address": "Draugyst\u0117s pr. 25, \u0160iauliai"
+        "name": "ŠIAULIAI", 
+        "address": "Draugystės pr. 25, Šiauliai"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Paj\u016brio Gabija\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Pajūrio Gabija\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "56", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "56", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Treniruoklių salė", 
             "Telefonas": "46048251", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "info@gabija.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "info@gabija.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46057591", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "112", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "112", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -4594,26 +4594,26 @@ hotels = ([
                     "CD grotuvas", 
                     "DVD grotuvas", 
                     "Ekranas", 
-                    "Interneto ry\u0161ys", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Interneto ryšys", 
+                    "Lazerinė rodyklė", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Tribūna", 
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "name": "Didžioji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 190
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 100
                     }, 
                     {
@@ -4635,25 +4635,25 @@ hotels = ([
                     "CD grotuvas", 
                     "DVD grotuvas", 
                     "Ekranas", 
-                    "Interneto ry\u0161ys", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Interneto ryšys", 
+                    "Lazerinė rodyklė", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Tribūna", 
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Ma\u017eoji sal\u0117", 
+                "name": "Mažoji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 55
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 35
                     }, 
                     {
@@ -4682,35 +4682,35 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Doriteksas\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "125", 
-            "Priklausomyb\u0117 tinklui": "ACCOR", 
+            "Oficialus įm. pavadinimas": "UAB \"Doriteksas\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "125", 
+            "Priklausomybė tinklui": "ACCOR", 
             "Papildomos paslaugos": "", 
             "Telefonas": "37265600", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.07.30", 
-            "El. pa\u0161tas": "H8622@accor.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "Internetinis ry\u0161ys", 
+            "Klasė suteikta iki": "2015.07.30", 
+            "El. paštas": "H8622@accor.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "Internetinis ryšys", 
             "Faksas": "37265666", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "166", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "166", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Ekranas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "Telefonas", 
                     "Video projektorius"
                 ], 
-                "name": "Sal\u0117 \"Lionas\"", 
+                "name": "Salė \"Lionas\"", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -4721,11 +4721,11 @@ hotels = ([
             {
                 "hardware": [
                     "Ekranas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "Telefonas", 
                     "Video projektorius"
                 ], 
-                "name": "Sal\u0117 \"Tul\u016bza\"", 
+                "name": "Salė \"Tulūza\"", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -4745,25 +4745,25 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Averita\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Averita\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "10", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "10", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas", 
             "Telefonas": "41430404", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "68688555", 
-            "Klas\u0117 suteikta iki": "2013.10.11", 
-            "El. pa\u0161tas": "info@grafozubovo.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.11", 
+            "El. paštas": "info@grafozubovo.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "41552350", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "26", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "26", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -4785,63 +4785,63 @@ hotels = ([
             "lng": 23.1130516
         }, 
         "name": "GRAFO ZUBOVO", 
-        "address": "Dubysos g. 1, Bubi\u0173 k., \u0160iauli\u0173 r."
+        "address": "Dubysos g. 1, Bubių k., Šiaulių r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Asektas\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "23", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Po\u017eeminis gara\u017eas, Seifas, Skalbimas ir valymas", 
+            "Oficialus įm. pavadinimas": "UAB \"Asektas\"", 
+            "Priėmimo mėn.": "", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "23", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Požeminis garažas, Seifas, Skalbimas ir valymas", 
             "Telefonas": "41500150", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.04.19", 
-            "El. pa\u0161tas": "hotel@turne.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.04.19", 
+            "El. paštas": "hotel@turne.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "4142923", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "44", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "44", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
             "lat": 55.9263075, 
             "lng": 23.3159265
         }, 
-        "name": "TURN\u0116", 
-        "address": "R\u016bd\u0117s g. 9, \u0160iauliai"
+        "name": "TURNĖ", 
+        "address": "Rūdės g. 9, Šiauliai"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Pusry\u010diai", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117  \"\u017daliakalnio vie\u0161butis\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis", 
+            "Maitinimo paslaugos": "Pusryčiai", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė  \"Žaliakalnio viešbutis\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "70", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "70", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "37205992", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "metropolis@takiojineris.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "metropolis@takiojineris.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "37206269", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "140", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "140", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -4855,25 +4855,25 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Palangos V\u0117tra\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "30", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Palangos Vėtra\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "30", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "46219215", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.12.22", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.12.22", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "86219921", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "58", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "58", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -4881,31 +4881,31 @@ hotels = ([
             "lng": 21.1271485
         }, 
         "name": "OLD MILL HOTEL", 
-        "address": "\u017dvej\u0173 g. 22, Klaip\u0117dos m."
+        "address": "Žvejų g. 22, Klaipėdos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "Kupi\u0161kio technologijos ir verslo mokykla", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "Kupiškio technologijos ir verslo mokykla", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "29", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "29", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Treniruoklių salė", 
             "Telefonas": "45935412", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "45935355", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "55", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "55", 
             "Sveikatingumo paslaugos": "", 
-            "Pramogos": "Sporto aik\u0161tel\u0117", 
-            "Svetain\u0117s adresas": ""
+            "Pramogos": "Sporto aikštelė", 
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -4915,7 +4915,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }
                 ]
@@ -4925,32 +4925,32 @@ hotels = ([
             "lat": 55.98796729999999, 
             "lng": 24.5221189
         }, 
-        "name": "KUPI\u0160KIO VERSLO IR TECHNOLOGIJOS MOKYKLOS VIE\u0160BUTIS", 
-        "address": "Smilgi\u0173 k., Kupi\u0161kio r."
+        "name": "KUPIŠKIO VERSLO IR TECHNOLOGIJOS MOKYKLOS VIEŠBUTIS", 
+        "address": "Smilgių k., Kupiškio r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Banketin\u0117 sal\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Bir\u0161tono s\u0117klyt\u0117l\u0117\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Banketinė salė, Restoranas", 
+            "Oficialus įm. pavadinimas": "UAB \"Birštono sėklytėlė\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "22", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "22", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "31965800", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.12.22", 
-            "El. pa\u0161tas": "seklytele@sonata.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.12.22", 
+            "El. paštas": "seklytele@sonata.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31965800", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "56", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "56", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -4971,31 +4971,31 @@ hotels = ([
             "lng": 22.3228953
         }, 
         "name": "SONATA", 
-        "address": "Algirdo g. 34, Bir\u0161tono m., Bir\u0161tono sav."
+        "address": "Algirdo g. 34, Birštono m., Birštono sav."
     }, 
     {
         "info": {
-            "Inventoriaus nuoma": "Dvira\u010diai", 
+            "Inventoriaus nuoma": "Dviračiai", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Vie\u0161bu\u010dio patarnavim\u0173 \u012fmon\u0117\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Viešbučio patarnavimų įmonė\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "17", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Pirtis/Sauna, Po\u017eeminis gara\u017eas, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "17", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Pirtis/Sauna, Požeminis garažas, Seifas, Skalbimas ir valymas", 
             "Telefonas": "4634002", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.11.08", 
-            "El. pa\u0161tas": "vetra.klaipeda@hotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.11.08", 
+            "El. paštas": "vetra.klaipeda@hotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46346063", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "34", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "34", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -5005,7 +5005,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 15
                     }
                 ]
@@ -5015,32 +5015,32 @@ hotels = ([
             "lat": 55.71080260000001, 
             "lng": 21.1318065
         }, 
-        "name": "V\u0116TRA", 
-        "address": "Taikos pr. 80 , Klaip\u0117dos m."
+        "name": "VĖTRA", 
+        "address": "Taikos pr. 80 , Klaipėdos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"PU\u0160\u0172 PAUNKSN\u0116JE\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"PUŠŲ PAUNKSNĖJE\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "14", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "14", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Treniruoklių salė", 
             "Telefonas": "46049080", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.05.23", 
-            "El. pa\u0161tas": "pusupaunksneje@takas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.05.23", 
+            "El. paštas": "pusupaunksneje@takas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46049081", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "52", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "52", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -5048,22 +5048,22 @@ hotels = ([
                     "CD grotuvas", 
                     "DVD grotuvas", 
                     "Ekranas", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "TV", 
                     "Telefonas", 
                     "Video grotuvas"
                 ], 
-                "name": "Sal\u0117 1", 
+                "name": "Salė 1", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 25
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 25
                     }, 
                     {
@@ -5085,21 +5085,21 @@ hotels = ([
                     "CD grotuvas", 
                     "DVD grotuvas", 
                     "Ekranas", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "TV", 
                     "Telefonas", 
                     "Video grotuvas"
                 ], 
-                "name": "Sal\u0117 2", 
+                "name": "Salė 2", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 12
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 12
                     }, 
                     {
@@ -5121,21 +5121,21 @@ hotels = ([
                     "CD grotuvas", 
                     "DVD grotuvas", 
                     "Ekranas", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "TV", 
                     "Telefonas", 
                     "Video grotuvas"
                 ], 
-                "name": "Sal\u0117 3", 
+                "name": "Salė 3", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 6
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 6
                     }, 
                     {
@@ -5154,47 +5154,47 @@ hotels = ([
             }
         ], 
         "coords": null, 
-        "name": "PU\u0160\u0172 PAUNKSN\u0116JE", 
-        "address": "Palangos m. sav., Palanga, S. Dariaus ir S. Gir\u0117no g. 25"
+        "name": "PUŠŲ PAUNKSNĖJE", 
+        "address": "Palangos m. sav., Palanga, S. Dariaus ir S. Girėno g. 25"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "Sporto inventorius", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB\"SSPC REAL ESTATE\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB\"SSPC REAL ESTATE\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "26", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas", 
+            "Kambarių skaičius": "26", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas", 
             "Telefonas": "31960321", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "65098012", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "info@harmonypark.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "info@harmonypark.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31960322", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "56", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "56", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Ekranas", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Mikrofonas", 
-                    "Skaidri\u0173 projektorius", 
-                    "Trib\u016bna", 
+                    "Skaidrių projektorius", 
+                    "Tribūna", 
                     "Video projektorius"
                 ], 
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 55
                     }
                 ]
@@ -5202,16 +5202,16 @@ hotels = ([
             {
                 "hardware": [
                     "Ekranas", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Mikrofonas", 
-                    "Skaidri\u0173 projektorius", 
-                    "Trib\u016bna", 
+                    "Skaidrių projektorius", 
+                    "Tribūna", 
                     "Video projektorius"
                 ], 
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 48
                     }
                 ]
@@ -5219,17 +5219,17 @@ hotels = ([
             {
                 "hardware": [
                     "Ekranas", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Mikrofonas", 
                     "Multimedia", 
-                    "Skaidri\u0173 projektorius", 
-                    "Trib\u016bna", 
+                    "Skaidrių projektorius", 
+                    "Tribūna", 
                     "Video projektorius"
                 ], 
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }
                 ]
@@ -5240,31 +5240,31 @@ hotels = ([
             "lng": 21.1724402
         }, 
         "name": "SIMBOLY", 
-        "address": "Vazgaikiemio k., Prien\u0173 r."
+        "address": "Vazgaikiemio k., Prienų r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "I. Karnilien\u0117s individuali \u012fmon\u0117", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė, Restoranas", 
+            "Oficialus įm. pavadinimas": "I. Karnilienės individuali įmonė", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "15", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "15", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "52853990", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "69856992", 
-            "Klas\u0117 suteikta iki": "2013.12.22", 
-            "El. pa\u0161tas": "salos@salos.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.12.22", 
+            "El. paštas": "salos@salos.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52853991", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -5272,31 +5272,31 @@ hotels = ([
             "lng": 24.9787608
         }, 
         "name": "SALOS", 
-        "address": "Trak\u0173 r. Kranto g. 5"
+        "address": "Trakų r. Kranto g. 5"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "Siranu\u0161 Gasparian \u012fmon\u0117", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "10", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Oficialus įm. pavadinimas": "Siranuš Gasparian įmonė", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "10", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "31355554", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2009.08.20", 
-            "El. pa\u0161tas": "martingass@takas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2009.08.20", 
+            "El. paštas": "martingass@takas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31355554", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "20", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "20", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -5304,31 +5304,31 @@ hotels = ([
             "lng": 23.9336069
         }, 
         "name": "JEREVAN", 
-        "address": "M. K. \u010ciurlionio g. 128, Druskinink\u0173 m., Druskinink\u0173 sav."
+        "address": "M. K. Čiurlionio g. 128, Druskininkų m., Druskininkų sav."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Dors hotel\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "20", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
+            "Oficialus įm. pavadinimas": "UAB \"Dors hotel\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "20", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
             "Telefonas": "52375880", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.07.30", 
-            "El. pa\u0161tas": "info@amicushotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.07.30", 
+            "El. paštas": "info@amicushotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52383980", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "45", 
-            "Sveikatingumo paslaugos": "Klasikinis masa\u017eas", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "45", 
+            "Sveikatingumo paslaugos": "Klasikinis masažas", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": "www.amicushotel.lt"
+            "Svetainės adresas": "www.amicushotel.lt"
         }, 
         "halls": [], 
         "coords": {
@@ -5340,27 +5340,27 @@ hotels = ([
     }, 
     {
         "info": {
-            "Inventoriaus nuoma": "Dvira\u010diai", 
+            "Inventoriaus nuoma": "Dviračiai", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"Perk\u016bno namai\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"Perkūno namai\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "30", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "30", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna, Treniruoklių salė", 
             "Telefonas": "37320230", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2010.01.31", 
-            "El. pa\u0161tas": "hotel@perkuno-namai.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2010.01.31", 
+            "El. paštas": "hotel@perkuno-namai.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "37323678", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "48", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "48", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -5369,16 +5369,16 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas"
                 ], 
                 "name": "", 
@@ -5395,22 +5395,22 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas"
                 ], 
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 50
                     }
                 ]
@@ -5420,64 +5420,64 @@ hotels = ([
             "lat": 54.8968721, 
             "lng": 23.8924264
         }, 
-        "name": "PERK\u016aNO NAMAI", 
-        "address": "Perk\u016bno al. 61, Kaunas"
+        "name": "PERKŪNO NAMAI", 
+        "address": "Perkūno al. 61, Kaunas"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Salduv\u0117s vie\u0161butis\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "11", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"Salduvės viešbutis\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "11", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "Biliardas, Pirtis/Sauna", 
             "Telefonas": "41553593", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.05.14", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.05.14", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "41553590", 
-            "Klas\u0117": "1*", 
-            "Viet\u0173 skai\u010dius": "16", 
+            "Klasė": "1*", 
+            "Vietų skaičius": "16", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
             "lat": 55.91792, 
             "lng": 23.3125687
         }, 
-        "name": "SALDUV\u0116S", 
-        "address": "K. Donelai\u010dio 70, \u0160iauliai"
+        "name": "SALDUVĖS", 
+        "address": "K. Donelaičio 70, Šiauliai"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Banketin\u0117 sal\u0117, Kavin\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Lietavira\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Banketinė salė, Kavinė, Restoranas", 
+            "Oficialus įm. pavadinimas": "UAB \"Lietavira\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "41", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Biliardas, Pirtis/Sauna, Po\u017eeminis gara\u017eas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "41", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Biliardas, Pirtis/Sauna, Požeminis garažas, Skalbimas ir valymas, Treniruoklių salė", 
             "Telefonas": "41520812", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.02.01", 
-            "El. pa\u0161tas": "saulys.hotel@takas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.02.01", 
+            "El. paštas": "saulys.hotel@takas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "41520911", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "64", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "64", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -5491,7 +5491,7 @@ hotels = ([
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 60
                     }, 
                     {
@@ -5513,46 +5513,46 @@ hotels = ([
             "lat": 55.9301519, 
             "lng": 23.315442
         }, 
-        "name": "\u0160AULYS", 
-        "address": "Vasario 16-osios g. 40, \u0160iauli\u0173 m."
+        "name": "ŠAULYS", 
+        "address": "Vasario 16-osios g. 40, Šiaulių m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "V.\u012f. Valstyb\u0117s ir savivaldybi\u0173 tarnautij\u0173 mokymo centras \"Dainava\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Maitinimo paslaugos": "Kavinė, Restoranas", 
+            "Oficialus įm. pavadinimas": "V.į. Valstybės ir savivaldybių tarnautijų mokymo centras \"Dainava\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Treniruoklių salė", 
             "Telefonas": "31359090", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.02.01", 
-            "El. pa\u0161tas": "dainava@centrasdainava.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.02.01", 
+            "El. paštas": "dainava@centrasdainava.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31359104", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "203", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "203", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     ""
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "name": "Didžioji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 255
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 80
                     }, 
                     {
@@ -5573,14 +5573,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Ilgoji sal\u0117", 
+                "name": "Ilgoji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 50
                     }, 
                     {
@@ -5601,14 +5601,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Korpuso did\u017eioji sal\u0117", 
+                "name": "Korpuso didžioji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 40
                     }, 
                     {
@@ -5629,7 +5629,7 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Korpuso ma\u017eoji sal\u0117", 
+                "name": "Korpuso mažoji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -5653,14 +5653,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Mokymo sal\u0117", 
+                "name": "Mokymo salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 30
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }, 
                     {
@@ -5681,14 +5681,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Mokymo sal\u0117", 
+                "name": "Mokymo salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 30
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }, 
                     {
@@ -5709,14 +5709,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Mokymo sal\u0117", 
+                "name": "Mokymo salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 30
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }, 
                     {
@@ -5737,14 +5737,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Mokymo sal\u0117", 
+                "name": "Mokymo salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 30
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }, 
                     {
@@ -5765,14 +5765,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Prie\u0161salis", 
+                "name": "Priešsalis", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 40
                     }, 
                     {
@@ -5800,7 +5800,7 @@ hotels = ([
                         "people": 30
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }, 
                     {
@@ -5820,31 +5820,31 @@ hotels = ([
         ], 
         "coords": null, 
         "name": "DAINAVA", 
-        "address": "Druskinink\u0173 sav., Druskininkai, Maironio g. 22"
+        "address": "Druskininkų sav., Druskininkai, Maironio g. 22"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"CITY HOTELS\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"CITY HOTELS\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "17", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "17", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "Pirtis/Sauna", 
             "Telefonas": "52613916", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.11", 
-            "El. pa\u0161tas": "rudninkai@cityhotels.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "Internetinis ry\u0161ys", 
+            "Klasė suteikta iki": "2013.10.11", 
+            "El. paštas": "rudninkai@cityhotels.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "Internetinis ryšys", 
             "Faksas": "52120507", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "29", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "29", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -5864,32 +5864,32 @@ hotels = ([
             "lat": 54.6756257, 
             "lng": 25.2833706
         }, 
-        "name": "R\u016aDNINK\u0172 VARTAI", 
-        "address": "R\u016bdnink\u0173 g. 15/46, Vilniaus m."
+        "name": "RŪDNINKŲ VARTAI", 
+        "address": "Rūdninkų g. 15/46, Vilniaus m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"\u017dibosa\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Žibosa\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "11", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Kambarių skaičius": "11", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna", 
             "Telefonas": "44544423", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2008.05.12", 
-            "El. pa\u0161tas": "info@hbhjuozas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2008.05.12", 
+            "El. paštas": "info@hbhjuozas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "44544423", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "30", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "30", 
             "Sveikatingumo paslaugos": "", 
-            "Pramogos": "Sporto aik\u0161tel\u0117, Vaik\u0173 \u017eaidimo aik\u0161tel\u0117", 
-            "Svetain\u0117s adresas": ""
+            "Pramogos": "Sporto aikštelė, Vaikų žaidimo aikštelė", 
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -5899,7 +5899,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 50
                     }
                 ]
@@ -5909,32 +5909,32 @@ hotels = ([
             "lat": 55.9596245, 
             "lng": 21.1513928
         }, 
-        "name": "HBH JUOZO ALAUS BRAVORO VIE\u0160BUTIS", 
-        "address": "\u017dibininkai, Kretingos r."
+        "name": "HBH JUOZO ALAUS BRAVORO VIEŠBUTIS", 
+        "address": "Žibininkai, Kretingos r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Sporto vie\u0161butis\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Sporto viešbutis\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "114", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "114", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas", 
             "Telefonas": "52104800", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2011.03.03", 
-            "El. pa\u0161tas": "info@martialis.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2011.03.03", 
+            "El. paštas": "info@martialis.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52340293", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "224", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "224", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -5942,21 +5942,21 @@ hotels = ([
                     "CD grotuvas", 
                     "DVD grotuvas", 
                     "Ekranas", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "TV"
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "name": "Didžioji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 65
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }, 
                     {
@@ -5978,21 +5978,21 @@ hotels = ([
                     "CD grotuvas", 
                     "DVD grotuvas", 
                     "Ekranas", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "TV"
                 ], 
-                "name": "Ma\u017eoji sal\u0117", 
+                "name": "Mažoji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 20
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 8
                     }, 
                     {
@@ -6014,11 +6014,11 @@ hotels = ([
                     "CD grotuvas", 
                     "DVD grotuvas", 
                     "Ekranas", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "TV"
                 ], 
                 "name": "Restoranas", 
@@ -6038,21 +6038,21 @@ hotels = ([
                     "CD grotuvas", 
                     "DVD grotuvas", 
                     "Ekranas", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "TV"
                 ], 
-                "name": "Stiklo sal\u0117", 
+                "name": "Stiklo salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 20
                     }, 
                     {
@@ -6075,31 +6075,31 @@ hotels = ([
             "lng": 25.3206651
         }, 
         "name": "MARTIALIS", 
-        "address": "Bistry\u010dios g. 13, Vilnius"
+        "address": "Bistryčios g. 13, Vilnius"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"EDAMA\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"EDAMA\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "21", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Valiutos keitykla", 
+            "Kambarių skaičius": "21", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Valiutos keitykla", 
             "Telefonas": "52660322", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2009.08.20", 
-            "El. pa\u0161tas": "info@grotthusshotel.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2009.08.20", 
+            "El. paštas": "info@grotthusshotel.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52660323", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "41", 
-            "Sveikatingumo paslaugos": "Klasikinis masa\u017eas, Relakcinis masa\u017eas", 
-            "Pramogos": "Interneto kavin\u0117", 
-            "Svetain\u0117s adresas": ""
+            "Klasė": "4*", 
+            "Vietų skaičius": "41", 
+            "Sveikatingumo paslaugos": "Klasikinis masažas, Relakcinis masažas", 
+            "Pramogos": "Interneto kavinė", 
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -6107,19 +6107,19 @@ hotels = ([
                     "CD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Interneto ryšys", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Tribūna", 
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Konrado", 
                 "configurations": [
@@ -6128,7 +6128,7 @@ hotels = ([
                         "people": 30
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 20
                     }, 
                     {
@@ -6147,31 +6147,31 @@ hotels = ([
             "lng": 25.2830424
         }, 
         "name": "GROTTHUSS HOTEL", 
-        "address": "Ligonin\u0117s g. 7, Vilnius"
+        "address": "Ligoninės g. 7, Vilnius"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Mare Balticum\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "55", 
-            "Priklausomyb\u0117 tinklui": "Cendant hotel group", 
-            "Papildomos paslaugos": "Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Oficialus įm. pavadinimas": "UAB \"Mare Balticum\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "55", 
+            "Priklausomybė tinklui": "Cendant hotel group", 
+            "Papildomos paslaugos": "Pirtis/Sauna, Treniruoklių salė", 
             "Telefonas": "2553355", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.12.22", 
-            "El. pa\u0161tas": "hotel@ramadavilnius.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.12.22", 
+            "El. paštas": "hotel@ramadavilnius.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "2553311", 
-            "Klas\u0117": "5*", 
-            "Viet\u0173 skai\u010dius": "101", 
+            "Klasė": "5*", 
+            "Vietų skaičius": "101", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -6179,8 +6179,8 @@ hotels = ([
                     "Ekranas", 
                     "Mikrofonas", 
                     "Multimedia", 
-                    "Ra\u0161ymo lenta", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Rašymo lenta", 
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "", 
                 "configurations": [
@@ -6200,31 +6200,31 @@ hotels = ([
             "lng": 25.2885665
         }, 
         "name": "RAMADA HOTEL AND SUITES VILNIUS", 
-        "address": "Suba\u010diaus g. 2, Vilniaus m."
+        "address": "Subačiaus g. 2, Vilniaus m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "Lietuvos ir JAV u\u017edaroji akcin\u0117 bendrov\u0117 \"CENTRUM\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "Lietuvos ir JAV uždaroji akcinė bendrovė \"CENTRUM\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "51", 
-            "Priklausomyb\u0117 tinklui": "Centrum", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "51", 
+            "Priklausomybė tinklui": "Centrum", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna, Treniruoklių salė", 
             "Telefonas": "52101689", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "ratonda@centrumhotels.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "ratonda@centrumhotels.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52120669", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "78", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "78", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -6238,7 +6238,7 @@ hotels = ([
                         "people": 25
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 18
                     }, 
                     {
@@ -6255,14 +6255,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Klaip\u0117da", 
+                "name": "Klaipėda", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 80
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 54
                     }, 
                     {
@@ -6287,25 +6287,25 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Geras poilsis\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "27", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Teniso kortai", 
+            "Oficialus įm. pavadinimas": "UAB \"Geras poilsis\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "27", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Teniso kortai", 
             "Telefonas": "46952001", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.05.23", 
-            "El. pa\u0161tas": "info@nidus.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.05.23", 
+            "El. paštas": "info@nidus.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46950016", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "60", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "60", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -6331,26 +6331,26 @@ hotels = ([
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"KOLUMBANA\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"KOLUMBANA\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "22", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "22", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "31351555", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "info@credo-hotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "info@credo-hotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31351555", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "44", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "44", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -6358,45 +6358,45 @@ hotels = ([
             "lng": 25.2800243
         }, 
         "name": "CREDO", 
-        "address": "Vilniaus al. 2A, Druskinink\u0173 m., Druskinink\u0173 sav."
+        "address": "Vilniaus al. 2A, Druskininkų m., Druskininkų sav."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Via unica\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Via unica\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "39", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "39", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas, Treniruoklių salė", 
             "Telefonas": "45583983", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.07.30", 
-            "El. pa\u0161tas": "hotelromantic@takas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.07.30", 
+            "El. paštas": "hotelromantic@takas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "45581262", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "66", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "66", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     ""
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "name": "Didžioji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 160
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 50
                     }, 
                     {
@@ -6413,14 +6413,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Fort\u016bnos sal\u0117", 
+                "name": "Fortūnos salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -6433,14 +6433,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Ma\u017eoji sal\u0117", 
+                "name": "Mažoji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 25
                     }, 
                     {
@@ -6453,7 +6453,7 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "VIP pos\u0117d\u017ei\u0173 kambarys", 
+                "name": "VIP posėdžių kambarys", 
                 "configurations": [
                     {
                         "name": "Apvalaus stalo stilius", 
@@ -6467,45 +6467,45 @@ hotels = ([
             "lng": 24.3606831
         }, 
         "name": "ROMANTIC", 
-        "address": "Kranto g. 24, Panev\u0117\u017eio m."
+        "address": "Kranto g. 24, Panevėžio m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Stikli\u0173 vie\u0161butis\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Stiklių viešbutis\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "43", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "43", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruoklių salė", 
             "Telefonas": "52649595", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.11.08", 
-            "El. pa\u0161tas": "sales@stikliaihotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.11.08", 
+            "El. paštas": "sales@stikliaihotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52123870", 
-            "Klas\u0117": "5*", 
-            "Viet\u0173 skai\u010dius": "73", 
+            "Klasė": "5*", 
+            "Vietų skaičius": "73", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     ""
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "name": "Didžioji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }, 
                     {
@@ -6525,26 +6525,26 @@ hotels = ([
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Inarvida\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"Inarvida\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "14", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "14", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "2437788", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.02.01", 
-            "El. pa\u0161tas": "audra.jj@gmail.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.02.01", 
+            "El. paštas": "audra.jj@gmail.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "2793755", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "20", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "20", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -6565,63 +6565,63 @@ hotels = ([
             "lng": 21.61901
         }, 
         "name": "VIEVIJA", 
-        "address": "Ba\u017eny\u010dios g. 4a, Vievio m., Elektr\u0117n\u0173 sav."
+        "address": "Bažnyčios g. 4a, Vievio m., Elektrėnų sav."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"GRAND SPA LIETUVA\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "16", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Oficialus įm. pavadinimas": "UAB \"GRAND SPA LIETUVA\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "16", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "Baseinas, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Teniso kortai", 
             "Telefonas": "31352541", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.06.26", 
-            "El. pa\u0161tas": "info@grandspa.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "Internetinis ry\u0161ys, Kompiuteris(-iai), Kopijavimo aparatas", 
+            "Klasė suteikta iki": "2015.06.26", 
+            "El. paštas": "info@grandspa.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "Internetinis ryšys, Kompiuteris(-iai), Kopijavimo aparatas", 
             "Faksas": "31355490", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "48", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "48", 
             "Sveikatingumo paslaugos": "", 
-            "Pramogos": "Interneto kavin\u0117", 
-            "Svetain\u0117s adresas": ""
+            "Pramogos": "Interneto kavinė", 
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
             "lat": 54.0195337, 
             "lng": 23.9789143
         }, 
-        "name": "DZ\u016aKIJA", 
+        "name": "DZŪKIJA", 
         "address": "V. Kudirkos g. 47, Druskininkai"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Perk\u016bno namai\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Perkūno namai\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "48", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Kambarių skaičius": "48", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna", 
             "Telefonas": "37301561", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2011.07.29", 
-            "El. pa\u0161tas": "hotel@daugirdas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2011.07.29", 
+            "El. paštas": "hotel@daugirdas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "37301562", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "83", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "83", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -6635,7 +6635,7 @@ hotels = ([
                         "people": 40
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -6648,14 +6648,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Kolon\u0173", 
+                "name": "Kolonų", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 80
                     }, 
                     {
@@ -6676,25 +6676,25 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Green Vilnius Hotel\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "126", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
+            "Oficialus įm. pavadinimas": "UAB \"Green Vilnius Hotel\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "126", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas", 
             "Telefonas": "52500695", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.04.19", 
-            "El. pa\u0161tas": "info@greenhotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.04.19", 
+            "El. paštas": "info@greenhotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52500694", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "257", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "257", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -6716,59 +6716,59 @@ hotels = ([
             "lng": 25.2800243
         }, 
         "name": "GREEN VILNIUS HOTEL", 
-        "address": "Pilait\u0117s pr. 20, Vilnius"
+        "address": "Pilaitės pr. 20, Vilnius"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Banketin\u0117 sal\u0117, Kavin\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "Akcin\u0117 bendrov\u0117 ''KLAIP\u0116DOS'' VIE\u0160BUTIS", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "605", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117", 
+            "Maitinimo paslaugos": "Banketinė salė, Kavinė, Restoranas", 
+            "Oficialus įm. pavadinimas": "Akcinė bendrovė ''KLAIPĖDOS'' VIEŠBUTIS", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "605", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruoklių salė", 
             "Telefonas": "46404372", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2008.05.12", 
-            "El. pa\u0161tas": "hotel@klaipedahotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2008.05.12", 
+            "El. paštas": "hotel@klaipedahotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46404373", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "307", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "307", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "Kazino, Naktinis klubas, Sveikatingumo klubas", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Did\u017eioji", 
+                "name": "Didžioji", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 220
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 70
                     }, 
                     {
@@ -6789,24 +6789,24 @@ hotels = ([
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
                     "Video grotuvas"
                 ], 
-                "name": "Ma\u017eoji", 
+                "name": "Mažoji", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 25
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 15
                     }, 
                     {
@@ -6823,17 +6823,17 @@ hotels = ([
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas"
                 ], 
                 "name": "Naujoji", 
@@ -6843,7 +6843,7 @@ hotels = ([
                         "people": 100
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 65
                     }, 
                     {
@@ -6864,24 +6864,24 @@ hotels = ([
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
                     "Video grotuvas"
                 ], 
-                "name": "Pasitarim\u0173 kambarys", 
+                "name": "Pasitarimų kambarys", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 20
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 15
                     }, 
                     {
@@ -6899,48 +6899,48 @@ hotels = ([
             "lat": 55.7109458, 
             "lng": 21.1291436
         }, 
-        "name": "KLAIP\u0116DA", 
-        "address": "Naujojo Sodo g. 1, Klaip\u0117da"
+        "name": "KLAIPĖDA", 
+        "address": "Naujojo Sodo g. 1, Klaipėda"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"G\u0116LOS U\u017dUOV\u0116JA\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"GĖLOS UŽUOVĖJA\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "92", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "92", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "Baseinas, Pirtis/Sauna", 
             "Telefonas": "61234207", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.05.06", 
-            "El. pa\u0161tas": "info@greenresort.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.05.06", 
+            "El. paštas": "info@greenresort.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52690060", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "192", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "192", 
             "Sveikatingumo paslaugos": "", 
-            "Pramogos": "Sporto aik\u0161tel\u0117", 
-            "Svetain\u0117s adresas": ""
+            "Pramogos": "Sporto aikštelė", 
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Ra\u0161ymo lenta"
+                    "Rašymo lenta"
                 ], 
-                "name": "M\u0117lynoji", 
+                "name": "Mėlynoji", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 40
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 40
                     }, 
                     {
@@ -6957,7 +6957,7 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Pu\u0161yno", 
+                "name": "Pušyno", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -6969,17 +6969,17 @@ hotels = ([
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Video projektorius"
                 ], 
-                "name": "\u017dalioji", 
+                "name": "Žalioji", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 80
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 80
                     }, 
                     {
@@ -6998,39 +6998,39 @@ hotels = ([
             "lng": 25.5408495
         }, 
         "name": "VIVA GREEN RESORT", 
-        "address": "Tu\u0161\u010diauli\u0173 k., Vilniaus r."
+        "address": "Tuščiaulių k., Vilniaus r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Banketin\u0117 sal\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \" Baltijos Dor\u0117\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Banketinė salė, Restoranas", 
+            "Oficialus įm. pavadinimas": "UAB \" Baltijos Dorė\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "46", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "46", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "Skalbimas ir valymas", 
             "Telefonas": "46474764", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.12.22", 
-            "El. pa\u0161tas": "info@oldporthotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.12.22", 
+            "El. paštas": "info@oldporthotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46474765", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "90", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "90", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Ekranas", 
                     "Mikrofonas", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius"
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius"
                 ], 
                 "name": "", 
                 "configurations": [
@@ -7046,45 +7046,45 @@ hotels = ([
             "lng": 21.1274458
         }, 
         "name": "OLD PORT HOTEL", 
-        "address": "\u017dvej\u0173 g. 20-22, Klaip\u0117dos m."
+        "address": "Žvejų g. 20-22, Klaipėdos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"EAT & vie\u0161butis \"\u0160ar\u016bnas\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"EAT & viešbutis \"Šarūnas\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "56", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Pirtis/Sauna, Po\u017eeminis gara\u017eas, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "56", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Pirtis/Sauna, Požeminis garažas, Seifas, Skalbimas ir valymas", 
             "Telefonas": "2723004", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "2723126", 
-            "Klas\u0117 suteikta iki": "2014.02.01", 
-            "El. pa\u0161tas": "marketingas@hotelsarunas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2014.02.01", 
+            "El. paštas": "marketingas@hotelsarunas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "2722325", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "85", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "85", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     ""
                 ], 
-                "name": "I sal\u0117", 
+                "name": "I salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 230
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 100
                     }, 
                     {
@@ -7101,14 +7101,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "2 sal\u0117", 
+                "name": "2 salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 90
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 60
                     }, 
                     {
@@ -7125,14 +7125,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "3 sal\u0117", 
+                "name": "3 salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 30
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 22
                     }, 
                     {
@@ -7149,14 +7149,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "4 sal\u0117", 
+                "name": "4 salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 40
                     }, 
                     {
@@ -7174,32 +7174,32 @@ hotels = ([
             "lat": 54.69458780000001, 
             "lng": 25.2946363
         }, 
-        "name": "\u0160AR\u016aNAS", 
-        "address": "Raitinink\u0173 g. 4, Vilniaus m."
+        "name": "ŠARŪNAS", 
+        "address": "Raitininkų g. 4, Vilniaus m."
     }, 
     {
         "info": {
-            "Inventoriaus nuoma": "Dvira\u010diai", 
+            "Inventoriaus nuoma": "Dviračiai", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Draygyst\u0117s sanatorija\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "20", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Oficialus įm. pavadinimas": "UAB \"Draygystės sanatorija\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "20", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Treniruoklių salė", 
             "Telefonas": "31360600", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.12.22", 
-            "El. pa\u0161tas": "violeta@draugyste.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.12.22", 
+            "El. paštas": "violeta@draugyste.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31360602", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "40", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "40", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -7208,16 +7208,16 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas"
                 ], 
                 "name": "", 
@@ -7227,7 +7227,7 @@ hotels = ([
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 20
                     }, 
                     {
@@ -7252,54 +7252,54 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "Sporto inventorius", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Grand Spa Lietuva\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Grand Spa Lietuva\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "179", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Teniso kortai, Treniruokli\u0173 sal\u0117, Vaik\u0173 prie\u017eiura", 
+            "Kambarių skaičius": "179", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Teniso kortai, Treniruoklių salė, Vaikų priežiura", 
             "Telefonas": "31352414", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.04.19", 
-            "El. pa\u0161tas": "info@grandspa.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.04.19", 
+            "El. paštas": "info@grandspa.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31355490", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "358", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "358", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": null, 
         "name": "GRAND SPA LIETUVA", 
-        "address": "Druskinink\u0173 sav."
+        "address": "Druskininkų sav."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Nakties Ratas\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Nakties Ratas\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "10", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "10", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "797923", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2010.09.11", 
-            "El. pa\u0161tas": "naktiesmagija@naktiesmagija-hotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2010.09.11", 
+            "El. paštas": "naktiesmagija@naktiesmagija-hotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "795832", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "15", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "15", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -7307,31 +7307,31 @@ hotels = ([
             "lng": 23.9470806
         }, 
         "name": "NAKTIES MAGIJA", 
-        "address": "Skrobl\u0173 g. 3, Kauno m."
+        "address": "Skroblų g. 3, Kauno m."
     }, 
     {
         "info": {
-            "Inventoriaus nuoma": "Dvira\u010diai", 
+            "Inventoriaus nuoma": "Dviračiai", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \" Palangos perlas\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \" Palangos perlas\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "34", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "34", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
             "Telefonas": "46052441", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "zydroji_liepsna@is.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "zydroji_liepsna@is.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46048250", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "65", 
-            "Sveikatingumo paslaugos": "Klasikinis masa\u017eas", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "65", 
+            "Sveikatingumo paslaugos": "Klasikinis masažas", 
             "Pramogos": "Boulingas", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -7339,7 +7339,7 @@ hotels = ([
                     "Ekranas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta"
+                    "Rašymo lenta"
                 ], 
                 "name": "", 
                 "configurations": [
@@ -7348,7 +7348,7 @@ hotels = ([
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -7370,64 +7370,64 @@ hotels = ([
             "lat": 55.92149509999999, 
             "lng": 21.0697993
         }, 
-        "name": "\u017dYDROJI LIEPSNA", 
+        "name": "ŽYDROJI LIEPSNA", 
         "address": "Gintaro g. 36, Palanga"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Jeruzal\u0117s vie\u0161butis\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "29", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"Jeruzalės viešbutis\"", 
+            "Priėmimo mėn.": "", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "29", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
             "Telefonas": "52714040", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "52762627", 
-            "Klas\u0117 suteikta iki": "2015.02.01", 
-            "El. pa\u0161tas": "jeruzale@takas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.02.01", 
+            "El. paštas": "jeruzale@takas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "61", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "61", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
             "lat": 54.7315412, 
             "lng": 25.2795879
         }, 
-        "name": "JERUZAL\u0116S VIE\u0160BUTIS", 
-        "address": "Kalvarij\u0173 g. 247, Vilniaus m."
+        "name": "JERUZALĖS VIEŠBUTIS", 
+        "address": "Kalvarijų g. 247, Vilniaus m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 Sveikatos centras \"SANVITA\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė, Restoranas", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė Sveikatos centras \"SANVITA\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "41", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Kambarių skaičius": "41", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna", 
             "Telefonas": "5290588", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2007.02.06", 
-            "El. pa\u0161tas": "adastrum@antedonas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2007.02.06", 
+            "El. paštas": "adastrum@antedonas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52790521", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "80", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "80", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -7460,31 +7460,31 @@ hotels = ([
             "lng": 25.2867837
         }, 
         "name": "AD ASTRUM", 
-        "address": "\u0160eimyni\u0161ki\u0173 g. 21, Vilnius"
+        "address": "Šeimyniškių g. 21, Vilnius"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Gensina\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Gensina\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "16", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "16", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "46474703", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.12.22", 
-            "El. pa\u0161tas": "hotel@euterpe.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.12.22", 
+            "El. paštas": "hotel@euterpe.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46474705", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "32", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "32", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -7512,32 +7512,32 @@ hotels = ([
             "lat": 55.706516, 
             "lng": 21.1355035
         }, 
-        "name": "EUTERP\u0116", 
-        "address": "Dar\u017e\u0173 g. 9, Klaip\u0117dos m."
+        "name": "EUTERPĖ", 
+        "address": "Daržų g. 9, Klaipėdos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"NIDOS SMILT\u0116\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"NIDOS SMILTĖ\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "84", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Skalbimas ir valymas", 
+            "Kambarių skaičius": "84", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Skalbimas ir valymas", 
             "Telefonas": "46952219", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "smilte@is.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "smilte@is.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46952762", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "108", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "108", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -7554,32 +7554,32 @@ hotels = ([
             }
         ], 
         "coords": null, 
-        "name": "NIDOS SMILT\u0116", 
-        "address": "Neringos sav., Neringa, Skruzdyn\u0117s g. 2"
+        "name": "NIDOS SMILTĖ", 
+        "address": "Neringos sav., Neringa, Skruzdynės g. 2"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Vila Vingis\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"Vila Vingis\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "35", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Teniso kortai, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "35", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Teniso kortai, Treniruoklių salė", 
             "Telefonas": "31352378", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2010.10.27", 
-            "El. pa\u0161tas": "sanatorija@draugyste.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2010.10.27", 
+            "El. paštas": "sanatorija@draugyste.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31353118", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "70", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "70", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -7593,7 +7593,7 @@ hotels = ([
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }
                 ]
@@ -7604,31 +7604,31 @@ hotels = ([
             "lng": 24.0702767
         }, 
         "name": "VILA VINGIS", 
-        "address": "Kurorto g. 6, Druskinink\u0173 m., Druskinink\u0173 sav."
+        "address": "Kurorto g. 6, Druskininkų m., Druskininkų sav."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "Tado Rai\u010di\u016bno \u012fmon\u0117", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "Tado Raičiūno įmonė", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "27", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "27", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
             "Telefonas": "44751646", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2009.12.29", 
-            "El. pa\u0161tas": "info@hoteljurbarkas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2009.12.29", 
+            "El. paštas": "info@hoteljurbarkas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "44751646", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "71", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "71", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -7649,31 +7649,31 @@ hotels = ([
             "lng": 22.3015847
         }, 
         "name": "JURBARKAS", 
-        "address": "Dariaus ir Gir\u0117no g. 98, Jurbarko m., Jurbarko r."
+        "address": "Dariaus ir Girėno g. 98, Jurbarko m., Jurbarko r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"VEIKA\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"VEIKA\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "39", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "39", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "31359198", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.04.19", 
-            "El. pa\u0161tas": "office@veika.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.04.19", 
+            "El. paštas": "office@veika.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31360538", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "78", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "78", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -7687,7 +7687,7 @@ hotels = ([
                         "people": 30
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 16
                     }, 
                     {
@@ -7730,38 +7730,38 @@ hotels = ([
             "lng": 24.7729701
         }, 
         "name": "DE LITA", 
-        "address": "Vytauto g. 43, Druskinink\u0173 m., Druskinink\u0173 sav."
+        "address": "Vytauto g. 43, Druskininkų m., Druskininkų sav."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "Sporto inventorius", 
-            "Maitinimo paslaugos": "Baras, Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"\u0160achmatin\u0117\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Baras, Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"Šachmatinė\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "11", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "11", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "Seifas, Skalbimas ir valymas", 
             "Telefonas": "46051655", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "61282009", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "sachmatine@cili.eu", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "sachmatine@cili.eu", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46051655", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "28", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "28", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     ""
                 ], 
-                "name": "Susitikim\u0173 kambarys", 
+                "name": "Susitikimų kambarys", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -7774,40 +7774,40 @@ hotels = ([
             "lat": 55.9197072, 
             "lng": 21.0525799
         }, 
-        "name": "\u0160ACHMATIN\u0116", 
-        "address": "J. Basanavi\u010diaus g. 45, Palangos m."
+        "name": "ŠACHMATINĖ", 
+        "address": "J. Basanavičiaus g. 45, Palangos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Baltijos Dor\u0117\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė, Restoranas", 
+            "Oficialus įm. pavadinimas": "UAB \"Baltijos Dorė\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "28", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "28", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruoklių salė", 
             "Telefonas": "404200", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "info@navalis.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "Fakso aparatas, Internetinis ry\u0161ys, Kopijavimo aparatas", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "info@navalis.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "Fakso aparatas, Internetinis ryšys, Kopijavimo aparatas", 
             "Faksas": "404202", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "56", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "56", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Video projektorius"
                 ], 
@@ -7818,7 +7818,7 @@ hotels = ([
                         "people": 120
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 60
                     }
                 ]
@@ -7827,7 +7827,7 @@ hotels = ([
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "TV", 
                     "Video projektorius"
                 ], 
@@ -7838,7 +7838,7 @@ hotels = ([
                         "people": 300
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 150
                     }
                 ]
@@ -7848,8 +7848,8 @@ hotels = ([
                     "CD grotuvas", 
                     "Ekranas", 
                     "Multimedia", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Video projektorius"
                 ], 
@@ -7860,7 +7860,7 @@ hotels = ([
                         "people": 130
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 65
                     }
                 ]
@@ -7870,8 +7870,8 @@ hotels = ([
                     "CD grotuvas", 
                     "Ekranas", 
                     "Multimedia", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Video projektorius"
                 ], 
@@ -7882,7 +7882,7 @@ hotels = ([
                         "people": 120
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 60
                     }
                 ]
@@ -7892,20 +7892,20 @@ hotels = ([
                     "CD grotuvas", 
                     "Ekranas", 
                     "Multimedia", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "TV", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video projektorius"
                 ], 
-                "name": "KLAIP\u0116DA", 
+                "name": "KLAIPĖDA", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 100
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 36
                     }
                 ]
@@ -7915,10 +7915,10 @@ hotels = ([
                     "CD grotuvas", 
                     "Ekranas", 
                     "Multimedia", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "TV", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video projektorius"
                 ], 
                 "name": "VIP", 
@@ -7928,7 +7928,7 @@ hotels = ([
                         "people": 100
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 50
                     }
                 ]
@@ -7939,31 +7939,31 @@ hotels = ([
             "lng": 21.1283897
         }, 
         "name": "NAVALIS", 
-        "address": "H. Manto g. 23, Klaip\u0117dos m."
+        "address": "H. Manto g. 23, Klaipėdos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"MOBUSTA\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"MOBUSTA\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "13", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "13", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "41545488", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.03.04", 
-            "El. pa\u0161tas": "mabusta@takas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.03.04", 
+            "El. paštas": "mabusta@takas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "41546275", 
-            "Klas\u0117": "1*", 
-            "Viet\u0173 skai\u010dius": "33", 
+            "Klasė": "1*", 
+            "Vietų skaičius": "33", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -7971,63 +7971,63 @@ hotels = ([
             "lng": 23.3206368
         }, 
         "name": "MOBUSTA", 
-        "address": "Vaidoto g. 33, \u0160iauliai"
+        "address": "Vaidoto g. 33, Šiauliai"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"PR\u016aSIJA\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "10", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"PRŪSIJA\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "10", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "46412078", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2008.03.29", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2008.03.29", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46412078", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
             "lat": 55.7125034, 
             "lng": 21.1297599
         }, 
-        "name": "PR\u016aSIJA", 
-        "address": "S. \u0160imkaus g. 6, Klaip\u0117da"
+        "name": "PRŪSIJA", 
+        "address": "S. Šimkaus g. 6, Klaipėda"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "AB \"Klaip\u0117dos\" vie\u0161butis", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "AB \"Klaipėdos\" viešbutis", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "284", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "284", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
             "Telefonas": "46404372", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.12.22", 
-            "El. pa\u0161tas": "admin@klaipedahotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.12.22", 
+            "El. paštas": "admin@klaipedahotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46404373", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "570", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "570", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -8044,7 +8044,7 @@ hotels = ([
                         "people": 30
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 20
                     }, 
                     {
@@ -8066,32 +8066,32 @@ hotels = ([
             "lat": 55.7109458, 
             "lng": 21.1291436
         }, 
-        "name": "AMBERTON KLAIP\u0116DA", 
-        "address": "Naujojo Sodo g. 1, Klaip\u0117dos m."
+        "name": "AMBERTON KLAIPĖDA", 
+        "address": "Naujojo Sodo g. 1, Klaipėdos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "G.Am\u0161iejien\u0117s P.\u012e", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "26", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Oficialus įm. pavadinimas": "G.Amšiejienės P.Į", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "26", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "52150410", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2011.03.03", 
-            "El. pa\u0161tas": "hotel@europolis.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2011.03.03", 
+            "El. paštas": "hotel@europolis.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52150411", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "65", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "65", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -8099,38 +8099,38 @@ hotels = ([
             "lng": 25.2682066
         }, 
         "name": "VILNIAUS EUROPOLIS", 
-        "address": "\u0160vitrigailos g. 11D, Vilnius"
+        "address": "Švitrigailos g. 11D, Vilnius"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "Sporto inventorius, Valtys", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Viva victoria\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Viva victoria\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "25", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Kambarių skaičius": "25", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna", 
             "Telefonas": "34247521", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2009.11.26", 
-            "El. pa\u0161tas": "viktorija@viktorija.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2009.11.26", 
+            "El. paštas": "viktorija@viktorija.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "34247521", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "56", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "56", 
             "Sveikatingumo paslaugos": "", 
-            "Pramogos": "Sporto aik\u0161tel\u0117, Vaik\u0173 \u017eaidimo aik\u0161tel\u0117", 
-            "Svetain\u0117s adresas": ""
+            "Pramogos": "Sporto aikštelė, Vaikų žaidimo aikštelė", 
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Grafinis projektorius", 
                     "Multimedia", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "TV", 
                     "Video grotuvas", 
                     "Video projektorius"
@@ -8138,7 +8138,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 100
                     }
                 ]
@@ -8150,7 +8150,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 50
                     }
                 ]
@@ -8161,31 +8161,31 @@ hotels = ([
             "lng": 25.7261237
         }, 
         "name": "VIKTORIJA", 
-        "address": "\u010ci\u017ei\u0161ki\u0173 k., Vilkavi\u0161kio r."
+        "address": "Čižiškių k., Vilkaviškio r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Maldimas\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"Maldimas\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "18", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "18", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Treniruoklių salė", 
             "Telefonas": "31347777", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.03.24", 
-            "El. pa\u0161tas": "info@hoteldalia.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.03.24", 
+            "El. paštas": "info@hoteldalia.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "40", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "40", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -8193,31 +8193,31 @@ hotels = ([
             "lng": 24.7700949
         }, 
         "name": "DALIA", 
-        "address": "Vytauto g. 27, Druskinink\u0173 m., Druskinink\u0173 sav."
+        "address": "Vytauto g. 27, Druskininkų m., Druskininkų sav."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB\"Belvilis\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB\"Belvilis\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "21", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, P\u016blas", 
+            "Kambarių skaičius": "21", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Pūlas", 
             "Telefonas": "56569491", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.07.30", 
-            "El. pa\u0161tas": "info@belvilis.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.07.30", 
+            "El. paštas": "info@belvilis.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "38351098", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "50", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "50", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -8264,31 +8264,31 @@ hotels = ([
             "lng": 25.4723211
         }, 
         "name": "SPA HOTEL BELVILIS", 
-        "address": "Kirneil\u0117s k., Mol\u0117t\u0173 r."
+        "address": "Kirneilės k., Molėtų r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Baras, Pusry\u010diai", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Vairita\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Maitinimo paslaugos": "Baras, Pusryčiai", 
+            "Oficialus įm. pavadinimas": "UAB \"Vairita\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "52777773", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.07.30", 
-            "El. pa\u0161tas": "info@hotelgoda.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.07.30", 
+            "El. paštas": "info@hotelgoda.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52375608", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "19", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "19", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -8297,10 +8297,10 @@ hotels = ([
                     "Grafinis projektorius", 
                     "Kompiuteris"
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "name": "Konferencijų salė", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }
                 ]
@@ -8311,31 +8311,31 @@ hotels = ([
             "lng": 25.2791232
         }, 
         "name": "A.V.GODA", 
-        "address": "Kalvarij\u0173 g. 265, Vilniaus m."
+        "address": "Kalvarijų g. 265, Vilniaus m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas, Valgykla", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Raminora\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "187", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Baseinas su mineraliniu vandeniu, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Oficialus įm. pavadinimas": "UAB \"Raminora\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "187", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Baseinas su mineraliniu vandeniu, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Treniruoklių salė", 
             "Telefonas": "31353811", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.06.07", 
-            "El. pa\u0161tas": "info@spa-vilnius.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.06.07", 
+            "El. paštas": "info@spa-vilnius.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31359059", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "350", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "350", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -8385,26 +8385,26 @@ hotels = ([
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Pusry\u010diai", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"R. Me\u0161kos firma\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "44", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas", 
+            "Maitinimo paslaugos": "Pusryčiai", 
+            "Oficialus įm. pavadinimas": "UAB \"R. Meškos firma\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "44", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Seifas", 
             "Telefonas": "220220", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.11.08", 
-            "El. pa\u0161tas": "info@kaunascityhotel.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.11.08", 
+            "El. paštas": "info@kaunascityhotel.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "788508", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "95", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "95", 
             "Sveikatingumo paslaugos": "", 
-            "Pramogos": "Interneto kavin\u0117", 
-            "Svetain\u0117s adresas": ""
+            "Pramogos": "Interneto kavinė", 
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -8412,31 +8412,31 @@ hotels = ([
             "lng": 23.8924264
         }, 
         "name": "KAUNAS CITY", 
-        "address": "Laisv\u0117s al. 90, Kauno m."
+        "address": "Laisvės al. 90, Kauno m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"CMPK\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"CMPK\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "45", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Biliardas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Kambarių skaičius": "45", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Biliardas, Mašinų stovėjimo aikštelė, Pirtis/Sauna", 
             "Telefonas": "46490154", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2011.05.23", 
-            "El. pa\u0161tas": "diana@pajurishotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2011.05.23", 
+            "El. paštas": "diana@pajurishotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46490142", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "96", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "96", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -8468,32 +8468,32 @@ hotels = ([
             "lat": 55.7664025, 
             "lng": 21.0893431
         }, 
-        "name": "PAJ\u016aRIS", 
-        "address": "\u0160laito g. 18a, Klaip\u0117dos m."
+        "name": "PAJŪRIS", 
+        "address": "Šlaito g. 18a, Klaipėdos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"\u017dembr\u0117\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Žembrė\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "10", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "10", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "31558216", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2011.11.22", 
-            "El. pa\u0161tas": "hotel@nemunaspark.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2011.11.22", 
+            "El. paštas": "hotel@nemunaspark.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31558203", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "28", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "28", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -8507,7 +8507,7 @@ hotels = ([
                         "people": 100
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 60
                     }, 
                     {
@@ -8535,7 +8535,7 @@ hotels = ([
                         "people": 80
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 50
                     }, 
                     {
@@ -8563,7 +8563,7 @@ hotels = ([
                         "people": 24
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 16
                     }, 
                     {
@@ -8591,7 +8591,7 @@ hotels = ([
                         "people": 20
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 12
                     }, 
                     {
@@ -8614,31 +8614,31 @@ hotels = ([
             "lng": 24.0467819
         }, 
         "name": "NEMUNAS PARK RESIDENCE HOTEL", 
-        "address": "Alytaus r. sav., Nemunai\u010dio sen., Nemunaitis"
+        "address": "Alytaus r. sav., Nemunaičio sen., Nemunaitis"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"DZ\u016aKIJOS VIE\u0160BUTIS\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"DZŪKIJOS VIEŠBUTIS\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "32", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Gara\u017eas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Po\u017eeminis gara\u017eas, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "32", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Garažas, Mašinų stovėjimo aikštelė, Požeminis garažas, Seifas, Skalbimas ir valymas", 
             "Telefonas": "52002", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "53006", 
-            "Klas\u0117 suteikta iki": "2015.02.01", 
-            "El. pa\u0161tas": "hoteldzukija@takas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.02.01", 
+            "El. paštas": "hoteldzukija@takas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31551345", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "55", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "55", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -8670,39 +8670,39 @@ hotels = ([
             "lat": 54.3959444, 
             "lng": 24.0460449
         }, 
-        "name": "DZ\u016aKIJOS VIE\u0160BUTIS", 
+        "name": "DZŪKIJOS VIEŠBUTIS", 
         "address": "Pulko g. 14-1, Alytaus m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "V\u012e poilsio namai \"Baltija\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "VĮ poilsio namai \"Baltija\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Seifas, Skalbimas ir valymas, Treniruoklių salė", 
             "Telefonas": "46048332", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "baltija@is.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "baltija@is.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46049226", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "96", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "96", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     ""
                 ], 
-                "name": "Banketin\u0117 sal\u0117", 
+                "name": "Banketinė salė", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -8714,7 +8714,7 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "name": "Didžioji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -8726,7 +8726,7 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Gedimino 6 sal\u0117", 
+                "name": "Gedimino 6 salė", 
                 "configurations": [
                     {
                         "name": "Apvalaus stalo stilius", 
@@ -8738,7 +8738,7 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Ma\u017eoji banketin\u0117 sal\u0117", 
+                "name": "Mažoji banketinė salė", 
                 "configurations": [
                     {
                         "name": "Apvalaus stalo stilius", 
@@ -8750,7 +8750,7 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Restorano sal\u0117", 
+                "name": "Restorano salė", 
                 "configurations": [
                     {
                         "name": "Banketo stilius", 
@@ -8763,39 +8763,39 @@ hotels = ([
             "lat": 55.9213002, 
             "lng": 21.0733943
         }, 
-        "name": "\u017dILVINAS", 
-        "address": "Ganykl\u0173 g. 30, Palangos m."
+        "name": "ŽILVINAS", 
+        "address": "Ganyklų g. 30, Palangos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "V\u012e \"Vilnvarsa\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "VĮ \"Vilnvarsa\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "35", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas", 
+            "Kambarių skaičius": "35", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas", 
             "Telefonas": "2336814", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.04.19", 
-            "El. pa\u0161tas": "info@polskidom.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.04.19", 
+            "El. paštas": "info@polskidom.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "2333596", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "85", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "85", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     ""
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "name": "Didžioji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -8807,14 +8807,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "name": "Konferencijų salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 85
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 40
                     }, 
                     {
@@ -8835,14 +8835,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "name": "Konferencijų salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -8867,64 +8867,64 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Alminga\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Alminga\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "28", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "28", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "46048839", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2008.02.07", 
-            "El. pa\u0161tas": "info@alanga.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2008.02.07", 
+            "El. paštas": "info@alanga.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46048819", 
-            "Klas\u0117": "1*", 
-            "Viet\u0173 skai\u010dius": "60", 
+            "Klasė": "1*", 
+            "Vietų skaičius": "60", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": null, 
-        "name": "M\u0116GUVA", 
-        "address": "Palangos m. sav., Palanga, M. Valan\u010diaus g. 1"
+        "name": "MĖGUVA", 
+        "address": "Palangos m. sav., Palanga, M. Valančiaus g. 1"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "AB \"PALANGOS LINAS\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "AB \"PALANGOS LINAS\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "104", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Biliardas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "104", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Biliardas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Treniruoklių salė", 
             "Telefonas": "46056204", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "rezervacija@palangoslinas.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "rezervacija@palangoslinas.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46052950", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "237", 
-            "Sveikatingumo paslaugos": "Aerofitoterapija (grupin\u0117), Aerofitoterapija (indivuduali), Biocheminiai tyrimai, Darsonvalizacija, Deguonies terapija, Dietoterapija, Ergoterapija, Fizioterapija, Fonoforez\u0117, Klasikinis masa\u017eas, Lazerio terapija, Logoterapija, Magnetoterapija, Manualin\u0117 kineziterapija, Mechanoterapija, Mikrobang\u0173 terapija, Mineralinio vandens vonios (g\u0117lo vandens pagrindu), Mineralinio vandens vonios (mineralinio vandens pagrindu), Muzikos terapija, Perlin\u0117s vonios (g\u0117lo vandens pagrindu), Perlin\u0117s vonios (mineralinio vandens pagrindu), Povandeninis masa\u017eas (g\u0117lo vandens pagrindu), Povandeninis masa\u017eas (mineralinio vandens pagrindu), Psichofizin\u0117 treniruot\u0117, Relakcinis masa\u017eas, S\u016bkurin\u0117s vandens vonios (g\u0117lo vandens pagrindu), S\u016bkurin\u0117s vandens vonios (mineralinio vandens pagrindu), Vaista\u017eoli\u0173 vonios (g\u0117lo vandens pagrindu), Vaista\u017eoli\u0173 vonios (mineralinio vandens pagrindu), Vertikalios vandens vonios (g\u0117lo vandens pagrindu), Vertikalios vonios (mineralinio vandens pagrindu), \u0160ildomosios aplikacijos", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "237", 
+            "Sveikatingumo paslaugos": "Aerofitoterapija (grupinė), Aerofitoterapija (indivuduali), Biocheminiai tyrimai, Darsonvalizacija, Deguonies terapija, Dietoterapija, Ergoterapija, Fizioterapija, Fonoforezė, Klasikinis masažas, Lazerio terapija, Logoterapija, Magnetoterapija, Manualinė kineziterapija, Mechanoterapija, Mikrobangų terapija, Mineralinio vandens vonios (gėlo vandens pagrindu), Mineralinio vandens vonios (mineralinio vandens pagrindu), Muzikos terapija, Perlinės vonios (gėlo vandens pagrindu), Perlinės vonios (mineralinio vandens pagrindu), Povandeninis masažas (gėlo vandens pagrindu), Povandeninis masažas (mineralinio vandens pagrindu), Psichofizinė treniruotė, Relakcinis masažas, Sūkurinės vandens vonios (gėlo vandens pagrindu), Sūkurinės vandens vonios (mineralinio vandens pagrindu), Vaistažolių vonios (gėlo vandens pagrindu), Vaistažolių vonios (mineralinio vandens pagrindu), Vertikalios vandens vonios (gėlo vandens pagrindu), Vertikalios vonios (mineralinio vandens pagrindu), Šildomosios aplikacijos", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Ekranas", 
-                    "Interneto ry\u0161ys", 
-                    "Ra\u0161ymo lenta", 
+                    "Interneto ryšys", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "TV", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas"
                 ], 
                 "name": "", 
@@ -8944,32 +8944,32 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Scandic hotels\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Scandic hotels\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "60", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Baseinas, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "60", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Baseinas, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
             "Telefonas": "2681910", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "neringa@scandic-hotels.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "Kopijavimo aparatas", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "neringa@scandic-hotels.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "Kopijavimo aparatas", 
             "Faksas": "2614160", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "99", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "99", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     ""
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "name": "Konferencijų salė", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -8988,26 +8988,26 @@ hotels = ([
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Pusry\u010diai", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Apgyvendinimo sprendimai\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Pusryčiai", 
+            "Oficialus įm. pavadinimas": "UAB \"Apgyvendinimo sprendimai\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "73", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "73", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "52032070", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2011.10.06", 
-            "El. pa\u0161tas": "info@gilehotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2011.10.06", 
+            "El. paštas": "info@gilehotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52032077", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "148", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "148", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -9027,32 +9027,32 @@ hotels = ([
             "lat": 54.6772898, 
             "lng": 25.2658015
         }, 
-        "name": "GIL\u0116", 
-        "address": "T. \u0160ev\u010denkos g. 16, Vilniaus m."
+        "name": "GILĖ", 
+        "address": "T. Ševčenkos g. 16, Vilniaus m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "A. Vasiliausko visuomeninio maitinimo \u012fmon\u0117 \"Laima\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "A. Vasiliausko visuomeninio maitinimo įmonė \"Laima\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "10", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Po\u017eeminis gara\u017eas, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "10", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Požeminis garažas, Seifas, Skalbimas ir valymas", 
             "Telefonas": "31352847", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2008.07.20", 
-            "El. pa\u0161tas": "hotel.laima@one.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2008.07.20", 
+            "El. paštas": "hotel.laima@one.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31353754", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "16", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "16", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -9060,31 +9060,31 @@ hotels = ([
             "lng": 23.2627661
         }, 
         "name": "LAIMA", 
-        "address": "Draugyst\u0117s g. 2, Druskinink\u0173 m., Druskinink\u0173 sav."
+        "address": "Draugystės g. 2, Druskininkų m., Druskininkų sav."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"CITY HOTELS\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"CITY HOTELS\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "42", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "42", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "52326650", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "info@cityhotels.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "info@cityhotels.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52326654", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "77", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "77", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -9092,14 +9092,14 @@ hotels = ([
                     "Ekranas", 
                     "Video projektorius"
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "name": "Konferencijų salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 22
                     }, 
                     {
@@ -9128,25 +9128,25 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Valgykla", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Vystyk\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "325", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas", 
+            "Oficialus įm. pavadinimas": "UAB \"Vystyk\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "325", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Seifas", 
             "Telefonas": "2102361", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.05.14", 
-            "El. pa\u0161tas": "reservation@cornerhotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.05.14", 
+            "El. paštas": "reservation@cornerhotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "2102364", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "142", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "142", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -9154,31 +9154,31 @@ hotels = ([
             "lng": 25.2658015
         }, 
         "name": "CORNER HOTEL", 
-        "address": "T. \u0160ev\u010denkos g. 16, Vilnius"
+        "address": "T. Ševčenkos g. 16, Vilnius"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Valgykla", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"Atgaiva Tau\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"Atgaiva Tau\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "24", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Teniso kortai, Treniruokli\u0173 sal\u0117, Turki\u0161ka pirtis", 
+            "Kambarių skaičius": "24", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Teniso kortai, Treniruoklių salė, Turkiška pirtis", 
             "Telefonas": "34977055", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "34977050", 
-            "Klas\u0117 suteikta iki": "2013.11.08", 
-            "El. pa\u0161tas": "atgaivatau@achema.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.11.08", 
+            "El. paštas": "atgaivatau@achema.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "34977054", 
-            "Klas\u0117": "1*", 
-            "Viet\u0173 skai\u010dius": "41", 
+            "Klasė": "1*", 
+            "Vietų skaičius": "41", 
             "Sveikatingumo paslaugos": "", 
-            "Pramogos": "Sporto sal\u0117", 
-            "Svetain\u0117s adresas": ""
+            "Pramogos": "Sporto salė", 
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -9217,25 +9217,25 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Inkontas\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Inkontas\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "82", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "82", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas", 
             "Telefonas": "37340000", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "manager@magnushotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "manager@magnushotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "37240804", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -9252,7 +9252,7 @@ hotels = ([
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 50
                     }
                 ]
@@ -9269,25 +9269,25 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Kortas\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Kortas\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "65", 
-            "Priklausomyb\u0117 tinklui": "Europa Group", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Kambarių skaičius": "65", 
+            "Priklausomybė tinklui": "Europa Group", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna", 
             "Telefonas": "31342221", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.11.08", 
-            "El. pa\u0161tas": "info@kortas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.11.08", 
+            "El. paštas": "info@kortas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31342223", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "125", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "125", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -9301,7 +9301,7 @@ hotels = ([
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 40
                     }, 
                     {
@@ -9321,7 +9321,7 @@ hotels = ([
                         "people": 126
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 60
                     }, 
                     {
@@ -9341,7 +9341,7 @@ hotels = ([
                         "people": 370
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 112
                     }
                 ]
@@ -9357,7 +9357,7 @@ hotels = ([
                         "people": 30
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 16
                     }, 
                     {
@@ -9377,7 +9377,7 @@ hotels = ([
                         "people": 126
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 60
                     }, 
                     {
@@ -9397,7 +9397,7 @@ hotels = ([
                         "people": 126
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 60
                     }, 
                     {
@@ -9417,7 +9417,7 @@ hotels = ([
                         "people": 54
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }, 
                     {
@@ -9437,7 +9437,7 @@ hotels = ([
                         "people": 54
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }, 
                     {
@@ -9452,31 +9452,31 @@ hotels = ([
             "lng": 25.2800243
         }, 
         "name": "EUROPA ROYALE DRUSKININKAI", 
-        "address": "Vilniaus al. 7, Druskinink\u0173 m., Druskinink\u0173 sav."
+        "address": "Vilniaus al. 7, Druskininkų m., Druskininkų sav."
     }, 
     {
         "info": {
-            "Inventoriaus nuoma": "Dvira\u010diai", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"Palangos tauras\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "20", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas", 
+            "Inventoriaus nuoma": "Dviračiai", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"Palangos tauras\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "20", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas", 
             "Telefonas": "46049111", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.05.14", 
-            "El. pa\u0161tas": "feliksas@feliksas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.05.14", 
+            "El. paštas": "feliksas@feliksas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46049111", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "53", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "53", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -9507,39 +9507,39 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Kauno vie\u0161butis\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "57", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117, Valiutos keitykla", 
+            "Oficialus įm. pavadinimas": "UAB \"Kauno viešbutis\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "57", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruoklių salė, Valiutos keitykla", 
             "Telefonas": "37750850", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.02.01", 
-            "El. pa\u0161tas": "kaunas@kaunashotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "Fakso aparatas, Internetinis ry\u0161ys, Kopijavimo aparatas", 
+            "Klasė suteikta iki": "2015.02.01", 
+            "El. paštas": "kaunas@kaunashotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "Fakso aparatas, Internetinis ryšys, Kopijavimo aparatas", 
             "Faksas": "37750851", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "73", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "73", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "Sveikatingumo klubas", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     ""
                 ], 
-                "name": "Did\u017eioji + naujoji", 
+                "name": "Didžioji + naujoji", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 150
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 80
                     }, 
                     {
@@ -9553,27 +9553,27 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "name": "Didžioji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 150
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 80
                     }, 
                     {
@@ -9586,7 +9586,7 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Ma\u017eoji", 
+                "name": "Mažoji", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -9613,13 +9613,13 @@ hotels = ([
                     "Grafinis projektorius", 
                     "Mikrofonas", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
                     "TV", 
-                    "Trib\u016bna", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Tribūna", 
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Pasitarim\u0173 kambarys", 
+                "name": "Pasitarimų kambarys", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -9633,31 +9633,31 @@ hotels = ([
             "lng": 23.8924264
         }, 
         "name": "KAUNAS", 
-        "address": "Kauno m. sav., Kaunas, Laisv\u0117s al. 79"
+        "address": "Kauno m. sav., Kaunas, Laisvės al. 79"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "V\u012e \"Turizmo iniciatyv\u0173 centras\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "14", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "VĮ \"Turizmo iniciatyvų centras\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "14", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "37321404", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "info@applehotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "info@applehotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "37321404", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "28", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "28", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -9678,31 +9678,31 @@ hotels = ([
             "lng": 23.8924264
         }, 
         "name": "APPLE ECONOMY HOTEL", 
-        "address": "Kauno m. sav., Kaunas, M. Valan\u010diaus g. 19"
+        "address": "Kauno m. sav., Kaunas, M. Valančiaus g. 19"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Baras, Kavin\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"DRAUGYST\u0116S\" vie\u0161butis", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Baras, Kavinė, Restoranas", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"DRAUGYSTĖS\" viešbutis", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "108", 
-            "Priklausomyb\u0117 tinklui": "Intercontinental Hotels Group", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117, Vaik\u0173 prie\u017eiura, Valiutos keitykla", 
+            "Kambarių skaičius": "108", 
+            "Priklausomybė tinklui": "Intercontinental Hotels Group", 
+            "Papildomos paslaugos": "Automobilių nuoma, Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruoklių salė, Vaikų priežiura, Valiutos keitykla", 
             "Telefonas": "52743400", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "info@cpvilnius.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "info@cpvilnius.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52743420", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "216", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "216", 
             "Sveikatingumo paslaugos": "", 
-            "Pramogos": "Interneto kavin\u0117, Sveikatingumo klubas", 
-            "Svetain\u0117s adresas": ""
+            "Pramogos": "Interneto kavinė, Sveikatingumo klubas", 
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -9712,30 +9712,30 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Koralin\u0117 A", 
+                "name": "Koralinė A", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 83
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 32
                     }, 
                     {
@@ -9759,30 +9759,30 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Koralin\u0117 (A+B)", 
+                "name": "Koralinė (A+B)", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 156
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 64
                     }, 
                     {
@@ -9806,30 +9806,30 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Koralin\u0117 B", 
+                "name": "Koralinė B", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 73
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 32
                     }, 
                     {
@@ -9853,23 +9853,23 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Kri\u0161tolin\u0117", 
+                "name": "Krištolinė", 
                 "configurations": [
                     {
                         "name": "Apvalaus stalo stilius", 
@@ -9884,26 +9884,26 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Malachitin\u0117 A", 
+                "name": "Malachitinė A", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 12
                     }, 
                     {
@@ -9927,23 +9927,23 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Malachitin\u0117 B", 
+                "name": "Malachitinė B", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -9966,30 +9966,30 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Safyrin\u0117 A", 
+                "name": "Safyrinė A", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 156
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 82
                     }, 
                     {
@@ -10013,30 +10013,30 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Safyrin\u0117 (A+B+C)", 
+                "name": "Safyrinė (A+B+C)", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 530
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 250
                     }, 
                     {
@@ -10060,30 +10060,30 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Safyrin\u0117 B", 
+                "name": "Safyrinė B", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 220
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 100
                     }, 
                     {
@@ -10107,30 +10107,30 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Safyrin\u0117 C", 
+                "name": "Safyrinė C", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 135
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 66
                     }, 
                     {
@@ -10153,31 +10153,31 @@ hotels = ([
             "lng": 25.2492951
         }, 
         "name": "CROWNE PLAZA VILNIUS", 
-        "address": "M. K. \u010ciurlionio g. 84, Vilnius"
+        "address": "M. K. Čiurlionio g. 84, Vilnius"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "Liepa", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė, Restoranas", 
+            "Oficialus įm. pavadinimas": "Liepa", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "12", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Po\u017eeminis gara\u017eas", 
+            "Kambarių skaičius": "12", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Požeminis garažas", 
             "Telefonas": "46470430", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "68779913", 
-            "Klas\u0117 suteikta iki": "2015.07.30", 
-            "El. pa\u0161tas": "info@lijo.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.07.30", 
+            "El. paštas": "info@lijo.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46452647", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "26", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "26", 
             "Sveikatingumo paslaugos": "", 
-            "Pramogos": "Sporto aik\u0161tel\u0117, Sveikatingumo klubas", 
-            "Svetain\u0117s adresas": ""
+            "Pramogos": "Sporto aikštelė, Sveikatingumo klubas", 
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -10185,39 +10185,39 @@ hotels = ([
             "lng": 128.9772011
         }, 
         "name": "LIJO", 
-        "address": "Sodo g. 5, Garg\u017ed\u0173 m., Klaip\u0117dos r."
+        "address": "Sodo g. 5, Gargždų m., Klaipėdos r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "Akcin\u0117 bendrov\u0117 \"Aud\u0117jas\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "Akcinė bendrovė \"Audėjas\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "20", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "20", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "38653170", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.04.19", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.04.19", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46953170", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "48", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "48", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Multimedia", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Telefonas"
                 ], 
                 "name": "", 
@@ -10227,7 +10227,7 @@ hotels = ([
                         "people": 24
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 20
                     }
                 ]
@@ -10237,32 +10237,32 @@ hotels = ([
             "lat": 55.5378449, 
             "lng": 21.1169592
         }, 
-        "name": "EGLI\u0172 SL\u0116NIS", 
+        "name": "EGLIŲ SLĖNIS", 
         "address": "Ievos kalno g. 28, Neringa"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB\"SAULIDA\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB\"SAULIDA\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "24", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "24", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Treniruoklių salė", 
             "Telefonas": "44348175", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "saulida@centras.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "saulida@centras.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "44348177", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "44", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "44", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -10273,7 +10273,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }
                 ]
@@ -10283,85 +10283,85 @@ hotels = ([
             "lat": 42.5584069, 
             "lng": -2.6043635
         }, 
-        "name": "PU\u0160YNO NAMAI", 
-        "address": "Spurgan\u0173 k., Ma\u017eeiki\u0173 r."
+        "name": "PUŠYNO NAMAI", 
+        "address": "Spurganų k., Mažeikių r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Baras, Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"\u017demait\u0117s\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Baras, Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"Žemaitės\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "27", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "27", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Seifas, Skalbimas ir valymas", 
             "Telefonas": "2133193", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.06.07", 
-            "El. pa\u0161tas": "info@hotelzemaites.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.06.07", 
+            "El. paštas": "info@hotelzemaites.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "2133337", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "96", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "96", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
             "lat": 54.6777574, 
             "lng": 25.2824898
         }, 
-        "name": "\u017dEMAIT\u0116S", 
-        "address": "\u017demaitijos g. 15, Vilniaus m."
+        "name": "ŽEMAITĖS", 
+        "address": "Žemaitijos g. 15, Vilniaus m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "Sporto inventorius", 
-            "Maitinimo paslaugos": "Kavin\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Baltijos parkai\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "56", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Suvenyr\u0173 parduotuv\u0117, Vaik\u0173 prie\u017eiura", 
+            "Maitinimo paslaugos": "Kavinė, Restoranas", 
+            "Oficialus įm. pavadinimas": "UAB \"Baltijos parkai\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "56", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Mašinų stovėjimo aikštelė, Seifas, Suvenyrų parduotuvė, Vaikų priežiura", 
             "Telefonas": "46380803", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.04.19", 
-            "El. pa\u0161tas": "klaipeda@revalinn.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "Fakso aparatas, Internetinis ry\u0161ys, Kopijavimo aparatas", 
+            "Klasė suteikta iki": "2015.04.19", 
+            "El. paštas": "klaipeda@revalinn.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "Fakso aparatas, Internetinis ryšys, Kopijavimo aparatas", 
             "Faksas": "46482030", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "112", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "112", 
             "Sveikatingumo paslaugos": "", 
-            "Pramogos": "Skvo\u0161as, Sveikatingumo klubas", 
-            "Svetain\u0117s adresas": ""
+            "Pramogos": "Skvošas, Sveikatingumo klubas", 
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Ekranas", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "TV", 
                     "Telefonas", 
                     "Video grotuvas"
                 ], 
-                "name": "Juodkrant\u0117", 
+                "name": "Juodkrantė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 38
                     }, 
                     {
@@ -10377,9 +10377,9 @@ hotels = ([
             {
                 "hardware": [
                     "Ekranas", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Multimedia", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "TV", 
                     "Telefonas", 
                     "Video grotuvas"
@@ -10391,7 +10391,7 @@ hotels = ([
                         "people": 20
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 15
                     }, 
                     {
@@ -10411,21 +10411,21 @@ hotels = ([
             {
                 "hardware": [
                     "Ekranas", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "TV", 
                     "Telefonas"
                 ], 
-                "name": "Smiltyn\u0117", 
+                "name": "Smiltynė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 70
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 56
                     }, 
                     {
@@ -10447,32 +10447,32 @@ hotels = ([
             "lat": 55.6846191, 
             "lng": 21.1489046
         }, 
-        "name": "PARK INN BY RADISSON KLAIP\u0116DOS VIE\u0160BUTIS", 
-        "address": "Minijos g. 119, Klaip\u0117dos m."
+        "name": "PARK INN BY RADISSON KLAIPĖDOS VIEŠBUTIS", 
+        "address": "Minijos g. 119, Klaipėdos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Vie\u0161bu\u010di\u0173 valdymas\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė, Restoranas", 
+            "Oficialus įm. pavadinimas": "UAB \"Viešbučių valdymas\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "101", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Teniso kortai, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "101", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna, Teniso kortai, Treniruoklių salė", 
             "Telefonas": "52362222", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.11.08", 
-            "El. pa\u0161tas": "ehotels@ehotels.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.11.08", 
+            "El. paštas": "ehotels@ehotels.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52362233", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "190", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "190", 
             "Sveikatingumo paslaugos": "", 
-            "Pramogos": "Sporto aik\u0161tel\u0117, Sporto sal\u0117, Sveikatingumo klubas", 
-            "Svetain\u0117s adresas": ""
+            "Pramogos": "Sporto aikštelė, Sporto salė, Sveikatingumo klubas", 
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -10482,7 +10482,7 @@ hotels = ([
                 "name": "I", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 20
                     }
                 ]
@@ -10494,7 +10494,7 @@ hotels = ([
                 "name": "II", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 20
                     }
                 ]
@@ -10506,7 +10506,7 @@ hotels = ([
                 "name": "III", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }
                 ]
@@ -10518,7 +10518,7 @@ hotels = ([
                 "name": "IV", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 40
                     }
                 ]
@@ -10529,31 +10529,31 @@ hotels = ([
             "lng": 25.2363514
         }, 
         "name": "EUROPA STAY VILNIUS", 
-        "address": "\u0104\u017euolyno g. 7, Vilniaus m."
+        "address": "Ąžuolyno g. 7, Vilniaus m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Ber\u017eas\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Beržas\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "12", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Po\u017eeminis gara\u017eas", 
+            "Kambarių skaičius": "12", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Požeminis garažas", 
             "Telefonas": "44856840", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.02.01", 
-            "El. pa\u0161tas": "hotberzas@one.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.02.01", 
+            "El. paštas": "hotberzas@one.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "44856840", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "18", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "18", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -10585,32 +10585,32 @@ hotels = ([
             "lat": 55.7023946, 
             "lng": 21.1369563
         }, 
-        "name": "BER\u017dAS", 
-        "address": "Minijos g. 2, Plung\u0117s m., Plung\u0117s r."
+        "name": "BERŽAS", 
+        "address": "Minijos g. 2, Plungės m., Plungės r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Baras, Pusry\u010diai", 
-            "Oficialus \u012fm. pavadinimas": "Alinos Gromakovos individuali \u012fmon\u0117 \"Valina\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Baras, Pusryčiai", 
+            "Oficialus įm. pavadinimas": "Alinos Gromakovos individuali įmonė \"Valina\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "38", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "38", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "44320434", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2008.03.09", 
-            "El. pa\u0161tas": "valina@roventa.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2008.03.09", 
+            "El. paštas": "valina@roventa.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "44320435", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "90", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "90", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -10631,31 +10631,31 @@ hotels = ([
             "lng": 22.3293313
         }, 
         "name": "VALINA", 
-        "address": "Draugyst\u0117s g. 18, Ma\u017eeikiai"
+        "address": "Draugystės g. 18, Mažeikiai"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Baltic Ventures\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Baltic Ventures\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "12", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "12", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "52123426", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.06.07", 
-            "El. pa\u0161tas": "apia@apia.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.06.07", 
+            "El. paštas": "apia@apia.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52123618", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "24", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "24", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -10663,31 +10663,31 @@ hotels = ([
             "lng": 25.2800243
         }, 
         "name": "APIA", 
-        "address": "Vilniaus m. sav., Vilnius, \u0160v. Ignoto g. 12-1"
+        "address": "Vilniaus m. sav., Vilnius, Šv. Ignoto g. 12-1"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "D.Mediko individuali \u012fmon\u0117", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "D.Mediko individuali įmonė", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "12", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "12", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "Baseinas, Biliardas, Pirtis/Sauna", 
             "Telefonas": "45832816", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.01.06", 
-            "El. pa\u0161tas": "d.medikas@gmail.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.01.06", 
+            "El. paštas": "d.medikas@gmail.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "45832610", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "27", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "27", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -10704,32 +10704,32 @@ hotels = ([
             }
         ], 
         "coords": null, 
-        "name": "ANGEL\u0116", 
-        "address": "Roki\u0161kio r. sav., Roki\u0161kio miesto sen., Roki\u0161kis, Panev\u0117\u017eio g. 7A"
+        "name": "ANGELĖ", 
+        "address": "Rokiškio r. sav., Rokiškio miesto sen., Rokiškis, Panevėžio g. 7A"
     }, 
     {
         "info": {
-            "Inventoriaus nuoma": "Baidar\u0117s, Kanojos", 
+            "Inventoriaus nuoma": "Baidarės, Kanojos", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Senasis Medv\u0117galis\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Senasis Medvėgalis\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "7", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "7", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "44672589", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.01.06", 
-            "El. pa\u0161tas": "banga@tVK.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.01.06", 
+            "El. paštas": "banga@tVK.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "44467259", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "9", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "9", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -10740,7 +10740,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 40
                     }
                 ]
@@ -10750,38 +10750,38 @@ hotels = ([
             "lat": 54.9396826, 
             "lng": 23.6434169
         }, 
-        "name": "VIE\u0160BUTIS \"BANGA\"", 
-        "address": "Kranto g. 3A, Taurag\u0117s m., Taurag\u0117s r."
+        "name": "VIEŠBUTIS \"BANGA\"", 
+        "address": "Kranto g. 3A, Tauragės m., Tauragės r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"RCD room concept design", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"RCD room concept design", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "41", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "41", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruoklių salė", 
             "Telefonas": "2122411", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.12.22", 
-            "El. pa\u0161tas": "mabre@mabre.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.12.22", 
+            "El. paštas": "mabre@mabre.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "2122240", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "72", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "72", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Ekranas", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "TV", 
                     "Video projektorius"
                 ], 
@@ -10792,7 +10792,7 @@ hotels = ([
                         "people": 80
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 40
                     }, 
                     {
@@ -10811,63 +10811,63 @@ hotels = ([
             "lng": 25.2852187
         }, 
         "name": "MABRE RESIDENCE HOTEL", 
-        "address": "L. Stuokos-Gucevi\u010diaus g. 3, Vilniaus m."
+        "address": "L. Stuokos-Gucevičiaus g. 3, Vilniaus m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Gro\u017eio terapijos ir chirurgijos klinika\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"Grožio terapijos ir chirurgijos klinika\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "10", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Po\u017eeminis gara\u017eas, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "10", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Požeminis garažas, Seifas, Skalbimas ir valymas, Treniruoklių salė", 
             "Telefonas": "52705719", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2009.08.20", 
-            "El. pa\u0161tas": "info@sugihara.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2009.08.20", 
+            "El. paštas": "info@sugihara.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52705718", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "16", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "16", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
             "lat": 54.7038218, 
             "lng": 25.2318252
         }, 
-        "name": "GRO\u017dIO SALA", 
-        "address": "\u010c. Sugiharos g. 3, Vilniaus m."
+        "name": "GROŽIO SALA", 
+        "address": "Č. Sugiharos g. 3, Vilniaus m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"PASPARA\" sve\u010di\u0173 namai", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"PASPARA\" svečių namai", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "14", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "14", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruoklių salė", 
             "Telefonas": "52660730", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2007.05.13", 
-            "El. pa\u0161tas": "info@e-guesthouse.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2007.05.13", 
+            "El. paštas": "info@e-guesthouse.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52335710", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "25", 
-            "Sveikatingumo paslaugos": "Klasikinis masa\u017eas", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "25", 
+            "Sveikatingumo paslaugos": "Klasikinis masažas", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -10876,27 +10876,27 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "name": "Didžioji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 50
                     }, 
                     {
@@ -10919,19 +10919,19 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Mokymo klas\u0117", 
+                "name": "Mokymo klasė", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -10953,31 +10953,31 @@ hotels = ([
             "lng": 25.2658015
         }, 
         "name": "E-GUESTHOUSE", 
-        "address": "T. \u0160ev\u010denkos g. 16, Vilnius"
+        "address": "T. Ševčenkos g. 16, Vilnius"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"VIKTORIJOS VIE\u0160BUTIS\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"VIKTORIJOS VIEŠBUTIS\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "42", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "42", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "52724013", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2007.02.06", 
-            "El. pa\u0161tas": "hotel@victoria.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2007.02.06", 
+            "El. paštas": "hotel@victoria.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52724320", 
-            "Klas\u0117": "1*", 
-            "Viet\u0173 skai\u010dius": "71", 
+            "Klasė": "1*", 
+            "Vietų skaičius": "71", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -11009,32 +11009,32 @@ hotels = ([
             "lat": 54.696951, 
             "lng": 25.25671
         }, 
-        "name": "VIKTORIJOS VIE\u0160BUTIS", 
-        "address": "Saltoni\u0161ki\u0173 g. 56, Vilnius"
+        "name": "VIKTORIJOS VIEŠBUTIS", 
+        "address": "Saltoniškių g. 56, Vilnius"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"VENT\u0116\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "28", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"VENTĖ\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "28", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna", 
             "Telefonas": "46385283", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "46498883", 
-            "Klas\u0117 suteikta iki": "2011.05.23", 
-            "El. pa\u0161tas": "hotelparkas@takas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2011.05.23", 
+            "El. paštas": "hotelparkas@takas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46498892", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "60", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "60", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -11055,31 +11055,31 @@ hotels = ([
             "lng": 21.1303247
         }, 
         "name": "PARKAS", 
-        "address": "Liepojos g. 3, Klaip\u0117da"
+        "address": "Liepojos g. 3, Klaipėda"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "Akcin\u0117 bendrov\u0117 vie\u0161butis \"LIETUVA\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "Akcinė bendrovė viešbutis \"LIETUVA\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "291", 
-            "Priklausomyb\u0117 tinklui": "Reval hotels", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117, Verslo centras", 
+            "Kambarių skaičius": "291", 
+            "Priklausomybė tinklui": "Reval hotels", 
+            "Papildomos paslaugos": "Automobilių nuoma, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruoklių salė, Verslo centras", 
             "Telefonas": "52726272", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "52726200", 
-            "Klas\u0117 suteikta iki": "2008.01.20", 
-            "El. pa\u0161tas": "lietuva.sales@revalhotels.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "Internetinis ry\u0161ys", 
+            "Klasė suteikta iki": "2008.01.20", 
+            "El. paštas": "lietuva.sales@revalhotels.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "Internetinis ryšys", 
             "Faksas": "52726270", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "582", 
-            "Sveikatingumo paslaugos": "Klasikinis masa\u017eas, Muzikos terapija, Relakcinis masa\u017eas", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "582", 
+            "Sveikatingumo paslaugos": "Klasikinis masažas, Muzikos terapija, Relakcinis masažas", 
             "Pramogos": "Kazino", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -11089,23 +11089,23 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
                     "Video projektorius", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Alfa", 
                 "configurations": [
@@ -11126,23 +11126,23 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
                     "Video projektorius", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Beta", 
                 "configurations": [
@@ -11163,24 +11163,24 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
                     "Video projektorius", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Delta ( 22 auk\u0161tas )", 
+                "name": "Delta ( 22 aukštas )", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -11207,22 +11207,22 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
                     "Video projektorius", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Epsilon", 
                 "configurations": [
@@ -11231,7 +11231,7 @@ hotels = ([
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -11255,22 +11255,22 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
                     "Video projektorius", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Eta", 
                 "configurations": [
@@ -11279,7 +11279,7 @@ hotels = ([
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -11299,22 +11299,22 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
                     "Video projektorius", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Gamma", 
                 "configurations": [
@@ -11323,7 +11323,7 @@ hotels = ([
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -11343,22 +11343,22 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
                     "Video projektorius", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Iota", 
                 "configurations": [
@@ -11367,7 +11367,7 @@ hotels = ([
                         "people": 40
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 22
                     }, 
                     {
@@ -11387,23 +11387,23 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
                     "Video projektorius", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Lambda 1", 
                 "configurations": [
@@ -11412,7 +11412,7 @@ hotels = ([
                         "people": 52
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }, 
                     {
@@ -11432,23 +11432,23 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
                     "Video projektorius", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Lambda 1+2", 
                 "configurations": [
@@ -11457,7 +11457,7 @@ hotels = ([
                         "people": 104
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 50
                     }, 
                     {
@@ -11477,23 +11477,23 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
                     "Video projektorius", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Lambda 1+2+3", 
                 "configurations": [
@@ -11502,7 +11502,7 @@ hotels = ([
                         "people": 180
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 80
                     }, 
                     {
@@ -11518,23 +11518,23 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
                     "Video projektorius", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Lambda 2", 
                 "configurations": [
@@ -11543,7 +11543,7 @@ hotels = ([
                         "people": 52
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }, 
                     {
@@ -11563,23 +11563,23 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
                     "Video projektorius", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Lambda 3", 
                 "configurations": [
@@ -11588,7 +11588,7 @@ hotels = ([
                         "people": 52
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }, 
                     {
@@ -11608,23 +11608,23 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
                     "Video projektorius", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Lambda 3+2", 
                 "configurations": [
@@ -11633,7 +11633,7 @@ hotels = ([
                         "people": 104
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 50
                     }, 
                     {
@@ -11653,23 +11653,23 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
                     "Video projektorius", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Lobby", 
                 "configurations": [
@@ -11686,23 +11686,23 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
                     "Video projektorius", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Lobby+Beta", 
                 "configurations": [
@@ -11719,22 +11719,22 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
                     "Video projektorius", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Omega", 
                 "configurations": [
@@ -11743,7 +11743,7 @@ hotels = ([
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }, 
                     {
@@ -11767,22 +11767,22 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
                     "Video projektorius", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Omikron", 
                 "configurations": [
@@ -11791,7 +11791,7 @@ hotels = ([
                         "people": 24
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 12
                     }, 
                     {
@@ -11811,22 +11811,22 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
                     "Video projektorius", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Sigma", 
                 "configurations": [
@@ -11843,22 +11843,22 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
                     "Video projektorius", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Tau", 
                 "configurations": [
@@ -11867,7 +11867,7 @@ hotels = ([
                         "people": 35
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 18
                     }, 
                     {
@@ -11887,22 +11887,22 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
                     "Video projektorius", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Theta", 
                 "configurations": [
@@ -11911,7 +11911,7 @@ hotels = ([
                         "people": 80
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 35
                     }, 
                     {
@@ -11931,23 +11931,23 @@ hotels = ([
                     "Diktofonas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
                     "Video projektorius", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Zeta", 
                 "configurations": [
@@ -11956,7 +11956,7 @@ hotels = ([
                         "people": 150
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 80
                     }, 
                     {
@@ -11983,27 +11983,27 @@ hotels = ([
     }, 
     {
         "info": {
-            "Inventoriaus nuoma": "Valtys, Vandens dvira\u010diai", 
+            "Inventoriaus nuoma": "Valtys, Vandens dviračiai", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Mitoda\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis", 
+            "Oficialus įm. pavadinimas": "UAB \"Mitoda\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "13", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Biliardas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Kambarių skaičius": "13", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Biliardas, Mašinų stovėjimo aikštelė, Pirtis/Sauna", 
             "Telefonas": "37457579", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2010.12.03", 
-            "El. pa\u0161tas": "info@mitoda.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2010.12.03", 
+            "El. paštas": "info@mitoda.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "37457579", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "26", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "26", 
             "Sveikatingumo paslaugos": "", 
-            "Pramogos": "Sporto aik\u0161tel\u0117", 
-            "Svetain\u0117s adresas": ""
+            "Pramogos": "Sporto aikštelė", 
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -12013,7 +12013,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 48
                     }
                 ]
@@ -12024,31 +12024,31 @@ hotels = ([
             "lng": 24.3402795
         }, 
         "name": "VILA ULA", 
-        "address": "Burokarais\u010dio k., Var\u0117nos r."
+        "address": "Burokaraisčio k., Varėnos r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "Sporto inventorius", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Pirklio baldai\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Pirklio baldai\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "14", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Skalbimas ir valymas", 
+            "Kambarių skaičius": "14", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna, Skalbimas ir valymas", 
             "Telefonas": "44543400", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "hotel@bellavila.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "hotel@bellavila.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "44543400", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "36", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "36", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -12062,25 +12062,25 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Rimvirita\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Rimvirita\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "12", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas", 
+            "Kambarių skaičius": "12", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas", 
             "Telefonas": "301982", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.05.14", 
-            "El. pa\u0161tas": "hotelsfinx@takas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.05.14", 
+            "El. paštas": "hotelsfinx@takas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "301983", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "34", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "34", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -12101,31 +12101,31 @@ hotels = ([
             "lng": 23.9344894
         }, 
         "name": "SFINKSAS", 
-        "address": "Auk\u0161tai\u010di\u0173 g. 55, Kauno m."
+        "address": "Aukštaičių g. 55, Kauno m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Baras, Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"SENI BI\u010cIULIAI\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "11", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
+            "Maitinimo paslaugos": "Baras, Kavinė", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"SENI BIČIULIAI\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "11", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas", 
             "Telefonas": "52126491", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2007.02.06", 
-            "El. pa\u0161tas": "info@senatoriai.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2007.02.06", 
+            "El. paštas": "info@senatoriai.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52126372", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "21", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "21", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -12139,25 +12139,25 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "V\u012e Poilsio namai", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "VĮ Poilsio namai", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "8", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "8", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruoklių salė", 
             "Telefonas": "46048332", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.05.14", 
-            "El. pa\u0161tas": "baltija@is.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.05.14", 
+            "El. paštas": "baltija@is.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46049226", 
-            "Klas\u0117": "5*", 
-            "Viet\u0173 skai\u010dius": "16", 
+            "Klasė": "5*", 
+            "Vietų skaičius": "16", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -12195,26 +12195,26 @@ hotels = ([
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "Bendra JAV - Lietuvos \u012fmon\u0117  UAB \"Adelita\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "Bendra JAV - Lietuvos įmonė  UAB \"Adelita\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "32", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Pirtis/Sauna, Po\u017eeminis gara\u017eas", 
+            "Kambarių skaičius": "32", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Pirtis/Sauna, Požeminis garažas", 
             "Telefonas": "52329404", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.02.01", 
-            "El. pa\u0161tas": "info@adelita.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.02.01", 
+            "El. paštas": "info@adelita.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52136463", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "63", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "63", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -12222,63 +12222,63 @@ hotels = ([
             "lng": 25.2785548
         }, 
         "name": "ADELITA", 
-        "address": "Rod\u016bnios kelias 8, Vilniaus m."
+        "address": "Rodūnios kelias 8, Vilniaus m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"TEL\u0160I\u0172 VIE\u0160BUTIS\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"TELŠIŲ VIEŠBUTIS\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "19", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "19", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "44453292", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.07.30", 
-            "El. pa\u0161tas": "tkeliai@centras.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.07.30", 
+            "El. paštas": "tkeliai@centras.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "44469261", 
-            "Klas\u0117": "1*", 
-            "Viet\u0173 skai\u010dius": "52", 
+            "Klasė": "1*", 
+            "Vietų skaičius": "52", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
             "lat": 55.9835785, 
             "lng": 22.2508131
         }, 
-        "name": "TEL\u0160I\u0172 VIE\u0160BUTIS", 
-        "address": "Tel\u0161i\u0173 r. sav., Tel\u0161i\u0173 sen., Tel\u0161iai, K\u0119stu\u010dio g. 21"
+        "name": "TELŠIŲ VIEŠBUTIS", 
+        "address": "Telšių r. sav., Telšių sen., Telšiai, Kęstučio g. 21"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Mikotelgroup\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Mikotelgroup\"", 
+            "Priėmimo mėn.": "", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "52738003", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.05.14", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.05.14", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52163789", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -12292,25 +12292,25 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"FARMIS IR PARTNERIAI\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"FARMIS IR PARTNERIAI\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "18", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "18", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "46048360", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.02.01", 
-            "El. pa\u0161tas": "viladiemedis@gmail.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.02.01", 
+            "El. paštas": "viladiemedis@gmail.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46048360", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "36", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "36", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -12323,26 +12323,26 @@ hotels = ([
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Baras, Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"RIKTA BALTIC\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Baras, Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"RIKTA BALTIC\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "33", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas", 
+            "Kambarių skaičius": "33", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Seifas", 
             "Telefonas": "45401010", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.06.07", 
-            "El. pa\u0161tas": "hotel@sermutas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.06.07", 
+            "El. paštas": "hotel@sermutas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "45401015", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "82", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "82", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -12354,7 +12354,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 100
                     }
                 ]
@@ -12368,7 +12368,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 150
                     }
                 ]
@@ -12382,7 +12382,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 50
                     }
                 ]
@@ -12392,32 +12392,32 @@ hotels = ([
             "lat": 55.7449906, 
             "lng": 24.4237981
         }, 
-        "name": "\u0160ERMUTAS", 
-        "address": "Tinkl\u0173 g. 51, Panev\u0117\u017eio m."
+        "name": "ŠERMUTAS", 
+        "address": "Tinklų g. 51, Panevėžio m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"INDOVOX\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"INDOVOX\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "23", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas", 
+            "Kambarių skaičius": "23", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Seifas", 
             "Telefonas": "46048928", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.04.19", 
-            "El. pa\u0161tas": "reservation@balticinn.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.04.19", 
+            "El. paštas": "reservation@balticinn.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46030399", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "53", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "53", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -12430,26 +12430,26 @@ hotels = ([
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"LAGIVA\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"LAGIVA\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "10", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Kambarių skaičius": "10", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna", 
             "Telefonas": "38670171", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "lagiva@gabriella.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "lagiva@gabriella.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "38670151", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "18", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "18", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -12459,7 +12459,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 25
                     }
                 ]
@@ -12470,43 +12470,43 @@ hotels = ([
             "lng": 25.5856338
         }, 
         "name": "GABRIELLA", 
-        "address": "Jaunyst\u0117s g. 21, Visagino m., Visagino sav."
+        "address": "Jaunystės g. 21, Visagino m., Visagino sav."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Baras, Kavin\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB\"JUNGTINIS TURTO CENTRAS\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Baras, Kavinė, Restoranas", 
+            "Oficialus įm. pavadinimas": "UAB\"JUNGTINIS TURTO CENTRAS\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "91", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Vaik\u0173 prie\u017eiura", 
+            "Kambarių skaičius": "91", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Vaikų priežiura", 
             "Telefonas": "37407500", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.12.22", 
-            "El. pa\u0161tas": "kaunas@europaroyale.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "Internetinis ry\u0161ys", 
+            "Klasė suteikta iki": "2013.12.22", 
+            "El. paštas": "kaunas@europaroyale.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "Internetinis ryšys", 
             "Faksas": "37407501", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "180", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "180", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 8
                     }
                 ]
@@ -12515,12 +12515,12 @@ hotels = ([
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }
                 ]
@@ -12529,12 +12529,12 @@ hotels = ([
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }
                 ]
@@ -12543,12 +12543,12 @@ hotels = ([
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }
                 ]
@@ -12557,12 +12557,12 @@ hotels = ([
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }
                 ]
@@ -12571,12 +12571,12 @@ hotels = ([
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 200
                     }
                 ]
@@ -12585,12 +12585,12 @@ hotels = ([
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 250
                     }
                 ]
@@ -12599,12 +12599,12 @@ hotels = ([
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 200
                     }
                 ]
@@ -12615,41 +12615,41 @@ hotels = ([
             "lng": 23.9221505
         }, 
         "name": "EUROPA ROYALE HOTEL KAUNAS", 
-        "address": "Mi\u0161ko g. 11, Kaunas"
+        "address": "Miško g. 11, Kaunas"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Rada\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Rada\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "23", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Kambarių skaičius": "23", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna", 
             "Telefonas": "46052379", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.06.07", 
-            "El. pa\u0161tas": "info@kerpehotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.06.07", 
+            "El. paštas": "info@kerpehotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46052349", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "66", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "66", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     ""
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "name": "Konferencijų salė", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 40
                     }
                 ]
@@ -12658,10 +12658,10 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "name": "Konferencijų salė", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 20
                     }
                 ]
@@ -12671,32 +12671,32 @@ hotels = ([
             "lat": 55.9150632, 
             "lng": 21.0649101
         }, 
-        "name": "KERP\u0116", 
+        "name": "KERPĖ", 
         "address": "Vytauto g. 76, Palangos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"VILNIAUS NARUTIS\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė, Restoranas", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"VILNIAUS NARUTIS\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "50", 
-            "Priklausomyb\u0117 tinklui": "Summit hotels&Resorts", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "50", 
+            "Priklausomybė tinklui": "Summit hotels&Resorts", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "52610981", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "narutis@narutis.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "narutis@narutis.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52610981", 
-            "Klas\u0117": "5*", 
-            "Viet\u0173 skai\u010dius": "83", 
+            "Klasė": "5*", 
+            "Vietų skaičius": "83", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -12705,15 +12705,15 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "TV", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "", 
                 "configurations": [
@@ -12722,7 +12722,7 @@ hotels = ([
                         "people": 120
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 70
                     }, 
                     {
@@ -12741,14 +12741,14 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
                     "Video grotuvas"
@@ -12760,7 +12760,7 @@ hotels = ([
                         "people": 55
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -12779,14 +12779,14 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
                     "Video grotuvas"
@@ -12798,7 +12798,7 @@ hotels = ([
                         "people": 35
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 25
                     }, 
                     {
@@ -12822,26 +12822,26 @@ hotels = ([
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Kop\u0173 \u017eaismas\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"Kopų žaismas\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "21", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "21", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas, Treniruoklių salė", 
             "Telefonas": "46052324", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2011.03.03", 
-            "El. pa\u0161tas": "kopuzaismas@one.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2011.03.03", 
+            "El. paštas": "kopuzaismas@one.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46051175", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "49", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "49", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -12851,7 +12851,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -12871,7 +12871,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -12889,32 +12889,32 @@ hotels = ([
             "lat": 55.9119677, 
             "lng": 21.0571086
         }, 
-        "name": "TULP\u0116", 
-        "address": "S. Dariaus ir S. Gir\u0117no g. 11, Palangos m."
+        "name": "TULPĖ", 
+        "address": "S. Dariaus ir S. Girėno g. 11, Palangos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "L. \u017delvio VM\u012e \"Goda\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "L. Želvio VMĮ \"Goda\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "13", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "13", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "46030320", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2011.07.29", 
-            "El. pa\u0161tas": "lasashotel@gmail.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2011.07.29", 
+            "El. paštas": "lasashotel@gmail.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46030321", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "28", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "28", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -12934,32 +12934,32 @@ hotels = ([
             "lat": 55.9184962, 
             "lng": 21.0583097
         }, 
-        "name": "LA\u0160AS", 
-        "address": "J. Basanavi\u010diaus g. 29, Palangos m."
+        "name": "LAŠAS", 
+        "address": "J. Basanavičiaus g. 29, Palangos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Runmis\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "29", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Runmis\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "29", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "52656816", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "2724141", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "40", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "40", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -12967,59 +12967,59 @@ hotels = ([
             "lng": 25.2800243
         }, 
         "name": "RUNMIS", 
-        "address": "Paneb\u0117\u017eio 8A, Vilnius"
+        "address": "Panebėžio 8A, Vilnius"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Banketin\u0117 sal\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"KAROLINOS TURAS\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "100", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Biliardas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Skalbimas ir valymas, Teniso kortai, Treniruokli\u0173 sal\u0117, Valiutos keitykla", 
+            "Maitinimo paslaugos": "Banketinė salė, Restoranas", 
+            "Oficialus įm. pavadinimas": "UAB \"KAROLINOS TURAS\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "100", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Biliardas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Skalbimas ir valymas, Teniso kortai, Treniruoklių salė, Valiutos keitykla", 
             "Telefonas": "52168945", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.11", 
-            "El. pa\u0161tas": "info@karolina.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.11", 
+            "El. paštas": "info@karolina.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52169341", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "", 
             "Sveikatingumo paslaugos": "", 
-            "Pramogos": "Boulingas, Interneto kavin\u0117", 
-            "Svetain\u0117s adresas": ""
+            "Pramogos": "Boulingas, Interneto kavinė", 
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Did\u017eioji konferencij\u0173 sal\u0117", 
+                "name": "Didžioji konferencijų salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 600
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 248
                     }, 
                     {
@@ -13032,14 +13032,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Konferencij\u0173 sal\u0117 200", 
+                "name": "Konferencijų salė 200", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 147
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 72
                     }, 
                     {
@@ -13052,14 +13052,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "M\u0117lynoji sal\u0117", 
+                "name": "Mėlynoji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }, 
                     {
@@ -13072,14 +13072,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Pirmo auk\u0161to konferencij\u0173 sal\u0117", 
+                "name": "Pirmo aukšto konferencijų salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 200
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 80
                     }, 
                     {
@@ -13092,14 +13092,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Semianar\u0173 sal\u0117 4", 
+                "name": "Semianarų salė 4", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 20
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 10
                     }, 
                     {
@@ -13112,14 +13112,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Seminar\u0173 sal\u0117 2", 
+                "name": "Seminarų salė 2", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -13132,14 +13132,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Seminar\u0173 sal\u0117 3", 
+                "name": "Seminarų salė 3", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 26
                     }, 
                     {
@@ -13152,14 +13152,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Seminar\u0173 sal\u0117 5", 
+                "name": "Seminarų salė 5", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 53
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -13172,14 +13172,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Seminar\u0173 sal\u0117 6", 
+                "name": "Seminarų salė 6", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 70
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 40
                     }, 
                     {
@@ -13192,14 +13192,14 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Seminar\u0173 sal\u0117 7", 
+                "name": "Seminarų salė 7", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 75
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 32
                     }, 
                     {
@@ -13212,7 +13212,7 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Siminar\u0173 sal\u0117 1", 
+                "name": "Siminarų salė 1", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -13232,25 +13232,25 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Sekm\u0117s tiltas\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "14", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Oficialus įm. pavadinimas": "UAB \"Sekmės tiltas\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "14", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Treniruoklių salė", 
             "Telefonas": "46410077", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2006.11.10", 
-            "El. pa\u0161tas": "hotel@nese.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2006.11.10", 
+            "El. paštas": "hotel@nese.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46410088", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "27", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "27", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -13270,64 +13270,64 @@ hotels = ([
             "lat": 55.71080260000001, 
             "lng": 21.1318065
         }, 
-        "name": "NES\u0116", 
-        "address": "Klaip\u0117dos m. sav., Klaip\u0117da, Sportinink\u0173 g. 46"
+        "name": "NESĖ", 
+        "address": "Klaipėdos m. sav., Klaipėda, Sportininkų g. 46"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "Sporto inventorius", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Senjor\u0173 rezidencija\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Senjorų rezidencija\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "78", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Gara\u017eas, Seifas, Skalbimas ir valymas, Vaik\u0173 prie\u017eiura", 
+            "Kambarių skaičius": "78", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Garažas, Seifas, Skalbimas ir valymas, Vaikų priežiura", 
             "Telefonas": "31962030", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.04.28", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.04.28", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31962031", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "147", 
-            "Sveikatingumo paslaugos": "Klasikinis masa\u017eas, Manualin\u0117 kineziterapija, Vaista\u017eoli\u0173 vonios (mineralinio vandens pagrindu)", 
-            "Pramogos": "Sporto aik\u0161tel\u0117", 
-            "Svetain\u0117s adresas": ""
+            "Klasė": "4*", 
+            "Vietų skaičius": "147", 
+            "Sveikatingumo paslaugos": "Klasikinis masažas, Manualinė kineziterapija, Vaistažolių vonios (mineralinio vandens pagrindu)", 
+            "Pramogos": "Sporto aikštelė", 
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
             "lat": 54.6062875, 
             "lng": 23.9997481
         }, 
-        "name": "KARALI\u0160KOJI REZIDENCIJA", 
-        "address": "Pakaln\u0117s g. 3, Bir\u0161tonas"
+        "name": "KARALIŠKOJI REZIDENCIJA", 
+        "address": "Pakalnės g. 3, Birštonas"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "Arvydo Petrulio \u012fmon\u0117", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "Arvydo Petrulio įmonė", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "18", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "18", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
             "Telefonas": "34754823", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "hotel@grejausnamas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "Fakso aparatas, Internetinis ry\u0161ys, Kopijavimo aparatas", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "hotel@grejausnamas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "Fakso aparatas, Internetinis ryšys, Kopijavimo aparatas", 
             "Faksas": "34754923", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "33", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "33", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -13335,7 +13335,7 @@ hotels = ([
                     "CD grotuvas", 
                     "DVD grotuvas", 
                     "Ekranas", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
@@ -13348,7 +13348,7 @@ hotels = ([
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 50
                     }, 
                     {
@@ -13362,32 +13362,32 @@ hotels = ([
             "lat": 54.6621276, 
             "lng": 25.503181
         }, 
-        "name": "GR\u0116JAUS NAMAS", 
-        "address": "Did\u017eioji g. 36, K\u0117daini\u0173 m., K\u0117daini\u0173 r."
+        "name": "GRĖJAUS NAMAS", 
+        "address": "Didžioji g. 36, Kėdainių m., Kėdainių r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"JONI\u0160KIO AUDRUVIS\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"JONIŠKIO AUDRUVIS\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "13", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas", 
+            "Kambarių skaičius": "13", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Seifas", 
             "Telefonas": "61626951", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "info@horseaudruvis.lt", 
-            "Pramogos ne\u012fgaliesiems": "Interneto kavin\u0117", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "info@horseaudruvis.lt", 
+            "Pramogos neįgaliesiems": "Interneto kavinė", 
+            "Verslo centro įranga": "", 
             "Faksas": "42651230", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "25", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "25", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -13397,7 +13397,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 70
                     }
                 ]
@@ -13408,45 +13408,45 @@ hotels = ([
             "lng": 23.6089941
         }, 
         "name": "AUDRUVIS", 
-        "address": "V. Kudirkos g. 93, Joni\u0161kio m., Joni\u0161kio r."
+        "address": "V. Kudirkos g. 93, Joniškio m., Joniškio r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Pusry\u010diai", 
-            "Oficialus \u012fm. pavadinimas": "I\u012e \"Rinno\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Pusryčiai", 
+            "Oficialus įm. pavadinimas": "IĮ \"Rinno\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "15", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Po\u017eeminis gara\u017eas, Seifas, Skalbimas ir valymas, Suvenyr\u0173 parduotuv\u0117", 
+            "Kambarių skaičius": "15", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Požeminis garažas, Seifas, Skalbimas ir valymas, Suvenyrų parduotuvė", 
             "Telefonas": "2622828", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.06.07", 
-            "El. pa\u0161tas": "info@rinno.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "Fakso aparatas, Internetinis ry\u0161ys, Kopijavimo aparatas", 
+            "Klasė suteikta iki": "2015.06.07", 
+            "El. paštas": "info@rinno.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "Fakso aparatas, Internetinis ryšys, Kopijavimo aparatas", 
             "Faksas": "2625929", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "30", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "30", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     ""
                 ], 
-                "name": "Raudonmed\u017eio sal\u0117", 
+                "name": "Raudonmedžio salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 35
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -13481,95 +13481,95 @@ hotels = ([
             "lng": 25.2795414
         }, 
         "name": "RINNO", 
-        "address": "Vingri\u0173 g. 25, Vilniaus m."
+        "address": "Vingrių g. 25, Vilniaus m."
     }, 
     {
         "info": {
-            "Inventoriaus nuoma": "Dvira\u010diai", 
-            "Maitinimo paslaugos": "Pusry\u010diai", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"VIT\u0116\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "15", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
+            "Inventoriaus nuoma": "Dviračiai", 
+            "Maitinimo paslaugos": "Pusryčiai", 
+            "Oficialus įm. pavadinimas": "UAB \"VITĖ\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "15", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas", 
             "Telefonas": "46490490", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.03.31", 
-            "El. pa\u0161tas": "hotel@airibe.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.03.31", 
+            "El. paštas": "hotel@airibe.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46940942", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "22", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "22", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
             "lat": 55.7097655, 
             "lng": 21.1447652
         }, 
-        "name": "ARIB\u0116", 
-        "address": "Bang\u0173 g. 19, Klaip\u0117da"
+        "name": "ARIBĖ", 
+        "address": "Bangų g. 19, Klaipėda"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"VALERESA\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "31", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
+            "Oficialus įm. pavadinimas": "UAB \"VALERESA\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "31", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas", 
             "Telefonas": "", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.07.20", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.07.20", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "87001413", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "94", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "94", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
             "lat": 55.918238, 
             "lng": 21.0727495
         }, 
-        "name": "PALANGOS JUZ\u0116", 
-        "address": "Virbali\u0161k\u0117s takas 2, Palangos m."
+        "name": "PALANGOS JUZĖ", 
+        "address": "Virbališkės takas 2, Palangos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB\"Mimina\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "116", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Oficialus įm. pavadinimas": "UAB\"Mimina\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "116", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "38674858", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "38650686", 
-            "Klas\u0117 suteikta iki": "2009.11.26", 
-            "El. pa\u0161tas": "hotel@sugardas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2009.11.26", 
+            "El. paštas": "hotel@sugardas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "38650685", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "172", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "172", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -13582,7 +13582,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 20
                     }
                 ]
@@ -13592,42 +13592,42 @@ hotels = ([
             "lat": 55.5981335, 
             "lng": 26.4350517
         }, 
-        "name": "AUK\u0160TAITIJA", 
-        "address": "Veteran\u0173 g. 9, Visagino m., Visagino sav."
+        "name": "AUKŠTAITIJA", 
+        "address": "Veteranų g. 9, Visagino m., Visagino sav."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117, Pusry\u010diai", 
-            "Oficialus \u012fm. pavadinimas": "V\u0161\u012e \"Naujosios Akmen\u0117s sanatorija\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė, Pusryčiai", 
+            "Oficialus įm. pavadinimas": "VšĮ \"Naujosios Akmenės sanatorija\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "14", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "14", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Treniruoklių salė", 
             "Telefonas": "42556536", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.07.30", 
-            "El. pa\u0161tas": "sanatorija9@yahoo.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.07.30", 
+            "El. paštas": "sanatorija9@yahoo.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "42556469", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "20", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "20", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     ""
                 ], 
-                "name": "konferencij\u0173 sal\u0117", 
+                "name": "konferencijų salė", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 80
                     }, 
                     {
@@ -13641,32 +13641,32 @@ hotels = ([
             "lat": 56.3191315, 
             "lng": 22.8741132
         }, 
-        "name": "NAUJOSIOS AKMEN\u0116S VIE\u0160BUTIS", 
-        "address": "Respublikos g. 11A, Naujosios Akmen\u0117s m., Akmen\u0117s r."
+        "name": "NAUJOSIOS AKMENĖS VIEŠBUTIS", 
+        "address": "Respublikos g. 11A, Naujosios Akmenės m., Akmenės r."
     }, 
     {
         "info": {
-            "Inventoriaus nuoma": "Dvira\u010diai", 
+            "Inventoriaus nuoma": "Dviračiai", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Transmedos valda\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Transmedos valda\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "128", 
-            "Priklausomyb\u0117 tinklui": "EUROPA GROUP", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117, Vaik\u0173 prie\u017eiura, Valiutos keitykla", 
+            "Kambarių skaičius": "128", 
+            "Priklausomybė tinklui": "EUROPA GROUP", 
+            "Papildomos paslaugos": "Automobilių nuoma, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruoklių salė, Vaikų priežiura, Valiutos keitykla", 
             "Telefonas": "52514477", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.07.30", 
-            "El. pa\u0161tas": "city@hoteleuropa.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.07.30", 
+            "El. paštas": "city@hoteleuropa.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52514476", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "256", 
-            "Sveikatingumo paslaugos": "Klasikinis masa\u017eas", 
-            "Pramogos": "Interneto kavin\u0117", 
-            "Svetain\u0117s adresas": ""
+            "Klasė": "3*", 
+            "Vietų skaičius": "256", 
+            "Sveikatingumo paslaugos": "Klasikinis masažas", 
+            "Pramogos": "Interneto kavinė", 
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -13675,30 +13675,30 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "name": "Didžioji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 150
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 80
                     }, 
                     {
@@ -13721,30 +13721,30 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Rytin\u0117 sal\u0117", 
+                "name": "Rytinė salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 35
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 20
                     }, 
                     {
@@ -13767,30 +13767,30 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Vakarin\u0117 sal\u0117", 
+                "name": "Vakarinė salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 45
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 20
                     }, 
                     {
@@ -13813,30 +13813,30 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "1 sal\u0117", 
+                "name": "1 salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 75
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 60
                     }, 
                     {
@@ -13859,30 +13859,30 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "2 sal\u0117", 
+                "name": "2 salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 35
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 25
                     }, 
                     {
@@ -13911,25 +13911,25 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"Palangos centrin\u0117 universalin\u0117 parduotuv\u0117\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"Palangos centrinė universalinė parduotuvė\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "46052202", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2002.07.14", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2002.07.14", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46053445", 
-            "Klas\u0117": "1*", 
-            "Viet\u0173 skai\u010dius": "", 
+            "Klasė": "1*", 
+            "Vietų skaičius": "", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -13943,25 +13943,25 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"GILIJA\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"GILIJA\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "16", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "16", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "Baseinas, Pirtis/Sauna, Seifas", 
             "Telefonas": "44161641", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "44152572", 
-            "Klas\u0117 suteikta iki": "2015.04.19", 
-            "El. pa\u0161tas": "info@silutesgilija.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.04.19", 
+            "El. paštas": "info@silutesgilija.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "44161643", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "32", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "32", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -14006,38 +14006,38 @@ hotels = ([
             "lng": 24.768816
         }, 
         "name": "GILIJA", 
-        "address": "Vytauto g. 17, \u0160ilut\u0117s m., \u0160ilut\u0117s r."
+        "address": "Vytauto g. 17, Šilutės m., Šilutės r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Palvos vie\u0161butis\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"Palvos viešbutis\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "17", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "17", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "Baseinas, Pirtis/Sauna, Seifas", 
             "Telefonas": "46471888", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.12.22", 
-            "El. pa\u0161tas": "info@palva.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.12.22", 
+            "El. paštas": "info@palva.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46471666", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "30", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "30", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
-                    "Ra\u0161ymo lenta"
+                    "Rašymo lenta"
                 ], 
                 "name": "", 
                 "configurations": [
@@ -14053,31 +14053,31 @@ hotels = ([
             "lng": 21.1318065
         }, 
         "name": "PALVA", 
-        "address": "Statybinink\u0173 pr. 7, Klaip\u0117dos m."
+        "address": "Statybininkų pr. 7, Klaipėdos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Sald\u017eius\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Saldžius\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "30", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "30", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "2311435", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.05.17", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.05.17", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "2311435", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "60", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "60", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -14085,31 +14085,31 @@ hotels = ([
             "lng": 25.2800243
         }, 
         "name": "VELGA", 
-        "address": "Vilniaus m. sav., Vilnius, Gele\u017einio Vilko g. 3"
+        "address": "Vilniaus m. sav., Vilnius, Geležinio Vilko g. 3"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "R.Barausko \u012fmon\u0117 \"Tomas\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė, Restoranas", 
+            "Oficialus įm. pavadinimas": "R.Barausko įmonė \"Tomas\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "33", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Baseinas su srov\u0117mis, Biliardas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "33", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Baseinas su srovėmis, Biliardas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Treniruoklių salė", 
             "Telefonas": "41415150", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "info@hoteltomas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "info@hoteltomas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "41455541", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "53", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "53", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -14120,7 +14120,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 70
                     }
                 ]
@@ -14131,43 +14131,43 @@ hotels = ([
             "lng": 23.2837387
         }, 
         "name": "TOMAS", 
-        "address": "Til\u017e\u0117s g. 63A, \u0160iauli\u0173 m."
+        "address": "Tilžės g. 63A, Šiaulių m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"PALANGOS VERSM\u0116\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"PALANGOS VERSMĖ\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "25", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Kambarių skaičius": "25", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna", 
             "Telefonas": "46056450", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "46056420", 
-            "Klas\u0117 suteikta iki": "2013.12.22", 
-            "El. pa\u0161tas": "viesbutis@pkmeduza.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.12.22", 
+            "El. paštas": "viesbutis@pkmeduza.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46048148", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "50", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "50", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
                     "Video grotuvas"
@@ -14179,7 +14179,7 @@ hotels = ([
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 28
                     }, 
                     {
@@ -14194,32 +14194,32 @@ hotels = ([
             }
         ], 
         "coords": null, 
-        "name": "MED\u016aZA", 
-        "address": "Palangos m. sav., Palanga, Kontinink\u0173 g. 9"
+        "name": "MEDŪZA", 
+        "address": "Palangos m. sav., Palanga, Kontininkų g. 9"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"AAA Astorija\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"AAA Astorija\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "120", 
-            "Priklausomyb\u0117 tinklui": "REZIDOR SAS", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "120", 
+            "Priklausomybė tinklui": "REZIDOR SAS", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Treniruoklių salė", 
             "Telefonas": "52120110", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "info.vilnius@radissonsas.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "info.vilnius@radissonsas.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52121762", 
-            "Klas\u0117": "5*", 
-            "Viet\u0173 skai\u010dius": "221", 
+            "Klasė": "5*", 
+            "Vietų skaičius": "221", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -14230,19 +14230,19 @@ hotels = ([
                     "Diskusiniai mikrofonai", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Arija", 
                 "configurations": [
@@ -14264,19 +14264,19 @@ hotels = ([
                     "Diskusiniai mikrofonai", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Fuga", 
                 "configurations": [
@@ -14294,19 +14294,19 @@ hotels = ([
                     "Diskusiniai mikrofonai", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Oktava", 
                 "configurations": [
@@ -14324,21 +14324,21 @@ hotels = ([
                     "Diskusiniai mikrofonai", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Simfonija 1", 
                 "configurations": [
@@ -14347,7 +14347,7 @@ hotels = ([
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -14368,21 +14368,21 @@ hotels = ([
                     "Diskusiniai mikrofonai", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Simfonija 1+2", 
                 "configurations": [
@@ -14391,7 +14391,7 @@ hotels = ([
                         "people": 130
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 70
                     }, 
                     {
@@ -14412,21 +14412,21 @@ hotels = ([
                     "Diskusiniai mikrofonai", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Simfonija 2", 
                 "configurations": [
@@ -14435,7 +14435,7 @@ hotels = ([
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -14456,21 +14456,21 @@ hotels = ([
                     "Diskusiniai mikrofonai", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Simfonija+Lobby", 
                 "configurations": [
@@ -14479,7 +14479,7 @@ hotels = ([
                         "people": 130
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 100
                     }, 
                     {
@@ -14500,21 +14500,21 @@ hotels = ([
                     "Diskusiniai mikrofonai", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Sonata", 
                 "configurations": [
@@ -14538,31 +14538,31 @@ hotels = ([
             "lng": 25.2877592
         }, 
         "name": "RADISSON BLU ASTORIJA", 
-        "address": "Vilnius, Did\u017eioji g. 35"
+        "address": "Vilnius, Didžioji g. 35"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB DRUSKININK\u0172 VIE\u0160BUTIS \"PU\u0160YNAS\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB DRUSKININKŲ VIEŠBUTIS \"PUŠYNAS\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "70", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "70", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "31356666", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.05.23", 
-            "El. pa\u0161tas": "info@pusynas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.05.23", 
+            "El. paštas": "info@pusynas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31356666", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "140", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "140", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -14571,7 +14571,7 @@ hotels = ([
                     "Grafinis projektorius", 
                     "Multimedia"
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "name": "Konferencijų salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -14583,7 +14583,7 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "name": "Konferencijų salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -14596,32 +14596,32 @@ hotels = ([
             "lat": 54.6893865, 
             "lng": 25.2800243
         }, 
-        "name": "PU\u0160YNAS", 
-        "address": "Vilniaus al. 3, Druskininkai, Druskinink\u0173 sav."
+        "name": "PUŠYNAS", 
+        "address": "Vilniaus al. 3, Druskininkai, Druskininkų sav."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Kop\u0173 l\u016bgn\u0117", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "26", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Oficialus įm. pavadinimas": "UAB \"Kopų lūgnė", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "26", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna", 
             "Telefonas": "46411884", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2010.10.27", 
-            "El. pa\u0161tas": "lugne@pajuris.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2010.10.27", 
+            "El. paštas": "lugne@pajuris.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46411884", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "46", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "46", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -14631,7 +14631,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 15
                     }
                 ]
@@ -14641,32 +14641,32 @@ hotels = ([
             "lat": 55.71080260000001, 
             "lng": 21.1318065
         }, 
-        "name": "L\u016aGN\u0116", 
-        "address": "Klaip\u0117dos m. sav., Klaip\u0117da, Galinio Pylimo g. 16"
+        "name": "LŪGNĖ", 
+        "address": "Klaipėdos m. sav., Klaipėda, Galinio Pylimo g. 16"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Gerdarik\u0117\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Gerdarikė\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "14", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "14", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "Seifas, Skalbimas ir valymas", 
             "Telefonas": "44365658", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.05.14", 
-            "El. pa\u0161tas": "info@rugelishotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.05.14", 
+            "El. paštas": "info@rugelishotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "44366546", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "26", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "26", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -14687,31 +14687,31 @@ hotels = ([
             "lng": 22.3286788
         }, 
         "name": "RUGELIS", 
-        "address": "Ventos 31 A, Ma\u017eeikiai"
+        "address": "Ventos 31 A, Mažeikiai"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Puntuko vie\u0161butis\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Puntuko viešbutis\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "10", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "10", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "Kirpykla, Soliariumas", 
             "Telefonas": "38151345", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.07.30", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.07.30", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "38151345", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "19", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "19", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -14732,38 +14732,38 @@ hotels = ([
             "lng": 23.9530273
         }, 
         "name": "PUNTUKAS", 
-        "address": "A. Baranausko a. 15, Anyk\u0161\u010di\u0173 m., Anyk\u0161\u010di\u0173 r."
+        "address": "A. Baranausko a. 15, Anykščių m., Anykščių r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"Parnid\u017eio kopa\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"Parnidžio kopa\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "13", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117, Turki\u0161ka pirtis", 
+            "Kambarių skaičius": "13", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna, Treniruoklių salė, Turkiška pirtis", 
             "Telefonas": "46952631", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2008.05.12", 
-            "El. pa\u0161tas": "parnidziokopa@is.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2008.05.12", 
+            "El. paštas": "parnidziokopa@is.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46952794", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "23", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "23", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "TV", 
                     "Video grotuvas"
                 ], 
@@ -14780,32 +14780,32 @@ hotels = ([
             "lat": 55.304258, 
             "lng": 21.0013692
         }, 
-        "name": "PARNID\u017dIO KOPA", 
+        "name": "PARNIDŽIO KOPA", 
         "address": "Taikos g. 26, Neringa"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"ASTRUM PALACE\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"ASTRUM PALACE\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "28", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "28", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas", 
             "Telefonas": "44335333", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2009.12.29", 
-            "El. pa\u0161tas": "info@astrum.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2009.12.29", 
+            "El. paštas": "info@astrum.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "44335333", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "50", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "50", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -14817,7 +14817,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 70
                     }
                 ]
@@ -14828,41 +14828,41 @@ hotels = ([
             "lng": 21.5195055
         }, 
         "name": "ASTRUM PALACE", 
-        "address": "Laisv\u0117s g. 7, Ma\u017eeiki\u0173 m., Ma\u017eeiki\u0173 r."
+        "address": "Laisvės g. 7, Mažeikių m., Mažeikių r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Paspara\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"Paspara\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "14", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Po\u017eeminis gara\u017eas, Skalbimas ir valymas, Teniso kortai, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "14", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Požeminis garažas, Skalbimas ir valymas, Teniso kortai, Treniruoklių salė", 
             "Telefonas": "52660730", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.06.07", 
-            "El. pa\u0161tas": "info@e-guesthouse.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.06.07", 
+            "El. paštas": "info@e-guesthouse.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52335710", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "25", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "25", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "Sveikatingumo klubas", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     ""
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "name": "Konferencijų salė", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 60
                     }
                 ]
@@ -14873,31 +14873,31 @@ hotels = ([
             "lng": 25.2658015
         }, 
         "name": "E-GUEST HOUSE", 
-        "address": "T. \u0160ev\u010denkos g. 16, Vilniaus m."
+        "address": "T. Ševčenkos g. 16, Vilniaus m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Laimoza", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Laimoza", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "13", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "13", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Pirtis/Sauna, Treniruoklių salė", 
             "Telefonas": "41436555", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "saulinink@splius.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "saulinink@splius.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "41421848", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "32", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "32", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -14918,31 +14918,31 @@ hotels = ([
             "lng": 23.3142194
         }, 
         "name": "SAULININKAS", 
-        "address": "\u0160iauli\u0173 m. sav., \u0160iauliai, S. Lukauskio g. 5A"
+        "address": "Šiaulių m. sav., Šiauliai, S. Lukauskio g. 5A"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"AIRARAT\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė, Restoranas", 
+            "Oficialus įm. pavadinimas": "UAB \"AIRARAT\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "27", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Kambarių skaičius": "27", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Mašinų stovėjimo aikštelė, Pirtis/Sauna", 
             "Telefonas": "46400880", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.12.22", 
-            "El. pa\u0161tas": "info@ararat.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.12.22", 
+            "El. paštas": "info@ararat.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46400411", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "62", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "62", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -14952,7 +14952,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 35
                     }
                 ]
@@ -14963,63 +14963,63 @@ hotels = ([
             "lng": 21.1433037
         }, 
         "name": "ARARAT", 
-        "address": "Liep\u0173 g. 48A, Klaip\u0117dos m."
+        "address": "Liepų g. 48A, Klaipėdos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "L.Kareivos individuali \u012fmon\u0117", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "L.Kareivos individuali įmonė", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "7", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "7", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "46953101", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.07.20", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.07.20", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46953101", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "18", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "18", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
             "lat": 55.5318433, 
             "lng": 21.1172813
         }, 
-        "name": "KUR\u0116NAS", 
-        "address": "L. R\u0117zos g. 10, Neringa"
+        "name": "KURĖNAS", 
+        "address": "L. Rėzos g. 10, Neringa"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "AB \"Hotel Panorama\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "AB \"Hotel Panorama\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "224", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "224", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "52338822", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.06.07", 
-            "El. pa\u0161tas": "reservation@mikotelgroup.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.06.07", 
+            "El. paštas": "reservation@mikotelgroup.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52338832", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "408", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "408", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -15033,7 +15033,7 @@ hotels = ([
                         "people": 90
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 52
                     }, 
                     {
@@ -15053,7 +15053,7 @@ hotels = ([
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -15073,7 +15073,7 @@ hotels = ([
                         "people": 72
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 44
                     }, 
                     {
@@ -15093,7 +15093,7 @@ hotels = ([
                         "people": 120
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 66
                     }, 
                     {
@@ -15113,7 +15113,7 @@ hotels = ([
                         "people": 300
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 170
                     }, 
                     {
@@ -15133,7 +15133,7 @@ hotels = ([
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 32
                     }, 
                     {
@@ -15153,7 +15153,7 @@ hotels = ([
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -15173,7 +15173,7 @@ hotels = ([
                         "people": 90
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 42
                     }, 
                     {
@@ -15193,7 +15193,7 @@ hotels = ([
                         "people": 30
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 20
                     }, 
                     {
@@ -15221,7 +15221,7 @@ hotels = ([
                         "people": 25
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 12
                     }, 
                     {
@@ -15241,7 +15241,7 @@ hotels = ([
                         "people": 65
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 32
                     }, 
                     {
@@ -15256,31 +15256,31 @@ hotels = ([
             "lng": 25.2800243
         }, 
         "name": "PANORAMA", 
-        "address": "Vilniaus m. sav., Vilnius, Sod\u0173 g. 14"
+        "address": "Vilniaus m. sav., Vilnius, Sodų g. 14"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Trys lelijos\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Trys lelijos\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "20", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "20", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "Seifas, Skalbimas ir valymas", 
             "Telefonas": "31551643", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "61652500", 
-            "Klas\u0117 suteikta iki": "2015.04.19", 
-            "El. pa\u0161tas": "senasnamas@takas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.04.19", 
+            "El. paštas": "senasnamas@takas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31553489", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "37", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "37", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -15294,7 +15294,7 @@ hotels = ([
                         "people": 40
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 40
                     }
                 ]
@@ -15305,42 +15305,42 @@ hotels = ([
             "lng": 24.0460539
         }, 
         "name": "SENAS NAMAS", 
-        "address": "U\u017euolankos g. 24, Alytaus m."
+        "address": "Užuolankos g. 24, Alytaus m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Baras, Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"MINOTEL\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Baras, Kavinė", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"MINOTEL\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "23", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "23", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "37229981", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "37203759", 
-            "Klas\u0117 suteikta iki": "2007.02.06", 
-            "El. pa\u0161tas": "minotel@kaunas.omnitel.net", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2007.02.06", 
+            "El. paštas": "minotel@kaunas.omnitel.net", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "37220355", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "41", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "41", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "Telefonas"
                 ], 
                 "name": "", 
@@ -15350,7 +15350,7 @@ hotels = ([
                         "people": 30
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 20
                     }, 
                     {
@@ -15378,26 +15378,26 @@ hotels = ([
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"KISTELA\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė, Restoranas", 
+            "Oficialus įm. pavadinimas": "UAB \"KISTELA\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "17", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Kambarių skaičius": "17", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna", 
             "Telefonas": "52855595", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.12.22", 
-            "El. pa\u0161tas": "info@asklubas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.12.22", 
+            "El. paštas": "info@asklubas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52851760", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "34", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "34", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -15410,7 +15410,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 40
                     }
                 ]
@@ -15421,31 +15421,31 @@ hotels = ([
             "lng": 24.9305178
         }, 
         "name": "APVALAUS STALO KLUBAS", 
-        "address": "Gilu\u0161io g. 6, Trak\u0173 m., Trak\u0173 r."
+        "address": "Gilušio g. 6, Trakų m., Trakų r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "Lietuvos ir JAV u\u017edaroji akcin\u0117 bendrov\u0117 \"CENTRUM\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "65", 
-            "Priklausomyb\u0117 tinklui": "Centrum", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Oficialus įm. pavadinimas": "Lietuvos ir JAV uždaroji akcinė bendrovė \"CENTRUM\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "65", 
+            "Priklausomybė tinklui": "Centrum", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Treniruoklių salė", 
             "Telefonas": "52660366", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "artis@centrum.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "artis@centrum.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52660377", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "119", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "119", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -15459,7 +15459,7 @@ hotels = ([
                         "people": 160
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 90
                     }, 
                     {
@@ -15483,7 +15483,7 @@ hotels = ([
                         "people": 70
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 50
                     }, 
                     {
@@ -15503,7 +15503,7 @@ hotels = ([
                         "people": 70
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 48
                     }, 
                     {
@@ -15527,7 +15527,7 @@ hotels = ([
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -15547,7 +15547,7 @@ hotels = ([
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -15571,7 +15571,7 @@ hotels = ([
                         "people": 70
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 46
                     }, 
                     {
@@ -15591,7 +15591,7 @@ hotels = ([
                         "people": 24
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 16
                     }, 
                     {
@@ -15611,7 +15611,7 @@ hotels = ([
                         "people": 26
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 18
                     }, 
                     {
@@ -15631,7 +15631,7 @@ hotels = ([
                         "people": 26
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 18
                     }, 
                     {
@@ -15652,25 +15652,25 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Bang\u0173 gatv\u0117s vie\u0161butis\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "50", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
+            "Oficialus įm. pavadinimas": "UAB \"Bangų gatvės viešbutis\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "50", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas", 
             "Telefonas": "46474900", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.06.07", 
-            "El. pa\u0161tas": "sales@memelhotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "Kompiuteris(-iai), Kopijavimo aparatas", 
+            "Klasė suteikta iki": "2015.06.07", 
+            "El. paštas": "sales@memelhotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "Kompiuteris(-iai), Kopijavimo aparatas", 
             "Faksas": "46474955", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "82", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "82", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -15678,31 +15678,31 @@ hotels = ([
             "lng": 21.1409113
         }, 
         "name": "MEMEL HOTEL", 
-        "address": "Bang\u0173 g. 4, Klaip\u0117dos m."
+        "address": "Bangų g. 4, Klaipėdos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \" Poilsio investicija\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \" Poilsio investicija\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "27", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "27", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "31340030", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "hotel@ivolita.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "hotel@ivolita.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31340029", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "54", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "54", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -15712,7 +15712,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 20
                     }
                 ]
@@ -15723,31 +15723,31 @@ hotels = ([
             "lng": 23.9722411
         }, 
         "name": "IVOLITA", 
-        "address": "\u0160v. Jok\u016bbo g. 10, Druskinink\u0173 m., Druskinink\u0173 sav."
+        "address": "Šv. Jokūbo g. 10, Druskininkų m., Druskininkų sav."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Palangos Tauras\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Palangos Tauras\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "11", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "11", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "46040011", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.05.14", 
-            "El. pa\u0161tas": "info@feliksas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.05.14", 
+            "El. paštas": "info@feliksas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46040012", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "35", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "35", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -15760,26 +15760,26 @@ hotels = ([
     {
         "info": {
             "Inventoriaus nuoma": "Sporto inventorius", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"PAKRUOJO PARKAI\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"PAKRUOJO PARKAI\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "10", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "10", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "68241155", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.03.31", 
-            "El. pa\u0161tas": "info@pakruojo-dvaras.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.03.31", 
+            "El. paštas": "info@pakruojo-dvaras.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "19", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "19", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -15800,31 +15800,31 @@ hotels = ([
             "lng": 25.1108597
         }, 
         "name": "STADALA", 
-        "address": "Gureli\u0173 k., \u0160al\u010dinink\u0173 r."
+        "address": "Gurelių k., Šalčininkų r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"Alminga\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"Alminga\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "47", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "47", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Treniruoklių salė", 
             "Telefonas": "46049215", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2006.12.03", 
-            "El. pa\u0161tas": "info@alanga.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2006.12.03", 
+            "El. paštas": "info@alanga.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46049316", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "100", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "100", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -15838,7 +15838,7 @@ hotels = ([
                         "people": 100
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 60
                     }, 
                     {
@@ -15853,31 +15853,31 @@ hotels = ([
             "lng": 21.0608284
         }, 
         "name": "ALANGA", 
-        "address": "S. N\u0117ries g. 14, Palanga"
+        "address": "S. Nėries g. 14, Palanga"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Olizar\u0173 r\u016bmai\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Olizarų rūmai\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "31", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "31", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas, Treniruoklių salė", 
             "Telefonas": "52665885", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "info@shakespeare.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "info@shakespeare.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52665886", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "54", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "54", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -15886,22 +15886,22 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Geltona", 
                 "configurations": [
@@ -15910,7 +15910,7 @@ hotels = ([
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -15933,21 +15933,21 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Raudona", 
                 "configurations": [
@@ -15956,7 +15956,7 @@ hotels = ([
                         "people": 20
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 16
                     }, 
                     {
@@ -15979,30 +15979,30 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "\u017dalia", 
+                "name": "Žalia", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -16025,47 +16025,47 @@ hotels = ([
             "lng": 25.2800243
         }, 
         "name": "SHAKESPEARE", 
-        "address": "Vilniaus m. sav., Vilnius, Bernardin\u0173 g. 8/8"
+        "address": "Vilniaus m. sav., Vilnius, Bernardinų g. 8/8"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Palangos v\u0117tra\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Palangos vėtra\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "51", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "51", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Treniruoklių salė", 
             "Telefonas": "31352566", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.04.19", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.04.19", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31351345", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "93", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "93", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas"
                 ], 
                 "name": "", 
@@ -16075,7 +16075,7 @@ hotels = ([
                         "people": 30
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 20
                     }, 
                     {
@@ -16088,16 +16088,16 @@ hotels = ([
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas"
                 ], 
                 "name": "", 
@@ -16107,7 +16107,7 @@ hotels = ([
                         "people": 120
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 67
                     }, 
                     {
@@ -16122,31 +16122,31 @@ hotels = ([
             "lng": 23.6227714
         }, 
         "name": "DRUSKININKAI", 
-        "address": "V. Kudirkos g. 43, Druskinink\u0173 m., Druskinink\u0173 sav."
+        "address": "V. Kudirkos g. 43, Druskininkų m., Druskininkų sav."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Baras, Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"BALTIJOS PARKAI\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Baras, Kavinė", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"BALTIJOS PARKAI\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "83", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "83", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas", 
             "Telefonas": "52388000", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2010.10.06", 
-            "El. pa\u0161tas": "vilnius@revalinn.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "Fakso aparatas, Internetinis ry\u0161ys, Kopijavimo aparatas", 
+            "Klasė suteikta iki": "2010.10.06", 
+            "El. paštas": "vilnius@revalinn.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "Fakso aparatas, Internetinis ryšys, Kopijavimo aparatas", 
             "Faksas": "52388555", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "166", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "166", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -16155,10 +16155,10 @@ hotels = ([
                     "Ekranas", 
                     "Grafinis projektorius", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Multimedia", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
                     "TV"
                 ], 
@@ -16169,7 +16169,7 @@ hotels = ([
                         "people": 80
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 50
                     }
                 ]
@@ -16185,7 +16185,7 @@ hotels = ([
                         "people": 140
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 60
                     }, 
                     {
@@ -16200,10 +16200,10 @@ hotels = ([
                     "Ekranas", 
                     "Grafinis projektorius", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Multimedia", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
                     "TV"
                 ], 
@@ -16214,7 +16214,7 @@ hotels = ([
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 20
                     }
                 ]
@@ -16225,31 +16225,31 @@ hotels = ([
             "lng": 25.2286319
         }, 
         "name": "REVAL INN VILNIUS", 
-        "address": "Ukmerg\u0117s g. 363, Vilnius"
+        "address": "Ukmergės g. 363, Vilnius"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Reval Hotel Neris\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Reval Hotel Neris\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "37", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "37", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas", 
             "Telefonas": "37306100", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.12.22", 
-            "El. pa\u0161tas": "neris.sales@revalhotels.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.12.22", 
+            "El. paštas": "neris.sales@revalhotels.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "37306200", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "208", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "208", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -16263,7 +16263,7 @@ hotels = ([
                         "people": 450
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 210
                     }, 
                     {
@@ -16283,7 +16283,7 @@ hotels = ([
                         "people": 160
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 84
                     }, 
                     {
@@ -16304,7 +16304,7 @@ hotels = ([
                         "people": 90
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 48
                     }
                 ]
@@ -16321,7 +16321,7 @@ hotels = ([
                         "people": 44
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }
                 ]
@@ -16337,7 +16337,7 @@ hotels = ([
                         "people": 130
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 80
                     }
                 ]
@@ -16354,7 +16354,7 @@ hotels = ([
                         "people": 28
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 12
                     }
                 ]
@@ -16371,7 +16371,7 @@ hotels = ([
                         "people": 40
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }
                 ]
@@ -16388,7 +16388,7 @@ hotels = ([
                         "people": 44
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }
                 ]
@@ -16399,38 +16399,38 @@ hotels = ([
             "lng": 23.9197192
         }, 
         "name": "PARK INN KAUNAS", 
-        "address": "K. Donelai\u010dio g. 27, Kauno m."
+        "address": "K. Donelaičio g. 27, Kauno m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Domus athleticus\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Domus athleticus\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "23", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Po\u017eeminis gara\u017eas, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "23", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Požeminis garažas, Seifas, Skalbimas ir valymas", 
             "Telefonas": "37321505", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.05.23", 
-            "El. pa\u0161tas": "danielahotel@kaunas.omnitel.net", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.05.23", 
+            "El. paštas": "danielahotel@kaunas.omnitel.net", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "37321632", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "43", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "43", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     ""
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "name": "Didžioji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16442,7 +16442,7 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Ma\u017eoji sal\u0117", 
+                "name": "Mažoji salė", 
                 "configurations": [
                     {
                         "name": "Apvalaus stalo stilius", 
@@ -16454,7 +16454,7 @@ hotels = ([
                 "hardware": [
                     ""
                 ], 
-                "name": "Vidutin\u0117 sal\u0117", 
+                "name": "Vidutinė salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16472,31 +16472,31 @@ hotels = ([
             "lng": 23.9174456
         }, 
         "name": "DANIELA", 
-        "address": "A. Mickevi\u010diaus g. 28, Kauno m."
+        "address": "A. Mickevičiaus g. 28, Kauno m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Pusry\u010diai", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"Tyla\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Pusryčiai", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"Tyla\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "16", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "16", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Treniruoklių salė", 
             "Telefonas": "45031191", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2011.07.22", 
-            "El. pa\u0161tas": "hotel@tyla.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2011.07.22", 
+            "El. paštas": "hotel@tyla.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "45031191", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "32", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "32", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -16517,31 +16517,31 @@ hotels = ([
             "lng": 24.7657822
         }, 
         "name": "TYLA", 
-        "address": "Tylos g. 2, Bir\u017eai"
+        "address": "Tylos g. 2, Biržai"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Baras, Kavin\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Plinijus\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Baras, Kavinė, Restoranas", 
+            "Oficialus įm. pavadinimas": "UAB \"Plinijus\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "36", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Pirtis/Sauna, Po\u017eeminis gara\u017eas, Seifas, Skalbimas ir valymas, Teniso kortai", 
+            "Kambarių skaičius": "36", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Pirtis/Sauna, Požeminis garažas, Seifas, Skalbimas ir valymas, Teniso kortai", 
             "Telefonas": "44329212", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.05.14", 
-            "El. pa\u0161tas": "info@plinkseshotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.05.14", 
+            "El. paštas": "info@plinkseshotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "44329212", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "59", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "59", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -16561,32 +16561,32 @@ hotels = ([
             "lat": 56.10803259999999, 
             "lng": 22.1608347
         }, 
-        "name": "PLINK\u0160I\u0172 VIE\u0160BUTIS", 
-        "address": "Plink\u0161i\u0173 k., Ma\u017eeiki\u0173 r."
+        "name": "PLINKŠIŲ VIEŠBUTIS", 
+        "address": "Plinkšių k., Mažeikių r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117, Pusry\u010diai", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Kelioni\u0173 vie\u0161bu\u010diai\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "168", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
+            "Maitinimo paslaugos": "Kavinė, Pusryčiai", 
+            "Oficialus įm. pavadinimas": "UAB \"Kelionių viešbučiai\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "168", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas", 
             "Telefonas": "52102700", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "hotel@ecotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "hotel@ecotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52102707", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "322", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "322", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -16595,19 +16595,19 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Interneto ryšys", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "name": "Konferencijų salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16626,58 +16626,58 @@ hotels = ([
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "Akcin\u0117 bendrov\u0117 \"Panev\u0117\u017eys\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "Akcinė bendrovė \"Panevėžys\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "92", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "92", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "45501603", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "info@hotelpanevezys.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "info@hotelpanevezys.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "45435117", 
-            "Klas\u0117": "1*", 
-            "Viet\u0173 skai\u010dius": "153", 
+            "Klasė": "1*", 
+            "Vietų skaičius": "153", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
             "lat": 55.7293777, 
             "lng": 24.361581
         }, 
-        "name": "PANEV\u0116\u017dYS", 
-        "address": "Laisv\u0117s a. 26, Panev\u0117\u017eys"
+        "name": "PANEVĖŽYS", 
+        "address": "Laisvės a. 26, Panevėžys"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "AB \"Valmeda\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "AB \"Valmeda\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "134", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Po\u017eeminis gara\u017eas, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117, Valiutos keitykla", 
+            "Kambarių skaičius": "134", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna, Požeminis garažas, Seifas, Skalbimas ir valymas, Treniruoklių salė, Valiutos keitykla", 
             "Telefonas": "2103000", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "2103001", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "268", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "268", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -16691,7 +16691,7 @@ hotels = ([
                         "people": 250
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 100
                     }, 
                     {
@@ -16719,7 +16719,7 @@ hotels = ([
                         "people": 40
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 18
                     }, 
                     {
@@ -16747,7 +16747,7 @@ hotels = ([
                         "people": 30
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 12
                     }, 
                     {
@@ -16771,7 +16771,7 @@ hotels = ([
                         "people": 90
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 40
                     }, 
                     {
@@ -16795,7 +16795,7 @@ hotels = ([
                         "people": 30
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 12
                     }, 
                     {
@@ -16814,47 +16814,47 @@ hotels = ([
             "lng": 25.2821337
         }, 
         "name": "HOLIDAY INN VILNIUS", 
-        "address": "\u0160eimyni\u0161ki\u0173 g. 1, Vilniaus m."
+        "address": "Šeimyniškių g. 1, Vilniaus m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"KETURI KALNAI\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė, Restoranas", 
+            "Oficialus įm. pavadinimas": "UAB \"KETURI KALNAI\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "27", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Teniso kortai, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "27", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Teniso kortai, Treniruoklių salė", 
             "Telefonas": "38158520", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.03.31", 
-            "El. pa\u0161tas": "info@keturikalnai.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.03.31", 
+            "El. paštas": "info@keturikalnai.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "38158640", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "55", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "55", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Ekranas", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas"
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "name": "Didžioji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 100
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -16870,17 +16870,17 @@ hotels = ([
             {
                 "hardware": [
                     "Ekranas", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas"
                 ], 
-                "name": "Ma\u017eoji sal\u0117", 
+                "name": "Mažoji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 25
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 12
                     }, 
                     {
@@ -16899,31 +16899,31 @@ hotels = ([
             "lng": 25.1157457
         }, 
         "name": "KETURI KALNAI", 
-        "address": "Liudi\u0161ki\u0173 g. 18, Anyk\u0161\u010di\u0173 m., Anyk\u0161\u010di\u0173 r."
+        "address": "Liudiškių g. 18, Anykščių m., Anykščių r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117, Pusry\u010diai", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"\u0160irvintos vie\u0161butis\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė, Pusryčiai", 
+            "Oficialus įm. pavadinimas": "UAB \"Širvintos viešbutis\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "21", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "21", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "Seifas, Skalbimas ir valymas", 
             "Telefonas": "34251345", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.05.14", 
-            "El. pa\u0161tas": "info@sirvinta.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.05.14", 
+            "El. paštas": "info@sirvinta.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "34253197", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "37", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "37", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -16943,32 +16943,32 @@ hotels = ([
             "lat": 55.4961948, 
             "lng": 25.5846885
         }, 
-        "name": "\u0160IRVINTA", 
-        "address": "J. Basanavi\u010diaus a. 5, Vilkavi\u0161kio m., Vilkavi\u0161kio r."
+        "name": "ŠIRVINTA", 
+        "address": "J. Basanavičiaus a. 5, Vilkaviškio m., Vilkaviškio r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB :RAMUSIS PAMARYS\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB :RAMUSIS PAMARYS\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "75", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "75", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "46490800", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "info.klaipeda@RadissonSAS.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "info.klaipeda@RadissonSAS.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46490815", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "150", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "150", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -16978,7 +16978,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 55
                     }
                 ]
@@ -16990,7 +16990,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 55
                     }
                 ]
@@ -17000,32 +17000,32 @@ hotels = ([
             "lat": 55.3980328, 
             "lng": 22.5420268
         }, 
-        "name": "RADISSON BLU KLAIP\u0116DA", 
-        "address": "\u0160iauli\u0173 g. 28"
+        "name": "RADISSON BLU KLAIPĖDA", 
+        "address": "Šiaulių g. 28"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Baras, Kavin\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"VILLON\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Baras, Kavinė, Restoranas", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"VILLON\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "193", 
-            "Priklausomyb\u0117 tinklui": "Le Meridien", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117, Turki\u0161ka pirtis, Vaik\u0173 prie\u017eiura", 
+            "Kambarių skaičius": "193", 
+            "Priklausomybė tinklui": "Le Meridien", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Treniruoklių salė, Turkiška pirtis, Vaikų priežiura", 
             "Telefonas": "52739700", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "info@lemeridien.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "info@lemeridien.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52739730", 
-            "Klas\u0117": "5*", 
-            "Viet\u0173 skai\u010dius": "382", 
+            "Klasė": "5*", 
+            "Vietų skaičius": "382", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -17034,21 +17034,21 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Adagio", 
                 "configurations": [
@@ -17076,20 +17076,20 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Arnika", 
                 "configurations": [
@@ -17098,7 +17098,7 @@ hotels = ([
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 40
                     }, 
                     {
@@ -17121,21 +17121,21 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Belvedere", 
                 "configurations": [
@@ -17144,7 +17144,7 @@ hotels = ([
                         "people": 650
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 450
                     }, 
                     {
@@ -17167,19 +17167,19 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas"
                 ], 
                 "name": "Grand Opera", 
@@ -17189,7 +17189,7 @@ hotels = ([
                         "people": 1000
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 650
                     }, 
                     {
@@ -17204,20 +17204,20 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Hedera", 
                 "configurations": [
@@ -17226,7 +17226,7 @@ hotels = ([
                         "people": 30
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 20
                     }, 
                     {
@@ -17249,20 +17249,20 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Inula", 
                 "configurations": [
@@ -17271,7 +17271,7 @@ hotels = ([
                         "people": 16
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 12
                     }, 
                     {
@@ -17294,20 +17294,20 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Linaria", 
                 "configurations": [
@@ -17316,7 +17316,7 @@ hotels = ([
                         "people": 16
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 12
                     }, 
                     {
@@ -17339,21 +17339,21 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Salvia", 
                 "configurations": [
@@ -17362,7 +17362,7 @@ hotels = ([
                         "people": 300
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 220
                     }, 
                     {
@@ -17385,21 +17385,21 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Tilia", 
                 "configurations": [
@@ -17408,7 +17408,7 @@ hotels = ([
                         "people": 600
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 500
                     }, 
                     {
@@ -17423,20 +17423,20 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Viola", 
                 "configurations": [
@@ -17445,7 +17445,7 @@ hotels = ([
                         "people": 40
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -17468,16 +17468,16 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Multimedia", 
                     "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas"
                 ], 
                 "name": "Virtuoso", 
@@ -17498,38 +17498,38 @@ hotels = ([
             "lng": 24.8166172
         }, 
         "name": "LE MERIDIEN VILNIUS", 
-        "address": "Greitkelis A2, Vilnius - Ryga 19tas m, E\u017eerai\u010di\u0173 k., Vilniaus r."
+        "address": "Greitkelis A2, Vilnius - Ryga 19tas m, Ežeraičių k., Vilniaus r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "AB \"Takioji neris\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "29", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "AB \"Takioji neris\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "29", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "37321418", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.05.14", 
-            "El. pa\u0161tas": "INFO@CENTREHOTEL.LT", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.05.14", 
+            "El. paštas": "INFO@CENTREHOTEL.LT", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "37321418", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "52", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "52", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Multimedia", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "TV", 
                     "Video grotuvas"
                 ], 
@@ -17540,7 +17540,7 @@ hotels = ([
                         "people": 40
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 40
                     }, 
                     {
@@ -17559,31 +17559,31 @@ hotels = ([
             "lng": 23.8924264
         }, 
         "name": "CENTRE HOTEL NUOVA", 
-        "address": "Kauno m. sav., Kaunas, Savanori\u0173 pr. 66"
+        "address": "Kauno m. sav., Kaunas, Savanorių pr. 66"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"ANDOVA\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė, Restoranas", 
+            "Oficialus įm. pavadinimas": "UAB \"ANDOVA\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "103", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "103", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė", 
             "Telefonas": "52859112", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.06.07", 
-            "El. pa\u0161tas": "info@trasalis.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.06.07", 
+            "El. paštas": "info@trasalis.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52859114", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "206", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "206", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -17593,10 +17593,10 @@ hotels = ([
                     "Mikrofonas", 
                     "Multimedia"
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "name": "Konferencijų salė", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 100
                     }
                 ]
@@ -17607,31 +17607,31 @@ hotels = ([
             "lng": 23.3568465
         }, 
         "name": "TRASALIS", 
-        "address": "Gedimino g. 26, Trak\u0173 m., Trak\u0173 r."
+        "address": "Gedimino g. 26, Trakų m., Trakų r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Juani\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Juani\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "29", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Kambarių skaičius": "29", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna", 
             "Telefonas": "34767224", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.12.22", 
-            "El. pa\u0161tas": "viesbutis@hotelsmilga.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.12.22", 
+            "El. paštas": "viesbutis@hotelsmilga.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "34756626", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "60", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "60", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -17641,7 +17641,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 60
                     }
                 ]
@@ -17652,31 +17652,31 @@ hotels = ([
             "lng": 25.2732003
         }, 
         "name": "SMILGA", 
-        "address": "Senoji g. 16, K\u0117daini\u0173 m., K\u0117daini\u0173 r."
+        "address": "Senoji g. 16, Kėdainių m., Kėdainių r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "G.Gutausko firma \"S\u016aDAVIJA\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "G.Gutausko firma \"SŪDAVIJA\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "10", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "10", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "34352995", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "sudavija@marinet.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "sudavija@marinet.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "34352926", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "14", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "14", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -17697,31 +17697,31 @@ hotels = ([
             "lng": 23.4219765
         }, 
         "name": "SUDAVIJA", 
-        "address": "Sodo g. 1a, Marijampol\u0117"
+        "address": "Sodo g. 1a, Marijampolė"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Respublikin\u0117 mokomoji sportin\u0117 baz\u0117\"", 
-            "Pri\u0117mimo m\u0117n.": "Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"Respublikinė mokomoji sportinė bazė\"", 
+            "Priėmimo mėn.": "Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "19", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Teniso kortai", 
+            "Kambarių skaičius": "19", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Teniso kortai", 
             "Telefonas": "46052828", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2010.06.07", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2010.06.07", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46051290", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "50", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "50", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -17739,31 +17739,31 @@ hotels = ([
         ], 
         "coords": null, 
         "name": "TENISAS", 
-        "address": "Palangos m. sav., Palanga, G\u0117li\u0173 a. 1A"
+        "address": "Palangos m. sav., Palanga, Gėlių a. 1A"
     }, 
     {
         "info": {
-            "Inventoriaus nuoma": "Dvira\u010diai", 
+            "Inventoriaus nuoma": "Dviračiai", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "Valstybin\u0117 \u012fmon\u0117 Poilsio namai \"Baltija\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "145", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Baseinas, Biliardas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
+            "Oficialus įm. pavadinimas": "Valstybinė įmonė Poilsio namai \"Baltija\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "145", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Baseinas, Biliardas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
             "Telefonas": "46049147", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "vyturys@is.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "vyturys@is.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46049198", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "284", 
-            "Sveikatingumo paslaugos": "Angliar\u016bk\u0161t\u0117s vonios (g\u0117lo vandens pagrindu), Fizioterapija, Klasikinis masa\u017eas, Manualin\u0117 kineziterapija, Mineralinio vandens vonios (g\u0117lo vandens pagrindu), Perlin\u0117s vonios (g\u0117lo vandens pagrindu), Povandeninis masa\u017eas (g\u0117lo vandens pagrindu), Psichofizin\u0117 treniruot\u0117, Relakcinis masa\u017eas, Vaista\u017eoli\u0173 vonios (g\u0117lo vandens pagrindu), Vertikalios vandens vonios (g\u0117lo vandens pagrindu)", 
-            "Pramogos": "Interneto kavin\u0117", 
-            "Svetain\u0117s adresas": ""
+            "Klasė": "2*", 
+            "Vietų skaičius": "284", 
+            "Sveikatingumo paslaugos": "Angliarūkštės vonios (gėlo vandens pagrindu), Fizioterapija, Klasikinis masažas, Manualinė kineziterapija, Mineralinio vandens vonios (gėlo vandens pagrindu), Perlinės vonios (gėlo vandens pagrindu), Povandeninis masažas (gėlo vandens pagrindu), Psichofizinė treniruotė, Relakcinis masažas, Vaistažolių vonios (gėlo vandens pagrindu), Vertikalios vandens vonios (gėlo vandens pagrindu)", 
+            "Pramogos": "Interneto kavinė", 
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -17772,20 +17772,20 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "TV", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Klas\u0117", 
+                "name": "Klasė", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }
                 ]
@@ -17796,18 +17796,18 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "TV", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Koncert\u0173 sal\u0117", 
+                "name": "Koncertų salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17821,17 +17821,17 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "TV", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Pob\u016bvi\u0173 sal\u0117", 
+                "name": "Pobūvių salė", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -17845,17 +17845,17 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "TV", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Restorano sal\u0117", 
+                "name": "Restorano salė", 
                 "configurations": [
                     {
                         "name": "Banketo stilius", 
@@ -17869,16 +17869,16 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "TV", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Valgyklos", 
                 "configurations": [
@@ -17891,31 +17891,31 @@ hotels = ([
         ], 
         "coords": null, 
         "name": "VYTURYS", 
-        "address": "Palangos m. sav., Palanga, S. Dariaus ir S. Gir\u0117no g. 20"
+        "address": "Palangos m. sav., Palanga, S. Dariaus ir S. Girėno g. 20"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "K.Geco prekybos \u012fmon\u0117, Vie\u0161butis \"Vandenis\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "K.Geco prekybos įmonė, Viešbutis \"Vandenis\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "35", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Kambarių skaičius": "35", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna", 
             "Telefonas": "46052987", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "info@vandenis.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "info@vandenis.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46053584", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "80", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "80", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -17925,11 +17925,11 @@ hotels = ([
                     "Ekranas", 
                     "Mikrofonas", 
                     "Multimedia", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
+                    "Rašymo lenta", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "", 
                 "configurations": [
@@ -17942,63 +17942,63 @@ hotels = ([
         ], 
         "coords": null, 
         "name": "VANDENIS", 
-        "address": "Birut\u0117s al. 47, Palanga"
+        "address": "Birutės al. 47, Palanga"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"\u017dij\u016br\u0117\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"Žijūrė\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "14", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Kambarių skaičius": "14", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna", 
             "Telefonas": "52152244", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.04.19", 
-            "El. pa\u0161tas": "zijure@takas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.04.19", 
+            "El. paštas": "zijure@takas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52152244", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "40", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "40", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
             "lat": 54.6893865, 
             "lng": 25.2800243
         }, 
-        "name": "\u017dIJ\u016aR\u0116", 
-        "address": "Vilniaus m. sav., Vilnius, \u017dirni\u0173 g. 10"
+        "name": "ŽIJŪRĖ", 
+        "address": "Vilniaus m. sav., Vilnius, Žirnių g. 10"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"\u0160iauli\u0173 dujotiekio komercija\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Šiaulių dujotiekio komercija\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "21", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Kambarių skaičius": "21", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna", 
             "Telefonas": "41589120", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "info@hotelgrafaite.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "info@hotelgrafaite.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "41502152", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "44", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "44", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -18018,32 +18018,32 @@ hotels = ([
             "lat": 55.4978666, 
             "lng": 25.6045432
         }, 
-        "name": "GRAFAIT\u0116S SVETAIN\u0116", 
-        "address": "Au\u0161ros g. 1, Gink\u016bnai, \u0160iauli\u0173 r."
+        "name": "GRAFAITĖS SVETAINĖ", 
+        "address": "Aušros g. 1, Ginkūnai, Šiaulių r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Dileksima\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Dileksima\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "12", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "12", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruoklių salė", 
             "Telefonas": "490304", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.04.20", 
-            "El. pa\u0161tas": "hermis.hotel@takas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.04.20", 
+            "El. paštas": "hermis.hotel@takas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "490313", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "23", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "23", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -18064,31 +18064,31 @@ hotels = ([
             "lng": 23.8924264
         }, 
         "name": "HERMIS", 
-        "address": "Savanori\u0173 pr. 404, Kauno m."
+        "address": "Savanorių pr. 404, Kauno m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "V\u0161\u012e \"Vilniaus arkivyskupijos ekonomo tarnybos vie\u0161butis Domus Maria", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "43", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
+            "Oficialus įm. pavadinimas": "VšĮ \"Vilniaus arkivyskupijos ekonomo tarnybos viešbutis Domus Maria", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "43", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas", 
             "Telefonas": "52644880", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.06.07", 
-            "El. pa\u0161tas": "domusmaria@vilnensis.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.06.07", 
+            "El. paštas": "domusmaria@vilnensis.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52644878", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "92", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "92", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -18096,31 +18096,31 @@ hotels = ([
             "lng": 25.2892789
         }, 
         "name": "DOMUS MARIA", 
-        "address": "Au\u0161ros vart\u0173 g. 12, Vilnius"
+        "address": "Aušros vartų g. 12, Vilnius"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"vilkera\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"vilkera\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "14", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "14", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "34220550", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2007.12.04", 
-            "El. pa\u0161tas": "vilkera@takas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2007.12.04", 
+            "El. paštas": "vilkera@takas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "34220229", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "29", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "29", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -18130,7 +18130,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 100
                     }
                 ]
@@ -18141,63 +18141,63 @@ hotels = ([
             "lng": 23.1091862
         }, 
         "name": "SANTA BARBARA", 
-        "address": "Barau\u010diznos k., Vilkavi\u0161kio r."
+        "address": "Baraučiznos k., Vilkaviškio r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Asketas\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "23", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Skalbimas ir valymas", 
+            "Oficialus įm. pavadinimas": "UAB \"Asketas\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "23", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Skalbimas ir valymas", 
             "Telefonas": "41500150", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "hotel@turne.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "Kopijavimo aparatas", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "hotel@turne.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "Kopijavimo aparatas", 
             "Faksas": "4142923", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "44", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "44", 
             "Sveikatingumo paslaugos": "", 
-            "Pramogos": "Interneto kavin\u0117", 
-            "Svetain\u0117s adresas": ""
+            "Pramogos": "Interneto kavinė", 
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
             "lat": 55.9263075, 
             "lng": 23.3159265
         }, 
-        "name": "VIE\u0160BUTIS \"TURN\u0116\"", 
-        "address": "R\u016bd\u0117s g. 9, \u0160iauli\u0173 m."
+        "name": "VIEŠBUTIS \"TURNĖ\"", 
+        "address": "Rūdės g. 9, Šiaulių m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "Akcin\u0117 bendrov\u0117 \"ELEKTROS TINKL\u0172 STATYBA\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "Akcinė bendrovė \"ELEKTROS TINKLŲ STATYBA\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "16", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "16", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "52160254", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2011.05.17", 
-            "El. pa\u0161tas": "", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2011.05.17", 
+            "El. paštas": "", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52160254", 
-            "Klas\u0117": "1*", 
-            "Viet\u0173 skai\u010dius": "48", 
+            "Klasė": "1*", 
+            "Vietų skaičius": "48", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -18205,31 +18205,31 @@ hotels = ([
             "lng": 25.2807887
         }, 
         "name": "VLASPA", 
-        "address": "\u0160v. Stepono g. 11, Vilnius"
+        "address": "Šv. Stepono g. 11, Vilnius"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"\u017daliasis tiltas\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"Žaliasis tiltas\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "17", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "17", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Seifas, Skalbimas ir valymas", 
             "Telefonas": "52615450", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.02.01", 
-            "El. pa\u0161tas": "info@ambassador.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.02.01", 
+            "El. paštas": "info@ambassador.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52121716", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "34", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "34", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -18242,26 +18242,26 @@ hotels = ([
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Baras, Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB A.C. \"Property Partners\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Baras, Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB A.C. \"Property Partners\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "35", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "35", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "Pirtis/Sauna, Skalbimas ir valymas", 
             "Telefonas": "52100021", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.10.04", 
-            "El. pa\u0161tas": "info@hoteltilto.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.10.04", 
+            "El. paštas": "info@hoteltilto.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52100020", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "74", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "74", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -18287,26 +18287,26 @@ hotels = ([
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Via baltica pramogos\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė, Restoranas", 
+            "Oficialus įm. pavadinimas": "UAB \"Via baltica pramogos\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "30", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Kambarių skaičius": "30", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna", 
             "Telefonas": "37537420", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.04.19", 
-            "El. pa\u0161tas": "viabalticapramogos@gmail.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.04.19", 
+            "El. paštas": "viabalticapramogos@gmail.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "37537425", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "63", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "63", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -18316,7 +18316,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 100
                     }
                 ]
@@ -18339,31 +18339,31 @@ hotels = ([
             "lng": 23.8696641
         }, 
         "name": "VIA BALTICA", 
-        "address": "Verslo g. 17, Kumpi\u0173 k., Kauno r."
+        "address": "Verslo g. 17, Kumpių k., Kauno r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117, Valgykla", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"DESOLA\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė, Valgykla", 
+            "Oficialus įm. pavadinimas": "UAB \"DESOLA\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "514", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "514", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Treniruoklių salė", 
             "Telefonas": "31351660", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2006.07.04", 
-            "El. pa\u0161tas": "nemunas@vija.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2006.07.04", 
+            "El. paštas": "nemunas@vija.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31351085", 
-            "Klas\u0117": "1*", 
-            "Viet\u0173 skai\u010dius": "102", 
+            "Klasė": "1*", 
+            "Vietų skaičius": "102", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -18381,31 +18381,31 @@ hotels = ([
         ], 
         "coords": null, 
         "name": "NEMUNAS", 
-        "address": "Druskinink\u0173 sav., Druskininkai, T. Kosciu\u0161kos g. 6"
+        "address": "Druskininkų sav., Druskininkai, T. Kosciuškos g. 6"
     }, 
     {
         "info": {
-            "Inventoriaus nuoma": "Dvira\u010diai, Karietos, ve\u017eimai", 
+            "Inventoriaus nuoma": "Dviračiai, Karietos, vežimai", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"ESKOM\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"ESKOM\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "98", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Suvenyr\u0173 parduotuv\u0117, Treniruokli\u0173 sal\u0117, Turki\u0161ka pirtis, Vaik\u0173 prie\u017eiura, Verslo centras", 
+            "Kambarių skaičius": "98", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Suvenyrų parduotuvė, Treniruoklių salė, Turkiška pirtis, Vaikų priežiura, Verslo centras", 
             "Telefonas": "46041199", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2011.10.06", 
-            "El. pa\u0161tas": "hotel@vanagupe.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "Fakso aparatas, Internetinis ry\u0161ys, Kopijavimo aparatas", 
+            "Klasė suteikta iki": "2011.10.06", 
+            "El. paštas": "hotel@vanagupe.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "Fakso aparatas, Internetinis ryšys, Kopijavimo aparatas", 
             "Faksas": "46031199", 
-            "Klas\u0117": "5*", 
-            "Viet\u0173 skai\u010dius": "223", 
-            "Sveikatingumo paslaugos": "S\u016bkurin\u0117s vandens vonios (g\u0117lo vandens pagrindu)", 
+            "Klasė": "5*", 
+            "Vietų skaičius": "223", 
+            "Sveikatingumo paslaugos": "Sūkurinės vandens vonios (gėlo vandens pagrindu)", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -18414,20 +18414,20 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Akmena", 
                 "configurations": [
@@ -18436,7 +18436,7 @@ hotels = ([
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 40
                     }, 
                     {
@@ -18459,20 +18459,20 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Alanta", 
                 "configurations": [
@@ -18481,7 +18481,7 @@ hotels = ([
                         "people": 44
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 30
                     }, 
                     {
@@ -18504,29 +18504,29 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "Dan\u0117", 
+                "name": "Danė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 36
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }, 
                     {
@@ -18545,20 +18545,20 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Dubysa", 
                 "configurations": [
@@ -18567,7 +18567,7 @@ hotels = ([
                         "people": 400
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 200
                     }, 
                     {
@@ -18586,20 +18586,20 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Erla", 
                 "configurations": [
@@ -18608,7 +18608,7 @@ hotels = ([
                         "people": 145
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 90
                     }, 
                     {
@@ -18631,29 +18631,29 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "J\u016bra", 
+                "name": "Jūra", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 36
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }, 
                     {
@@ -18672,21 +18672,21 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Scena", 
                     "Sinchroninis vertimas", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Minija", 
                 "configurations": [
@@ -18702,29 +18702,29 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
-                "name": "\u0160ventoji", 
+                "name": "Šventoji", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 65
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 40
                     }, 
                     {
@@ -18747,20 +18747,20 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
                     "TV", 
                     "Telefonas", 
-                    "Trib\u016bna", 
+                    "Tribūna", 
                     "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
+                    "Įranga garso įrašymui"
                 ], 
                 "name": "Venta", 
                 "configurations": [
@@ -18769,7 +18769,7 @@ hotels = ([
                         "people": 100
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 60
                     }, 
                     {
@@ -18788,32 +18788,32 @@ hotels = ([
             }
         ], 
         "coords": null, 
-        "name": "VANAGUP\u0116", 
-        "address": "Palangos m. sav., Palanga, Vanagup\u0117s g. 31"
+        "name": "VANAGUPĖ", 
+        "address": "Palangos m. sav., Palanga, Vanagupės g. 31"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Centrum\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Centrum\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "100", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "100", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
             "Telefonas": "52683300", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.04.19", 
-            "El. pa\u0161tas": "hotel@centrum.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.04.19", 
+            "El. paštas": "hotel@centrum.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52132760", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "162", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "162", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -18827,7 +18827,7 @@ hotels = ([
                         "people": 100
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 34
                     }, 
                     {
@@ -18855,33 +18855,33 @@ hotels = ([
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Baras, Kavin\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Naujieji Pil\u0117nai\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Baras, Kavinė, Restoranas", 
+            "Oficialus įm. pavadinimas": "UAB \"Naujieji Pilėnai\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "8", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
+            "Kambarių skaičius": "8", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
             "Telefonas": "45507790", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.06.07", 
-            "El. pa\u0161tas": "smelyne@takas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.06.07", 
+            "El. paštas": "smelyne@takas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "45581094", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "21", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "21", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "Boulingas", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Ekranas", 
-                    "Interneto ry\u0161ys", 
-                    "Ra\u0161ymo lenta", 
+                    "Interneto ryšys", 
+                    "Rašymo lenta", 
                     "Video projektorius"
                 ], 
                 "name": "", 
@@ -18891,7 +18891,7 @@ hotels = ([
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 130
                     }
                 ]
@@ -18901,32 +18901,32 @@ hotels = ([
             "lat": 55.7312332, 
             "lng": 24.3675248
         }, 
-        "name": "SM\u0116LYN\u0116", 
-        "address": "Sm\u0117lyn\u0117s g. 3, Panev\u0117\u017eio m."
+        "name": "SMĖLYNĖ", 
+        "address": "Smėlynės g. 3, Panevėžio m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Pusry\u010diai", 
-            "Oficialus \u012fm. pavadinimas": "UAB\"Vaivoryk\u0161t\u0117\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "12", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Maitinimo paslaugos": "Pusryčiai", 
+            "Oficialus įm. pavadinimas": "UAB\"Vaivorykštė\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "12", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "Baseinas, Pirtis/Sauna", 
             "Telefonas": "41510502", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.06.07", 
-            "El. pa\u0161tas": "info@vaivorykste.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.06.07", 
+            "El. paštas": "info@vaivorykste.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "41511025", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "18", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "18", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -18958,32 +18958,32 @@ hotels = ([
             "lat": 55.9320758, 
             "lng": 23.3142194
         }, 
-        "name": "VAIVORYK\u0160T\u0116", 
-        "address": "\u0160iauli\u0173 m. sav., \u0160iauliai, Gytari\u0173 g. 25"
+        "name": "VAIVORYKŠTĖ", 
+        "address": "Šiaulių m. sav., Šiauliai, Gytarių g. 25"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Darola\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "11", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Oficialus įm. pavadinimas": "UAB \"Darola\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "11", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "45833234", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2011.05.23", 
-            "El. pa\u0161tas": "darola@parok.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2011.05.23", 
+            "El. paštas": "darola@parok.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "45833234", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "22", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "22", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -19004,63 +19004,63 @@ hotels = ([
             "lng": 24.744148
         }, 
         "name": "PAGUNDA", 
-        "address": "Respublikos g. 45a, Roki\u0161kis, Roki\u0161kio r."
+        "address": "Respublikos g. 45a, Rokiškis, Rokiškio r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Skuodo komunalinis \u016bkis\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"Skuodo komunalinis ūkis\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "12", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "12", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "44073223", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.05.16", 
-            "El. pa\u0161tas": "komunalinis@ktv.satela.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.05.16", 
+            "El. paštas": "komunalinis@ktv.satela.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "44073223", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "20", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "20", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
             "lat": 55.257498, 
             "lng": 22.2941355
         }, 
-        "name": "APUOL\u0116", 
-        "address": "Dariaus ir Gir\u0117no g. 50, Skuodo m., Skuodo r."
+        "name": "APUOLĖ", 
+        "address": "Dariaus ir Girėno g. 50, Skuodo m., Skuodo r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"komercinis centras \"ODILIJA\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"komercinis centras \"ODILIJA\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "12", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Kambarių skaičius": "12", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "31556188", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2009.08.20", 
-            "El. pa\u0161tas": "hotel@vaidila.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2009.08.20", 
+            "El. paštas": "hotel@vaidila.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31556189", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "22", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "22", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -19081,31 +19081,31 @@ hotels = ([
             "lng": 24.0467819
         }, 
         "name": "VAIDILA", 
-        "address": "Alytaus m. sav., Alytus, Rotu\u0161\u0117s a. 12"
+        "address": "Alytaus m. sav., Alytus, Rotušės a. 12"
     }, 
     {
         "info": {
-            "Inventoriaus nuoma": "Dvira\u010diai", 
+            "Inventoriaus nuoma": "Dviračiai", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "K.Geco prekybos \u012fmon\u0117, Vie\u0161butis \"Palanga\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "K.Geco prekybos įmonė, Viešbutis \"Palanga\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "40", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Rusi\u0161ka pirtis, Seifas, Skalbimas ir valymas, Suvenyr\u0173 parduotuv\u0117, Treniruokli\u0173 sal\u0117, Turki\u0161ka pirtis, Vaik\u0173 prie\u017eiura", 
+            "Kambarių skaičius": "40", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Rusiška pirtis, Seifas, Skalbimas ir valymas, Suvenyrų parduotuvė, Treniruoklių salė, Turkiška pirtis, Vaikų priežiura", 
             "Telefonas": "46041414", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "info@palangahotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "info@palangahotel.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46041415", 
-            "Klas\u0117": "5*", 
-            "Viet\u0173 skai\u010dius": "100", 
-            "Sveikatingumo paslaugos": "Klasikinis masa\u017eas, Manualin\u0117 kineziterapija, Muzikos terapija, Povandeninis masa\u017eas (g\u0117lo vandens pagrindu), Psichofizin\u0117 treniruot\u0117, Relakcinis masa\u017eas, S\u016bkurin\u0117s vandens vonios (g\u0117lo vandens pagrindu)", 
-            "Pramogos": "Golfo klubas, Interneto kavin\u0117, Jodin\u0117jimas, Kazino, Naktinis klubas, Sveikatingumo klubas", 
-            "Svetain\u0117s adresas": ""
+            "Klasė": "5*", 
+            "Vietų skaičius": "100", 
+            "Sveikatingumo paslaugos": "Klasikinis masažas, Manualinė kineziterapija, Muzikos terapija, Povandeninis masažas (gėlo vandens pagrindu), Psichofizinė treniruotė, Relakcinis masažas, Sūkurinės vandens vonios (gėlo vandens pagrindu)", 
+            "Pramogos": "Golfo klubas, Interneto kavinė, Jodinėjimas, Kazino, Naktinis klubas, Sveikatingumo klubas", 
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -19114,20 +19114,20 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Interneto ryšys", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
                     "Video grotuvas"
                 ], 
-                "name": "Pos\u0117d\u017ei\u0173 kambarys", 
+                "name": "Posėdžių kambarys", 
                 "configurations": [
                     {
                         "name": "Apvalaus stalo stilius", 
@@ -19141,15 +19141,15 @@ hotels = ([
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
-                    "Lazerin\u0117 rodykl\u0117", 
+                    "Interneto ryšys", 
+                    "Lazerinė rodyklė", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Popierius", 
-                    "Ra\u0161ymo lenta", 
+                    "Rašymo lenta", 
                     "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
+                    "Skaidrių projektorius", 
                     "TV", 
                     "Telefonas", 
                     "Video grotuvas"
@@ -19161,7 +19161,7 @@ hotels = ([
                         "people": 150
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 60
                     }, 
                     {
@@ -19177,36 +19177,36 @@ hotels = ([
         ], 
         "coords": null, 
         "name": "PALANGA", 
-        "address": "Palangos m. sav., Palanga, Birut\u0117s al. 60"
+        "address": "Palangos m. sav., Palanga, Birutės al. 60"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Vi\u0161butis Lietuva\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Višbutis Lietuva\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "291", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Valiutos keitykla", 
+            "Kambarių skaičius": "291", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Automobilių nuoma, Valiutos keitykla", 
             "Telefonas": "2726272", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "lietuva.sales@revalhotels.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "lietuva.sales@revalhotels.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "2726272", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "582", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "582", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Oro kondicionierius", 
                     "Telefonas"
                 ], 
@@ -19217,7 +19217,7 @@ hotels = ([
                         "people": 300
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 150
                     }, 
                     {
@@ -19228,7 +19228,7 @@ hotels = ([
             }, 
             {
                 "hardware": [
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Oro kondicionierius", 
                     "Telefonas"
                 ], 
@@ -19242,7 +19242,7 @@ hotels = ([
             }, 
             {
                 "hardware": [
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Oro kondicionierius", 
                     "Telefonas"
                 ], 
@@ -19253,7 +19253,7 @@ hotels = ([
                         "people": 52
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }, 
                     {
@@ -19268,7 +19268,7 @@ hotels = ([
             }, 
             {
                 "hardware": [
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Oro kondicionierius", 
                     "Telefonas"
                 ], 
@@ -19279,7 +19279,7 @@ hotels = ([
                         "people": 104
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 50
                     }, 
                     {
@@ -19294,7 +19294,7 @@ hotels = ([
             }, 
             {
                 "hardware": [
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Oro kondicionierius", 
                     "Telefonas"
                 ], 
@@ -19305,7 +19305,7 @@ hotels = ([
                         "people": 180
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 80
                     }, 
                     {
@@ -19316,7 +19316,7 @@ hotels = ([
             }, 
             {
                 "hardware": [
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Oro kondicionierius", 
                     "Telefonas"
                 ], 
@@ -19327,7 +19327,7 @@ hotels = ([
                         "people": 52
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }, 
                     {
@@ -19342,7 +19342,7 @@ hotels = ([
             }, 
             {
                 "hardware": [
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Oro kondicionierius", 
                     "Telefonas"
                 ], 
@@ -19353,7 +19353,7 @@ hotels = ([
                         "people": 52
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 24
                     }, 
                     {
@@ -19364,7 +19364,7 @@ hotels = ([
             }, 
             {
                 "hardware": [
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Multimedia", 
                     "Telefonas"
                 ], 
@@ -19375,7 +19375,7 @@ hotels = ([
                         "people": 104
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 50
                     }, 
                     {
@@ -19390,7 +19390,7 @@ hotels = ([
             }, 
             {
                 "hardware": [
-                    "Interneto ry\u0161ys", 
+                    "Interneto ryšys", 
                     "Oro kondicionierius", 
                     "Telefonas"
                 ], 
@@ -19413,26 +19413,26 @@ hotels = ([
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117, Valgykla", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Lietuvos\" sanatorija", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "160", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Teniso kortai, Treniruokli\u0173 sal\u0117", 
+            "Maitinimo paslaugos": "Kavinė, Valgykla", 
+            "Oficialus įm. pavadinimas": "UAB \"Lietuvos\" sanatorija", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "160", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Teniso kortai, Treniruoklių salė", 
             "Telefonas": "31352414", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2011.05.23", 
-            "El. pa\u0161tas": "info@sanatorijalietuva.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2011.05.23", 
+            "El. paštas": "info@sanatorijalietuva.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31355490", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "312", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "312", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -19462,31 +19462,31 @@ hotels = ([
         ], 
         "coords": null, 
         "name": "LIETUVA", 
-        "address": "Druskinink\u0173 sav., Druskininkai, Maironio g. 45"
+        "address": "Druskininkų sav., Druskininkai, Maironio g. 45"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "AB \"\u017demprojektas\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "AB \"Žemprojektas\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "57", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "57", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "46952777", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.05.14", 
-            "El. pa\u0161tas": "info@neringahotels.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.05.14", 
+            "El. paštas": "info@neringahotels.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46952777", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "91", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "91", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -19496,7 +19496,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 50
                     }
                 ]
@@ -19513,25 +19513,25 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"ETVA\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "24", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Oficialus įm. pavadinimas": "UAB \"ETVA\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "24", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna", 
             "Telefonas": "2403957", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.04.17", 
-            "El. pa\u0161tas": "vitas@kroviniai.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.04.17", 
+            "El. paštas": "vitas@kroviniai.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "2338377", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "51", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "51", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -19542,7 +19542,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 60
                     }
                 ]
@@ -19552,32 +19552,32 @@ hotels = ([
             "lat": 54.7616325, 
             "lng": 25.1773853
         }, 
-        "name": "BAJOR\u0172 U\u017dEIGA", 
-        "address": "Suderv\u0117s g. 10, Avi\u017eieni\u0173 k., Vilniaus r."
+        "name": "BAJORŲ UŽEIGA", 
+        "address": "Sudervės g. 10, Avižienių k., Vilniaus r."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"PAJ\u016aRIO VIE\u0160KELIS\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"PAJŪRIO VIEŠKELIS\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "14", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "14", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "Baseinas, Pirtis/Sauna", 
             "Telefonas": "61877233", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "info@pajuriovieskelis.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "info@pajuriovieskelis.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46211940", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "31", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "31", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -19609,32 +19609,32 @@ hotels = ([
             "lat": 55.7464667, 
             "lng": 21.1304151
         }, 
-        "name": "PAJ\u016aRIO VIE\u0160KELIS", 
-        "address": "Liepojos g. 7A, Klaip\u0117dos m."
+        "name": "PAJŪRIO VIEŠKELIS", 
+        "address": "Liepojos g. 7A, Klaipėdos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"NEMUNO SL\u0116NIS\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "UAB \"NEMUNO SLĖNIS\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "31", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Teniso kortai, Treniruokli\u0173 sal\u0117, Vaik\u0173 prie\u017eiura", 
+            "Kambarių skaičius": "31", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Teniso kortai, Treniruoklių salė, Vaikų priežiura", 
             "Telefonas": "31956493", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.05.06", 
-            "El. pa\u0161tas": "info@nemunoslenis.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.05.06", 
+            "El. paštas": "info@nemunoslenis.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31961213", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "78", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "78", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -19647,7 +19647,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 150
                     }
                 ]
@@ -19663,7 +19663,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 20
                     }
                 ]
@@ -19673,32 +19673,32 @@ hotels = ([
             "lat": 54.6034719, 
             "lng": 24.0597273
         }, 
-        "name": "NEMUNO SL\u0116NIS", 
-        "address": "Verkn\u0117s g. 8, Bir\u0161tono m., Bir\u0161tono sav."
+        "name": "NEMUNO SLĖNIS", 
+        "address": "Verknės g. 8, Birštono m., Birštono sav."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Vitra\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"Vitra\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "33", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "33", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "46040038", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2008.03.30", 
-            "El. pa\u0161tas": "vitra@kaunas.omnitel.net", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2008.03.30", 
+            "El. paštas": "vitra@kaunas.omnitel.net", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46040039", 
-            "Klas\u0117": "1*", 
-            "Viet\u0173 skai\u010dius": "91", 
+            "Klasė": "1*", 
+            "Vietų skaičius": "91", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -19716,31 +19716,31 @@ hotels = ([
         ], 
         "coords": null, 
         "name": "VILIJA", 
-        "address": "Birut\u0117s al. 26, Palangos m."
+        "address": "Birutės al. 26, Palangos m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "M. Vein\u0161reiderio firma \"Ketera\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "23", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Maitinimo paslaugos": "Kavinė", 
+            "Oficialus įm. pavadinimas": "M. Veinšreiderio firma \"Ketera\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "23", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "37221791", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2007.03.29", 
-            "El. pa\u0161tas": "mail@monela.w3.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2007.03.29", 
+            "El. paštas": "mail@monela.w3.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "37224480", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "46", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "46", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
@@ -19748,31 +19748,31 @@ hotels = ([
             "lng": 23.8924264
         }, 
         "name": "MONELA", 
-        "address": "Laisv\u0117s al. 35, Kaunas"
+        "address": "Laisvės al. 35, Kaunas"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "U\u017edaroji akcin\u0117 bendrov\u0117 \"MAGNISIMA\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "17", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Oficialus įm. pavadinimas": "Uždaroji akcinė bendrovė \"MAGNISIMA\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "17", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė", 
             "Telefonas": "46310901", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Pritaikyta neįgaliesiems": "Nėra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.03.04", 
-            "El. pa\u0161tas": "info@magnisima.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2012.03.04", 
+            "El. paštas": "info@magnisima.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46310901", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "34", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "34", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -19786,7 +19786,7 @@ hotels = ([
                         "people": 60
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 60
                     }, 
                     {
@@ -19809,31 +19809,31 @@ hotels = ([
             "lng": 21.1238698
         }, 
         "name": "MAGNISIMA", 
-        "address": "J. Janonio g. 11, Klaip\u0117da"
+        "address": "J. Janonio g. 11, Klaipėda"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Pusry\u010diai, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"PRIE E\u017dERO\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Pusryčiai, Restoranas", 
+            "Oficialus įm. pavadinimas": "UAB \"PRIE EŽERO\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "14", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "14", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "Pirtis/Sauna", 
             "Telefonas": "42244430", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2011.11.22", 
-            "El. pa\u0161tas": "pe@hotelpe.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2011.11.22", 
+            "El. paštas": "pe@hotelpe.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "42244436", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "27", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "27", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -19850,39 +19850,39 @@ hotels = ([
             }
         ], 
         "coords": null, 
-        "name": "PRIE E\u017dERO", 
-        "address": "Radvili\u0161kio r. sav., Pakalni\u0161ki\u0173 apylink\u0117s sen., Raudondvaris"
+        "name": "PRIE EŽERO", 
+        "address": "Radviliškio r. sav., Pakalniškių apylinkės sen., Raudondvaris"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "uab \"PROMUS VILNENSIS\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Oficialus įm. pavadinimas": "uab \"PROMUS VILNENSIS\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "29", 
-            "Priklausomyb\u0117 tinklui": "", 
+            "Kambarių skaičius": "29", 
+            "Priklausomybė tinklui": "", 
             "Papildomos paslaugos": "", 
             "Telefonas": "52700609", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2009.06.17", 
-            "El. pa\u0161tas": "hotel@vilavalakampiai.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2009.06.17", 
+            "El. paštas": "hotel@vilavalakampiai.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "52104762", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "59", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "59", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     ""
                 ], 
-                "name": "Banketin\u0117 kolon\u0173", 
+                "name": "Banketinė kolonų", 
                 "configurations": [
                     {
                         "name": "Banketo stilius", 
@@ -19894,14 +19894,14 @@ hotels = ([
                 "hardware": [
                     "Ekranas"
                 ], 
-                "name": "Did\u017eioji", 
+                "name": "Didžioji", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 100
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 60
                     }, 
                     {
@@ -19914,14 +19914,14 @@ hotels = ([
                 "hardware": [
                     "Ekranas"
                 ], 
-                "name": "Ma\u017eoji sal\u0117", 
+                "name": "Mažoji salė", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 30
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 80
                     }, 
                     {
@@ -19936,63 +19936,63 @@ hotels = ([
             "lng": 25.295776
         }, 
         "name": "VILA VALAKAMPIAI", 
-        "address": "Vaidilut\u0117s g. 6a, Vilniaus m."
+        "address": "Vaidilutės g. 6a, Vilniaus m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Stamita\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "20", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Skalbimas ir valymas", 
+            "Oficialus įm. pavadinimas": "UAB \"Stamita\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Trečiadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; Šeštadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambarių skaičius": "20", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Skalbimas ir valymas", 
             "Telefonas": "31358033", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.12.22", 
-            "El. pa\u0161tas": "meduna@stamita.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2013.12.22", 
+            "El. paštas": "meduna@stamita.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31358034", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "62", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "62", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [], 
         "coords": {
             "lat": 56.2672263, 
             "lng": 23.7388521
         }, 
-        "name": "MED\u016aNA", 
-        "address": "Liep\u0173 g. 2, Druskininkai, Druskinink\u0173 sav."
+        "name": "MEDŪNA", 
+        "address": "Liepų g. 2, Druskininkai, Druskininkų sav."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Baras, Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Baltijos parkai\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Maitinimo paslaugos": "Baras, Kavinė", 
+            "Oficialus įm. pavadinimas": "UAB \"Baltijos parkai\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "83", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas", 
+            "Kambarių skaičius": "83", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Seifas", 
             "Telefonas": "2388000", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "vilnius@baltpark.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.03.06", 
+            "El. paštas": "vilnius@baltpark.com", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "2388555", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "166", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "166", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -20006,7 +20006,7 @@ hotels = ([
                         "people": 80
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 50
                     }
                 ]
@@ -20022,7 +20022,7 @@ hotels = ([
                         "people": 140
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 60
                     }, 
                     {
@@ -20042,7 +20042,7 @@ hotels = ([
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 20
                     }
                 ]
@@ -20053,38 +20053,38 @@ hotels = ([
             "lng": 25.2286319
         }, 
         "name": "PARK INN VILNIUS NORTH", 
-        "address": "Ukmerg\u0117s g. 363, Vilniaus m."
+        "address": "Ukmergės g. 363, Vilniaus m."
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Paj\u016brio Alka\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"Pajūrio Alka\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "34", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "34", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Treniruoklių salė", 
             "Telefonas": "46041433", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Pritaikyta neįgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.02.01", 
-            "El. pa\u0161tas": "info@alka.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.02.01", 
+            "El. paštas": "info@alka.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46041443", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "76", 
+            "Klasė": "4*", 
+            "Vietų skaičius": "76", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
-                    "Ra\u0161ymo lenta"
+                    "Rašymo lenta"
                 ], 
                 "name": "", 
                 "configurations": [
@@ -20093,7 +20093,7 @@ hotels = ([
                         "people": 50
                     }, 
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 50
                     }, 
                     {
@@ -20122,25 +20122,25 @@ hotels = ([
         "info": {
             "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Valgykla", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"PALANGOS \u017dVOR\u016aN\u0116\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Oficialus įm. pavadinimas": "UAB \"PALANGOS ŽVORŪNĖ\"", 
+            "Priėmimo mėn.": "Sausis,Vasaris,Kovas,Balandis,Gegužė,Birželis,Liepa,Rugpjūtis,Rugsėjis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "48", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Teniso kortai, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "48", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Mašinų stovėjimo aikštelė, Teniso kortai, Treniruoklių salė", 
             "Telefonas": "46054037", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2010.01.31", 
-            "El. pa\u0161tas": "palangoszvorune@takas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2010.01.31", 
+            "El. paštas": "palangoszvorune@takas.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "46051461", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "112", 
+            "Klasė": "2*", 
+            "Vietų skaičius": "112", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -20169,32 +20169,32 @@ hotels = ([
             }
         ], 
         "coords": null, 
-        "name": "PALANGOS \u017dVOR\u016aN\u0116", 
-        "address": "Palangos m. sav., Palanga, Vanagup\u0117s g. 15"
+        "name": "PALANGOS ŽVORŪNĖ", 
+        "address": "Palangos m. sav., Palanga, Vanagupės g. 15"
     }, 
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117, Valgykla", 
-            "Oficialus \u012fm. pavadinimas": "VIE\u0160OJI \u012eSTAIGA SANATORIJA \"BELORUS\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
+            "Maitinimo paslaugos": "Kavinė, Valgykla", 
+            "Oficialus įm. pavadinimas": "VIEŠOJI ĮSTAIGA SANATORIJA \"BELORUS\"", 
+            "Priėmimo mėn.": "", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "74", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117", 
+            "Kambarių skaičius": "74", 
+            "Priklausomybė tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Mašinų stovėjimo aikštelė, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Treniruoklių salė", 
             "Telefonas": "31352891", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Pritaikyta neįgaliesiems": "Yra", 
             "Papildomas telefonas": "31352871", 
-            "Klas\u0117 suteikta iki": "2015.04.19", 
-            "El. pa\u0161tas": "info@belorus.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
+            "Klasė suteikta iki": "2015.04.19", 
+            "El. paštas": "info@belorus.lt", 
+            "Pramogos neįgaliesiems": "", 
+            "Verslo centro įranga": "", 
             "Faksas": "31352891", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "125", 
+            "Klasė": "3*", 
+            "Vietų skaičius": "125", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
+            "Svetainės adresas": ""
         }, 
         "halls": [
             {
@@ -20206,7 +20206,7 @@ hotels = ([
                 "name": "", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
+                        "name": "Klasės stilius", 
                         "people": 60
                     }
                 ]
@@ -20217,6 +20217,6 @@ hotels = ([
             "lng": 23.1154464
         }, 
         "name": "BELORUS", 
-        "address": "Maironio g. 2, Druskinink\u0173 m., Druskinink\u0173 sav."
+        "address": "Maironio g. 2, Druskininkų m., Druskininkų sav."
     }
 ]);
