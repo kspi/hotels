@@ -41,5 +41,8 @@ with open('data/halls.csv', 'r') as f:
             'hardware': hardware,
         })
 
-with open('site/data/data.json', 'w') as f:
+with open('site/js/data.js', 'w') as f:
+    f.write('hotels = (')
     f.write(json.dumps(list(hotels.values()), indent=4))
+    f.write(');')
+

@@ -1,4 +1,4 @@
-[
+hotels = ([
     {
         "info": {
             "Inventoriaus nuoma": "", 
@@ -19181,4 +19181,4 @@
         "name": "BELORUS", 
         "address": "Maironio g. 2, Druskinink\u0173 m., Druskinink\u0173 sav."
     }
-]
+]);
