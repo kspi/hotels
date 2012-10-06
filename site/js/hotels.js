@@ -13,20 +13,6 @@ function initializeMap() {
   geocoder = new google.maps.Geocoder();
 }
 
-function getCoords(address, ok, fail) {
-  geocoder.geocode({'address': address, 'region': 'lt'}, function(results, status) {
-    if (status == google.maps.GeocoderStatus.OK) {
-      if (ok) {
-        ok(results[0].geometry.location);
-      }
-    } else {
-      if (fail) {
-        fail(status);
-      }
-    }
-  });
-}
-
 function putMarker(loc) {
   var marker = new google.maps.Marker({
       map: map,
@@ -38,6 +24,9 @@ $(function(){
   initializeMap();
   for (var i in hotels) {
     var hotel = hotels[i];
-    getCoords(hotel.address, putMarker, alert);
+    var c = hotel.coords;
+    if (c) {
+      putMarker(new google.maps.LatLng(c.lat, c.lng));
+    }
   }
 });
