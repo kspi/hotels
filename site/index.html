@@ -6,16 +6,68 @@
     <meta name="keywords" content="" />
     <meta name="description" content="" />
     <link href="inc/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="inc/jquery/ui-lightness/jquery-ui-1.8.24.custom.css" rel="stylesheet">
     <link type="text/css" href="css/style.css" rel="stylesheet" />		
     <script src="inc/jquery/jquery-1.8.2.js"></script>
     <script src="inc/bootstrap/js/bootstrap.min.js"></script>
+    <script src="inc/jquery/jquery-ui-1.8.24.custom.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
     <script src="js/hotels.js"></script>
   </head>		        
   <body>
     <div id="sidebar">
       <h1>Viešbučių ir konferencijų salių paieška</h1>
-      <p>TODO</p>
+      <p>
+	      <label>Pavadinimas:</label>
+        <input type="text" placeholder="Įveskite pavadinimą">
+        <span class="help-block">Pvz. "palanga".</span>
+        
+	      <label>Paieškos tipas:</label>
+	      <div class="btn-group model-type">
+          <button type="button" class="btn active" data-type="hotel">Viešbučiai</button>
+          <button type="button" class="btn" data-type="hall">Konferencijų salės</button>
+        </div>
+        
+        <label>Klasė:</label>
+        <div class="btn-group model-grade">
+          <button class="btn active" data-value="1">1</button>
+          <button class="btn active" data-value="2">2</button>
+          <button class="btn active" data-value="3">3</button>
+          <button class="btn active" data-value="4">4</button>
+          <button class="btn active" data-value="5">5</button>
+        </div>
+        
+        
+        
+        <div class="block model-hotel">
+        <label>Vietų skaičius:</label>
+        <div class="model-vacancy-count"></div>
+        <label>Kambarių skaičius:</label>
+        <label>Papildomos paslaugos:</label>
+        
+        
+        <label>Sveikatingumo paslaugos:</label>
+        <label>Pramogos:</label>
+        <label>Maitinimas:</label>
+        <label class="checkbox">
+          <input type="checkbox" class="model-for-disabled" /> Pritaikyta neįgaliesiems 
+        </label>
+        </div>
+        <div class="block model-hall">
+        <label>Plotas (kv. m.):</label>
+        <label>Pobūviams</label>
+        <label>Konferencijoms</label>
+        <label>Konfigūracija</label>
+        <label>Vietų skaičius</label>
+        <div class="model-needed-count"></div>
+        
+        <label>Įranga</label>
+        
+        <label>Plotas (kv. m.):</label>
+        </div>
+        
+        
+      </p>
     </div>
     <div id="map_canvas"></div>
   </body>
