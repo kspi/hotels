@@ -103,4 +103,3 @@ $(function(){
   //first execution
   executeFilter();
 });
->>>>>>> 87bd823d7e4e0dd97c2baa71285d4b0ebf766323
