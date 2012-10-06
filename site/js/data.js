@@ -24,6 +24,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "ACAPPELLA", 
         "address": "Vilniaus m. sav., Vilnius, Dariaus ir Gir\u0117no g. 61"
     }, 
@@ -87,6 +91,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.8432811, 
+            "lng": 25.4637455
+        }, 
         "name": "CONGRESS", 
         "address": "Vilniaus g. 2/15, Vilniaus m."
     }, 
@@ -115,6 +123,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.71080260000001, 
+            "lng": 21.1318065
+        }, 
         "name": "J\u016aRAGIS", 
         "address": "Klaip\u0117dos m. sav., Klaip\u0117da, Debreceno g. 27"
     }, 
@@ -178,6 +190,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6969929, 
+            "lng": 25.2397069
+        }, 
         "name": "PU\u0160IS", 
         "address": "Blind\u017ei\u0173 g. 17, Vilnius"
     }, 
@@ -559,6 +575,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "BEST WESTERN VILNIUS", 
         "address": "Konstitucijos pr. 14, Vilnius"
     }, 
@@ -601,6 +621,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9280315, 
+            "lng": 23.297225
+        }, 
         "name": "\u0160IAULI\u0172 KRA\u0160TO MED\u017dIOTOJ\u0172 U\u017dEIGA", 
         "address": "Dubijos g. 20, \u0160iauliai"
     }, 
@@ -711,6 +735,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.3500117, 
+            "lng": 21.1992241
+        }, 
         "name": "VENTAIN\u0116", 
         "address": "Vent\u0117, \u0160ilut\u0117s r."
     }, 
@@ -739,6 +767,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.520581, 
+            "lng": 25.1157457
+        }, 
         "name": "ANYK\u0160\u010cI\u0172 SPORTO IR LAISVALAIKIO CENTRAS", 
         "address": "Liudi\u0161ki\u0173 g. 18, Anyk\u0161\u010diai"
     }, 
@@ -792,6 +824,7 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": null, 
         "name": "GALIA", 
         "address": "Druskinink\u0173 sav., Druskininkai, M. K. \u010ciurlionio g. 97"
     }, 
@@ -861,6 +894,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9121319, 
+            "lng": 21.058719
+        }, 
         "name": "PALANGOS V\u0116TRA", 
         "address": "S. Daukanto g. 35, Palangos m."
     }, 
@@ -889,6 +926,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.3080966, 
+            "lng": 21.0052591
+        }, 
         "name": "VILA JELITA", 
         "address": "G. D. Kuverto g. 7, Neringa, Neringos sav."
     }, 
@@ -954,6 +995,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6315631, 
+            "lng": 25.2785548
+        }, 
         "name": "SKRYDIS", 
         "address": "Rod\u016bnios kelias 8, Vilniaus m."
     }, 
@@ -982,6 +1027,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.9246224, 
+            "lng": 21.0705219
+        }, 
         "name": "\u017dALIAS NAMAS", 
         "address": "Vytauto g. 97, Palangos m."
     }, 
@@ -1023,6 +1072,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.5411633, 
+            "lng": 25.6544901
+        }, 
         "name": "ATRIUM", 
         "address": "Pilies g. 10, Vilniaus m."
     }, 
@@ -1064,6 +1117,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.3062984, 
+            "lng": 21.0062504
+        }, 
         "name": "J\u016aRAT\u0116", 
         "address": "Pamario g. 3, Neringa"
     }, 
@@ -1105,6 +1162,7 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": null, 
         "name": "PURIENA", 
         "address": "Radvili\u0161kio r. sav., Radvili\u0161kio miesto sen., Radvili\u0161kis, Daujo\u010di\u0173 g. 10B"
     }, 
@@ -1133,6 +1191,7 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": null, 
         "name": "PALANGOS \u017dUV\u0116DRA", 
         "address": "Meil\u0117s al. 11, Palangos m."
     }, 
@@ -1207,6 +1266,7 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": null, 
         "name": "REGINA", 
         "address": "Druskinink\u0173 sav."
     }, 
@@ -1248,6 +1308,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.7443601, 
+            "lng": 24.3708575
+        }, 
         "name": "PERVA\u017dA", 
         "address": "Sm\u0117lyn\u0117s g. 112, Panev\u0117\u017eio m."
     }, 
@@ -1312,6 +1376,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.712332, 
+            "lng": 21.1255676
+        }, 
         "name": "VECEKRUG", 
         "address": "J\u016bros g. 23, Klaip\u0117da"
     }, 
@@ -1357,6 +1425,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.8832783, 
+            "lng": 24.0079674
+        }, 
         "name": "PA\u017dAISLIS PARK HOTEL", 
         "address": "T. Masiulio g. 18E, Kauno m."
     }, 
@@ -1385,6 +1457,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.60677020000001, 
+            "lng": 24.0265699
+        }, 
         "name": "SOFIJOS REZIDENCIJA", 
         "address": "Jaunimo g. 6, Bir\u0161tono m., Bir\u0161tono sav."
     }, 
@@ -1413,6 +1489,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "ASIMAR\u0116", 
         "address": "Vilniaus m. sav., Vilnius, \u017dirm\u016bn\u0173 g. 149"
     }, 
@@ -1454,6 +1534,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9130681, 
+            "lng": 21.0593434
+        }, 
         "name": "\"PALANGOS DAIL\u0116\"", 
         "address": "S. Daukanto g. 33, Palangos m."
     }, 
@@ -1507,6 +1591,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "COMFORT VILNIUS", 
         "address": "Vilniaus m. sav., Vilnius, G\u0117li\u0173 g. 5"
     }, 
@@ -1535,6 +1623,7 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": null, 
         "name": "KUR\u0160I\u0172 KAIMAS", 
         "address": "Vytauto g. 79/Gintaro g.30, Palangos m."
     }, 
@@ -1620,6 +1709,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.7083905, 
+            "lng": 21.1313968
+        }, 
         "name": "NATIONAL HOTEL", 
         "address": "Teatro g. 1, Klaip\u0117da"
     }, 
@@ -1665,6 +1758,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.557812, 
+            "lng": 23.3498124
+        }, 
         "name": "L\u016aNA", 
         "address": "Marijampol\u0117s sav."
     }, 
@@ -1722,6 +1819,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.685185, 
+            "lng": 25.2855815
+        }, 
         "name": "AMBERTON", 
         "address": "L. Stuokos-Gucevi\u010diaus g. 1, Vilniaus m."
     }, 
@@ -1821,6 +1922,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.7163851, 
+            "lng": 25.0290524
+        }, 
         "name": "PRIE MAL\u016aNO", 
         "address": "Vosyliuk\u0173 k., Lentvario sen., Trak\u0173 r."
     }, 
@@ -1862,6 +1967,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 56.0632936, 
+            "lng": 21.8886997
+        }, 
         "name": "LINELIS", 
         "address": "Paplatel\u0117s k., \u017demai\u010di\u0173 Kalvarijos sen., Plung\u0117s r."
     }, 
@@ -1903,6 +2012,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.5217621, 
+            "lng": 26.1966482
+        }, 
         "name": "VILA SENJORA", 
         "address": "\u017dalioji g., Garliavos m., Kauno r."
     }, 
@@ -1960,6 +2073,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.25335699999999, 
+            "lng": 22.2850513
+        }, 
         "name": "TAURAG\u0116", 
         "address": "Taurag\u0117s r. sav., Taurag\u0117s miesto sen., Taurag\u0117, Vytauto g. 83"
     }, 
@@ -2005,6 +2122,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 18.3923184, 
+            "lng": -77.85959629999999
+        }, 
         "name": "BEST WESTERN HOTEL CENTRAL", 
         "address": "\u0160v. Jok\u016bbo g., Druskinink\u0173 m., Druskinink\u0173 sav."
     }, 
@@ -2142,6 +2263,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6418604, 
+            "lng": 22.7465161
+        }, 
         "name": "EUROPA ROYALE MARIJAMPOL\u0116", 
         "address": "J. Basanavi\u010diaus a. 8, Marijampol\u0117s m., Marijampol\u0117s sav."
     }, 
@@ -2183,6 +2308,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9221629, 
+            "lng": 21.0624742
+        }, 
         "name": "AUST\u0116JA", 
         "address": "Smil\u010di\u0173 g. 31, Palanga"
     }, 
@@ -2224,6 +2353,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 56.12082059999999, 
+            "lng": 21.7959563
+        }, 
         "name": "\u017dUV\u0116DRA", 
         "address": "Mokyklos g. 11, Ignalinos m., Ignalinos r."
     }, 
@@ -2304,6 +2437,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.674134, 
+            "lng": 25.2874522
+        }, 
         "name": "CITY GATE", 
         "address": "Bazilijon\u0173 g. 3, Vilniaus m."
     }, 
@@ -2435,6 +2572,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.67539780000001, 
+            "lng": 25.2824727
+        }, 
         "name": "CONTI", 
         "address": "Raugyklos g. 7/2, Vilnius"
     }, 
@@ -2541,6 +2682,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6849867, 
+            "lng": 25.2852187
+        }, 
         "name": "CITY PARK HOTEL", 
         "address": "L. Stuokos-Gucevi\u010diaus g. 3, Vilnius"
     }, 
@@ -2569,6 +2714,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.6898424, 
+            "lng": 25.2876827
+        }, 
         "name": "ELEKTRA", 
         "address": "\u017dvej\u0173 g. 14A, Vilnius"
     }, 
@@ -2634,6 +2783,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.6778795, 
+            "lng": 21.1615713
+        }, 
         "name": "VINGIS", 
         "address": "Poilsio g. 21, Marijampol\u0117s m., Marijampol\u0117s sav."
     }, 
@@ -2675,6 +2828,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.3796992, 
+            "lng": 23.1154464
+        }, 
         "name": "RASA", 
         "address": "Maironio g. 2-95/20958, Raseiniai"
     }, 
@@ -2703,6 +2860,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.8959753, 
+            "lng": 23.8883024
+        }, 
         "name": "AMBERTON COSY", 
         "address": "Kuzmos g. 8, Kaunas"
     }, 
@@ -2756,6 +2917,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "BARBACAN PALACE", 
         "address": "Vilnius, Bok\u0161to g. 19/\u0160v.Kazimiero g. 12"
     }, 
@@ -2797,6 +2962,7 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": null, 
         "name": "JUKNAI\u010cIAI", 
         "address": "Ber\u017e\u0173 g. 3, Juknai\u010diai, Juknai\u010di\u0173 sen., \u0160ilut\u0117s raj."
     }, 
@@ -2841,6 +3007,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9242705, 
+            "lng": 21.0703095
+        }, 
         "name": "LIUKRENA", 
         "address": "Vytauto g. 93A, Palangos m."
     }, 
@@ -2894,6 +3064,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.9035102, 
+            "lng": 23.9061726
+        }, 
         "name": "BABILONAS", 
         "address": "\u017dalioji g. 38A, Kauno m."
     }, 
@@ -2922,6 +3096,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "A PENKI", 
         "address": "Savanori\u0173 pr. 176, Vilniaus m."
     }, 
@@ -2963,6 +3141,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9148516, 
+            "lng": 21.0647949
+        }, 
         "name": "R\u0104\u017d\u0116", 
         "address": "Vytauto g. 74, Palangos m."
     }, 
@@ -3015,6 +3197,7 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": null, 
         "name": "MARGIS", 
         "address": "Pensinink\u0173 km., Trak\u0173 r."
     }, 
@@ -3058,6 +3241,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 48.3950921, 
+            "lng": 19.7108316
+        }, 
         "name": "VILA FLORA", 
         "address": "Kalno g. 7a, Neringos m., Neringos sav."
     }, 
@@ -3086,6 +3273,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.916511, 
+            "lng": 21.0616283
+        }, 
         "name": "DU BROLIAI", 
         "address": "S. Daukanto g. 15, Palangos m."
     }, 
@@ -3127,6 +3318,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.78199710000001, 
+            "lng": 23.1341364
+        }, 
         "name": "\u017dILINA", 
         "address": "Marijampol\u0117s sav., Marijampol\u0117, L. Giros g. 42"
     }, 
@@ -3169,6 +3364,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9197146, 
+            "lng": 21.0608284
+        }, 
         "name": "\"ALANGA\"", 
         "address": "S. N\u0117ries g. 14, Palangos m."
     }, 
@@ -3211,6 +3410,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.3439846, 
+            "lng": 21.4765091
+        }, 
         "name": "DEIMS", 
         "address": "Lietuvinink\u0173 g. 70, \u0160ilut\u0117s m., \u0160ilut\u0117s r."
     }, 
@@ -3368,6 +3571,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.8969663, 
+            "lng": 23.9008
+        }, 
         "name": "BEST WESTERN SANTAKOS", 
         "address": "J. Gruod\u017eio g. 21, Kauno m."
     }, 
@@ -3422,6 +3629,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.7595951, 
+            "lng": 24.403435
+        }, 
         "name": "PAS KATIN\u0104", 
         "address": "Vilkatupio g. 1, Vaivad\u0173 k., Panev\u0117\u017eio r."
     }, 
@@ -3475,6 +3686,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "DRUSKININK\u0172 SVEIKATINIMO IR POILSIO CENTRAS AQUA", 
         "address": "Vilniaus al. 13, Druskinink\u0173 m., Druskinink\u0173 sav."
     }, 
@@ -3519,6 +3734,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6948316, 
+            "lng": 25.2473892
+        }, 
         "name": "EMBASSY HOTEL BALATONAS", 
         "address": "Latvi\u0173 g. 38, Vilniaus m."
     }, 
@@ -3547,6 +3766,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.7337846, 
+            "lng": 25.295776
+        }, 
         "name": "PARK VILLA", 
         "address": "Vaidilut\u0117s 6A, Vilnius"
     }, 
@@ -3672,6 +3895,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "NOVOTEL VILNIUS", 
         "address": "Vilniaus m. sav., Vilnius, Gedimino pr. 16"
     }, 
@@ -3713,6 +3940,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.3967622, 
+            "lng": 24.0306287
+        }, 
         "name": "OD\u0116", 
         "address": "Naujoji g. 8-C, Alytaus m."
     }, 
@@ -3862,6 +4093,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.8969663, 
+            "lng": 23.9008
+        }, 
         "name": "SANTAKOS", 
         "address": "J. Gruod\u017eio g. 21, Kaunas"
     }, 
@@ -3903,6 +4138,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9835785, 
+            "lng": 22.2508131
+        }, 
         "name": "PRIE LUK\u0160TO", 
         "address": "Tel\u0161i\u0173 r. sav., Varni\u0173 sen., Varniai, Medinink\u0173 a. 1/1"
     }, 
@@ -3960,6 +4199,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.91572660000001, 
+            "lng": 21.0700038
+        }, 
         "name": "GAMANTA", 
         "address": "Plyt\u0173 g. 7, Palanga"
     }, 
@@ -4001,6 +4244,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9566126, 
+            "lng": 23.2980745
+        }, 
         "name": "PROMENADA", 
         "address": "\u0160iauli\u0173 g. 41, Klaip\u0117dos m."
     }, 
@@ -4029,6 +4276,7 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": null, 
         "name": "NEMUNO VIE\u0160BUTIS", 
         "address": "\u0160ilut\u0117s r. sav., \u0160ilut\u0117s sen., \u0160ilut\u0117, Lietuvinink\u0173 g. 70"
     }, 
@@ -4057,6 +4305,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.727101, 
+            "lng": 24.3626272
+        }, 
         "name": "CONVIVA", 
         "address": "Laisv\u0117s a. 16, Panev\u0117\u017eio m."
     }, 
@@ -4171,6 +4423,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6761238, 
+            "lng": 25.2884037
+        }, 
         "name": "EUROPA ROYALE", 
         "address": "Au\u0161ros Vart\u0173 g. 6, Vilnius"
     }, 
@@ -4256,6 +4512,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.7374757, 
+            "lng": 21.0920962
+        }, 
         "name": "MORENA", 
         "address": "Audros g. 8a, Klaip\u0117da"
     }, 
@@ -4297,6 +4557,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9320758, 
+            "lng": 23.3142194
+        }, 
         "name": "\u0160IAULIAI", 
         "address": "Draugyst\u0117s pr. 25, \u0160iauliai"
     }, 
@@ -4407,6 +4671,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9105559, 
+            "lng": 21.0624703
+        }, 
         "name": "GABIJA", 
         "address": "Vytauto g. 40, Palangos m."
     }, 
@@ -4466,6 +4734,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.8901867, 
+            "lng": 23.9287415
+        }, 
         "name": "IBIS KAUNAS CENTRE", 
         "address": "Vytauto pr. 28, LT-44328 Kaunas"
     }, 
@@ -4508,6 +4780,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.3812623, 
+            "lng": 23.1130516
+        }, 
         "name": "GRAFO ZUBOVO", 
         "address": "Dubysos g. 1, Bubi\u0173 k., \u0160iauli\u0173 r."
     }, 
@@ -4536,6 +4812,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.9263075, 
+            "lng": 23.3159265
+        }, 
         "name": "TURN\u0116", 
         "address": "R\u016bd\u0117s g. 9, \u0160iauliai"
     }, 
@@ -4564,6 +4844,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.8979693, 
+            "lng": 23.9136248
+        }, 
         "name": "METROPOLIS", 
         "address": "S. Daukanto g. 21, Kaunas"
     }, 
@@ -4592,6 +4876,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.7067604, 
+            "lng": 21.1271485
+        }, 
         "name": "OLD MILL HOTEL", 
         "address": "\u017dvej\u0173 g. 22, Klaip\u0117dos m."
     }, 
@@ -4633,6 +4921,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.98796729999999, 
+            "lng": 24.5221189
+        }, 
         "name": "KUPI\u0160KIO VERSLO IR TECHNOLOGIJOS MOKYKLOS VIE\u0160BUTIS", 
         "address": "Smilgi\u0173 k., Kupi\u0161kio r."
     }, 
@@ -4674,6 +4966,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 56.3209579, 
+            "lng": 22.3228953
+        }, 
         "name": "SONATA", 
         "address": "Algirdo g. 34, Bir\u0161tono m., Bir\u0161tono sav."
     }, 
@@ -4715,6 +5011,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.71080260000001, 
+            "lng": 21.1318065
+        }, 
         "name": "V\u0116TRA", 
         "address": "Taikos pr. 80 , Klaip\u0117dos m."
     }, 
@@ -4853,6 +5153,7 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": null, 
         "name": "PU\u0160\u0172 PAUNKSN\u0116JE", 
         "address": "Palangos m. sav., Palanga, S. Dariaus ir S. Gir\u0117no g. 25"
     }, 
@@ -4934,6 +5235,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.6779781, 
+            "lng": 21.1724402
+        }, 
         "name": "SIMBOLY", 
         "address": "Vazgaikiemio k., Prien\u0173 r."
     }, 
@@ -4962,6 +5267,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.5048589, 
+            "lng": 24.9787608
+        }, 
         "name": "SALOS", 
         "address": "Trak\u0173 r. Kranto g. 5"
     }, 
@@ -4990,6 +5299,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.8879057, 
+            "lng": 23.9336069
+        }, 
         "name": "JEREVAN", 
         "address": "M. K. \u010ciurlionio g. 128, Druskinink\u0173 m., Druskinink\u0173 sav."
     }, 
@@ -5018,6 +5331,10 @@ hotels = ([
             "Svetain\u0117s adresas": "www.amicushotel.lt"
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.6591734, 
+            "lng": 25.2777473
+        }, 
         "name": "AMICUS HOTEL", 
         "address": "Kaminkelio g. 15, Vilnius"
     }, 
@@ -5099,6 +5416,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.8968721, 
+            "lng": 23.8924264
+        }, 
         "name": "PERK\u016aNO NAMAI", 
         "address": "Perk\u016bno al. 61, Kaunas"
     }, 
@@ -5127,6 +5448,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.91792, 
+            "lng": 23.3125687
+        }, 
         "name": "SALDUV\u0116S", 
         "address": "K. Donelai\u010dio 70, \u0160iauliai"
     }, 
@@ -5184,6 +5509,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9301519, 
+            "lng": 23.315442
+        }, 
         "name": "\u0160AULYS", 
         "address": "Vasario 16-osios g. 40, \u0160iauli\u0173 m."
     }, 
@@ -5489,6 +5818,7 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": null, 
         "name": "DAINAVA", 
         "address": "Druskinink\u0173 sav., Druskininkai, Maironio g. 22"
     }, 
@@ -5530,6 +5860,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6756257, 
+            "lng": 25.2833706
+        }, 
         "name": "R\u016aDNINK\u0172 VARTAI", 
         "address": "R\u016bdnink\u0173 g. 15/46, Vilniaus m."
     }, 
@@ -5571,6 +5905,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9596245, 
+            "lng": 21.1513928
+        }, 
         "name": "HBH JUOZO ALAUS BRAVORO VIE\u0160BUTIS", 
         "address": "\u017dibininkai, Kretingos r."
     }, 
@@ -5732,6 +6070,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.7062106, 
+            "lng": 25.3206651
+        }, 
         "name": "MARTIALIS", 
         "address": "Bistry\u010dios g. 13, Vilnius"
     }, 
@@ -5800,6 +6142,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.676406, 
+            "lng": 25.2830424
+        }, 
         "name": "GROTTHUSS HOTEL", 
         "address": "Ligonin\u0117s g. 7, Vilnius"
     }, 
@@ -5849,6 +6195,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6765683, 
+            "lng": 25.2885665
+        }, 
         "name": "RAMADA HOTEL AND SUITES VILNIUS", 
         "address": "Suba\u010diaus g. 2, Vilniaus m."
     }, 
@@ -5926,6 +6276,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "RATONDA CENTRUM HOTEL", 
         "address": "Gedimino pr. 52/1a, Vilnius"
     }, 
@@ -5967,6 +6321,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.3081549, 
+            "lng": 20.9991161
+        }, 
         "name": "NIDUS", 
         "address": "G. D. Kuverto g. 15, Neringa, Neringos sav."
     }, 
@@ -5995,6 +6353,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "CREDO", 
         "address": "Vilniaus al. 2A, Druskinink\u0173 m., Druskinink\u0173 sav."
     }, 
@@ -6100,6 +6462,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.7333218, 
+            "lng": 24.3606831
+        }, 
         "name": "ROMANTIC", 
         "address": "Kranto g. 24, Panev\u0117\u017eio m."
     }, 
@@ -6149,6 +6515,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.680473, 
+            "lng": 25.2861453
+        }, 
         "name": "STIKLIAI", 
         "address": "Gaono g. 7, Vilniaus m."
     }, 
@@ -6190,6 +6560,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.5182844, 
+            "lng": 21.61901
+        }, 
         "name": "VIEVIJA", 
         "address": "Ba\u017eny\u010dios g. 4a, Vievio m., Elektr\u0117n\u0173 sav."
     }, 
@@ -6218,6 +6592,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.0195337, 
+            "lng": 23.9789143
+        }, 
         "name": "DZ\u016aKIJA", 
         "address": "V. Kudirkos g. 47, Druskininkai"
     }, 
@@ -6287,6 +6665,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.8953781, 
+            "lng": 23.8848966
+        }, 
         "name": "DAUGIRDAS", 
         "address": "T. Daugirdo g. 4, Kauno m."
     }, 
@@ -6329,6 +6711,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "GREEN VILNIUS HOTEL", 
         "address": "Pilait\u0117s pr. 20, Vilnius"
     }, 
@@ -6509,6 +6895,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.7109458, 
+            "lng": 21.1291436
+        }, 
         "name": "KLAIP\u0116DA", 
         "address": "Naujojo Sodo g. 1, Klaip\u0117da"
     }, 
@@ -6603,6 +6993,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.8518252, 
+            "lng": 25.5408495
+        }, 
         "name": "VIVA GREEN RESORT", 
         "address": "Tu\u0161\u010diauli\u0173 k., Vilniaus r."
     }, 
@@ -6647,6 +7041,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.7068357, 
+            "lng": 21.1274458
+        }, 
         "name": "OLD PORT HOTEL", 
         "address": "\u017dvej\u0173 g. 20-22, Klaip\u0117dos m."
     }, 
@@ -6772,6 +7170,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.69458780000001, 
+            "lng": 25.2946363
+        }, 
         "name": "\u0160AR\u016aNAS", 
         "address": "Raitinink\u0173 g. 4, Vilniaus m."
     }, 
@@ -6839,6 +7241,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.01772949999999, 
+            "lng": 23.9838921
+        }, 
         "name": "VIOLETA", 
         "address": "Kurorto g. 4, Druskininkai"
     }, 
@@ -6867,6 +7273,7 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": null, 
         "name": "GRAND SPA LIETUVA", 
         "address": "Druskinink\u0173 sav."
     }, 
@@ -6895,6 +7302,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.9042484, 
+            "lng": 23.9470806
+        }, 
         "name": "NAKTIES MAGIJA", 
         "address": "Skrobl\u0173 g. 3, Kauno m."
     }, 
@@ -6955,6 +7366,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.92149509999999, 
+            "lng": 21.0697993
+        }, 
         "name": "\u017dYDROJI LIEPSNA", 
         "address": "Gintaro g. 36, Palanga"
     }, 
@@ -6983,6 +7398,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.7315412, 
+            "lng": 25.2795879
+        }, 
         "name": "JERUZAL\u0116S VIE\u0160BUTIS", 
         "address": "Kalvarij\u0173 g. 247, Vilniaus m."
     }, 
@@ -7036,6 +7455,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6945613, 
+            "lng": 25.2867837
+        }, 
         "name": "AD ASTRUM", 
         "address": "\u0160eimyni\u0161ki\u0173 g. 21, Vilnius"
     }, 
@@ -7085,6 +7508,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.706516, 
+            "lng": 21.1355035
+        }, 
         "name": "EUTERP\u0116", 
         "address": "Dar\u017e\u0173 g. 9, Klaip\u0117dos m."
     }, 
@@ -7126,6 +7553,7 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": null, 
         "name": "NIDOS SMILT\u0116", 
         "address": "Neringos sav., Neringa, Skruzdyn\u0117s g. 2"
     }, 
@@ -7171,6 +7599,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.39539, 
+            "lng": 24.0702767
+        }, 
         "name": "VILA VINGIS", 
         "address": "Kurorto g. 6, Druskinink\u0173 m., Druskinink\u0173 sav."
     }, 
@@ -7212,6 +7644,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.2617057, 
+            "lng": 22.3015847
+        }, 
         "name": "JURBARKAS", 
         "address": "Dariaus ir Gir\u0117no g. 98, Jurbarko m., Jurbarko r."
     }, 
@@ -7289,6 +7725,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.25270769999999, 
+            "lng": 24.7729701
+        }, 
         "name": "DE LITA", 
         "address": "Vytauto g. 43, Druskinink\u0173 m., Druskinink\u0173 sav."
     }, 
@@ -7330,6 +7770,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9197072, 
+            "lng": 21.0525799
+        }, 
         "name": "\u0160ACHMATIN\u0116", 
         "address": "J. Basanavi\u010diaus g. 45, Palangos m."
     }, 
@@ -7490,6 +7934,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.7168441, 
+            "lng": 21.1283897
+        }, 
         "name": "NAVALIS", 
         "address": "H. Manto g. 23, Klaip\u0117dos m."
     }, 
@@ -7518,6 +7966,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.9565293, 
+            "lng": 23.3206368
+        }, 
         "name": "MOBUSTA", 
         "address": "Vaidoto g. 33, \u0160iauliai"
     }, 
@@ -7546,6 +7998,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.7125034, 
+            "lng": 21.1297599
+        }, 
         "name": "PR\u016aSIJA", 
         "address": "S. \u0160imkaus g. 6, Klaip\u0117da"
     }, 
@@ -7606,6 +8062,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.7109458, 
+            "lng": 21.1291436
+        }, 
         "name": "AMBERTON KLAIP\u0116DA", 
         "address": "Naujojo Sodo g. 1, Klaip\u0117dos m."
     }, 
@@ -7634,6 +8094,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.6754233, 
+            "lng": 25.2682066
+        }, 
         "name": "VILNIAUS EUROPOLIS", 
         "address": "\u0160vitrigailos g. 11D, Vilnius"
     }, 
@@ -7692,6 +8156,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.6732775, 
+            "lng": 25.7261237
+        }, 
         "name": "VIKTORIJA", 
         "address": "\u010ci\u017ei\u0161ki\u0173 k., Vilkavi\u0161kio r."
     }, 
@@ -7720,6 +8188,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.2517376, 
+            "lng": 24.7700949
+        }, 
         "name": "DALIA", 
         "address": "Vytauto g. 27, Druskinink\u0173 m., Druskinink\u0173 sav."
     }, 
@@ -7787,6 +8259,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.2098483, 
+            "lng": 25.4723211
+        }, 
         "name": "SPA HOTEL BELVILIS", 
         "address": "Kirneil\u0117s k., Mol\u0117t\u0173 r."
     }, 
@@ -7830,6 +8306,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.733248, 
+            "lng": 25.2791232
+        }, 
         "name": "A.V.GODA", 
         "address": "Kalvarij\u0173 g. 265, Vilniaus m."
     }, 
@@ -7895,6 +8375,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.0126739, 
+            "lng": 23.9787926
+        }, 
         "name": "SPA - VILNIUS", 
         "address": "K.Dineikos g 1/3"
     }, 
@@ -7923,6 +8407,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.8968721, 
+            "lng": 23.8924264
+        }, 
         "name": "KAUNAS CITY", 
         "address": "Laisv\u0117s al. 90, Kauno m."
     }, 
@@ -7976,6 +8464,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.7664025, 
+            "lng": 21.0893431
+        }, 
         "name": "PAJ\u016aRIS", 
         "address": "\u0160laito g. 18a, Klaip\u0117dos m."
     }, 
@@ -8117,6 +8609,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.3954281, 
+            "lng": 24.0467819
+        }, 
         "name": "NEMUNAS PARK RESIDENCE HOTEL", 
         "address": "Alytaus r. sav., Nemunai\u010dio sen., Nemunaitis"
     }, 
@@ -8170,6 +8666,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.3959444, 
+            "lng": 24.0460449
+        }, 
         "name": "DZ\u016aKIJOS VIE\u0160BUTIS", 
         "address": "Pulko g. 14-1, Alytaus m."
     }, 
@@ -8259,6 +8759,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9213002, 
+            "lng": 21.0733943
+        }, 
         "name": "\u017dILVINAS", 
         "address": "Ganykl\u0173 g. 30, Palangos m."
     }, 
@@ -8352,6 +8856,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6708748, 
+            "lng": 25.2604591
+        }, 
         "name": "PONAS TADAS", 
         "address": "Naugarduko g. 76, Vilniaus m."
     }, 
@@ -8380,6 +8888,7 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": null, 
         "name": "M\u0116GUVA", 
         "address": "Palangos m. sav., Palanga, M. Valan\u010diaus g. 1"
     }, 
@@ -8427,6 +8936,7 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": null, 
         "name": "PALANGOS LINAS", 
         "address": "Palangos m. sav., Palanga, Vytauto g. 155"
     }, 
@@ -8468,6 +8978,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "NERINGA", 
         "address": "Gedimino pr. 23, Vilniaus m."
     }, 
@@ -8509,6 +9023,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6772898, 
+            "lng": 25.2658015
+        }, 
         "name": "GIL\u0116", 
         "address": "T. \u0160ev\u010denkos g. 16, Vilniaus m."
     }, 
@@ -8537,6 +9055,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.6548678, 
+            "lng": 23.2627661
+        }, 
         "name": "LAIMA", 
         "address": "Draugyst\u0117s g. 2, Druskinink\u0173 m., Druskinink\u0173 sav."
     }, 
@@ -8595,6 +9117,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.67628699999999, 
+            "lng": 25.2714727
+        }, 
         "name": "ALGIRDAS CITY HOTEL", 
         "address": "Algirdo g. 24, Vilniaus m."
     }, 
@@ -8623,6 +9149,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.6772898, 
+            "lng": 25.2658015
+        }, 
         "name": "CORNER HOTEL", 
         "address": "T. \u0160ev\u010denkos g. 16, Vilnius"
     }, 
@@ -8676,6 +9206,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.07850730000001, 
+            "lng": 24.3163627
+        }, 
         "name": "ATGAIVA TAU", 
         "address": "Ruklos k., Ruklos sen., Jonavos r."
     }, 
@@ -8724,6 +9258,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.8968721, 
+            "lng": 23.8924264
+        }, 
         "name": "MAGNUS HOTEL", 
         "address": "Vytauto pr. 25, Kauno m."
     }, 
@@ -8909,6 +9447,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "EUROPA ROYALE DRUSKININKAI", 
         "address": "Vilniaus al. 7, Druskinink\u0173 m., Druskinink\u0173 sav."
     }, 
@@ -8954,6 +9496,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9214547, 
+            "lng": 21.0685893
+        }, 
         "name": "TAURAS", 
         "address": "Vytauto g. 116, Palanga"
     }, 
@@ -9082,6 +9628,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.8968721, 
+            "lng": 23.8924264
+        }, 
         "name": "KAUNAS", 
         "address": "Kauno m. sav., Kaunas, Laisv\u0117s al. 79"
     }, 
@@ -9123,6 +9673,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.8968721, 
+            "lng": 23.8924264
+        }, 
         "name": "APPLE ECONOMY HOTEL", 
         "address": "Kauno m. sav., Kaunas, M. Valan\u010diaus g. 19"
     }, 
@@ -9594,6 +10148,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6819901, 
+            "lng": 25.2492951
+        }, 
         "name": "CROWNE PLAZA VILNIUS", 
         "address": "M. K. \u010ciurlionio g. 84, Vilnius"
     }, 
@@ -9622,6 +10180,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 37.1396034, 
+            "lng": 128.9772011
+        }, 
         "name": "LIJO", 
         "address": "Sodo g. 5, Garg\u017ed\u0173 m., Klaip\u0117dos r."
     }, 
@@ -9671,6 +10233,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.5378449, 
+            "lng": 21.1169592
+        }, 
         "name": "EGLI\u0172 SL\u0116NIS", 
         "address": "Ievos kalno g. 28, Neringa"
     }, 
@@ -9713,6 +10279,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 42.5584069, 
+            "lng": -2.6043635
+        }, 
         "name": "PU\u0160YNO NAMAI", 
         "address": "Spurgan\u0173 k., Ma\u017eeiki\u0173 r."
     }, 
@@ -9741,6 +10311,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.6777574, 
+            "lng": 25.2824898
+        }, 
         "name": "\u017dEMAIT\u0116S", 
         "address": "\u017demaitijos g. 15, Vilniaus m."
     }, 
@@ -9869,6 +10443,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.6846191, 
+            "lng": 21.1489046
+        }, 
         "name": "PARK INN BY RADISSON KLAIP\u0116DOS VIE\u0160BUTIS", 
         "address": "Minijos g. 119, Klaip\u0117dos m."
     }, 
@@ -9946,6 +10524,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.9802635, 
+            "lng": 25.2363514
+        }, 
         "name": "EUROPA STAY VILNIUS", 
         "address": "\u0104\u017euolyno g. 7, Vilniaus m."
     }, 
@@ -9999,6 +10581,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.7023946, 
+            "lng": 21.1369563
+        }, 
         "name": "BER\u017dAS", 
         "address": "Minijos g. 2, Plung\u0117s m., Plung\u0117s r."
     }, 
@@ -10040,6 +10626,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 56.3050097, 
+            "lng": 22.3293313
+        }, 
         "name": "VALINA", 
         "address": "Draugyst\u0117s g. 18, Ma\u017eeikiai"
     }, 
@@ -10068,6 +10658,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "APIA", 
         "address": "Vilniaus m. sav., Vilnius, \u0160v. Ignoto g. 12-1"
     }, 
@@ -10109,6 +10703,7 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": null, 
         "name": "ANGEL\u0116", 
         "address": "Roki\u0161kio r. sav., Roki\u0161kio miesto sen., Roki\u0161kis, Panev\u0117\u017eio g. 7A"
     }, 
@@ -10151,6 +10746,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.9396826, 
+            "lng": 23.6434169
+        }, 
         "name": "VIE\u0160BUTIS \"BANGA\"", 
         "address": "Kranto g. 3A, Taurag\u0117s m., Taurag\u0117s r."
     }, 
@@ -10207,6 +10806,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6849867, 
+            "lng": 25.2852187
+        }, 
         "name": "MABRE RESIDENCE HOTEL", 
         "address": "L. Stuokos-Gucevi\u010diaus g. 3, Vilniaus m."
     }, 
@@ -10235,6 +10838,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.7038218, 
+            "lng": 25.2318252
+        }, 
         "name": "GRO\u017dIO SALA", 
         "address": "\u010c. Sugiharos g. 3, Vilniaus m."
     }, 
@@ -10341,6 +10948,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6772898, 
+            "lng": 25.2658015
+        }, 
         "name": "E-GUESTHOUSE", 
         "address": "T. \u0160ev\u010denkos g. 16, Vilnius"
     }, 
@@ -10394,6 +11005,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.696951, 
+            "lng": 25.25671
+        }, 
         "name": "VIKTORIJOS VIE\u0160BUTIS", 
         "address": "Saltoni\u0161ki\u0173 g. 56, Vilnius"
     }, 
@@ -10435,6 +11050,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.7450367, 
+            "lng": 21.1303247
+        }, 
         "name": "PARKAS", 
         "address": "Liepojos g. 3, Klaip\u0117da"
     }, 
@@ -11355,6 +11974,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "REVAL HOTEL LIETUVA", 
         "address": "Vilniaus m. sav., Vilnius, Konstitucijos pr. 20"
     }, 
@@ -11396,6 +12019,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.20857669999999, 
+            "lng": 24.3402795
+        }, 
         "name": "VILA ULA", 
         "address": "Burokarais\u010dio k., Var\u0117nos r."
     }, 
@@ -11424,6 +12051,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.9016736, 
+            "lng": 21.13474
+        }, 
         "name": "BELLAVILA", 
         "address": "Gintaro g. 1A, Palangos m."
     }, 
@@ -11465,6 +12096,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.9038789, 
+            "lng": 23.9344894
+        }, 
         "name": "SFINKSAS", 
         "address": "Auk\u0161tai\u010di\u0173 g. 55, Kauno m."
     }, 
@@ -11493,6 +12128,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.6865343, 
+            "lng": 25.2858894
+        }, 
         "name": "SENATORIAI", 
         "address": "Tilto g. 2A, Vilnius"
     }, 
@@ -11546,6 +12185,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9113787, 
+            "lng": 21.0628183
+        }, 
         "name": "AUSKA", 
         "address": "Vytauto g. 11, Palangos m."
     }, 
@@ -11574,6 +12217,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.6315631, 
+            "lng": 25.2785548
+        }, 
         "name": "ADELITA", 
         "address": "Rod\u016bnios kelias 8, Vilniaus m."
     }, 
@@ -11602,6 +12249,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.9835785, 
+            "lng": 22.2508131
+        }, 
         "name": "TEL\u0160I\u0172 VIE\u0160BUTIS", 
         "address": "Tel\u0161i\u0173 r. sav., Tel\u0161i\u0173 sen., Tel\u0161iai, K\u0119stu\u010dio g. 21"
     }, 
@@ -11630,6 +12281,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.67253669999999, 
+            "lng": 25.2866576
+        }, 
         "name": "MIKOTEL", 
         "address": "Pylimo g. 63, Vilniaus m."
     }, 
@@ -11658,6 +12313,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.9121489, 
+            "lng": 21.0632529
+        }, 
         "name": "VILA DIEMEDIS", 
         "address": "Vytauto g. 53, Palangos m."
     }, 
@@ -11729,6 +12388,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.7449906, 
+            "lng": 24.4237981
+        }, 
         "name": "\u0160ERMUTAS", 
         "address": "Tinkl\u0173 g. 51, Panev\u0117\u017eio m."
     }, 
@@ -11757,6 +12420,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.9156273, 
+            "lng": 21.06105
+        }, 
         "name": "BALTIC INN", 
         "address": "S. Daukanto g. 10A, Palangos m."
     }, 
@@ -11798,6 +12465,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9481034, 
+            "lng": 25.5856338
+        }, 
         "name": "GABRIELLA", 
         "address": "Jaunyst\u0117s g. 21, Visagino m., Visagino sav."
     }, 
@@ -11939,6 +12610,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.893646, 
+            "lng": 23.9221505
+        }, 
         "name": "EUROPA ROYALE HOTEL KAUNAS", 
         "address": "Mi\u0161ko g. 11, Kaunas"
     }, 
@@ -11992,6 +12667,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9150632, 
+            "lng": 21.0649101
+        }, 
         "name": "KERP\u0116", 
         "address": "Vytauto g. 76, Palangos m."
     }, 
@@ -12133,6 +12812,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.68238239999999, 
+            "lng": 25.2891538
+        }, 
         "name": "NARUTIS", 
         "address": "Pilies g. 24, Vilnius"
     }, 
@@ -12202,6 +12885,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9119677, 
+            "lng": 21.0571086
+        }, 
         "name": "TULP\u0116", 
         "address": "S. Dariaus ir S. Gir\u0117no g. 11, Palangos m."
     }, 
@@ -12243,6 +12930,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9184962, 
+            "lng": 21.0583097
+        }, 
         "name": "LA\u0160AS", 
         "address": "J. Basanavi\u010diaus g. 29, Palangos m."
     }, 
@@ -12271,6 +12962,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "RUNMIS", 
         "address": "Paneb\u0117\u017eio 8A, Vilnius"
     }, 
@@ -12526,6 +13221,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.69321859999999, 
+            "lng": 25.2220444
+        }, 
         "name": "KAROLINA", 
         "address": "Sausio 13-osios g. 2, Vilnius"
     }, 
@@ -12567,6 +13266,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.71080260000001, 
+            "lng": 21.1318065
+        }, 
         "name": "NES\u0116", 
         "address": "Klaip\u0117dos m. sav., Klaip\u0117da, Sportinink\u0173 g. 46"
     }, 
@@ -12595,6 +13298,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.6062875, 
+            "lng": 23.9997481
+        }, 
         "name": "KARALI\u0160KOJI REZIDENCIJA", 
         "address": "Pakaln\u0117s g. 3, Bir\u0161tonas"
     }, 
@@ -12651,6 +13358,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6621276, 
+            "lng": 25.503181
+        }, 
         "name": "GR\u0116JAUS NAMAS", 
         "address": "Did\u017eioji g. 36, K\u0117daini\u0173 m., K\u0117daini\u0173 r."
     }, 
@@ -12692,6 +13403,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 56.2299787, 
+            "lng": 23.6089941
+        }, 
         "name": "AUDRUVIS", 
         "address": "V. Kudirkos g. 93, Joni\u0161kio m., Joni\u0161kio r."
     }, 
@@ -12761,6 +13476,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6773447, 
+            "lng": 25.2795414
+        }, 
         "name": "RINNO", 
         "address": "Vingri\u0173 g. 25, Vilniaus m."
     }, 
@@ -12789,6 +13508,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.7097655, 
+            "lng": 21.1447652
+        }, 
         "name": "ARIB\u0116", 
         "address": "Bang\u0173 g. 19, Klaip\u0117da"
     }, 
@@ -12817,6 +13540,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.918238, 
+            "lng": 21.0727495
+        }, 
         "name": "PALANGOS JUZ\u0116", 
         "address": "Virbali\u0161k\u0117s takas 2, Palangos m."
     }, 
@@ -12861,6 +13588,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.5981335, 
+            "lng": 26.4350517
+        }, 
         "name": "AUK\u0160TAITIJA", 
         "address": "Veteran\u0173 g. 9, Visagino m., Visagino sav."
     }, 
@@ -12906,6 +13637,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 56.3191315, 
+            "lng": 22.8741132
+        }, 
         "name": "NAUJOSIOS AKMEN\u0116S VIE\u0160BUTIS", 
         "address": "Respublikos g. 11A, Naujosios Akmen\u0117s m., Akmen\u0117s r."
     }, 
@@ -13165,6 +13900,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "EUROPA CITY VILNIUS", 
         "address": "Vilniaus m. sav., Vilnius, J. Jasinskio g. 14"
     }, 
@@ -13193,6 +13932,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.9187176, 
+            "lng": 21.0669299
+        }, 
         "name": "CENTRAS", 
         "address": "Vytauto g. 96, Palanga"
     }, 
@@ -13258,6 +14001,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.2514931, 
+            "lng": 24.768816
+        }, 
         "name": "GILIJA", 
         "address": "Vytauto g. 17, \u0160ilut\u0117s m., \u0160ilut\u0117s r."
     }, 
@@ -13301,6 +14048,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.71080260000001, 
+            "lng": 21.1318065
+        }, 
         "name": "PALVA", 
         "address": "Statybinink\u0173 pr. 7, Klaip\u0117dos m."
     }, 
@@ -13329,6 +14080,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "VELGA", 
         "address": "Vilniaus m. sav., Vilnius, Gele\u017einio Vilko g. 3"
     }, 
@@ -13371,6 +14126,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9171765, 
+            "lng": 23.2837387
+        }, 
         "name": "TOMAS", 
         "address": "Til\u017e\u0117s g. 63A, \u0160iauli\u0173 m."
     }, 
@@ -13434,6 +14193,7 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": null, 
         "name": "MED\u016aZA", 
         "address": "Palangos m. sav., Palanga, Kontinink\u0173 g. 9"
     }, 
@@ -13773,6 +14533,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6772841, 
+            "lng": 25.2877592
+        }, 
         "name": "RADISSON BLU ASTORIJA", 
         "address": "Vilnius, Did\u017eioji g. 35"
     }, 
@@ -13828,6 +14592,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "PU\u0160YNAS", 
         "address": "Vilniaus al. 3, Druskininkai, Druskinink\u0173 sav."
     }, 
@@ -13869,6 +14637,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.71080260000001, 
+            "lng": 21.1318065
+        }, 
         "name": "L\u016aGN\u0116", 
         "address": "Klaip\u0117dos m. sav., Klaip\u0117da, Galinio Pylimo g. 16"
     }, 
@@ -13910,6 +14682,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 56.3102612, 
+            "lng": 22.3286788
+        }, 
         "name": "RUGELIS", 
         "address": "Ventos 31 A, Ma\u017eeikiai"
     }, 
@@ -13951,6 +14727,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.90772310000001, 
+            "lng": 23.9530273
+        }, 
         "name": "PUNTUKAS", 
         "address": "A. Baranausko a. 15, Anyk\u0161\u010di\u0173 m., Anyk\u0161\u010di\u0173 r."
     }, 
@@ -13996,6 +14776,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.304258, 
+            "lng": 21.0013692
+        }, 
         "name": "PARNID\u017dIO KOPA", 
         "address": "Taikos g. 26, Neringa"
     }, 
@@ -14039,6 +14823,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 56.27039689999999, 
+            "lng": 21.5195055
+        }, 
         "name": "ASTRUM PALACE", 
         "address": "Laisv\u0117s g. 7, Ma\u017eeiki\u0173 m., Ma\u017eeiki\u0173 r."
     }, 
@@ -14080,6 +14868,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6772898, 
+            "lng": 25.2658015
+        }, 
         "name": "E-GUEST HOUSE", 
         "address": "T. \u0160ev\u010denkos g. 16, Vilniaus m."
     }, 
@@ -14121,6 +14913,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9320758, 
+            "lng": 23.3142194
+        }, 
         "name": "SAULININKAS", 
         "address": "\u0160iauli\u0173 m. sav., \u0160iauliai, S. Lukauskio g. 5A"
     }, 
@@ -14162,6 +14958,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.7154842, 
+            "lng": 21.1433037
+        }, 
         "name": "ARARAT", 
         "address": "Liep\u0173 g. 48A, Klaip\u0117dos m."
     }, 
@@ -14190,6 +14990,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.5318433, 
+            "lng": 21.1172813
+        }, 
         "name": "KUR\u0116NAS", 
         "address": "L. R\u0117zos g. 10, Neringa"
     }, 
@@ -14447,6 +15251,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "PANORAMA", 
         "address": "Vilniaus m. sav., Vilnius, Sod\u0173 g. 14"
     }, 
@@ -14492,6 +15300,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.3990555, 
+            "lng": 24.0460539
+        }, 
         "name": "SENAS NAMAS", 
         "address": "U\u017euolankos g. 24, Alytaus m."
     }, 
@@ -14556,6 +15368,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.8959753, 
+            "lng": 23.8883024
+        }, 
         "name": "MINOTEL", 
         "address": "V. Kuzmos g. 8, Kaunas"
     }, 
@@ -14600,6 +15416,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.62851860000001, 
+            "lng": 24.9305178
+        }, 
         "name": "APVALAUS STALO KLUBAS", 
         "address": "Gilu\u0161io g. 6, Trak\u0173 m., Trak\u0173 r."
     }, 
@@ -14821,6 +15641,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6834788, 
+            "lng": 25.2823692
+        }, 
         "name": "ARTIS CENTRUM HOTEL", 
         "address": "Liejyklos g. 11/23, Vilnius"
     }, 
@@ -14849,6 +15673,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.7072712, 
+            "lng": 21.1409113
+        }, 
         "name": "MEMEL HOTEL", 
         "address": "Bang\u0173 g. 4, Klaip\u0117dos m."
     }, 
@@ -14890,6 +15718,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.0186097, 
+            "lng": 23.9722411
+        }, 
         "name": "IVOLITA", 
         "address": "\u0160v. Jok\u016bbo g. 10, Druskinink\u0173 m., Druskinink\u0173 sav."
     }, 
@@ -14918,6 +15750,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.9214547, 
+            "lng": 21.0685893
+        }, 
         "name": "INFO HOTEL", 
         "address": "Vytauto g. 116, Palangos m."
     }, 
@@ -14959,6 +15795,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6365694, 
+            "lng": 25.1108597
+        }, 
         "name": "STADALA", 
         "address": "Gureli\u0173 k., \u0160al\u010dinink\u0173 r."
     }, 
@@ -15008,6 +15848,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9197146, 
+            "lng": 21.0608284
+        }, 
         "name": "ALANGA", 
         "address": "S. N\u0117ries g. 14, Palanga"
     }, 
@@ -15176,6 +16020,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "SHAKESPEARE", 
         "address": "Vilniaus m. sav., Vilnius, Bernardin\u0173 g. 8/8"
     }, 
@@ -15269,6 +16117,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 56.23822939999999, 
+            "lng": 23.6227714
+        }, 
         "name": "DRUSKININKAI", 
         "address": "V. Kudirkos g. 43, Druskinink\u0173 m., Druskinink\u0173 sav."
     }, 
@@ -15368,6 +16220,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.7386332, 
+            "lng": 25.2286319
+        }, 
         "name": "REVAL INN VILNIUS", 
         "address": "Ukmerg\u0117s g. 363, Vilnius"
     }, 
@@ -15538,6 +16394,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.89879389999999, 
+            "lng": 23.9197192
+        }, 
         "name": "PARK INN KAUNAS", 
         "address": "K. Donelai\u010dio g. 27, Kauno m."
     }, 
@@ -15607,6 +16467,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.8963776, 
+            "lng": 23.9174456
+        }, 
         "name": "DANIELA", 
         "address": "A. Mickevi\u010diaus g. 28, Kauno m."
     }, 
@@ -15648,6 +16512,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 56.184038, 
+            "lng": 24.7657822
+        }, 
         "name": "TYLA", 
         "address": "Tylos g. 2, Bir\u017eai"
     }, 
@@ -15689,6 +16557,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 56.10803259999999, 
+            "lng": 22.1608347
+        }, 
         "name": "PLINK\u0160I\u0172 VIE\u0160BUTIS", 
         "address": "Plink\u0161i\u0173 k., Ma\u017eeiki\u0173 r."
     }, 
@@ -15744,6 +16616,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "ECOTEL VILNIUS", 
         "address": "Vilniaus m. sav., Vilnius, Slucko g. 8"
     }, 
@@ -15772,6 +16648,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.7293777, 
+            "lng": 24.361581
+        }, 
         "name": "PANEV\u0116\u017dYS", 
         "address": "Laisv\u0117s a. 26, Panev\u0117\u017eys"
     }, 
@@ -15929,6 +16809,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6946412, 
+            "lng": 25.2821337
+        }, 
         "name": "HOLIDAY INN VILNIUS", 
         "address": "\u0160eimyni\u0161ki\u0173 g. 1, Vilniaus m."
     }, 
@@ -16010,6 +16894,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.520581, 
+            "lng": 25.1157457
+        }, 
         "name": "KETURI KALNAI", 
         "address": "Liudi\u0161ki\u0173 g. 18, Anyk\u0161\u010di\u0173 m., Anyk\u0161\u010di\u0173 r."
     }, 
@@ -16051,6 +16939,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.4961948, 
+            "lng": 25.5846885
+        }, 
         "name": "\u0160IRVINTA", 
         "address": "J. Basanavi\u010diaus a. 5, Vilkavi\u0161kio m., Vilkavi\u0161kio r."
     }, 
@@ -16104,6 +16996,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.3980328, 
+            "lng": 22.5420268
+        }, 
         "name": "RADISSON BLU KLAIP\u0116DA", 
         "address": "\u0160iauli\u0173 g. 28"
     }, 
@@ -16597,6 +17493,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.2066651, 
+            "lng": 24.8166172
+        }, 
         "name": "LE MERIDIEN VILNIUS", 
         "address": "Greitkelis A2, Vilnius - Ryga 19tas m, E\u017eerai\u010di\u0173 k., Vilniaus r."
     }, 
@@ -16654,6 +17554,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.8968721, 
+            "lng": 23.8924264
+        }, 
         "name": "CENTRE HOTEL NUOVA", 
         "address": "Kauno m. sav., Kaunas, Savanori\u0173 pr. 66"
     }, 
@@ -16698,6 +17602,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.5560078, 
+            "lng": 23.3568465
+        }, 
         "name": "TRASALIS", 
         "address": "Gedimino g. 26, Trak\u0173 m., Trak\u0173 r."
     }, 
@@ -16739,6 +17647,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.7803425, 
+            "lng": 25.2732003
+        }, 
         "name": "SMILGA", 
         "address": "Senoji g. 16, K\u0117daini\u0173 m., K\u0117daini\u0173 r."
     }, 
@@ -16780,6 +17692,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6767438, 
+            "lng": 23.4219765
+        }, 
         "name": "SUDAVIJA", 
         "address": "Sodo g. 1a, Marijampol\u0117"
     }, 
@@ -16821,6 +17737,7 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": null, 
         "name": "TENISAS", 
         "address": "Palangos m. sav., Palanga, G\u0117li\u0173 a. 1A"
     }, 
@@ -16972,6 +17889,7 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": null, 
         "name": "VYTURYS", 
         "address": "Palangos m. sav., Palanga, S. Dariaus ir S. Gir\u0117no g. 20"
     }, 
@@ -17022,6 +17940,7 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": null, 
         "name": "VANDENIS", 
         "address": "Birut\u0117s al. 47, Palanga"
     }, 
@@ -17050,6 +17969,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "\u017dIJ\u016aR\u0116", 
         "address": "Vilniaus m. sav., Vilnius, \u017dirni\u0173 g. 10"
     }, 
@@ -17091,6 +18014,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.4978666, 
+            "lng": 25.6045432
+        }, 
         "name": "GRAFAIT\u0116S SVETAIN\u0116", 
         "address": "Au\u0161ros g. 1, Gink\u016bnai, \u0160iauli\u0173 r."
     }, 
@@ -17132,6 +18059,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.8968721, 
+            "lng": 23.8924264
+        }, 
         "name": "HERMIS", 
         "address": "Savanori\u0173 pr. 404, Kauno m."
     }, 
@@ -17160,6 +18091,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.67491, 
+            "lng": 25.2892789
+        }, 
         "name": "DOMUS MARIA", 
         "address": "Au\u0161ros vart\u0173 g. 12, Vilnius"
     }, 
@@ -17201,6 +18136,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6358229, 
+            "lng": 23.1091862
+        }, 
         "name": "SANTA BARBARA", 
         "address": "Barau\u010diznos k., Vilkavi\u0161kio r."
     }, 
@@ -17229,6 +18168,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.9263075, 
+            "lng": 23.3159265
+        }, 
         "name": "VIE\u0160BUTIS \"TURN\u0116\"", 
         "address": "R\u016bd\u0117s g. 9, \u0160iauli\u0173 m."
     }, 
@@ -17257,6 +18200,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.6737159, 
+            "lng": 25.2807887
+        }, 
         "name": "VLASPA", 
         "address": "\u0160v. Stepono g. 11, Vilnius"
     }, 
@@ -17285,6 +18232,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "AMBASSADOR", 
         "address": "Gedimino pr. 12, Vilniaus m."
     }, 
@@ -17326,6 +18277,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.5302511, 
+            "lng": 25.2211037
+        }, 
         "name": "HOTEL TILTO", 
         "address": "Tilto g. 8, Vilniaus m."
     }, 
@@ -17379,6 +18334,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.9580841, 
+            "lng": 23.8696641
+        }, 
         "name": "VIA BALTICA", 
         "address": "Verslo g. 17, Kumpi\u0173 k., Kauno r."
     }, 
@@ -17420,6 +18379,7 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": null, 
         "name": "NEMUNAS", 
         "address": "Druskinink\u0173 sav., Druskininkai, T. Kosciu\u0161kos g. 6"
     }, 
@@ -17827,6 +18787,7 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": null, 
         "name": "VANAGUP\u0116", 
         "address": "Palangos m. sav., Palanga, Vanagup\u0117s g. 31"
     }, 
@@ -17884,6 +18845,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.67897050000001, 
+            "lng": 25.26358
+        }, 
         "name": "GRATA HOTEL", 
         "address": "Vytenio g. 9/25, Vilniaus m."
     }, 
@@ -17932,6 +18897,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.7312332, 
+            "lng": 24.3675248
+        }, 
         "name": "SM\u0116LYN\u0116", 
         "address": "Sm\u0117lyn\u0117s g. 3, Panev\u0117\u017eio m."
     }, 
@@ -17985,6 +18954,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9320758, 
+            "lng": 23.3142194
+        }, 
         "name": "VAIVORYK\u0160T\u0116", 
         "address": "\u0160iauli\u0173 m. sav., \u0160iauliai, Gytari\u0173 g. 25"
     }, 
@@ -18026,6 +18999,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 56.1957872, 
+            "lng": 24.744148
+        }, 
         "name": "PAGUNDA", 
         "address": "Respublikos g. 45a, Roki\u0161kis, Roki\u0161kio r."
     }, 
@@ -18054,6 +19031,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 55.257498, 
+            "lng": 22.2941355
+        }, 
         "name": "APUOL\u0116", 
         "address": "Dariaus ir Gir\u0117no g. 50, Skuodo m., Skuodo r."
     }, 
@@ -18095,6 +19076,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.3954281, 
+            "lng": 24.0467819
+        }, 
         "name": "VAIDILA", 
         "address": "Alytaus m. sav., Alytus, Rotu\u0161\u0117s a. 12"
     }, 
@@ -18190,6 +19175,7 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": null, 
         "name": "PALANGA", 
         "address": "Palangos m. sav., Palanga, Birut\u0117s al. 60"
     }, 
@@ -18417,6 +19403,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243
+        }, 
         "name": "RADISSON BLU HOTEL LIETUVA", 
         "address": "Konstitucijos pr. 20, Vilniaus m."
     }, 
@@ -18470,6 +19460,7 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": null, 
         "name": "LIETUVA", 
         "address": "Druskinink\u0173 sav., Druskininkai, Maironio g. 45"
     }, 
@@ -18511,6 +19502,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.783458, 
+            "lng": 24.1253725
+        }, 
         "name": "NERIJA", 
         "address": "Pamario g. 13, Neringos m., Neringos sav."
     }, 
@@ -18553,6 +19548,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.7616325, 
+            "lng": 25.1773853
+        }, 
         "name": "BAJOR\u0172 U\u017dEIGA", 
         "address": "Suderv\u0117s g. 10, Avi\u017eieni\u0173 k., Vilniaus r."
     }, 
@@ -18606,6 +19605,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.7464667, 
+            "lng": 21.1304151
+        }, 
         "name": "PAJ\u016aRIO VIE\u0160KELIS", 
         "address": "Liepojos g. 7A, Klaip\u0117dos m."
     }, 
@@ -18666,6 +19669,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.6034719, 
+            "lng": 24.0597273
+        }, 
         "name": "NEMUNO SL\u0116NIS", 
         "address": "Verkn\u0117s g. 8, Bir\u0161tono m., Bir\u0161tono sav."
     }, 
@@ -18707,6 +19714,7 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": null, 
         "name": "VILIJA", 
         "address": "Birut\u0117s al. 26, Palangos m."
     }, 
@@ -18735,6 +19743,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 54.8968721, 
+            "lng": 23.8924264
+        }, 
         "name": "MONELA", 
         "address": "Laisv\u0117s al. 35, Kaunas"
     }, 
@@ -18792,6 +19804,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.7189661, 
+            "lng": 21.1238698
+        }, 
         "name": "MAGNISIMA", 
         "address": "J. Janonio g. 11, Klaip\u0117da"
     }, 
@@ -18833,6 +19849,7 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": null, 
         "name": "PRIE E\u017dERO", 
         "address": "Radvili\u0161kio r. sav., Pakalni\u0161ki\u0173 apylink\u0117s sen., Raudondvaris"
     }, 
@@ -18914,6 +19931,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.7337846, 
+            "lng": 25.295776
+        }, 
         "name": "VILA VALAKAMPIAI", 
         "address": "Vaidilut\u0117s g. 6a, Vilniaus m."
     }, 
@@ -18942,6 +19963,10 @@ hotels = ([
             "Svetain\u0117s adresas": ""
         }, 
         "halls": [], 
+        "coords": {
+            "lat": 56.2672263, 
+            "lng": 23.7388521
+        }, 
         "name": "MED\u016aNA", 
         "address": "Liep\u0173 g. 2, Druskininkai, Druskinink\u0173 sav."
     }, 
@@ -19023,6 +20048,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 54.7386332, 
+            "lng": 25.2286319
+        }, 
         "name": "PARK INN VILNIUS NORTH", 
         "address": "Ukmerg\u0117s g. 363, Vilniaus m."
     }, 
@@ -19082,6 +20111,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.9154501, 
+            "lng": 21.0609366
+        }, 
         "name": "ALKA", 
         "address": "S. Daukanto g. 21, Palanga"
     }, 
@@ -19135,6 +20168,7 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": null, 
         "name": "PALANGOS \u017dVOR\u016aN\u0116", 
         "address": "Palangos m. sav., Palanga, Vanagup\u0117s g. 15"
     }, 
@@ -19178,6 +20212,10 @@ hotels = ([
                 ]
             }
         ], 
+        "coords": {
+            "lat": 55.3796992, 
+            "lng": 23.1154464
+        }, 
         "name": "BELORUS", 
         "address": "Maironio g. 2, Druskinink\u0173 m., Druskinink\u0173 sav."
     }

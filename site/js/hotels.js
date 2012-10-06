@@ -14,7 +14,7 @@ function initializeMap() {
 }
 
 function getCoords(address, ok, fail) {
-  geocoder.geocode({'address': address}, function(results, status) {
+  geocoder.geocode({'address': address, 'region': 'lt'}, function(results, status) {
     if (status == google.maps.GeocoderStatus.OK) {
       if (ok) {
         ok(results[0].geometry.location);
@@ -36,5 +36,8 @@ function putMarker(loc) {
 
 $(function(){
   initializeMap();
-  getCoords('Vokiečių g. 2, Vilnius', putMarker, function(status) { alert(status); });
+  for (var i in hotels) {
+    var hotel = hotels[i];
+    getCoords(hotel.address, putMarker, alert);
+  }
 });

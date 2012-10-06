@@ -1,6 +1,7 @@
 # coding: utf-8
 import csv
 import json
+from geocode import coords
 
 hotels = {}
 
@@ -8,11 +9,16 @@ with open('data/hotels.csv', 'r') as f:
     for row in csv.DictReader(f):
         name = row['Pavadinimas']
         address = row['Veiklos vykdymo vieta']
+        cs = coords(address.decode('utf-8'))
+
+        print name, cs, address
+        
         del row['Pavadinimas']
         del row['Veiklos vykdymo vieta']
         hotel = {
             'name': name,
             'address': address,
+            'coords': cs,
             'info': row,
             'halls': [],
         }
@@ -22,7 +28,6 @@ with open('data/halls.csv', 'r') as f:
     for row in csv.DictReader(f):
         hotel_name = row['Viešbutis']
         name = row['Salė']
-
         configs = []
         configs_str = row['Viet. išdėst. ir sk.']
         for cfgs in configs_str.split(';'):
