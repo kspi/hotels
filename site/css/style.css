@@ -22,7 +22,11 @@ html, body, #map_canvas {
 }
 
 .block {
-	margin: 5px;
-	padding: 5px;
-	border: 1px solid #ddd;
+  margin: 5px;
+  padding: 5px;
+  border: 1px solid #ddd;
 }
+.select2 {
+  width: 100%;
+}
+

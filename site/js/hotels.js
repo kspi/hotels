@@ -1,5 +1,6 @@
 var map;
 var geocoder;
+var markerArray;
 
 function initializeMap() {
   var center = new google.maps.LatLng(55.316643, 23.752441);
@@ -11,6 +12,21 @@ function initializeMap() {
   map = new google.maps.Map(document.getElementById('map_canvas'), mapOptions);
 
   geocoder = new google.maps.Geocoder();
+  markerArray = {};
+}
+
+function toggleMarker(title, loc,  hotel, visible) {
+  var marker = markerArray[title];
+  if (marker == null) {
+    marker = new google.maps.Marker({
+      map: visible ? map : null,
+      position: loc,
+      title: title
+    });
+    markerArray[title] = marker;
+  } else {
+    marker.setMap(visible ? map : null);
+  }
 }
 
 function putMarker(title, loc) {
@@ -24,21 +40,42 @@ function putMarker(title, loc) {
 $(function(){
   // MAPS CODE
   initializeMap();
-  for (var i in hotels) {
-    var hotel = hotels[i];
-    var c = hotel.coords;
-    if (c) {
-      putMarker(hotel.name, new google.maps.LatLng(c.lat, c.lng));
-    }
-  }
-
-  
+    
   // UI CODE
   
   var $sidebar = $('#sidebar');
   
+  var test = function(item, model) {
+    if (!item) {
+      return false;
+    }
+    if (!model) {
+      return true;
+    }
+    
+    var passed = false;
+    $.each(model.grades, function(i, el) {
+      if (el + "*" == item.info['Klas\u0117']) {
+        passed = true;
+      }
+    });    
+    if (!passed) {
+      return false;
+    }
+    
+    //console.log(item, model);
+    
+    return true;
+  };
+  
   var filter = function(model) {
-    console.log(model);
+    for (var i in hotels) {
+      var hotel = hotels[i];
+      var c = hotel.coords;
+      if (c) {
+        toggleMarker(hotel.name, new google.maps.LatLng(c.lat, c.lng), hotel, test(hotel, model));
+      }
+    }
   };
   
   var readRange = function($slider) {
@@ -49,13 +86,12 @@ $(function(){
     
     setTimeout(function(){
       var model = {};
-      console.log('execute filter');
-      model.type = $sidebar.find('.model-type .active').data('type');
-      $sidebar.find('.model-hall').toggle(model.type == 'hall');
-      $sidebar.find('.model-hotel').toggle(model.type == 'hotel');
-      model.forDisabled = $sidebar.find('.model-for-disabled').is(':checked');
-      
-      model.vacancies = readRange($sidebar.find('.model-vacancy-count'));
+      //Determine selected type
+      var type = [];
+      $sidebar.find('.model-type-hall').is(':checked') && type.push('hall');
+      $sidebar.find('.model-type-hotel').is(':checked') && type.push('hotel');
+      model.type = type.join('_');
+
       model.grades = [];
       $sidebar.find('.model-grade .btn').each(function() {
         var $this = $(this);
@@ -64,8 +100,32 @@ $(function(){
         }
       });
       
+      //Get filter model for conference halls
+      if (model.type == 'hall' || model.type == 'hall_hotel') {
+        model.hall = {
+          count: $sidebar.find('.model-hall').slider('value'),
+          capacity: readRange($sidebar.find('.model-hall-capacity')),
+          configuration: $sidebar.find('.model-hall-configuration').select2("data"),
+          celebration: $sidebar.find('.model-hall-celebration').is(':checked'),
+          conference: $sidebar.find('.model-hall-conference').is(':checked'),
+          hardware: $sidebar.find('.model-hall-hardware').select2("data")
+        };
+      }
+      //Get filter model for hotel
+      if (model.type == 'hotel' || model.type == 'hall_hotel') {
+        model.hotel = {
+            capacity: readRange($sidebar.find('.model-hotel-capacity')),
+            roomCapacity: readRange($sidebar.find('.model-hotel-room-capacity')),
+            food: $sidebar.find('.model-hotel-food').select2("data"),
+            forDisabled: $sidebar.find('.model-hotel-for-disabled').is(':checked')            
+        };        
+      }
       
+      //Show/hide panels for conference hall and hotel information 
+      $sidebar.find('.model-hall').toggle(model.type == 'hall' || model.type == 'hall_hotel');
+      $sidebar.find('.model-hotel').toggle(model.type == 'hotel' || model.type == 'hall_hotel');
       
+      //Execute filter function
       filter(model);
     }, 1);   
   };
@@ -75,30 +135,45 @@ $(function(){
     executeFilter();
   };
   
-  var toggleChildrenAndExecute = function() {
-    $(this).addClass('active').siblings().removeClass('active');
-    executeFilter();
-  };
-  $sidebar.find('.model-type .btn').click(toggleChildrenAndExecute);
-  
-  $sidebar.find('.model-for-disabled').change(executeFilter);
+  //Set up UI controls
+  $sidebar.find('.model-type-hall, .model-type-hotel, .model-hotel-for-disabled').change(executeFilter);
   
   $sidebar.find('.model-grade .btn').click(toggleAndExecute);
-
-  $sidebar.find('.model-vacancy-count').slider({
-    range: true,
-    min: 0,
-    max: 100,
-    values: [ 10, 80 ],
+  
+  $sidebar.find('.model-hall-count').slider({
+    min: 1,
+    max: 10,
+    values: [ 1 ],
     slide: executeFilter
   });
   
-  $sidebar.find('.model-needed-count').slider({
+  $sidebar.find('.model-hall-capacity').slider({
+    range: true,
     min: 0,
-    max: 100,
-    values: [ 50 ],
+    max: 500,
+    values: [ 40, 50 ],
     slide: executeFilter
   });
+  
+  $sidebar.find('.model-hotel-capacity').slider({
+    range: true,
+    min: 0,
+    max: 500,
+    values: [ 40, 50 ],
+    slide: executeFilter
+  });
+  
+  $sidebar.find('.model-hotel-room-capacity').slider({
+    range: true,
+    min: 0,
+    max: 500,
+    values: [ 40, 50 ],
+    slide: executeFilter
+  });
+  
+  $sidebar.find('.model-hall-configuration').select2();
+  $sidebar.find('.model-hall-hardware').select2();
+  $sidebar.find('.model-hotel-food').select2();
   
   //first execution
   executeFilter();

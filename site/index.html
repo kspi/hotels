@@ -7,11 +7,13 @@
     <meta name="description" content="" />
     <link href="inc/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="inc/jquery/ui-lightness/jquery-ui-1.8.24.custom.css" rel="stylesheet">
+    <link type="text/css" href="inc/select2/select2.css" rel="stylesheet" />
     <link type="text/css" href="css/style.css" rel="stylesheet" />		
     <script src="inc/jquery/jquery-1.8.2.js"></script>
     <script src="inc/bootstrap/js/bootstrap.min.js"></script>
     <script src="inc/jquery/jquery-ui-1.8.24.custom.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+    <script src="inc/select2/select2.min.js"></script>
     <script src="js/data.js"></script>
     <script src="js/hotels.js"></script>
   </head>		        
@@ -19,17 +21,19 @@
     <div id="sidebar">
       <h1>Viešbučių ir konferencijų salių paieška</h1>
       <p>
-	      <label>Pavadinimas:</label>
+        <!-- <label>Pavadinimas:</label>
         <input type="text" placeholder="Įveskite pavadinimą">
         <span class="help-block">Pvz. "palanga".</span>
+         -->
+        <label>Ieškau:</label>
+        <label class="checkbox">
+          <input type="checkbox" class="model-type-hall" checked /> Konferencijų salės 
+        </label>
+        <label class="checkbox">
+          <input type="checkbox" class="model-type-hotel" /> Nakvynės 
+        </label>
         
-	      <label>Paieškos tipas:</label>
-	      <div class="btn-group model-type">
-          <button type="button" class="btn active" data-type="hotel">Viešbučiai</button>
-          <button type="button" class="btn" data-type="hall">Konferencijų salės</button>
-        </div>
-        
-        <label>Klasė:</label>
+        <label>Žvaigždutės:</label>
         <div class="btn-group model-grade">
           <button class="btn active" data-value="1">1</button>
           <button class="btn active" data-value="2">2</button>
@@ -38,35 +42,74 @@
           <button class="btn active" data-value="5">5</button>
         </div>
         
+        <div class="block model-hall">
+          <span>Papildoma informacija konferencijai</span>
         
+          <label>Salių skaičius:</label>
+          <div class="model-hall-count"></div>
+          <label>Vietų skaičius:</label>
+          <div class="model-hall-capacity"></div>
+          <label>Salės išdėstymas:</label>
+          <select class="model-hall-configuration select2" multiple>
+            <option value="Teatro stilius">Teatro stilius</option>
+            <option value="Klasės stilius">Klasės stilius</option>
+            <option value="U stilius">U stilius</option>
+            <option value="Apvalaus stalo stilius">Apvalaus stalo stilius</option>
+            <option value="Banketo stilius">Banketo stilius</option>
+          </select>
+          
+          <label>Naudojama:</label>
+          <label class="checkbox">
+            <input type="checkbox" class="model-hall-celebration" /> Pobūviui 
+          </label>
+          <label class="checkbox">
+            <input type="checkbox" class="model-hall-conference" /> Konferencijai 
+          </label>
+          
+          <label>Papildoma įranga:</label>
+          <select class="model-hall-hardware select2" multiple>
+            <option value="CD grotuvas">CD grotuvas</option>
+            <option value="DVD grotuvas">DVD grotuvas</option>
+            <option value="Diktofonas">Diktofonas</option>
+            <option value="Ekranas">Ekranas</option>
+            <option value="Grafinis projektorius">Grafinis projektorius</option>
+            <option value="Interneto ryšys">Interneto ryšys</option>
+            <option value="Kompiuteris">Kompiuteris</option>
+            <option value="Lazerinė rodyklė">Lazerinė rodyklė</option>
+            <option value="Mikrofonas">Mikrofonas</option>
+            <option value="Multimedia">Multimedia</option>
+            <option value="Oro kondicionierius">Oro kondicionierius</option>
+            <option value="Popierius">Popierius</option>
+            <option value="Rašymo lenta">Rašymo lenta</option>
+            <option value="Scena">Scena</option>
+            <option value="Sinchroninis vertimas">Sinchroninis vertimas</option>
+            <option value="Skaidrių projektorius">Skaidrių projektorius</option>
+            <option value="TV">TV</option>
+            <option value="Telefonas">Telefonas</option>
+            <option value="Tribūbna">Tribūbna</option>
+            <option value="Video grotuvas">Video grotuvas</option>
+            <option value="Įranga garso įrašymui">Įranga garso įrašymui</option>
+          </select>
+        </div>
         
         <div class="block model-hotel">
-        <label>Vietų skaičius:</label>
-        <div class="model-vacancy-count"></div>
-        <label>Kambarių skaičius:</label>
-        <label>Papildomos paslaugos:</label>
+          <span>Papildoma informacija nakvynei</span>
         
-        
-        <label>Sveikatingumo paslaugos:</label>
-        <label>Pramogos:</label>
-        <label>Maitinimas:</label>
-        <label class="checkbox">
-          <input type="checkbox" class="model-for-disabled" /> Pritaikyta neįgaliesiems 
-        </label>
+          <label>Vietų skaičius:</label>
+          <div class="model-hotel-capacity"></div>
+          <label>Kambarių skaičius:</label>
+          <div class="model-hotel-room-capacity"></div>
+          <label>Maitinimas:</label>
+          <select class="model-hotel-food select2" multiple>
+            <option value="Pusryčiai">Pusryčiai</option>
+            <option value="Kavinė">Kavinė</option>
+            <option value="Restoranas">Restoranas</option>
+            <option value="Baras">Baras</option>
+          </select>
+          <label class="checkbox">
+            <input type="checkbox" class="model-hotel-for-disabled" /> Pritaikyta neįgaliesiems 
+          </label>
         </div>
-        <div class="block model-hall">
-        <label>Plotas (kv. m.):</label>
-        <label>Pobūviams</label>
-        <label>Konferencijoms</label>
-        <label>Konfigūracija</label>
-        <label>Vietų skaičius</label>
-        <div class="model-needed-count"></div>
-        
-        <label>Įranga</label>
-        
-        <label>Plotas (kv. m.):</label>
-        </div>
-        
         
       </p>
     </div>
