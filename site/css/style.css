@@ -26,10 +26,8 @@ html, body {
   position: absolute;
   left: 0px;
   top: 0px;
-  width: 300px;
+  width: 340px;
   background: #fff;
-  /*border-right: 1px solid #ddd;*/
-  padding: 70px 20px 0px 20px;
   height: 100%;
   overflow: hidden;
 }
@@ -69,4 +67,24 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b6b6b', end
 h1 {
     font-size: 20pt;
     margin: 0;
+}
+#sidebar_inner {
+  position: absolute;
+  top: 42px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  border-right: 1px solid #ddd;
+  overflow: auto;
+  padding: 0 20px;
+}
+
+.hall-info {
+  border: 1px solid #ddd;
+  padding: 5px;
+  margin: 2px;
+}
+
+.additional-info {
+	margin-top: 10px;
 }
