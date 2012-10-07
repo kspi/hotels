@@ -102,8 +102,8 @@ $(function(){
       food: {},
       hall: {
         count: hotel.halls.length,
-        celebration: true,
-        conference: true
+        celebration: false,
+        conference: false
       }
     };
     
@@ -120,10 +120,10 @@ $(function(){
       });
       hotelHallMinSum = min;
       hotelHallMaxSum = max;
-      if ((hotel.info['Konferencijoms'] || '').toLowerCase() == 'y') {
+      if ((el['Konferencijoms'] || '').toLowerCase() == 'y') {
         prep.hall.conference = true;
       }
-      if ((hotel.info['Pobūviams'] || '').toLowerCase() == 'y') {
+      if ((el['Pobūviams'] || '').toLowerCase() == 'y') {
         prep.hall.celebration = true;
       }
       $.each(el.hardware, function(i, hardware) {
@@ -148,6 +148,9 @@ $(function(){
     for (var i in hotels) {
       var hotel = hotels[i];
       var c = addrs[hotel.address];
+      /*if (hotel.name != 'APVALAUS STALO KLUBAS') {
+        continue;
+      }*/
       if (c) {
         firstPass(hotel);
         newList.push(hotel);
@@ -163,9 +166,6 @@ $(function(){
   var $sidebar = $('#sidebar');
   
   var test = function(item, model) {
-    //console.log('test');
-    //console.log(item, model);
-    
     
     if (!model.grades[item.prep.star]) {
       return false; //Doesn't have required star
@@ -250,7 +250,6 @@ $(function(){
   };
   
   var filter = function(model) {
-    console.log('filter executed');
     for (var i in hotels) {
       var hotel = hotels[i];
       var c = addrs[hotel.address];
