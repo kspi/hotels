@@ -23,12 +23,24 @@ function initializeMap() {
   infoWindow = new google.maps.InfoWindow();
 }
 
-function formatKey(obj, key) {
+function formatKey(obj, key, bold) {
   if (obj[key]) {
-    return '<p>' + key + ': ' + obj[key] + '</p>';
+    return '<p>' + (bold ? '<b>' : '') + key + (bold ? '</b>' : '') + ': ' + obj[key] + '</p>';
   } else {
     return '';
   }
+}
+
+function formatSpans(obj, key, bold) {
+  if (obj[key]) {
+    return '<span>' + (bold ? '<b>' : '') + key + (bold ? '</b>' : '') + ': ' + obj[key] + '</span><br/>';
+  } else {
+    return '';
+  }
+}
+
+function formatKeyValue(key, value, bold) {
+  return '<p>' + (bold ? '<b>' : '') + key + (bold ? '</b>' : '') + ': ' + value + '</p>';  
 }
 
 function toggleMarker(title, loc,  hotel, visible) {
@@ -48,39 +60,50 @@ function toggleMarker(title, loc,  hotel, visible) {
     });
     markerArray[title] = marker;
 
-    var info = '<h5>' + title + '</h5>';
-    
-    info += '<p>' + hotel.rank + ' žvaigždutės</p>';
-
+    var info = [];
+    info.push('<h5>', title, ' ( ', hotel.rank, ' žvaigždutės )</h5>');
     if (hotel.size != null) {
-      info += formatKey(hotel.info, 'Vietų skaičius');
+      info.push(formatKey(hotel.info, 'Vietų skaičius', true));
     }
-
-    info += formatKey(hotel.info, "Telefonas");
-    info += formatKey(hotel.info, "Svetain\u0117s adresas");
-    info += formatKey(hotel.info, "El. pa\u0161tas");
-    info += formatKey(hotel.info, "Inventoriaus nuoma");
-    info += formatKey(hotel.info, "Maitinimo paslaugos");
-    info += formatKey(hotel.info, "Pri\u0117mimo m\u0117n.");
-    info += formatKey(hotel.info, "Darbo valandos");
-    info += formatKey(hotel.info, "Papildomos paslaugos");
-
+    
     if (hotel.halls.length) {
       for (var i in hotel.halls) {
         var hall = hotel.halls[i];
         var hallnum = parseInt(i) + 1;
-        info += '<p><strong>Salė ' + hallnum + (hall.name ? ': ' + hall.name : '') + '</strong></p>';
-        info += '<p>';
-        if (hall['Konferencijoms'] == 'Y') info += 'Konferencijoms<br>';
-        if (hall['Pobūviams'] == 'Y') info += 'Pobūviams<br>';
-        info += '</p>';
-        info += formatKey(hall, 'Įranga');
-        info += formatKey(hall, "Plotas (kv. m.)");
+        info.push('<div class="hall-info">');
+        info.push('<p><strong>Salė ' + hallnum + (hall.name ? ': ' + hall.name : '') + '</strong></p>');
+        info.push('<p>');
+        if (hall['Konferencijoms'] == 'Y') {
+          info.push('Konferencijoms<br>');
+        }
+        if (hall['Pobūviams'] == 'Y') {
+          info.push('Pobūviams<br>');
+        }
+        info.push('</p>');
+        for(var j in hall.configurations) {
+          var conf = hall.configurations[j];
+          console.log(conf.people, conf.name);
+          info.push(formatKeyValue(conf.name, conf.people + ' asmenų', true));
+        }
+        info.push(formatKey(hall, 'Įranga', true));
+        info.push(formatKey(hall, "Plotas (kv. m.)", true));
+        info.push('</div>');
       }
     }
-
+    
+    info.push("<div class=\"additional-info\"><b>Papildoma informacija:</b><br/>");
+    info.push(formatSpans(hotel.info, "Telefonas", false));
+    info.push(formatSpans(hotel.info, "Svetain\u0117s adresas", false));
+    info.push(formatSpans(hotel.info, "El. pa\u0161tas", false));
+    info.push(formatSpans(hotel.info, "Inventoriaus nuoma", false));
+    info.push(formatSpans(hotel.info, "Maitinimo paslaugos", false));
+    info.push(formatSpans(hotel.info, "Pri\u0117mimo m\u0117n.", false));
+    info.push(formatSpans(hotel.info, "Darbo valandos", false));
+    info.push(formatSpans(hotel.info, "Papildomos paslaugos", false));
+    info.push('</div>');
+    
     google.maps.event.addListener(marker, 'click', function() {
-      infoWindow.setContent(info);
+      infoWindow.setContent(info.join(''));
       infoWindow.open(map, marker);
     });
   } else {
@@ -148,9 +171,6 @@ $(function(){
     for (var i in hotels) {
       var hotel = hotels[i];
       var c = addrs[hotel.address];
-      /*if (hotel.name != 'APVALAUS STALO KLUBAS') {
-        continue;
-      }*/
       if (c) {
         firstPass(hotel);
         newList.push(hotel);
