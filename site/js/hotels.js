@@ -23,6 +23,14 @@ function initializeMap() {
   infoWindow = new google.maps.InfoWindow();
 }
 
+function formatKey(obj, key) {
+  if (obj[key]) {
+    return '<p>' + key + ': ' + obj[key] + '</p>';
+  } else {
+    return '';
+  }
+}
+
 function toggleMarker(title, loc,  hotel, visible) {
   var marker = markerArray[title];
   if (marker == null) {
@@ -41,9 +49,34 @@ function toggleMarker(title, loc,  hotel, visible) {
     markerArray[title] = marker;
 
     var info = '<h5>' + title + '</h5>';
+    
+    info += '<p>' + hotel.rank + ' žvaigždutės</p>';
 
     if (hotel.size != null) {
-      info = info + '<p>Vietų skaičius: ' + hotel.size + '</p>'
+      info += formatKey(hotel.info, 'Vietų skaičius');
+    }
+
+    info += formatKey(hotel.info, "Telefonas");
+    info += formatKey(hotel.info, "Svetain\u0117s adresas");
+    info += formatKey(hotel.info, "El. pa\u0161tas");
+    info += formatKey(hotel.info, "Inventoriaus nuoma");
+    info += formatKey(hotel.info, "Maitinimo paslaugos");
+    info += formatKey(hotel.info, "Pri\u0117mimo m\u0117n.");
+    info += formatKey(hotel.info, "Darbo valandos");
+    info += formatKey(hotel.info, "Papildomos paslaugos");
+
+    if (hotel.halls.length) {
+      for (var i in hotel.halls) {
+        var hall = hotel.halls[i];
+        var hallnum = parseInt(i) + 1;
+        info += '<p><strong>Salė ' + hallnum + (hall.name ? ': ' + hall.name : '') + '</strong></p>';
+        info += '<p>';
+        if (hall['Konferencijoms'] == 'Y') info += 'Konferencijoms<br>';
+        if (hall['Pobūviams'] == 'Y') info += 'Pobūviams<br>';
+        info += '</p>';
+        info += formatKey(hall, 'Įranga');
+        info += formatKey(hall, "Plotas (kv. m.)");
+      }
     }
 
     google.maps.event.addListener(marker, 'click', function() {
