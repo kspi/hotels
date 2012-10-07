@@ -29,14 +29,15 @@ function toggleMarker(title, loc,  hotel, visible) {
       icon_i = 3;
     }
     marker = new google.maps.Marker({
-      map: visible ? map : null,
+      map: map,
+      visible: visible,
       position: loc,
       title: title,
       icon: icons[icon_i]
     });
     markerArray[title] = marker;
   } else {
-    marker.setMap(visible ? map : null);
+    marker.setVisible(visible);
   }
 }
 
