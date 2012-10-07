@@ -28,3 +28,5 @@ pip-log.txt
 
 # Deployment
 upload.sh
+
+site/img/h-*.png

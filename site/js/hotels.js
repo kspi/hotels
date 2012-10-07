@@ -1,6 +1,7 @@
 ﻿var map;
 var geocoder;
 var markerArray;
+var icons = new Array(10);
 
 function initializeMap() {
   var center = new google.maps.LatLng(55.316643, 23.752441);
@@ -13,28 +14,30 @@ function initializeMap() {
 
   geocoder = new google.maps.Geocoder();
   markerArray = {};
+
+  for (var i = 0; i < 10; ++i) {
+    icons[i] = new google.maps.MarkerImage("img/h-" + (i + 1) + ".png", null, null, new google.maps.Point(0, 32));
+  }
 }
 
 function toggleMarker(title, loc,  hotel, visible) {
   var marker = markerArray[title];
   if (marker == null) {
+    if (hotel.size != null) {
+      icon_i = Math.round(9 * hotel.size / largest_hotel_size);
+    } else {
+      icon_i = 3;
+    }
     marker = new google.maps.Marker({
       map: visible ? map : null,
       position: loc,
-      title: title
+      title: title,
+      icon: icons[icon_i]
     });
     markerArray[title] = marker;
   } else {
     marker.setMap(visible ? map : null);
   }
-}
-
-function putMarker(title, loc) {
-  var marker = new google.maps.Marker({
-    map: map,
-    position: loc,
-    title: title
-  });
 }
 
 $(function(){

@@ -39,6 +39,8 @@ with open('data/hotels.csv', 'r') as f:
             'name': name,
             'address': address,
             'coords': cs,
+            'rank': rank,
+            'size': size,
             'info': row,
             'halls': [],
         }
@@ -72,7 +74,7 @@ with open('data/halls.csv', 'r') as f:
 
 with open('site/js/data.js', 'w') as f:
     f.write('hotels = (')
-    f.write(json.dumps(list(hotels.values()), indent=4))
+    f.write(json.dumps(sorted(list(hotels.values()), key=lambda x: x['size']), indent=4))
     f.write(');\n')
 
     f.write('largest_hotel_size = %s;\n' % json.dumps(largest))
