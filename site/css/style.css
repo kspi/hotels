@@ -16,10 +16,9 @@ html, body {
 #map_canvas {
   
   z-index: 0;
-  margin: 0;
+  margin: 0 0 0 340px;
   padding: 0;
   height: 100%;
-  margin-left: 340px;
 }
 
 #sidebar {
@@ -35,10 +34,20 @@ html, body {
 
 #topbar {
   z-index: 2;
-  height: 60px;
+  height: 42px;
+  line-height: 42px;
   position: relative;
   overflow: hidden;
   padding: 0 20px;
+  color: #fff;
+background: #6b6b6b; /* Old browsers */
+background: -moz-linear-gradient(top, #6b6b6b 0%, #4c4c4c 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#6b6b6b), color-stop(100%,#4c4c4c)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #6b6b6b 0%,#4c4c4c 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #6b6b6b 0%,#4c4c4c 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #6b6b6b 0%,#4c4c4c 100%); /* IE10+ */
+background: linear-gradient(to bottom, #6b6b6b 0%,#4c4c4c 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b6b6b', endColorstr='#4c4c4c',GradientType=0 ); /* IE6-9 */background: -moz-linear-gradient(top, #606060 0%, #2d2d2d 100%); /* FF3.6+ */
 }
 
 .block {
@@ -55,6 +64,10 @@ html, body {
   font-weight: bold;
 }
 
+h1 {
+    font-size: 20pt;
+    margin: 0;
+}
 #sidebar_inner {
   position: absolute;
   top: 60px;
