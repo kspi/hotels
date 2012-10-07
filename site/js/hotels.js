@@ -109,7 +109,7 @@ $(function(){
     var newList = [];
     for (var i in hotels) {
       var hotel = hotels[i];
-      var c = hotel.coords;
+      var c = addrs[hotel.address];
       if (c) {
         firstPass(hotel);
         newList.push(hotel);
@@ -125,7 +125,6 @@ $(function(){
   var $sidebar = $('#sidebar');
   
   var test = function(item, model) {
-    
     //console.log('test');
     //console.log(item, model);
     
