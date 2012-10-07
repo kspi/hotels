@@ -91,6 +91,7 @@ function toggleMarker(title, loc,  hotel, visible) {
     }
     
     info.push("<div class=\"additional-info\"><b>Papildoma informacija:</b><br/>");
+    info.push('<span>Adresas: ' + hotel.address + '</span><br/>');
     info.push(formatSpans(hotel.info, "Telefonas", false));
     info.push(formatSpans(hotel.info, "Svetain\u0117s adresas", false));
     info.push(formatSpans(hotel.info, "El. pa\u0161tas", false));
