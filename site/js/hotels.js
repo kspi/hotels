@@ -87,13 +87,18 @@ $(function(){
       });
       hotelHallMinSum = min;
       hotelHallMaxSum = max;
+      if ((hotel.info['Konferencijoms'] || '').toLowerCase() == 'y') {
+        prep.hall.conference = true;
+      }
+      if ((hotel.info['Pobūviams'] || '').toLowerCase() == 'y') {
+        prep.hall.celebration = true;
+      }
       $.each(el.hardware, function(i, hardware) {
         hardwareHash[hardware] = true;
       });
     });
     prep.hall.minCap = hotelHallMinSum;
     prep.hall.maxCap = hotelHallMaxSum;
-    console.log('Max cap', hotelHallMaxSum);
     prep.hall.configs = configHash;
     prep.hall.hardware = hardwareHash;
     
@@ -167,6 +172,19 @@ $(function(){
           return false; // Every selected hardware must exist in this hotel, but it doesn't
         }
       }
+      
+      if (model.hall.celebration) {
+        if (!item.prep.hall.celebration) {
+          return false; // Hotel is not suitable for disabled people
+        }
+      }
+      
+      if (model.hall.conference) {
+        if (!item.prep.hall.conference) {
+          return false; // Hotel is not suitable for disabled people
+        }
+      }
+      
     }
     if (model.hotel) {
       if (item.prep.capacity < model.hotel.capacity[0] || item.prep.capacity > model.hotel.capacity[1]) {
