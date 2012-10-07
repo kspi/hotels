@@ -72,9 +72,7 @@ $(function(){
     for (var i in hotels) {
       var hotel = hotels[i];
       var c = hotel.coords;
-      if (c) {
-        toggleMarker(hotel.name, new google.maps.LatLng(c.lat, c.lng), hotel, test(hotel, model));
-      }
+      toggleMarker(hotel.name, new google.maps.LatLng(c.lat, c.lng), hotel, test(hotel, model));
     }
   };
   

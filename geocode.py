@@ -38,7 +38,6 @@ def geocode(address):
 def coords(address):
     """Returns dict with lat and lng of address."""
     for variant in lithuanian.address_variants(address):
-        print variant
         result = geocode(variant)
         status = result['status']
         if status != 'ZERO_RESULTS':

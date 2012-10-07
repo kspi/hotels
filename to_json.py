@@ -3,15 +3,35 @@ import csv
 import json
 from geocode import coords
 
+largest = 0
+count = 0
+good_count = 0
 hotels = {}
 
 with open('data/hotels.csv', 'r') as f:
     for row in csv.DictReader(f):
+        count += 1
         name = row['Pavadinimas']
         address = row['Veiklos vykdymo vieta']
+        rank = int(row['Klasė'].replace('*', ''))
+
+        try:
+            size = int(row['Vietų skaičius'])
+        except ValueError:
+            size = None
+
         cs = coords(address.decode('utf-8'))
 
+
+        if size > largest:
+            largest = size
+
         print name, cs, address
+
+        if not cs:
+            continue
+
+        good_count += 1
         
         del row['Pavadinimas']
         del row['Veiklos vykdymo vieta']
@@ -24,9 +44,13 @@ with open('data/hotels.csv', 'r') as f:
         }
         hotels[name] = hotel
 
+
 with open('data/halls.csv', 'r') as f:
     for row in csv.DictReader(f):
         hotel_name = row['Viešbutis']
+        if hotel_name not in hotels:
+            continue
+
         name = row['Salė']
         configs = []
         configs_str = row['Viet. išdėst. ir sk.']
@@ -49,5 +73,10 @@ with open('data/halls.csv', 'r') as f:
 with open('site/js/data.js', 'w') as f:
     f.write('hotels = (')
     f.write(json.dumps(list(hotels.values()), indent=4))
-    f.write(');')
+    f.write(');\n')
 
+    f.write('largest_hotel_size = %s;\n' % json.dumps(largest))
+
+
+print('Largest: %d' % largest)
+print('Good: %d/%d' % (good_count, count))
