@@ -1,7 +1,6 @@
 # coding: utf-8
 import csv
 import json
-from im import image_filename
 import os
 
 largest = 0
@@ -36,10 +35,6 @@ with open('data/hotels.csv', 'r') as f:
             'info': row,
             'halls': [],
         }
-
-        imagefn = image_filename(name)
-        if os.path.exists('site/' + imagefn):
-            hotel['image_filename'] = imagefn
 
         hotels[name] = hotel
 

@@ -49,7 +49,7 @@ function toggleMarker(title, loc,  hotel, visible) {
     markerArray[title] = marker;
 
     var info = '<h5>' + title + '</h5>';
-    
+
     info += '<p>' + hotel.rank + ' žvaigždutės</p>';
 
     if (hotel.size != null) {

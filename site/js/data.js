@@ -86,7 +86,6 @@ hotels = ([
         "name": "MAGNUS HOTEL", 
         "rank": 3, 
         "address": "Vytauto pr. 25, Kauno m.", 
-        "image_filename": "img/hotels/magnus-hotel.png", 
         "halls": [
             {
                 "\u012eranga": "Grafinis projektorius, Mikrofonas, Multimedia, Video grotuvas", 
@@ -144,7 +143,6 @@ hotels = ([
         "name": "MIKOTEL", 
         "rank": 2, 
         "address": "Pylimo g. 63, Vilniaus m.", 
-        "image_filename": "img/hotels/mikotel.png", 
         "halls": [], 
         "size": null
     }, 
@@ -175,7 +173,6 @@ hotels = ([
         "name": "KAROLINA", 
         "rank": 3, 
         "address": "Sausio 13-osios g. 2, Vilnius", 
-        "image_filename": "img/hotels/karolina.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
@@ -510,7 +507,6 @@ hotels = ([
         "name": "CENTRAS", 
         "rank": 1, 
         "address": "Vytauto g. 96, Palanga", 
-        "image_filename": "img/hotels/centras.png", 
         "halls": [], 
         "size": null
     }, 
@@ -541,7 +537,6 @@ hotels = ([
         "name": "VIE\u0160BUTIS \"BANGA\"", 
         "rank": 2, 
         "address": "Kranto g. 3A, Taurag\u0117s m., Taurag\u0117s r.", 
-        "image_filename": "img/hotels/viea-butis-banga.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Grafinis projektorius", 
@@ -593,7 +588,6 @@ hotels = ([
         "name": "PRIE LUK\u0160TO", 
         "rank": 2, 
         "address": "Tel\u0161i\u0173 r. sav., Varni\u0173 sen., Varniai, Medinink\u0173 a. 1/1", 
-        "image_filename": "img/hotels/prie-luka-to.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -644,7 +638,6 @@ hotels = ([
         "name": "SUDAVIJA", 
         "rank": 3, 
         "address": "Sodo g. 1a, Marijampol\u0117", 
-        "image_filename": "img/hotels/sudavija.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -695,7 +688,6 @@ hotels = ([
         "name": "NAKTIES MAGIJA", 
         "rank": 3, 
         "address": "Skrobl\u0173 g. 3, Kauno m.", 
-        "image_filename": "img/hotels/nakties-magija.png", 
         "halls": [], 
         "size": 15
     }, 
@@ -726,7 +718,6 @@ hotels = ([
         "name": "SALDUV\u0116S", 
         "rank": 1, 
         "address": "K. Donelai\u010dio 70, \u0160iauliai", 
-        "image_filename": "img/hotels/salduvas.png", 
         "halls": [], 
         "size": 16
     }, 
@@ -757,7 +748,6 @@ hotels = ([
         "name": "LAIMA", 
         "rank": 2, 
         "address": "Draugyst\u0117s g. 2, Druskinink\u0173 m., Druskinink\u0173 sav.", 
-        "image_filename": "img/hotels/laima.png", 
         "halls": [], 
         "size": 16
     }, 
@@ -818,7 +808,6 @@ hotels = ([
         "name": "AUSKA", 
         "rank": 5, 
         "address": "Vytauto g. 11, Palangos m.", 
-        "image_filename": "img/hotels/auska.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -888,7 +877,6 @@ hotels = ([
         "name": "\u017dILINA", 
         "rank": 3, 
         "address": "Marijampol\u0117s sav., Marijampol\u0117, L. Giros g. 42", 
-        "image_filename": "img/hotels/ailina.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -939,7 +927,6 @@ hotels = ([
         "name": "CONVIVA", 
         "rank": 3, 
         "address": "Laisv\u0117s a. 16, Panev\u0117\u017eio m.", 
-        "image_filename": "img/hotels/conviva.png", 
         "halls": [], 
         "size": 18
     }, 
@@ -1039,7 +1026,6 @@ hotels = ([
         "name": "GABRIELLA", 
         "rank": 3, 
         "address": "Jaunyst\u0117s g. 21, Visagino m., Visagino sav.", 
-        "image_filename": "img/hotels/gabriella.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -1189,7 +1175,6 @@ hotels = ([
         "name": "LINELIS", 
         "rank": 2, 
         "address": "Paplatel\u0117s k., \u017demai\u010di\u0173 Kalvarijos sen., Plung\u0117s r.", 
-        "image_filename": "img/hotels/linelis.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -1240,7 +1225,6 @@ hotels = ([
         "name": "BABILONAS", 
         "rank": 3, 
         "address": "\u017dalioji g. 38A, Kauno m.", 
-        "image_filename": "img/hotels/babilonas.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -1355,7 +1339,6 @@ hotels = ([
         "name": "PUNTUKAS", 
         "rank": 2, 
         "address": "A. Baranausko a. 15, Anyk\u0161\u010di\u0173 m., Anyk\u0161\u010di\u0173 r.", 
-        "image_filename": "img/hotels/puntukas.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -1406,7 +1389,6 @@ hotels = ([
         "name": "STADALA", 
         "rank": 2, 
         "address": "Gureli\u0173 k., \u0160al\u010dinink\u0173 r.", 
-        "image_filename": "img/hotels/stadala.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -1457,7 +1439,6 @@ hotels = ([
         "name": "JEREVAN", 
         "rank": 3, 
         "address": "M. K. \u010ciurlionio g. 128, Druskinink\u0173 m., Druskinink\u0173 sav.", 
-        "image_filename": "img/hotels/jerevan.png", 
         "halls": [], 
         "size": 20
     }, 
@@ -1488,7 +1469,6 @@ hotels = ([
         "name": "VIEVIJA", 
         "rank": 2, 
         "address": "Ba\u017eny\u010dios g. 4a, Vievio m., Elektr\u0117n\u0173 sav.", 
-        "image_filename": "img/hotels/vievija.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -1539,7 +1519,6 @@ hotels = ([
         "name": "NAUJOSIOS AKMEN\u0116S VIE\u0160BUTIS", 
         "rank": 2, 
         "address": "Respublikos g. 11A, Naujosios Akmen\u0117s m., Akmen\u0117s r.", 
-        "image_filename": "img/hotels/naujosios-akmenas-viea-butis.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -1678,7 +1657,6 @@ hotels = ([
         "name": "SENATORIAI", 
         "rank": 3, 
         "address": "Tilto g. 2A, Vilnius", 
-        "image_filename": "img/hotels/senatoriai.png", 
         "halls": [], 
         "size": 21
     }, 
@@ -1766,7 +1744,6 @@ hotels = ([
         "name": "VILA SENJORA", 
         "rank": 3, 
         "address": "\u017dalioji g., Garliavos m., Kauno r.", 
-        "image_filename": "img/hotels/vila-senjora.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -1817,7 +1794,6 @@ hotels = ([
         "name": "ARIB\u0116", 
         "rank": 3, 
         "address": "Bang\u0173 g. 19, Klaip\u0117da", 
-        "image_filename": "img/hotels/ariba.png", 
         "halls": [], 
         "size": 22
     }, 
@@ -1848,7 +1824,6 @@ hotels = ([
         "name": "PAGUNDA", 
         "rank": 3, 
         "address": "Respublikos g. 45a, Roki\u0161kis, Roki\u0161kio r.", 
-        "image_filename": "img/hotels/pagunda.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -1899,7 +1874,6 @@ hotels = ([
         "name": "VAIDILA", 
         "rank": 3, 
         "address": "Alytaus m. sav., Alytus, Rotu\u0161\u0117s a. 12", 
-        "image_filename": "img/hotels/vaidila.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -1950,7 +1924,6 @@ hotels = ([
         "name": "ELEKTRA", 
         "rank": 3, 
         "address": "\u017dvej\u0173 g. 14A, Vilnius", 
-        "image_filename": "img/hotels/elektra.png", 
         "halls": [], 
         "size": 23
     }, 
@@ -1981,7 +1954,6 @@ hotels = ([
         "name": "RASA", 
         "rank": 1, 
         "address": "Maironio g. 2-95/20958, Raseiniai", 
-        "image_filename": "img/hotels/rasa.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -2086,7 +2058,6 @@ hotels = ([
         "name": "HERMIS", 
         "rank": 4, 
         "address": "Savanori\u0173 pr. 404, Kauno m.", 
-        "image_filename": "img/hotels/hermis.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -2302,7 +2273,6 @@ hotels = ([
         "name": "DU BROLIAI", 
         "rank": 3, 
         "address": "S. Daukanto g. 15, Palangos m.", 
-        "image_filename": "img/hotels/du-broliai.png", 
         "halls": [], 
         "size": 24
     }, 
@@ -2363,7 +2333,6 @@ hotels = ([
         "name": "ACAPPELLA", 
         "rank": 3, 
         "address": "Vilniaus m. sav., Vilnius, Dariaus ir Gir\u0117no g. 61", 
-        "image_filename": "img/hotels/acappella.png", 
         "halls": [], 
         "size": 25
     }, 
@@ -2394,7 +2363,6 @@ hotels = ([
         "name": "E-GUESTHOUSE", 
         "rank": 3, 
         "address": "T. \u0160ev\u010denkos g. 16, Vilnius", 
-        "image_filename": "img/hotels/eguesthouse.png", 
         "halls": [
             {
                 "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Telefonas, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
@@ -2517,7 +2485,6 @@ hotels = ([
         "name": "AUDRUVIS", 
         "rank": 3, 
         "address": "V. Kudirkos g. 93, Joni\u0161kio m., Joni\u0161kio r.", 
-        "image_filename": "img/hotels/audruvis.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -2568,7 +2535,6 @@ hotels = ([
         "name": "E-GUEST HOUSE", 
         "rank": 3, 
         "address": "T. \u0160ev\u010denkos g. 16, Vilniaus m.", 
-        "image_filename": "img/hotels/eguest-house.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -2619,7 +2585,6 @@ hotels = ([
         "name": "\u017dALIAS NAMAS", 
         "rank": 3, 
         "address": "Vytauto g. 97, Palangos m.", 
-        "image_filename": "img/hotels/aalias-namas.png", 
         "halls": [], 
         "size": 26
     }, 
@@ -2701,7 +2666,6 @@ hotels = ([
         "name": "LIJO", 
         "rank": 3, 
         "address": "Sodo g. 5, Garg\u017ed\u0173 m., Klaip\u0117dos r.", 
-        "image_filename": "img/hotels/lijo.png", 
         "halls": [], 
         "size": 26
     }, 
@@ -2732,7 +2696,6 @@ hotels = ([
         "name": "VILA ULA", 
         "rank": 3, 
         "address": "Burokarais\u010dio k., Var\u0117nos r.", 
-        "image_filename": "img/hotels/vila-ula.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -2783,7 +2746,6 @@ hotels = ([
         "name": "RUGELIS", 
         "rank": 2, 
         "address": "Ventos 31 A, Ma\u017eeikiai", 
-        "image_filename": "img/hotels/rugelis.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -2834,7 +2796,6 @@ hotels = ([
         "name": "ANGEL\u0116", 
         "rank": 2, 
         "address": "Roki\u0161kio r. sav., Roki\u0161kio miesto sen., Roki\u0161kis, Panev\u0117\u017eio g. 7A", 
-        "image_filename": "img/hotels/angela.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -2885,7 +2846,6 @@ hotels = ([
         "name": "NES\u0116", 
         "rank": 3, 
         "address": "Klaip\u0117dos m. sav., Klaip\u0117da, Sportinink\u0173 g. 46", 
-        "image_filename": "img/hotels/nesa.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -2936,7 +2896,6 @@ hotels = ([
         "name": "PRIE E\u017dERO", 
         "rank": 3, 
         "address": "Radvili\u0161kio r. sav., Pakalni\u0161ki\u0173 apylink\u0117s sen., Raudondvaris", 
-        "image_filename": "img/hotels/prie-eaero.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -2987,7 +2946,6 @@ hotels = ([
         "name": "SOFIJOS REZIDENCIJA", 
         "rank": 3, 
         "address": "Jaunimo g. 6, Bir\u0161tono m., Bir\u0161tono sav.", 
-        "image_filename": "img/hotels/sofijos-rezidencija.png", 
         "halls": [], 
         "size": 28
     }, 
@@ -3048,7 +3006,6 @@ hotels = ([
         "name": "A PENKI", 
         "rank": 3, 
         "address": "Savanori\u0173 pr. 176, Vilniaus m.", 
-        "image_filename": "img/hotels/a-penki.png", 
         "halls": [], 
         "size": 28
     }, 
@@ -3129,7 +3086,6 @@ hotels = ([
         "name": "NEMUNAS PARK RESIDENCE HOTEL", 
         "rank": 3, 
         "address": "Alytaus r. sav., Nemunai\u010dio sen., Nemunaitis", 
-        "image_filename": "img/hotels/nemunas-park-residence-hotel.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -3301,7 +3257,6 @@ hotels = ([
         "name": "APPLE ECONOMY HOTEL", 
         "rank": 2, 
         "address": "Kauno m. sav., Kaunas, M. Valan\u010diaus g. 19", 
-        "image_filename": "img/hotels/apple-economy-hotel.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -3352,7 +3307,6 @@ hotels = ([
         "name": "LA\u0160AS", 
         "rank": 3, 
         "address": "J. Basanavi\u010diaus g. 29, Palangos m.", 
-        "image_filename": "img/hotels/laa-as.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -3403,7 +3357,6 @@ hotels = ([
         "name": "TAURAG\u0116", 
         "rank": 2, 
         "address": "Taurag\u0117s r. sav., Taurag\u0117s miesto sen., Taurag\u0117, Vytauto g. 83", 
-        "image_filename": "img/hotels/tauraga.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -3520,7 +3473,6 @@ hotels = ([
         "name": "SANTA BARBARA", 
         "rank": 2, 
         "address": "Barau\u010diznos k., Vilkavi\u0161kio r.", 
-        "image_filename": "img/hotels/santa-barbara.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -3571,7 +3523,6 @@ hotels = ([
         "name": "PAS KATIN\u0104", 
         "rank": 2, 
         "address": "Vilkatupio g. 1, Vaivad\u0173 k., Panev\u0117\u017eio r.", 
-        "image_filename": "img/hotels/pas-katina.png", 
         "halls": [
             {
                 "\u012eranga": "Grafinis projektorius, \u012eranga garso \u012fra\u0161ymui", 
@@ -3642,7 +3593,6 @@ hotels = ([
         "name": "OD\u0116", 
         "rank": 3, 
         "address": "Naujoji g. 8-C, Alytaus m.", 
-        "image_filename": "img/hotels/oda.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -3693,7 +3643,6 @@ hotels = ([
         "name": "HBH JUOZO ALAUS BRAVORO VIE\u0160BUTIS", 
         "rank": 2, 
         "address": "\u017dibininkai, Kretingos r.", 
-        "image_filename": "img/hotels/hbh-juozo-alaus-bravoro-viea-butis.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -3744,7 +3693,6 @@ hotels = ([
         "name": "RINNO", 
         "rank": 3, 
         "address": "Vingri\u0173 g. 25, Vilniaus m.", 
-        "image_filename": "img/hotels/rinno.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -3830,7 +3778,6 @@ hotels = ([
         "name": "PALVA", 
         "rank": 3, 
         "address": "Statybinink\u0173 pr. 7, Klaip\u0117dos m.", 
-        "image_filename": "img/hotels/palva.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Multimedia, Ra\u0161ymo lenta", 
@@ -3883,7 +3830,6 @@ hotels = ([
         "name": "MORENA", 
         "rank": 3, 
         "address": "Audros g. 8a, Klaip\u0117da", 
-        "image_filename": "img/hotels/morena.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -4275,7 +4221,6 @@ hotels = ([
         "name": "GILIJA", 
         "rank": 4, 
         "address": "Vytauto g. 17, \u0160ilut\u0117s m., \u0160ilut\u0117s r.", 
-        "image_filename": "img/hotels/gilija.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -4364,7 +4309,6 @@ hotels = ([
         "name": "SAULININKAS", 
         "rank": 3, 
         "address": "\u0160iauli\u0173 m. sav., \u0160iauliai, S. Lukauskio g. 5A", 
-        "image_filename": "img/hotels/saulininkas.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -4415,7 +4359,6 @@ hotels = ([
         "name": "TYLA", 
         "rank": 3, 
         "address": "Tylos g. 2, Bir\u017eai", 
-        "image_filename": "img/hotels/tyla.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -4466,7 +4409,6 @@ hotels = ([
         "name": "MOBUSTA", 
         "rank": 1, 
         "address": "Vaidoto g. 33, \u0160iauliai", 
-        "image_filename": "img/hotels/mobusta.png", 
         "halls": [], 
         "size": 33
     }, 
@@ -4497,7 +4439,6 @@ hotels = ([
         "name": "GR\u0116JAUS NAMAS", 
         "rank": 3, 
         "address": "Did\u017eioji g. 36, K\u0117daini\u0173 m., K\u0117daini\u0173 r.", 
-        "image_filename": "img/hotels/grajaus-namas.png", 
         "halls": [
             {
                 "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Interneto ry\u0161ys, Mikrofonas, Multimedia, Oro kondicionierius, TV", 
@@ -4563,7 +4504,6 @@ hotels = ([
         "name": "VINGIS", 
         "rank": 3, 
         "address": "Poilsio g. 21, Marijampol\u0117s m., Marijampol\u0117s sav.", 
-        "image_filename": "img/hotels/vingis.png", 
         "halls": [
             {
                 "\u012eranga": "CD grotuvas, DVD grotuvas, Interneto ry\u0161ys, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, Telefonas", 
@@ -4638,7 +4578,6 @@ hotels = ([
         "name": "V\u0116TRA", 
         "rank": 3, 
         "address": "Taikos pr. 80 , Klaip\u0117dos m.", 
-        "image_filename": "img/hotels/vatra.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -4689,7 +4628,6 @@ hotels = ([
         "name": "SFINKSAS", 
         "rank": 4, 
         "address": "Auk\u0161tai\u010di\u0173 g. 55, Kauno m.", 
-        "image_filename": "img/hotels/sfinksas.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -4793,7 +4731,6 @@ hotels = ([
         "name": "AMBASSADOR", 
         "rank": 2, 
         "address": "Gedimino pr. 12, Vilniaus m.", 
-        "image_filename": "img/hotels/ambassador.png", 
         "halls": [], 
         "size": 34
     }, 
@@ -4824,7 +4761,6 @@ hotels = ([
         "name": "MAGNISIMA", 
         "rank": 3, 
         "address": "J. Janonio g. 11, Klaip\u0117da", 
-        "image_filename": "img/hotels/magnisima.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -4891,7 +4827,6 @@ hotels = ([
         "name": "INFO HOTEL", 
         "rank": 3, 
         "address": "Vytauto g. 116, Palangos m.", 
-        "image_filename": "img/hotels/info-hotel.png", 
         "halls": [], 
         "size": 35
     }, 
@@ -4982,7 +4917,6 @@ hotels = ([
         "name": "SENAS NAMAS", 
         "rank": 3, 
         "address": "U\u017euolankos g. 24, Alytaus m.", 
-        "image_filename": "img/hotels/senas-namas.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -5037,7 +4971,6 @@ hotels = ([
         "name": "\u0160IRVINTA", 
         "rank": 2, 
         "address": "J. Basanavi\u010diaus a. 5, Vilkavi\u0161kio m., Vilkavi\u0161kio r.", 
-        "image_filename": "img/hotels/a-irvinta.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -5184,7 +5117,6 @@ hotels = ([
         "name": "NEMUNO VIE\u0160BUTIS", 
         "rank": 2, 
         "address": "\u0160ilut\u0117s r. sav., \u0160ilut\u0117s sen., \u0160ilut\u0117, Lietuvinink\u0173 g. 70", 
-        "image_filename": "img/hotels/nemuno-viea-butis.png", 
         "halls": [], 
         "size": 39
     }, 
@@ -5215,7 +5147,6 @@ hotels = ([
         "name": "R\u0104\u017d\u0116", 
         "rank": 3, 
         "address": "Vytauto g. 74, Palangos m.", 
-        "image_filename": "img/hotels/raaa.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -5266,7 +5197,6 @@ hotels = ([
         "name": "PROMENADA", 
         "rank": 3, 
         "address": "\u0160iauli\u0173 g. 41, Klaip\u0117dos m.", 
-        "image_filename": "img/hotels/promenada.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas", 
@@ -5317,7 +5247,6 @@ hotels = ([
         "name": "VIOLETA", 
         "rank": 4, 
         "address": "Kurorto g. 4, Druskininkai", 
-        "image_filename": "img/hotels/violeta.png", 
         "halls": [
             {
                 "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas", 
@@ -5394,7 +5323,6 @@ hotels = ([
         "name": "DALIA", 
         "rank": 3, 
         "address": "Vytauto g. 27, Druskinink\u0173 m., Druskinink\u0173 sav.", 
-        "image_filename": "img/hotels/dalia.png", 
         "halls": [], 
         "size": 40
     }, 
@@ -5425,7 +5353,6 @@ hotels = ([
         "name": "RUNMIS", 
         "rank": 2, 
         "address": "Paneb\u0117\u017eio 8A, Vilnius", 
-        "image_filename": "img/hotels/runmis.png", 
         "halls": [], 
         "size": 40
     }, 
@@ -5486,7 +5413,6 @@ hotels = ([
         "name": "GROTTHUSS HOTEL", 
         "rank": 4, 
         "address": "Ligonin\u0117s g. 7, Vilnius", 
-        "image_filename": "img/hotels/grotthuss-hotel.png", 
         "halls": [
             {
                 "\u012eranga": "CD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, \u012eranga garso \u012fra\u0161ymui", 
@@ -5564,7 +5490,6 @@ hotels = ([
         "name": "ATGAIVA TAU", 
         "rank": 1, 
         "address": "Ruklos k., Ruklos sen., Jonavos r.", 
-        "image_filename": "img/hotels/atgaiva-tau.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -5634,7 +5559,6 @@ hotels = ([
         "name": "MINOTEL", 
         "rank": 3, 
         "address": "V. Kuzmos g. 8, Kaunas", 
-        "image_filename": "img/hotels/minotel.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Oro kondicionierius, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, Telefonas", 
@@ -5708,7 +5632,6 @@ hotels = ([
         "name": "AUST\u0116JA", 
         "rank": 3, 
         "address": "Smil\u010di\u0173 g. 31, Palanga", 
-        "image_filename": "img/hotels/austaja.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -5759,7 +5682,6 @@ hotels = ([
         "name": "PURIENA", 
         "rank": 2, 
         "address": "Radvili\u0161kio r. sav., Radvili\u0161kio miesto sen., Radvili\u0161kis, Daujo\u010di\u0173 g. 10B", 
-        "image_filename": "img/hotels/puriena.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -5810,7 +5732,6 @@ hotels = ([
         "name": "VILA FLORA", 
         "rank": 3, 
         "address": "Kalno g. 7a, Neringos m., Neringos sav.", 
-        "image_filename": "img/hotels/vila-flora.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Ra\u0161ymo lenta, Video projektorius", 
@@ -5863,7 +5784,6 @@ hotels = ([
         "name": "DANIELA", 
         "rank": 4, 
         "address": "A. Mickevi\u010diaus g. 28, Kauno m.", 
-        "image_filename": "img/hotels/daniela.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -5956,7 +5876,6 @@ hotels = ([
         "name": "TURN\u0116", 
         "rank": 3, 
         "address": "R\u016bd\u0117s g. 9, \u0160iauliai", 
-        "image_filename": "img/hotels/turna.png", 
         "halls": [], 
         "size": 44
     }, 
@@ -5987,7 +5906,6 @@ hotels = ([
         "name": "CREDO", 
         "rank": 3, 
         "address": "Vilniaus al. 2A, Druskinink\u0173 m., Druskinink\u0173 sav.", 
-        "image_filename": "img/hotels/credo.png", 
         "halls": [], 
         "size": 44
     }, 
@@ -6119,7 +6037,6 @@ hotels = ([
         "name": "VIE\u0160BUTIS \"TURN\u0116\"", 
         "rank": 2, 
         "address": "R\u016bd\u0117s g. 9, \u0160iauli\u0173 m.", 
-        "image_filename": "img/hotels/viea-butis-turna.png", 
         "halls": [], 
         "size": 44
     }, 
@@ -6150,7 +6067,6 @@ hotels = ([
         "name": "VECEKRUG", 
         "rank": 4, 
         "address": "J\u016bros g. 23, Klaip\u0117da", 
-        "image_filename": "img/hotels/vecekrug.png", 
         "halls": [
             {
                 "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Interneto ry\u0161ys, Oro kondicionierius, Ra\u0161ymo lenta, TV, Video grotuvas", 
@@ -6224,7 +6140,6 @@ hotels = ([
         "name": "AMICUS HOTEL", 
         "rank": 3, 
         "address": "Kaminkelio g. 15, Vilnius", 
-        "image_filename": "img/hotels/amicus-hotel.png", 
         "halls": [], 
         "size": 45
     }, 
@@ -6255,7 +6170,6 @@ hotels = ([
         "name": "ATRIUM", 
         "rank": 4, 
         "address": "Pilies g. 10, Vilniaus m.", 
-        "image_filename": "img/hotels/atrium.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -6306,7 +6220,6 @@ hotels = ([
         "name": "L\u016aGN\u0116", 
         "rank": 3, 
         "address": "Klaip\u0117dos m. sav., Klaip\u0117da, Galinio Pylimo g. 16", 
-        "image_filename": "img/hotels/laagna.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -6357,7 +6270,6 @@ hotels = ([
         "name": "MONELA", 
         "rank": 2, 
         "address": "Laisv\u0117s al. 35, Kaunas", 
-        "image_filename": "img/hotels/monela.png", 
         "halls": [], 
         "size": 46
     }, 
@@ -6388,7 +6300,6 @@ hotels = ([
         "name": "LIUKRENA", 
         "rank": 3, 
         "address": "Vytauto g. 93A, Palangos m.", 
-        "image_filename": "img/hotels/liukrena.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Grafinis projektorius, Multimedia, Video grotuvas", 
@@ -6627,7 +6538,6 @@ hotels = ([
         "name": "VLASPA", 
         "rank": 1, 
         "address": "\u0160v. Stepono g. 11, Vilnius", 
-        "image_filename": "img/hotels/vlaspa.png", 
         "halls": [], 
         "size": 48
     }, 
@@ -6844,7 +6754,6 @@ hotels = ([
         "name": "SPA HOTEL BELVILIS", 
         "rank": 4, 
         "address": "Kirneil\u0117s k., Mol\u0117t\u0173 r.", 
-        "image_filename": "img/hotels/spa-hotel-belvilis.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -7007,7 +6916,6 @@ hotels = ([
         "name": "ASTRUM PALACE", 
         "rank": 4, 
         "address": "Laisv\u0117s g. 7, Ma\u017eeiki\u0173 m., Ma\u017eeiki\u0173 r.", 
-        "image_filename": "img/hotels/astrum-palace.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Grafinis projektorius, TV", 
@@ -7060,7 +6968,6 @@ hotels = ([
         "name": "TENISAS", 
         "rank": 2, 
         "address": "Palangos m. sav., Palanga, G\u0117li\u0173 a. 1A", 
-        "image_filename": "img/hotels/tenisas.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -7111,7 +7018,6 @@ hotels = ([
         "name": "EMBASSY HOTEL BALATONAS", 
         "rank": 4, 
         "address": "Latvi\u0173 g. 38, Vilniaus m.", 
-        "image_filename": "img/hotels/embassy-hotel-balatonas.png", 
         "halls": [
             {
                 "\u012eranga": "Kompiuteris, Multimedia, Ra\u0161ymo lenta, Skaidri\u0173 projektorius", 
@@ -7216,7 +7122,6 @@ hotels = ([
         "name": "PU\u0160IS", 
         "rank": 1, 
         "address": "Blind\u017ei\u0173 g. 17, Vilnius", 
-        "image_filename": "img/hotels/pua-is.png", 
         "halls": [
             {
                 "\u012eranga": "Multimedia, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV", 
@@ -7457,7 +7362,6 @@ hotels = ([
         "name": "TEL\u0160I\u0172 VIE\u0160BUTIS", 
         "rank": 1, 
         "address": "Tel\u0161i\u0173 r. sav., Tel\u0161i\u0173 sen., Tel\u0161iai, K\u0119stu\u010dio g. 21", 
-        "image_filename": "img/hotels/tela-ia-viea-butis.png", 
         "halls": [], 
         "size": 52
     }, 
@@ -7488,7 +7392,6 @@ hotels = ([
         "name": "CENTRE HOTEL NUOVA", 
         "rank": 3, 
         "address": "Kauno m. sav., Kaunas, Savanori\u0173 pr. 66", 
-        "image_filename": "img/hotels/centre-hotel-nuova.png", 
         "halls": [
             {
                 "\u012eranga": "Interneto ry\u0161ys, Multimedia, Ra\u0161ymo lenta, TV, Video grotuvas", 
@@ -7555,7 +7458,6 @@ hotels = ([
         "name": "VILA JELITA", 
         "rank": 3, 
         "address": "G. D. Kuverto g. 7, Neringa, Neringos sav.", 
-        "image_filename": "img/hotels/vila-jelita.png", 
         "halls": [], 
         "size": 53
     }, 
@@ -7616,7 +7518,6 @@ hotels = ([
         "name": "TAURAS", 
         "rank": 3, 
         "address": "Vytauto g. 116, Palanga", 
-        "image_filename": "img/hotels/tauras.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -7671,7 +7572,6 @@ hotels = ([
         "name": "BALTIC INN", 
         "rank": 3, 
         "address": "S. Daukanto g. 10A, Palangos m.", 
-        "image_filename": "img/hotels/baltic-inn.png", 
         "halls": [], 
         "size": 53
     }, 
@@ -7702,7 +7602,6 @@ hotels = ([
         "name": "TOMAS", 
         "rank": 4, 
         "address": "Til\u017e\u0117s g. 63A, \u0160iauli\u0173 m.", 
-        "image_filename": "img/hotels/tomas.png", 
         "halls": [
             {
                 "\u012eranga": "Grafinis projektorius, TV", 
@@ -7754,7 +7653,6 @@ hotels = ([
         "name": "IVOLITA", 
         "rank": 3, 
         "address": "\u0160v. Jok\u016bbo g. 10, Druskinink\u0173 m., Druskinink\u0173 sav.", 
-        "image_filename": "img/hotels/ivolita.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -7805,7 +7703,6 @@ hotels = ([
         "name": "SHAKESPEARE", 
         "rank": 4, 
         "address": "Vilniaus m. sav., Vilnius, Bernardin\u0173 g. 8/8", 
-        "image_filename": "img/hotels/shakespeare.png", 
         "halls": [
             {
                 "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
@@ -7997,7 +7894,6 @@ hotels = ([
         "name": "ANYK\u0160\u010cI\u0172 SPORTO IR LAISVALAIKIO CENTRAS", 
         "rank": 3, 
         "address": "Liudi\u0161ki\u0173 g. 18, Anyk\u0161\u010diai", 
-        "image_filename": "img/hotels/anyka-aia-sporto-ir-laisvalaikio-centras.png", 
         "halls": [], 
         "size": 55
     }, 
@@ -8147,7 +8043,6 @@ hotels = ([
         "name": "KETURI KALNAI", 
         "rank": 3, 
         "address": "Liudi\u0161ki\u0173 g. 18, Anyk\u0161\u010di\u0173 m., Anyk\u0161\u010di\u0173 r.", 
-        "image_filename": "img/hotels/keturi-kalnai.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Ra\u0161ymo lenta, Sinchroninis vertimas", 
@@ -8245,7 +8140,6 @@ hotels = ([
         "name": "SONATA", 
         "rank": 3, 
         "address": "Algirdo g. 34, Bir\u0161tono m., Bir\u0161tono sav.", 
-        "image_filename": "img/hotels/sonata.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -8296,7 +8190,6 @@ hotels = ([
         "name": "SIMBOLY", 
         "rank": 4, 
         "address": "Vazgaikiemio k., Prien\u0173 r.", 
-        "image_filename": "img/hotels/simboly.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Interneto ry\u0161ys, Mikrofonas, Skaidri\u0173 projektorius, Trib\u016bna, Video projektorius", 
@@ -8401,7 +8294,6 @@ hotels = ([
         "name": "NAVALIS", 
         "rank": 4, 
         "address": "H. Manto g. 23, Klaip\u0117dos m.", 
-        "image_filename": "img/hotels/navalis.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Multimedia, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Video projektorius", 
@@ -8606,7 +8498,6 @@ hotels = ([
         "name": "VIKTORIJA", 
         "rank": 2, 
         "address": "\u010ci\u017ei\u0161ki\u0173 k., Vilkavi\u0161kio r.", 
-        "image_filename": "img/hotels/viktorija.png", 
         "halls": [
             {
                 "\u012eranga": "Grafinis projektorius, Multimedia, Ra\u0161ymo lenta, TV, Video grotuvas, Video projektorius", 
@@ -8681,7 +8572,6 @@ hotels = ([
         "name": "PALANGOS V\u0116TRA", 
         "rank": 4, 
         "address": "S. Daukanto g. 35, Palangos m.", 
-        "image_filename": "img/hotels/palangos-vatra.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -8767,7 +8657,6 @@ hotels = ([
         "name": "OLD MILL HOTEL", 
         "rank": 3, 
         "address": "\u017dvej\u0173 g. 22, Klaip\u0117dos m.", 
-        "image_filename": "img/hotels/old-mill-hotel.png", 
         "halls": [], 
         "size": 58
     }, 
@@ -8798,7 +8687,6 @@ hotels = ([
         "name": "PARK VILLA", 
         "rank": 3, 
         "address": "Vaidilut\u0117s 6A, Vilnius", 
-        "image_filename": "img/hotels/park-villa.png", 
         "halls": [], 
         "size": 59
     }, 
@@ -8983,7 +8871,6 @@ hotels = ([
         "name": "NIDUS", 
         "rank": 3, 
         "address": "G. D. Kuverto g. 15, Neringa, Neringos sav.", 
-        "image_filename": "img/hotels/nidus.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -9064,7 +8951,6 @@ hotels = ([
         "name": "PARKAS", 
         "rank": 3, 
         "address": "Liepojos g. 3, Klaip\u0117da", 
-        "image_filename": "img/hotels/parkas.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -9115,7 +9001,6 @@ hotels = ([
         "name": "VELGA", 
         "rank": 2, 
         "address": "Vilniaus m. sav., Vilnius, Gele\u017einio Vilko g. 3", 
-        "image_filename": "img/hotels/velga.png", 
         "halls": [], 
         "size": 60
     }, 
@@ -9146,7 +9031,6 @@ hotels = ([
         "name": "SMILGA", 
         "rank": 3, 
         "address": "Senoji g. 16, K\u0117daini\u0173 m., K\u0117daini\u0173 r.", 
-        "image_filename": "img/hotels/smilga.png", 
         "halls": [
             {
                 "\u012eranga": "Multimedia", 
@@ -9197,7 +9081,6 @@ hotels = ([
         "name": "JERUZAL\u0116S VIE\u0160BUTIS", 
         "rank": 2, 
         "address": "Kalvarij\u0173 g. 247, Vilniaus m.", 
-        "image_filename": "img/hotels/jeruzalas-viea-butis.png", 
         "halls": [], 
         "size": 61
     }, 
@@ -9228,7 +9111,6 @@ hotels = ([
         "name": "ARARAT", 
         "rank": 4, 
         "address": "Liep\u0173 g. 48A, Klaip\u0117dos m.", 
-        "image_filename": "img/hotels/ararat.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -9309,7 +9191,6 @@ hotels = ([
         "name": "ADELITA", 
         "rank": 3, 
         "address": "Rod\u016bnios kelias 8, Vilniaus m.", 
-        "image_filename": "img/hotels/adelita.png", 
         "halls": [], 
         "size": 63
     }, 
@@ -9340,7 +9221,6 @@ hotels = ([
         "name": "VIA BALTICA", 
         "rank": 3, 
         "address": "Verslo g. 17, Kumpi\u0173 k., Kauno r.", 
-        "image_filename": "img/hotels/via-baltica.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -9410,7 +9290,6 @@ hotels = ([
         "name": "L\u016aNA", 
         "rank": 3, 
         "address": "Marijampol\u0117s sav.", 
-        "image_filename": "img/hotels/laana.png", 
         "halls": [
             {
                 "\u012eranga": "DVD grotuvas, Mikrofonas, Ra\u0161ymo lenta, Video grotuvas, Video projektorius", 
@@ -9465,7 +9344,6 @@ hotels = ([
         "name": "BARBACAN PALACE", 
         "rank": 4, 
         "address": "Vilnius, Bok\u0161to g. 19/\u0160v.Kazimiero g. 12", 
-        "image_filename": "img/hotels/barbacan-palace.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -9528,7 +9406,6 @@ hotels = ([
         "name": "\u0160AULYS", 
         "rank": 3, 
         "address": "Vasario 16-osios g. 40, \u0160iauli\u0173 m.", 
-        "image_filename": "img/hotels/a-aulys.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -9595,7 +9472,6 @@ hotels = ([
         "name": "\u017dYDROJI LIEPSNA", 
         "rank": 3, 
         "address": "Gintaro g. 36, Palanga", 
-        "image_filename": "img/hotels/aydroji-liepsna.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta", 
@@ -9665,7 +9541,6 @@ hotels = ([
         "name": "VILNIAUS EUROPOLIS", 
         "rank": 2, 
         "address": "\u0160vitrigailos g. 11D, Vilnius", 
-        "image_filename": "img/hotels/vilniaus-europolis.png", 
         "halls": [], 
         "size": 65
     }, 
@@ -9696,7 +9571,6 @@ hotels = ([
         "name": "GAMANTA", 
         "rank": 4, 
         "address": "Plyt\u0173 g. 7, Palanga", 
-        "image_filename": "img/hotels/gamanta.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -9763,7 +9637,6 @@ hotels = ([
         "name": "ROMANTIC", 
         "rank": 4, 
         "address": "Kranto g. 24, Panev\u0117\u017eio m.", 
-        "image_filename": "img/hotels/romantic.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -9899,7 +9772,6 @@ hotels = ([
         "name": "KERP\u0116", 
         "rank": 3, 
         "address": "Vytauto g. 76, Palangos m.", 
-        "image_filename": "img/hotels/kerpa.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -9969,7 +9841,6 @@ hotels = ([
         "name": "VILA VINGIS", 
         "rank": 3, 
         "address": "Kurorto g. 6, Druskinink\u0173 m., Druskinink\u0173 sav.", 
-        "image_filename": "img/hotels/vila-vingis.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -10024,7 +9895,6 @@ hotels = ([
         "name": "BEST WESTERN HOTEL CENTRAL", 
         "rank": 4, 
         "address": "\u0160v. Jok\u016bbo g., Druskinink\u0173 m., Druskinink\u0173 sav.", 
-        "image_filename": "img/hotels/best-western-hotel-central.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -10129,7 +9999,6 @@ hotels = ([
         "name": "VIKTORIJOS VIE\u0160BUTIS", 
         "rank": 1, 
         "address": "Saltoni\u0161ki\u0173 g. 56, Vilnius", 
-        "image_filename": "img/hotels/viktorijos-viea-butis.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -10199,7 +10068,6 @@ hotels = ([
         "name": "MABRE RESIDENCE HOTEL", 
         "rank": 4, 
         "address": "L. Stuokos-Gucevi\u010diaus g. 3, Vilniaus m.", 
-        "image_filename": "img/hotels/mabre-residence-hotel.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Ra\u0161ymo lenta, TV, Video projektorius", 
@@ -10265,7 +10133,6 @@ hotels = ([
         "name": "STIKLIAI", 
         "rank": 5, 
         "address": "Gaono g. 7, Vilniaus m.", 
-        "image_filename": "img/hotels/stikliai.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -10324,7 +10191,6 @@ hotels = ([
         "name": "KAUNAS", 
         "rank": 4, 
         "address": "Kauno m. sav., Kaunas, Laisv\u0117s al. 79", 
-        "image_filename": "img/hotels/kaunas.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -10490,7 +10356,6 @@ hotels = ([
         "name": "HOTEL TILTO", 
         "rank": 3, 
         "address": "Tilto g. 8, Vilniaus m.", 
-        "image_filename": "img/hotels/hotel-tilto.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -10591,7 +10456,6 @@ hotels = ([
         "name": "BEST WESTERN SANTAKOS", 
         "rank": 4, 
         "address": "J. Gruod\u017eio g. 21, Kauno m.", 
-        "image_filename": "img/hotels/best-western-santakos.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -10786,7 +10650,6 @@ hotels = ([
         "name": "SANTAKOS", 
         "rank": 4, 
         "address": "J. Gruod\u017eio g. 21, Kaunas", 
-        "image_filename": "img/hotels/santakos.png", 
         "halls": [
             {
                 "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Multimedia, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
@@ -10959,7 +10822,6 @@ hotels = ([
         "name": "EUROPA ROYALE", 
         "rank": 4, 
         "address": "Au\u0161ros Vart\u0173 g. 6, Vilnius", 
-        "image_filename": "img/hotels/europa-royale.png", 
         "halls": [
             {
                 "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Lazerin\u0117 rodykl\u0117, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas", 
@@ -11090,7 +10952,6 @@ hotels = ([
         "name": "ALKA", 
         "rank": 4, 
         "address": "S. Daukanto g. 21, Palanga", 
-        "image_filename": "img/hotels/alka.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Multimedia, Ra\u0161ymo lenta", 
@@ -11159,7 +11020,6 @@ hotels = ([
         "name": "REGINA", 
         "rank": 3, 
         "address": "Druskinink\u0173 sav.", 
-        "image_filename": "img/hotels/regina.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Grafinis projektorius, Mikrofonas, Multimedia, TV, \u012eranga garso \u012fra\u0161ymui", 
@@ -11257,7 +11117,6 @@ hotels = ([
         "name": "ALGIRDAS CITY HOTEL", 
         "rank": 3, 
         "address": "Algirdo g. 24, Vilniaus m.", 
-        "image_filename": "img/hotels/algirdas-city-hotel.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Video projektorius", 
@@ -11325,7 +11184,6 @@ hotels = ([
         "name": "RATONDA CENTRUM HOTEL", 
         "rank": 4, 
         "address": "Gedimino pr. 52/1a, Vilnius", 
-        "image_filename": "img/hotels/ratonda-centrum-hotel.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -11419,7 +11277,6 @@ hotels = ([
         "name": "DE LITA", 
         "rank": 3, 
         "address": "Vytauto g. 43, Druskinink\u0173 m., Druskinink\u0173 sav.", 
-        "image_filename": "img/hotels/de-lita.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -11589,7 +11446,6 @@ hotels = ([
         "name": "AD ASTRUM", 
         "rank": 2, 
         "address": "\u0160eimyni\u0161ki\u0173 g. 21, Vilnius", 
-        "image_filename": "img/hotels/ad-astrum.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -11659,7 +11515,6 @@ hotels = ([
         "name": "VANDENIS", 
         "rank": 3, 
         "address": "Birut\u0117s al. 47, Palanga", 
-        "image_filename": "img/hotels/vandenis.png", 
         "halls": [
             {
                 "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Mikrofonas, Multimedia, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
@@ -11719,7 +11574,6 @@ hotels = ([
         "name": "\u0160ERMUTAS", 
         "rank": 3, 
         "address": "Tinkl\u0173 g. 51, Panev\u0117\u017eio m.", 
-        "image_filename": "img/hotels/a-ermutas.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Grafinis projektorius, Kompiuteris", 
@@ -11814,7 +11668,6 @@ hotels = ([
         "name": "MEMEL HOTEL", 
         "rank": 3, 
         "address": "Bang\u0173 g. 4, Klaip\u0117dos m.", 
-        "image_filename": "img/hotels/memel-hotel.png", 
         "halls": [], 
         "size": 82
     }, 
@@ -11845,7 +11698,6 @@ hotels = ([
         "name": "DAUGIRDAS", 
         "rank": 4, 
         "address": "T. Daugirdo g. 4, Kauno m.", 
-        "image_filename": "img/hotels/daugirdas.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas", 
@@ -11931,7 +11783,6 @@ hotels = ([
         "name": "NARUTIS", 
         "rank": 5, 
         "address": "Pilies g. 24, Vilnius", 
-        "image_filename": "img/hotels/narutis.png", 
         "halls": [
             {
                 "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, \u012eranga garso \u012fra\u0161ymui", 
@@ -12096,7 +11947,6 @@ hotels = ([
         "name": "DEIMS", 
         "rank": 3, 
         "address": "Lietuvinink\u0173 g. 70, \u0160ilut\u0117s m., \u0160ilut\u0117s r.", 
-        "image_filename": "img/hotels/deims.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Ra\u0161ymo lenta", 
@@ -12303,7 +12153,6 @@ hotels = ([
         "name": "PONAS TADAS", 
         "rank": 3, 
         "address": "Naugarduko g. 76, Vilniaus m.", 
-        "image_filename": "img/hotels/ponas-tadas.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -12594,7 +12443,6 @@ hotels = ([
         "name": "OLD PORT HOTEL", 
         "rank": 3, 
         "address": "\u017dvej\u0173 g. 20-22, Klaip\u0117dos m.", 
-        "image_filename": "img/hotels/old-port-hotel.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Mikrofonas, Ra\u0161ymo lenta, Skaidri\u0173 projektorius", 
@@ -12648,7 +12496,6 @@ hotels = ([
         "name": "VALINA", 
         "rank": 2, 
         "address": "Draugyst\u0117s g. 18, Ma\u017eeikiai", 
-        "image_filename": "img/hotels/valina.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -12699,7 +12546,6 @@ hotels = ([
         "name": "NERIJA", 
         "rank": 3, 
         "address": "Pamario g. 13, Neringos m., Neringos sav.", 
-        "image_filename": "img/hotels/nerija.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -12750,7 +12596,6 @@ hotels = ([
         "name": "VILIJA", 
         "rank": 1, 
         "address": "Birut\u0117s al. 26, Palangos m.", 
-        "image_filename": "img/hotels/vilija.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -12801,7 +12646,6 @@ hotels = ([
         "name": "DOMUS MARIA", 
         "rank": 3, 
         "address": "Au\u0161ros vart\u0173 g. 12, Vilnius", 
-        "image_filename": "img/hotels/domus-maria.png", 
         "halls": [], 
         "size": 92
     }, 
@@ -12832,7 +12676,6 @@ hotels = ([
         "name": "NATIONAL HOTEL", 
         "rank": 4, 
         "address": "Teatro g. 1, Klaip\u0117da", 
-        "image_filename": "img/hotels/national-hotel.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -12934,7 +12777,6 @@ hotels = ([
         "name": "DRUSKININKAI", 
         "rank": 4, 
         "address": "V. Kudirkos g. 43, Druskinink\u0173 m., Druskinink\u0173 sav.", 
-        "image_filename": "img/hotels/druskininkai.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Trib\u016bna, Video grotuvas", 
@@ -13044,7 +12886,6 @@ hotels = ([
         "name": "PALANGOS JUZ\u0116", 
         "rank": 3, 
         "address": "Virbali\u0161k\u0117s takas 2, Palangos m.", 
-        "image_filename": "img/hotels/palangos-juza.png", 
         "halls": [], 
         "size": 94
     }, 
@@ -13075,7 +12916,6 @@ hotels = ([
         "name": "KAUNAS CITY", 
         "rank": 2, 
         "address": "Laisv\u0117s al. 90, Kauno m.", 
-        "image_filename": "img/hotels/kaunas-city.png", 
         "halls": [], 
         "size": 95
     }, 
@@ -13175,7 +13015,6 @@ hotels = ([
         "name": "\u017dILVINAS", 
         "rank": 3, 
         "address": "Ganykl\u0173 g. 30, Palangos m.", 
-        "image_filename": "img/hotels/ailvinas.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -13332,7 +13171,6 @@ hotels = ([
         "name": "\"PALANGOS DAIL\u0116\"", 
         "rank": 3, 
         "address": "S. Daukanto g. 33, Palangos m.", 
-        "image_filename": "img/hotels/palangos-daila.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -13383,7 +13221,6 @@ hotels = ([
         "name": "NERINGA", 
         "rank": 4, 
         "address": "Gedimino pr. 23, Vilniaus m.", 
-        "image_filename": "img/hotels/neringa.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -13434,7 +13271,6 @@ hotels = ([
         "name": "\"ALANGA\"", 
         "rank": 3, 
         "address": "S. N\u0117ries g. 14, Palangos m.", 
-        "image_filename": "img/hotels/alanga.png", 
         "halls": [
             {
                 "\u012eranga": "DVD grotuvas, TV", 
@@ -13486,7 +13322,6 @@ hotels = ([
         "name": "ALANGA", 
         "rank": 3, 
         "address": "S. N\u0117ries g. 14, Palanga", 
-        "image_filename": "img/hotels/alanga.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -13545,7 +13380,6 @@ hotels = ([
         "name": "PALANGA", 
         "rank": 5, 
         "address": "Palangos m. sav., Palanga, Birut\u0117s al. 60", 
-        "image_filename": "img/hotels/palanga.png", 
         "halls": [
             {
                 "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Video grotuvas", 
@@ -13657,7 +13491,6 @@ hotels = ([
         "name": "RAMADA HOTEL AND SUITES VILNIUS", 
         "rank": 5, 
         "address": "Suba\u010diaus g. 2, Vilniaus m.", 
-        "image_filename": "img/hotels/ramada-hotel-and-suites-vilnius.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Mikrofonas, Multimedia, Ra\u0161ymo lenta, \u012eranga garso \u012fra\u0161ymui", 
@@ -13716,7 +13549,6 @@ hotels = ([
         "name": "NEMUNAS", 
         "rank": 1, 
         "address": "Druskinink\u0173 sav., Druskininkai, T. Kosciu\u0161kos g. 6", 
-        "image_filename": "img/hotels/nemunas.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -13767,7 +13599,6 @@ hotels = ([
         "name": "MARGIS", 
         "rank": 4, 
         "address": "Pensinink\u0173 km., Trak\u0173 r.", 
-        "image_filename": "img/hotels/margis.png", 
         "halls": [
             {
                 "\u012eranga": "DVD grotuvas, Ekranas, Mikrofonas, Multimedia, Popierius, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, Video projektorius", 
@@ -13829,7 +13660,6 @@ hotels = ([
         "name": "SKRYDIS", 
         "rank": 2, 
         "address": "Rod\u016bnios kelias 8, Vilniaus m.", 
-        "image_filename": "img/hotels/skrydis.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -13918,7 +13748,6 @@ hotels = ([
         "name": "NIDOS SMILT\u0116", 
         "rank": 3, 
         "address": "Neringos sav., Neringa, Skruzdyn\u0117s g. 2", 
-        "image_filename": "img/hotels/nidos-smilta.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -13969,7 +13798,6 @@ hotels = ([
         "name": "COMFORT VILNIUS", 
         "rank": 3, 
         "address": "Vilniaus m. sav., Vilnius, G\u0117li\u0173 g. 5", 
-        "image_filename": "img/hotels/comfort-vilnius.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -14039,7 +13867,6 @@ hotels = ([
         "name": "GABIJA", 
         "rank": 4, 
         "address": "Vytauto g. 40, Palangos m.", 
-        "image_filename": "img/hotels/gabija.png", 
         "halls": [
             {
                 "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Interneto ry\u0161ys, Lazerin\u0117 rodykl\u0117, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Scena, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, \u012eranga garso \u012fra\u0161ymui", 
@@ -14386,7 +14213,6 @@ hotels = ([
         "name": "ARTIS CENTRUM HOTEL", 
         "rank": 4, 
         "address": "Liejyklos g. 11/23, Vilnius", 
-        "image_filename": "img/hotels/artis-centrum-hotel.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -14673,7 +14499,6 @@ hotels = ([
         "name": "GALIA", 
         "rank": 3, 
         "address": "Druskinink\u0173 sav., Druskininkai, M. K. \u010ciurlionio g. 97", 
-        "image_filename": "img/hotels/galia.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -14736,7 +14561,6 @@ hotels = ([
         "name": "EUROPA ROYALE DRUSKININKAI", 
         "rank": 4, 
         "address": "Vilniaus al. 7, Druskinink\u0173 m., Druskinink\u0173 sav.", 
-        "image_filename": "img/hotels/europa-royale-druskininkai.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -14980,7 +14804,6 @@ hotels = ([
         "name": "BELORUS", 
         "rank": 3, 
         "address": "Maironio g. 2, Druskinink\u0173 m., Druskinink\u0173 sav.", 
-        "image_filename": "img/hotels/belorus.png", 
         "halls": [
             {
                 "\u012eranga": "Kompiuteris, Multimedia, TV", 
@@ -15033,7 +14856,6 @@ hotels = ([
         "name": "AMBERTON", 
         "rank": 4, 
         "address": "L. Stuokos-Gucevi\u010diaus g. 1, Vilniaus m.", 
-        "image_filename": "img/hotels/amberton.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -15100,7 +14922,6 @@ hotels = ([
         "name": "CITY PARK HOTEL", 
         "rank": 4, 
         "address": "L. Stuokos-Gucevi\u010diaus g. 3, Vilnius", 
-        "image_filename": "img/hotels/city-park-hotel.png", 
         "halls": [
             {
                 "\u012eranga": "CD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Sinchroninis vertimas, TV, Trib\u016bna, Video grotuvas", 
@@ -15223,7 +15044,6 @@ hotels = ([
         "name": "CONGRESS", 
         "rank": 4, 
         "address": "Vilniaus g. 2/15, Vilniaus m.", 
-        "image_filename": "img/hotels/congress.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Mikrofonas, Multimedia, Skaidri\u0173 projektorius, TV, Video grotuvas", 
@@ -15303,7 +15123,6 @@ hotels = ([
         "name": "METROPOLIS", 
         "rank": 2, 
         "address": "S. Daukanto g. 21, Kaunas", 
-        "image_filename": "img/hotels/metropolis.png", 
         "halls": [], 
         "size": 140
     }, 
@@ -15334,7 +15153,6 @@ hotels = ([
         "name": "PU\u0160YNAS", 
         "rank": 3, 
         "address": "Vilniaus al. 3, Druskininkai, Druskinink\u0173 sav.", 
-        "image_filename": "img/hotels/pua-ynas.png", 
         "halls": [
             {
                 "\u012eranga": "DVD grotuvas, Grafinis projektorius, Multimedia", 
@@ -15406,7 +15224,6 @@ hotels = ([
         "name": "CORNER HOTEL", 
         "rank": 2, 
         "address": "T. \u0160ev\u010denkos g. 16, Vilnius", 
-        "image_filename": "img/hotels/corner-hotel.png", 
         "halls": [], 
         "size": 142
     }, 
@@ -15437,7 +15254,6 @@ hotels = ([
         "name": "KARALI\u0160KOJI REZIDENCIJA", 
         "rank": 4, 
         "address": "Pakaln\u0117s g. 3, Bir\u0161tonas", 
-        "image_filename": "img/hotels/karalia-koji-rezidencija.png", 
         "halls": [], 
         "size": 147
     }, 
@@ -15468,7 +15284,6 @@ hotels = ([
         "name": "GIL\u0116", 
         "rank": 2, 
         "address": "T. \u0160ev\u010denkos g. 16, Vilniaus m.", 
-        "image_filename": "img/hotels/gila.png", 
         "halls": [
             {
                 "\u012eranga": "Multimedia", 
@@ -15618,7 +15433,6 @@ hotels = ([
         "name": "KUR\u0160I\u0172 KAIMAS", 
         "rank": 3, 
         "address": "Vytauto g. 79/Gintaro g.30, Palangos m.", 
-        "image_filename": "img/hotels/kura-ia-kaimas.png", 
         "halls": [], 
         "size": 152
     }, 
@@ -15679,7 +15493,6 @@ hotels = ([
         "name": "CONTI", 
         "rank": 4, 
         "address": "Raugyklos g. 7/2, Vilnius", 
-        "image_filename": "img/hotels/conti.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Multimedia, Video projektorius", 
@@ -15848,7 +15661,6 @@ hotels = ([
         "name": "GRATA HOTEL", 
         "rank": 3, 
         "address": "Vytenio g. 9/25, Vilniaus m.", 
-        "image_filename": "img/hotels/grata-hotel.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -15915,7 +15727,6 @@ hotels = ([
         "name": "IBIS KAUNAS CENTRE", 
         "rank": 2, 
         "address": "Vytauto pr. 28, LT-44328 Kaunas", 
-        "image_filename": "img/hotels/ibis-kaunas-centre.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Skaidri\u0173 projektorius, Telefonas, Video projektorius", 
@@ -15991,7 +15802,6 @@ hotels = ([
         "name": "REVAL INN VILNIUS", 
         "rank": 3, 
         "address": "Ukmerg\u0117s g. 363, Vilnius", 
-        "image_filename": "img/hotels/reval-inn-vilnius.png", 
         "halls": [
             {
                 "\u012eranga": "Diktofonas, Ekranas, Grafinis projektorius, Kompiuteris, Lazerin\u0117 rodykl\u0117, Multimedia, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, TV", 
@@ -16114,7 +15924,6 @@ hotels = ([
         "name": "PARK INN VILNIUS NORTH", 
         "rank": 3, 
         "address": "Ukmerg\u0117s g. 363, Vilniaus m.", 
-        "image_filename": "img/hotels/park-inn-vilnius-north.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -16219,7 +16028,6 @@ hotels = ([
         "name": "AUK\u0160TAITIJA", 
         "rank": 2, 
         "address": "Veteran\u0173 g. 9, Visagino m., Visagino sav.", 
-        "image_filename": "img/hotels/auka-taitija.png", 
         "halls": [
             {
                 "\u012eranga": "DVD grotuvas, Grafinis projektorius, TV, Video grotuvas", 
@@ -16273,7 +16081,6 @@ hotels = ([
         "name": "EUROPA ROYALE HOTEL KAUNAS", 
         "rank": 4, 
         "address": "Mi\u0161ko g. 11, Kaunas", 
-        "image_filename": "img/hotels/europa-royale-hotel-kaunas.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Multimedia, \u012eranga garso \u012fra\u0161ymui", 
@@ -16473,7 +16280,6 @@ hotels = ([
         "name": "EUROPA STAY VILNIUS", 
         "rank": 3, 
         "address": "\u0104\u017euolyno g. 7, Vilniaus m.", 
-        "image_filename": "img/hotels/europa-stay-vilnius.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -16581,7 +16387,6 @@ hotels = ([
         "name": "VIVA GREEN RESORT", 
         "rank": 2, 
         "address": "Tu\u0161\u010diauli\u0173 k., Vilniaus r.", 
-        "image_filename": "img/hotels/viva-green-resort.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Grafinis projektorius, Ra\u0161ymo lenta", 
@@ -16699,7 +16504,6 @@ hotels = ([
         "name": "DAINAVA", 
         "rank": 2, 
         "address": "Druskinink\u0173 sav., Druskininkai, Maironio g. 22", 
-        "image_filename": "img/hotels/dainava.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -17077,7 +16881,6 @@ hotels = ([
         "name": "TRASALIS", 
         "rank": 3, 
         "address": "Gedimino g. 26, Trak\u0173 m., Trak\u0173 r.", 
-        "image_filename": "img/hotels/trasalis.png", 
         "halls": [
             {
                 "\u012eranga": "DVD grotuvas, Ekranas, Mikrofonas, Multimedia", 
@@ -17131,7 +16934,6 @@ hotels = ([
         "name": "PARK INN KAUNAS", 
         "rank": 4, 
         "address": "K. Donelai\u010dio g. 27, Kauno m.", 
-        "image_filename": "img/hotels/park-inn-kaunas.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -17360,7 +17162,6 @@ hotels = ([
         "name": "\u0160IAULIAI", 
         "rank": 3, 
         "address": "Draugyst\u0117s pr. 25, \u0160iauliai", 
-        "image_filename": "img/hotels/a-iauliai.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -17411,7 +17212,6 @@ hotels = ([
         "name": "BEST WESTERN VILNIUS", 
         "rank": 4, 
         "address": "Konstitucijos pr. 14, Vilnius", 
-        "image_filename": "img/hotels/best-western-vilnius.png", 
         "halls": [
             {
                 "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
@@ -17851,7 +17651,6 @@ hotels = ([
         "name": "CROWNE PLAZA VILNIUS", 
         "rank": 4, 
         "address": "M. K. \u010ciurlionio g. 84, Vilnius", 
-        "image_filename": "img/hotels/crowne-plaza-vilnius.png", 
         "halls": [
             {
                 "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
@@ -18395,7 +18194,6 @@ hotels = ([
         "name": "RADISSON BLU ASTORIJA", 
         "rank": 5, 
         "address": "Vilnius, Did\u017eioji g. 35", 
-        "image_filename": "img/hotels/radisson-blu-astorija.png", 
         "halls": [
             {
                 "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Diskusiniai mikrofonai, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
@@ -19265,7 +19063,6 @@ hotels = ([
         "name": "MARTIALIS", 
         "rank": 3, 
         "address": "Bistry\u010dios g. 13, Vilnius", 
-        "image_filename": "img/hotels/martialis.png", 
         "halls": [
             {
                 "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Interneto ry\u0161ys, Kompiuteris, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, TV", 
@@ -19457,7 +19254,6 @@ hotels = ([
         "name": "J\u016aRAT\u0116", 
         "rank": 2, 
         "address": "Pamario g. 3, Neringa", 
-        "image_filename": "img/hotels/jaarata.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -19508,7 +19304,6 @@ hotels = ([
         "name": "PALANGOS LINAS", 
         "rank": 3, 
         "address": "Palangos m. sav., Palanga, Vytauto g. 155", 
-        "image_filename": "img/hotels/palangos-linas.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Interneto ry\u0161ys, Ra\u0161ymo lenta, Scena, TV, Trib\u016bna, Video grotuvas", 
@@ -19565,7 +19360,6 @@ hotels = ([
         "name": "EUROPA CITY VILNIUS", 
         "rank": 3, 
         "address": "Vilniaus m. sav., Vilnius, J. Jasinskio g. 14", 
-        "image_filename": "img/hotels/europa-city-vilnius.png", 
         "halls": [
             {
                 "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
@@ -19862,7 +19656,6 @@ hotels = ([
         "name": "GREEN VILNIUS HOTEL", 
         "rank": 3, 
         "address": "Pilait\u0117s pr. 20, Vilnius", 
-        "image_filename": "img/hotels/green-vilnius-hotel.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Video projektorius", 
@@ -19914,7 +19707,6 @@ hotels = ([
         "name": "HOLIDAY INN VILNIUS", 
         "rank": 4, 
         "address": "\u0160eimyni\u0161ki\u0173 g. 1, Vilniaus m.", 
-        "image_filename": "img/hotels/holiday-inn-vilnius.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -20109,7 +19901,6 @@ hotels = ([
         "name": "DRUSKININK\u0172 SVEIKATINIMO IR POILSIO CENTRAS AQUA", 
         "rank": 3, 
         "address": "Vilniaus al. 13, Druskinink\u0173 m., Druskinink\u0173 sav.", 
-        "image_filename": "img/hotels/druskininka-sveikatinimo-ir-poilsio-centras-aqua.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -20179,7 +19970,6 @@ hotels = ([
         "name": "VYTURYS", 
         "rank": 2, 
         "address": "Palangos m. sav., Palanga, S. Dariaus ir S. Gir\u0117no g. 20", 
-        "image_filename": "img/hotels/vyturys.png", 
         "halls": [
             {
                 "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Mikrofonas, Multimedia, Popierius, Ra\u0161ymo lenta, TV, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
@@ -20368,7 +20158,6 @@ hotels = ([
         "name": "KLAIP\u0116DA", 
         "rank": 4, 
         "address": "Naujojo Sodo g. 1, Klaip\u0117da", 
-        "image_filename": "img/hotels/klaipada.png", 
         "halls": [
             {
                 "\u012eranga": "Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
@@ -20648,7 +20437,6 @@ hotels = ([
         "name": "NOVOTEL VILNIUS", 
         "rank": 4, 
         "address": "Vilniaus m. sav., Vilnius, Gedimino pr. 16", 
-        "image_filename": "img/hotels/novotel-vilnius.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -20804,7 +20592,6 @@ hotels = ([
         "name": "ECOTEL VILNIUS", 
         "rank": 2, 
         "address": "Vilniaus m. sav., Vilnius, Slucko g. 8", 
-        "image_filename": "img/hotels/ecotel-vilnius.png", 
         "halls": [
             {
                 "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
@@ -20869,7 +20656,6 @@ hotels = ([
         "name": "SPA - VILNIUS", 
         "rank": 3, 
         "address": "K.Dineikos g 1/3", 
-        "image_filename": "img/hotels/spa--vilnius.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -20958,7 +20744,6 @@ hotels = ([
         "name": "GRAND SPA LIETUVA", 
         "rank": 3, 
         "address": "Druskinink\u0173 sav.", 
-        "image_filename": "img/hotels/grand-spa-lietuva.png", 
         "halls": [], 
         "size": 358
     }, 
@@ -20989,7 +20774,6 @@ hotels = ([
         "name": "LE MERIDIEN VILNIUS", 
         "rank": 5, 
         "address": "Greitkelis A2, Vilnius - Ryga 19tas m, E\u017eerai\u010di\u0173 k., Vilniaus r.", 
-        "image_filename": "img/hotels/le-meridien-vilnius.png", 
         "halls": [
             {
                 "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
@@ -21562,7 +21346,6 @@ hotels = ([
         "name": "PANORAMA", 
         "rank": 3, 
         "address": "Vilniaus m. sav., Vilnius, Sod\u0173 g. 14", 
-        "image_filename": "img/hotels/panorama.png", 
         "halls": [
             {
                 "\u012eranga": "", 
@@ -21899,7 +21682,6 @@ hotels = ([
         "name": "AMBERTON KLAIP\u0116DA", 
         "rank": 4, 
         "address": "Naujojo Sodo g. 1, Klaip\u0117dos m.", 
-        "image_filename": "img/hotels/amberton-klaipada.png", 
         "halls": [
             {
                 "\u012eranga": "Kompiuteris, Mikrofonas, Multimedia, Sinchroninis vertimas", 
@@ -21969,7 +21751,6 @@ hotels = ([
         "name": "REVAL HOTEL LIETUVA", 
         "rank": 4, 
         "address": "Vilniaus m. sav., Vilnius, Konstitucijos pr. 20", 
-        "image_filename": "img/hotels/reval-hotel-lietuva.png", 
         "halls": [
             {
                 "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, Video projektorius, \u012eranga garso \u012fra\u0161ymui", 
@@ -23039,7 +22820,6 @@ hotels = ([
         "name": "RADISSON BLU HOTEL LIETUVA", 
         "rank": 4, 
         "address": "Konstitucijos pr. 20, Vilniaus m.", 
-        "image_filename": "img/hotels/radisson-blu-hotel-lietuva.png", 
         "halls": [
             {
                 "\u012eranga": "Interneto ry\u0161ys, Oro kondicionierius, Telefonas", 
