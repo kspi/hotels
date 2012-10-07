@@ -1,11 +1,24 @@
-html, body, #map_canvas {
+html, body {
   margin: 0;
   padding: 0;
   height: 100%;
 }
 
+#main-container {
+  height:100%;
+  margin:0 auto;
+  min-height:100%;
+  overflow:hidden;
+  position:relative;
+  width:100%;
+}
+
 #map_canvas {
+  
   z-index: 0;
+  margin: 0;
+  padding: 0;
+  height: 100%;
   margin-left: 340px;
 }
 
@@ -15,18 +28,32 @@ html, body, #map_canvas {
   left: 0px;
   top: 0px;
   width: 300px;
-  height: 100%;
   background: #fff;
-  border-right: 1px solid #ddd;
-  padding: 0px 20px;
+  /*border-right: 1px solid #ddd;*/
+  padding: 70px 20px 0px 20px;
+  height: 100%;
+  overflow: hidden;
+}
+
+#topbar {
+  z-index: 2;
+  height: 60px;
+  position: relative;
+  overflow: hidden;
+  padding: 0 20px;
 }
 
 .block {
   margin: 5px;
-  padding: 5px;
+  padding: 5px 15px;
   border: 1px solid #ddd;
 }
 .select2 {
   width: 100%;
+}
+
+.slider-count {
+  color: #F6A828;
+  font-weight: bold;
 }
 
