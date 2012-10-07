@@ -2,6 +2,7 @@
 var geocoder;
 var markerArray;
 var icons = new Array(10);
+var infoWindow;
 
 function initializeMap() {
   var center = new google.maps.LatLng(55.316643, 23.752441);
@@ -18,6 +19,8 @@ function initializeMap() {
   for (var i = 0; i < 10; ++i) {
     icons[i] = new google.maps.MarkerImage("img/h-" + (i + 1) + ".png", null, null, new google.maps.Point(0, 32));
   }
+
+  infoWindow = new google.maps.InfoWindow();
 }
 
 function toggleMarker(title, loc,  hotel, visible) {
@@ -36,6 +39,17 @@ function toggleMarker(title, loc,  hotel, visible) {
       icon: icons[icon_i]
     });
     markerArray[title] = marker;
+
+    var info = '<h5>' + title + '</h5>';
+
+    if (hotel.size != null) {
+      info = info + '<p>Vietų skaičius: ' + hotel.size + '</p>'
+    }
+
+    google.maps.event.addListener(marker, 'click', function() {
+      infoWindow.setContent(info);
+      infoWindow.open(map, marker);
+    });
   } else {
     marker.setVisible(visible);
   }
