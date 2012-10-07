@@ -1,7 +1,8 @@
 # coding: utf-8
 import csv
 import json
-from geocode import coords
+from im import image_filename
+import os
 
 largest = 0
 count = 0
@@ -20,16 +21,8 @@ with open('data/hotels.csv', 'r') as f:
         except ValueError:
             size = None
 
-        cs = coords(address.decode('utf-8'))
-
-
         if size > largest:
             largest = size
-
-        print name, cs, address
-
-        if not cs:
-            continue
 
         good_count += 1
         
@@ -38,12 +31,16 @@ with open('data/hotels.csv', 'r') as f:
         hotel = {
             'name': name,
             'address': address,
-            'coords': cs,
             'rank': rank,
             'size': size,
             'info': row,
             'halls': [],
         }
+
+        imagefn = image_filename(name)
+        if os.path.exists('site/' + imagefn):
+            hotel['image_filename'] = imagefn
+
         hotels[name] = hotel
 
 
@@ -65,12 +62,16 @@ with open('data/halls.csv', 'r') as f:
 
         hardware = row['Įranga'].split(', ')
 
-        hotel = hotels[hotel_name]
-        hotel['halls'].append({
+        hall = {
             'name': name,
             'configurations': configs,
             'hardware': hardware,
-        })
+        }
+        hall.update(row)
+
+        hotel = hotels[hotel_name]
+        hotel['halls'].append(hall)
+        
 
 with open('site/js/data.js', 'w') as f:
     f.write('hotels = (')

@@ -25,10 +25,6 @@ hotels = ([
         }, 
         "name": "SALOS", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.5048589, 
-            "lng": 24.9787608
-        }, 
         "address": "Trak\u0173 r. Kranto g. 5", 
         "halls": [], 
         "size": null
@@ -59,10 +55,6 @@ hotels = ([
         }, 
         "name": "PR\u016aSIJA", 
         "rank": 2, 
-        "coords": {
-            "lat": 55.7125034, 
-            "lng": 21.1297599
-        }, 
         "address": "S. \u0160imkaus g. 6, Klaip\u0117da", 
         "halls": [], 
         "size": null
@@ -93,20 +85,24 @@ hotels = ([
         }, 
         "name": "MAGNUS HOTEL", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.8968721, 
-            "lng": 23.8924264
-        }, 
         "address": "Vytauto pr. 25, Kauno m.", 
+        "image_filename": "img/hotels/magnus-hotel.png", 
         "halls": [
             {
+                "\u012eranga": "Grafinis projektorius, Mikrofonas, Multimedia, Video grotuvas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "MAGNUS HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Grafinis projektorius", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Video grotuvas"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 50", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -147,11 +143,8 @@ hotels = ([
         }, 
         "name": "MIKOTEL", 
         "rank": 2, 
-        "coords": {
-            "lat": 54.67253669999999, 
-            "lng": 25.2866576
-        }, 
         "address": "Pylimo g. 63, Vilniaus m.", 
+        "image_filename": "img/hotels/mikotel.png", 
         "halls": [], 
         "size": null
     }, 
@@ -181,13 +174,15 @@ hotels = ([
         }, 
         "name": "KAROLINA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.69321859999999, 
-            "lng": 25.2220444
-        }, 
         "address": "Sausio 13-osios g. 2, Vilnius", 
+        "image_filename": "img/hotels/karolina.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Did\u017eioji konferencij\u0173 sal\u0117", 
+                "Sal\u0117": "Did\u017eioji konferencij\u0173 sal\u0117", 
+                "Vie\u0161butis": "KAROLINA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
@@ -205,7 +200,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Did\u017eioji konferencij\u0173 sal\u0117", 
+                "Plotas (kv. m.)": "90", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 600; Klas\u0117s stilius: 248; U stilius: 80", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -222,10 +219,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Konferencij\u0173 sal\u0117 200", 
+                "Sal\u0117": "Konferencij\u0173 sal\u0117 200", 
+                "Vie\u0161butis": "KAROLINA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Konferencij\u0173 sal\u0117 200", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 147; Klas\u0117s stilius: 72; U stilius: 48", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -242,10 +246,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "M\u0117lynoji sal\u0117", 
+                "Sal\u0117": "M\u0117lynoji sal\u0117", 
+                "Vie\u0161butis": "KAROLINA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "M\u0117lynoji sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 24; U stilius: 20", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -262,10 +273,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Pirmo auk\u0161to konferencij\u0173 sal\u0117", 
+                "Sal\u0117": "Pirmo auk\u0161to konferencij\u0173 sal\u0117", 
+                "Vie\u0161butis": "KAROLINA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Pirmo auk\u0161to konferencij\u0173 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 200; Klas\u0117s stilius: 80; U stilius: 50", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -282,10 +300,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Semianar\u0173 sal\u0117 4", 
+                "Sal\u0117": "Semianar\u0173 sal\u0117 4", 
+                "Vie\u0161butis": "KAROLINA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Semianar\u0173 sal\u0117 4", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 20; Klas\u0117s stilius: 10; U stilius: 8", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -302,10 +327,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Seminar\u0173 sal\u0117 2", 
+                "Sal\u0117": "Seminar\u0173 sal\u0117 2", 
+                "Vie\u0161butis": "KAROLINA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Seminar\u0173 sal\u0117 2", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 30; U stilius: 20", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -322,10 +354,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Seminar\u0173 sal\u0117 3", 
+                "Sal\u0117": "Seminar\u0173 sal\u0117 3", 
+                "Vie\u0161butis": "KAROLINA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Seminar\u0173 sal\u0117 3", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 26; U stilius: 20", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -342,10 +381,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Seminar\u0173 sal\u0117 5", 
+                "Sal\u0117": "Seminar\u0173 sal\u0117 5", 
+                "Vie\u0161butis": "KAROLINA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Seminar\u0173 sal\u0117 5", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 53; Klas\u0117s stilius: 30; U stilius: 24", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -362,10 +408,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Seminar\u0173 sal\u0117 6", 
+                "Sal\u0117": "Seminar\u0173 sal\u0117 6", 
+                "Vie\u0161butis": "KAROLINA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Seminar\u0173 sal\u0117 6", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 70; Klas\u0117s stilius: 40; U stilius: 22", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -382,10 +435,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Seminar\u0173 sal\u0117 7", 
+                "Sal\u0117": "Seminar\u0173 sal\u0117 7", 
+                "Vie\u0161butis": "KAROLINA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Seminar\u0173 sal\u0117 7", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 75; Klas\u0117s stilius: 32; U stilius: 22", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -402,10 +462,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Siminar\u0173 sal\u0117 1", 
+                "Sal\u0117": "Siminar\u0173 sal\u0117 1", 
+                "Vie\u0161butis": "KAROLINA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Siminar\u0173 sal\u0117 1", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 20", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -442,11 +509,8 @@ hotels = ([
         }, 
         "name": "CENTRAS", 
         "rank": 1, 
-        "coords": {
-            "lat": 55.9187176, 
-            "lng": 21.0669299
-        }, 
         "address": "Vytauto g. 96, Palanga", 
+        "image_filename": "img/hotels/centras.png", 
         "halls": [], 
         "size": null
     }, 
@@ -476,18 +540,22 @@ hotels = ([
         }, 
         "name": "VIE\u0160BUTIS \"BANGA\"", 
         "rank": 2, 
-        "coords": {
-            "lat": 54.9396826, 
-            "lng": 23.6434169
-        }, 
         "address": "Kranto g. 3A, Taurag\u0117s m., Taurag\u0117s r.", 
+        "image_filename": "img/hotels/viea-butis-banga.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Grafinis projektorius", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "VIE\u0160BUTIS \"BANGA\"", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 40", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -497,86 +565,6 @@ hotels = ([
             }
         ], 
         "size": 9
-    }, 
-    {
-        "info": {
-            "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Baras, Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "REGINOS KUNIKAUSKIEN\u0116S I\u012e", 
-            "Pri\u0117mimo m\u0117n.": "", 
-            "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "10", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Skalbimas ir valymas", 
-            "Telefonas": "37262020", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
-            "Papildomas telefonas": "37263690", 
-            "Klas\u0117 suteikta iki": "2011.10.06", 
-            "El. pa\u0161tas": "info@regina-motel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
-            "Faksas": "37268855", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "11", 
-            "Sveikatingumo paslaugos": "", 
-            "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
-        }, 
-        "name": "REGINA", 
-        "rank": 3, 
-        "coords": {
-            "lat": 54.8968721, 
-            "lng": 23.8924264
-        }, 
-        "address": "Plung\u0117s g. 10/ A. Strazdo g. 62, Kauno m.", 
-        "halls": [
-            {
-                "hardware": [
-                    "Ekranas", 
-                    "Grafinis projektorius", 
-                    "Mikrofonas", 
-                    "Multimedia", 
-                    "TV", 
-                    "\u012eranga garso \u012fra\u0161ymui"
-                ], 
-                "name": "", 
-                "configurations": [
-                    {
-                        "name": "Klas\u0117s stilius", 
-                        "people": 90
-                    }
-                ]
-            }, 
-            {
-                "hardware": [
-                    ""
-                ], 
-                "name": "", 
-                "configurations": [
-                    {
-                        "name": "Klas\u0117s stilius", 
-                        "people": 90
-                    }, 
-                    {
-                        "name": "Apvalaus stalo stilius", 
-                        "people": 20
-                    }
-                ]
-            }, 
-            {
-                "hardware": [
-                    ""
-                ], 
-                "name": "", 
-                "configurations": [
-                    {
-                        "name": "Apvalaus stalo stilius", 
-                        "people": 20
-                    }
-                ]
-            }
-        ], 
-        "size": 11
     }, 
     {
         "info": {
@@ -604,17 +592,21 @@ hotels = ([
         }, 
         "name": "PRIE LUK\u0160TO", 
         "rank": 2, 
-        "coords": {
-            "lat": 55.9835785, 
-            "lng": 22.2508131
-        }, 
         "address": "Tel\u0161i\u0173 r. sav., Varni\u0173 sen., Varniai, Medinink\u0173 a. 1/1", 
+        "image_filename": "img/hotels/prie-luka-to.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PRIE LUK\u0160TO", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Banketo stilius: 12", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Banketo stilius", 
@@ -651,17 +643,21 @@ hotels = ([
         }, 
         "name": "SUDAVIJA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.6767438, 
-            "lng": 23.4219765
-        }, 
         "address": "Sodo g. 1a, Marijampol\u0117", 
+        "image_filename": "img/hotels/sudavija.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "SUDAVIJA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 12", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -698,11 +694,8 @@ hotels = ([
         }, 
         "name": "NAKTIES MAGIJA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.9042484, 
-            "lng": 23.9470806
-        }, 
         "address": "Skrobl\u0173 g. 3, Kauno m.", 
+        "image_filename": "img/hotels/nakties-magija.png", 
         "halls": [], 
         "size": 15
     }, 
@@ -732,11 +725,8 @@ hotels = ([
         }, 
         "name": "SALDUV\u0116S", 
         "rank": 1, 
-        "coords": {
-            "lat": 55.91792, 
-            "lng": 23.3125687
-        }, 
         "address": "K. Donelai\u010dio 70, \u0160iauliai", 
+        "image_filename": "img/hotels/salduvas.png", 
         "halls": [], 
         "size": 16
     }, 
@@ -766,11 +756,8 @@ hotels = ([
         }, 
         "name": "LAIMA", 
         "rank": 2, 
-        "coords": {
-            "lat": 55.6548678, 
-            "lng": 23.2627661
-        }, 
         "address": "Draugyst\u0117s g. 2, Druskinink\u0173 m., Druskinink\u0173 sav.", 
+        "image_filename": "img/hotels/laima.png", 
         "halls": [], 
         "size": 16
     }, 
@@ -800,10 +787,6 @@ hotels = ([
         }, 
         "name": "GRO\u017dIO SALA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.7038218, 
-            "lng": 25.2318252
-        }, 
         "address": "\u010c. Sugiharos g. 3, Vilniaus m.", 
         "halls": [], 
         "size": 16
@@ -834,17 +817,21 @@ hotels = ([
         }, 
         "name": "AUSKA", 
         "rank": 5, 
-        "coords": {
-            "lat": 55.9113787, 
-            "lng": 21.0628183
-        }, 
         "address": "Vytauto g. 11, Palangos m.", 
+        "image_filename": "img/hotels/auska.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "AUSKA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Apvalaus stalo stilius: 60", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Apvalaus stalo stilius", 
@@ -853,10 +840,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "AUSKA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "U stilius: 50", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -893,17 +887,21 @@ hotels = ([
         }, 
         "name": "\u017dILINA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.78199710000001, 
-            "lng": 23.1341364
-        }, 
         "address": "Marijampol\u0117s sav., Marijampol\u0117, L. Giros g. 42", 
+        "image_filename": "img/hotels/ailina.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "\u017dILINA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 25", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -940,11 +938,8 @@ hotels = ([
         }, 
         "name": "CONVIVA", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.727101, 
-            "lng": 24.3626272
-        }, 
         "address": "Laisv\u0117s a. 16, Panev\u0117\u017eio m.", 
+        "image_filename": "img/hotels/conviva.png", 
         "halls": [], 
         "size": 18
     }, 
@@ -974,17 +969,20 @@ hotels = ([
         }, 
         "name": "BER\u017dAS", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.7023946, 
-            "lng": 21.1369563
-        }, 
         "address": "Minijos g. 2, Plung\u0117s m., Plung\u0117s r.", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "BER\u017dAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "U stilius: 20", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -993,10 +991,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "BER\u017dAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "U stilius: 60", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -1033,17 +1038,21 @@ hotels = ([
         }, 
         "name": "GABRIELLA", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.9481034, 
-            "lng": 25.5856338
-        }, 
         "address": "Jaunyst\u0117s g. 21, Visagino m., Visagino sav.", 
+        "image_filename": "img/hotels/gabriella.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "GABRIELLA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 25", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -1080,10 +1089,6 @@ hotels = ([
         }, 
         "name": "KUR\u0116NAS", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.5318433, 
-            "lng": 21.1172813
-        }, 
         "address": "L. R\u0117zos g. 10, Neringa", 
         "halls": [], 
         "size": 18
@@ -1114,17 +1119,20 @@ hotels = ([
         }, 
         "name": "VAIVORYK\u0160T\u0116", 
         "rank": 2, 
-        "coords": {
-            "lat": 55.9320758, 
-            "lng": 23.3142194
-        }, 
         "address": "\u0160iauli\u0173 m. sav., \u0160iauliai, Gytari\u0173 g. 25", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "VAIVORYK\u0160T\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -1133,10 +1141,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "VAIVORYK\u0160T\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Banketo stilius: 100", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Banketo stilius", 
@@ -1146,65 +1161,6 @@ hotels = ([
             }
         ], 
         "size": 18
-    }, 
-    {
-        "info": {
-            "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Bistroma\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "10", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
-            "Telefonas": "37202545", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
-            "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2011.03.03", 
-            "El. pa\u0161tas": "babilonas@hotel.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
-            "Faksas": "37209156", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "19", 
-            "Sveikatingumo paslaugos": "", 
-            "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
-        }, 
-        "name": "BABILONAS", 
-        "rank": 3, 
-        "coords": {
-            "lat": 54.9035102, 
-            "lng": 23.9061726
-        }, 
-        "address": "\u017dalioji g. 38A, Kauno m.", 
-        "halls": [
-            {
-                "hardware": [
-                    ""
-                ], 
-                "name": "", 
-                "configurations": [
-                    {
-                        "name": "Teatro stilius", 
-                        "people": 8
-                    }, 
-                    {
-                        "name": "Klas\u0117s stilius", 
-                        "people": 14
-                    }, 
-                    {
-                        "name": "U stilius", 
-                        "people": 35
-                    }, 
-                    {
-                        "name": "Apvalaus stalo stilius", 
-                        "people": 25
-                    }
-                ]
-            }
-        ], 
-        "size": 19
     }, 
     {
         "info": {
@@ -1232,21 +1188,88 @@ hotels = ([
         }, 
         "name": "LINELIS", 
         "rank": 2, 
-        "coords": {
-            "lat": 56.0632936, 
-            "lng": 21.8886997
-        }, 
         "address": "Paplatel\u0117s k., \u017demai\u010di\u0173 Kalvarijos sen., Plung\u0117s r.", 
+        "image_filename": "img/hotels/linelis.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "LINELIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 60
+                    }
+                ]
+            }
+        ], 
+        "size": 19
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "", 
+            "Maitinimo paslaugos": "Restoranas", 
+            "Oficialus \u012fm. pavadinimas": "UAB \"Bistroma\"", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "", 
+            "Kambari\u0173 skai\u010dius": "10", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
+            "Telefonas": "37202545", 
+            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2011.03.03", 
+            "El. pa\u0161tas": "babilonas@hotel.lt", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "37209156", 
+            "Klas\u0117": "3*", 
+            "Viet\u0173 skai\u010dius": "19", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "BABILONAS", 
+        "rank": 3, 
+        "address": "\u017dalioji g. 38A, Kauno m.", 
+        "image_filename": "img/hotels/babilonas.png", 
+        "halls": [
+            {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "BABILONAS", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 8; Klas\u0117s stilius: 14; U stilius: 35; Apvalaus stalo stilius: 25", 
+                "Pob\u016bviams": "", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 8
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 14
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 35
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 25
                     }
                 ]
             }
@@ -1279,19 +1302,22 @@ hotels = ([
         }, 
         "name": "A.V.GODA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.733248, 
-            "lng": 25.2791232
-        }, 
         "address": "Kalvarij\u0173 g. 265, Vilniaus m.", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Grafinis projektorius, Kompiuteris", 
+                "name": "Konferencij\u0173 sal\u0117", 
+                "Sal\u0117": "Konferencij\u0173 sal\u0117", 
+                "Vie\u0161butis": "A.V.GODA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
                     "Kompiuteris"
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 30", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -1328,17 +1354,21 @@ hotels = ([
         }, 
         "name": "PUNTUKAS", 
         "rank": 2, 
-        "coords": {
-            "lat": 54.90772310000001, 
-            "lng": 23.9530273
-        }, 
         "address": "A. Baranausko a. 15, Anyk\u0161\u010di\u0173 m., Anyk\u0161\u010di\u0173 r.", 
+        "image_filename": "img/hotels/puntukas.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PUNTUKAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Banketo stilius: 60", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Banketo stilius", 
@@ -1375,17 +1405,21 @@ hotels = ([
         }, 
         "name": "STADALA", 
         "rank": 2, 
-        "coords": {
-            "lat": 54.6365694, 
-            "lng": 25.1108597
-        }, 
         "address": "Gureli\u0173 k., \u0160al\u010dinink\u0173 r.", 
+        "image_filename": "img/hotels/stadala.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "STADALA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -1422,12 +1456,60 @@ hotels = ([
         }, 
         "name": "JEREVAN", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.8879057, 
-            "lng": 23.9336069
-        }, 
         "address": "M. K. \u010ciurlionio g. 128, Druskinink\u0173 m., Druskinink\u0173 sav.", 
+        "image_filename": "img/hotels/jerevan.png", 
         "halls": [], 
+        "size": 20
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "", 
+            "Maitinimo paslaugos": "Kavin\u0117", 
+            "Oficialus \u012fm. pavadinimas": "UAB \"Inarvida\"", 
+            "Pri\u0117mimo m\u0117n.": "", 
+            "Darbo valandos": "", 
+            "Kambari\u0173 skai\u010dius": "14", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "", 
+            "Telefonas": "2437788", 
+            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2015.02.01", 
+            "El. pa\u0161tas": "audra.jj@gmail.com", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "2793755", 
+            "Klas\u0117": "2*", 
+            "Viet\u0173 skai\u010dius": "20", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "VIEVIJA", 
+        "rank": 2, 
+        "address": "Ba\u017eny\u010dios g. 4a, Vievio m., Elektr\u0117n\u0173 sav.", 
+        "image_filename": "img/hotels/vievija.png", 
+        "halls": [
+            {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "VIEVIJA", 
+                "Konferencijoms": "", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Banketo stilius: 60", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 60
+                    }
+                ]
+            }
+        ], 
         "size": 20
     }, 
     {
@@ -1456,17 +1538,21 @@ hotels = ([
         }, 
         "name": "NAUJOSIOS AKMEN\u0116S VIE\u0160BUTIS", 
         "rank": 2, 
-        "coords": {
-            "lat": 56.3191315, 
-            "lng": 22.8741132
-        }, 
         "address": "Respublikos g. 11A, Naujosios Akmen\u0117s m., Akmen\u0117s r.", 
+        "image_filename": "img/hotels/naujosios-akmenas-viea-butis.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "konferencij\u0173 sal\u0117", 
+                "Sal\u0117": "konferencij\u0173 sal\u0117", 
+                "Vie\u0161butis": "NAUJOSIOS AKMEN\u0116S VIE\u0160BUTIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "konferencij\u0173 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 80; Apvalaus stalo stilius: 14", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -1507,59 +1593,8 @@ hotels = ([
         }, 
         "name": "APUOL\u0116", 
         "rank": 2, 
-        "coords": {
-            "lat": 55.257498, 
-            "lng": 22.2941355
-        }, 
         "address": "Dariaus ir Gir\u0117no g. 50, Skuodo m., Skuodo r.", 
         "halls": [], 
-        "size": 20
-    }, 
-    {
-        "info": {
-            "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Inarvida\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
-            "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "14", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "", 
-            "Telefonas": "2437788", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
-            "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.02.01", 
-            "El. pa\u0161tas": "audra.jj@gmail.com", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
-            "Faksas": "2793755", 
-            "Klas\u0117": "2*", 
-            "Viet\u0173 skai\u010dius": "20", 
-            "Sveikatingumo paslaugos": "", 
-            "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
-        }, 
-        "name": "VIEVIJA", 
-        "rank": 2, 
-        "coords": {
-            "lat": 55.5182844, 
-            "lng": 21.61901
-        }, 
-        "address": "Ba\u017eny\u010dios g. 4a, Vievio m., Elektr\u0117n\u0173 sav.", 
-        "halls": [
-            {
-                "hardware": [
-                    ""
-                ], 
-                "name": "", 
-                "configurations": [
-                    {
-                        "name": "Banketo stilius", 
-                        "people": 60
-                    }
-                ]
-            }
-        ], 
         "size": 20
     }, 
     {
@@ -1588,17 +1623,20 @@ hotels = ([
         }, 
         "name": "PA\u017dAISLIS PARK HOTEL", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.8832783, 
-            "lng": 24.0079674
-        }, 
         "address": "T. Masiulio g. 18E, Kauno m.", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "Banketin\u0117 sal\u0117", 
+                "Sal\u0117": "Banketin\u0117 sal\u0117", 
+                "Vie\u0161butis": "PA\u017dAISLIS PARK HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Banketin\u0117 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Banketo stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -1639,11 +1677,8 @@ hotels = ([
         }, 
         "name": "SENATORIAI", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.6865343, 
-            "lng": 25.2858894
-        }, 
         "address": "Tilto g. 2A, Vilnius", 
+        "image_filename": "img/hotels/senatoriai.png", 
         "halls": [], 
         "size": 21
     }, 
@@ -1673,20 +1708,23 @@ hotels = ([
         }, 
         "name": "SM\u0116LYN\u0116", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.7312332, 
-            "lng": 24.3675248
-        }, 
         "address": "Sm\u0117lyn\u0117s g. 3, Panev\u0117\u017eio m.", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Interneto ry\u0161ys, Ra\u0161ymo lenta, Video projektorius", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "SM\u0116LYN\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Interneto ry\u0161ys", 
                     "Ra\u0161ymo lenta", 
                     "Video projektorius"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 130", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -1700,40 +1738,6 @@ hotels = ([
             }
         ], 
         "size": 21
-    }, 
-    {
-        "info": {
-            "Inventoriaus nuoma": "Dvira\u010diai", 
-            "Maitinimo paslaugos": "Pusry\u010diai", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"VIT\u0116\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "15", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Automobili\u0173 nuoma, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
-            "Telefonas": "46490490", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
-            "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2012.03.31", 
-            "El. pa\u0161tas": "hotel@airibe.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
-            "Faksas": "46940942", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "22", 
-            "Sveikatingumo paslaugos": "", 
-            "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
-        }, 
-        "name": "ARIB\u0116", 
-        "rank": 3, 
-        "coords": {
-            "lat": 55.7097655, 
-            "lng": 21.1447652
-        }, 
-        "address": "Bang\u0173 g. 19, Klaip\u0117da", 
-        "halls": [], 
-        "size": 22
     }, 
     {
         "info": {
@@ -1761,17 +1765,21 @@ hotels = ([
         }, 
         "name": "VILA SENJORA", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.5217621, 
-            "lng": 26.1966482
-        }, 
         "address": "\u017dalioji g., Garliavos m., Kauno r.", 
+        "image_filename": "img/hotels/vila-senjora.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "VILA SENJORA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Banketo stilius: 80", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Banketo stilius", 
@@ -1780,6 +1788,37 @@ hotels = ([
                 ]
             }
         ], 
+        "size": 22
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "Dvira\u010diai", 
+            "Maitinimo paslaugos": "Pusry\u010diai", 
+            "Oficialus \u012fm. pavadinimas": "UAB \"VIT\u0116\"", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambari\u0173 skai\u010dius": "15", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Automobili\u0173 nuoma, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Seifas, Skalbimas ir valymas", 
+            "Telefonas": "46490490", 
+            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2012.03.31", 
+            "El. pa\u0161tas": "hotel@airibe.lt", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "46940942", 
+            "Klas\u0117": "3*", 
+            "Viet\u0173 skai\u010dius": "22", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "ARIB\u0116", 
+        "rank": 3, 
+        "address": "Bang\u0173 g. 19, Klaip\u0117da", 
+        "image_filename": "img/hotels/ariba.png", 
+        "halls": [], 
         "size": 22
     }, 
     {
@@ -1808,17 +1847,21 @@ hotels = ([
         }, 
         "name": "PAGUNDA", 
         "rank": 3, 
-        "coords": {
-            "lat": 56.1957872, 
-            "lng": 24.744148
-        }, 
         "address": "Respublikos g. 45a, Roki\u0161kis, Roki\u0161kio r.", 
+        "image_filename": "img/hotels/pagunda.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PAGUNDA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -1855,17 +1898,21 @@ hotels = ([
         }, 
         "name": "VAIDILA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.3954281, 
-            "lng": 24.0467819
-        }, 
         "address": "Alytaus m. sav., Alytus, Rotu\u0161\u0117s a. 12", 
+        "image_filename": "img/hotels/vaidila.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "galima konferencija surengti restorano patalpose", 
+                "Sal\u0117": "galima konferencija surengti restorano patalpose", 
+                "Vie\u0161butis": "VAIDILA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "galima konferencija surengti restorano patalpose", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -1902,11 +1949,8 @@ hotels = ([
         }, 
         "name": "ELEKTRA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.6898424, 
-            "lng": 25.2876827
-        }, 
         "address": "\u017dvej\u0173 g. 14A, Vilnius", 
+        "image_filename": "img/hotels/elektra.png", 
         "halls": [], 
         "size": 23
     }, 
@@ -1936,17 +1980,21 @@ hotels = ([
         }, 
         "name": "RASA", 
         "rank": 1, 
-        "coords": {
-            "lat": 55.3796992, 
-            "lng": 23.1154464
-        }, 
         "address": "Maironio g. 2-95/20958, Raseiniai", 
+        "image_filename": "img/hotels/rasa.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "RASA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -1983,13 +2031,14 @@ hotels = ([
         }, 
         "name": "PARNID\u017dIO KOPA", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.304258, 
-            "lng": 21.0013692
-        }, 
         "address": "Taikos g. 26, Neringa", 
         "halls": [
             {
+                "\u012eranga": "Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, TV, Video grotuvas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PARNID\u017dIO KOPA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Multimedia", 
                     "Oro kondicionierius", 
@@ -1997,7 +2046,9 @@ hotels = ([
                     "TV", 
                     "Video grotuvas"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "U stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -2034,17 +2085,21 @@ hotels = ([
         }, 
         "name": "HERMIS", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.8968721, 
-            "lng": 23.8924264
-        }, 
         "address": "Savanori\u0173 pr. 404, Kauno m.", 
+        "image_filename": "img/hotels/hermis.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "HERMIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Apvalaus stalo stilius: 25", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Apvalaus stalo stilius", 
@@ -2081,13 +2136,14 @@ hotels = ([
         }, 
         "name": "PRIE MAL\u016aNO", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.7163851, 
-            "lng": 25.0290524
-        }, 
         "address": "Vosyliuk\u0173 k., Lentvario sen., Trak\u0173 r.", 
         "halls": [
             {
+                "\u012eranga": "CD grotuvas, Ekranas, Grafinis projektorius, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Telefonas, Video grotuvas", 
+                "name": "Did\u017eioji sal\u0117", 
+                "Sal\u0117": "Did\u017eioji sal\u0117", 
+                "Vie\u0161butis": "PRIE MAL\u016aNO", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "Ekranas", 
@@ -2100,7 +2156,9 @@ hotels = ([
                     "Telefonas", 
                     "Video grotuvas"
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "Plotas (kv. m.)": "85", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 70; Klas\u0117s stilius: 28; U stilius: 24; Apvalaus stalo stilius: 25; Banketo stilius: 70", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -2125,6 +2183,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, Ekranas, Grafinis projektorius, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Telefonas, Video grotuvas", 
+                "name": "Ma\u017eoji sal\u0117", 
+                "Sal\u0117": "Ma\u017eoji sal\u0117", 
+                "Vie\u0161butis": "PRIE MAL\u016aNO", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "Ekranas", 
@@ -2137,7 +2200,9 @@ hotels = ([
                     "Telefonas", 
                     "Video grotuvas"
                 ], 
-                "name": "Ma\u017eoji sal\u0117", 
+                "Plotas (kv. m.)": "60", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 40; Klas\u0117s stilius: 16; Apvalaus stalo stilius: 25; Banketo stilius: 40", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -2186,17 +2251,20 @@ hotels = ([
         }, 
         "name": "\u017dUV\u0116DRA", 
         "rank": 3, 
-        "coords": {
-            "lat": 56.12082059999999, 
-            "lng": 21.7959563
-        }, 
         "address": "Mokyklos g. 11, Ignalinos m., Ignalinos r.", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "\u017dUV\u0116DRA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 40", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -2233,11 +2301,8 @@ hotels = ([
         }, 
         "name": "DU BROLIAI", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.916511, 
-            "lng": 21.0616283
-        }, 
         "address": "S. Daukanto g. 15, Palangos m.", 
+        "image_filename": "img/hotels/du-broliai.png", 
         "halls": [], 
         "size": 24
     }, 
@@ -2267,10 +2332,6 @@ hotels = ([
         }, 
         "name": "APIA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Vilniaus m. sav., Vilnius, \u0160v. Ignoto g. 12-1", 
         "halls": [], 
         "size": 24
@@ -2301,11 +2362,8 @@ hotels = ([
         }, 
         "name": "ACAPPELLA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Vilniaus m. sav., Vilnius, Dariaus ir Gir\u0117no g. 61", 
+        "image_filename": "img/hotels/acappella.png", 
         "halls": [], 
         "size": 25
     }, 
@@ -2335,13 +2393,15 @@ hotels = ([
         }, 
         "name": "E-GUESTHOUSE", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.6772898, 
-            "lng": 25.2658015
-        }, 
         "address": "T. \u0160ev\u010denkos g. 16, Vilnius", 
+        "image_filename": "img/hotels/eguesthouse.png", 
         "halls": [
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Telefonas, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Did\u017eioji sal\u0117", 
+                "Sal\u0117": "Did\u017eioji sal\u0117", 
+                "Vie\u0161butis": "E-GUESTHOUSE", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -2360,7 +2420,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 50; U stilius: 20; Apvalaus stalo stilius: 30; Banketo stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -2385,6 +2447,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Telefonas, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Mokymo klas\u0117", 
+                "Sal\u0117": "Mokymo klas\u0117", 
+                "Vie\u0161butis": "E-GUESTHOUSE", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -2402,7 +2469,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Mokymo klas\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "U stilius: 12; Apvalaus stalo stilius: 10; Banketo stilius: 10", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -2447,17 +2516,21 @@ hotels = ([
         }, 
         "name": "AUDRUVIS", 
         "rank": 3, 
-        "coords": {
-            "lat": 56.2299787, 
-            "lng": 23.6089941
-        }, 
         "address": "V. Kudirkos g. 93, Joni\u0161kio m., Joni\u0161kio r.", 
+        "image_filename": "img/hotels/audruvis.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "AUDRUVIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 70", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -2494,17 +2567,21 @@ hotels = ([
         }, 
         "name": "E-GUEST HOUSE", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.6772898, 
-            "lng": 25.2658015
-        }, 
         "address": "T. \u0160ev\u010denkos g. 16, Vilniaus m.", 
+        "image_filename": "img/hotels/eguest-house.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "Konferencij\u0173 sal\u0117", 
+                "Sal\u0117": "Konferencij\u0173 sal\u0117", 
+                "Vie\u0161butis": "E-GUEST HOUSE", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 60", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -2541,11 +2618,8 @@ hotels = ([
         }, 
         "name": "\u017dALIAS NAMAS", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.9246224, 
-            "lng": 21.0705219
-        }, 
         "address": "Vytauto g. 97, Palangos m.", 
+        "image_filename": "img/hotels/aalias-namas.png", 
         "halls": [], 
         "size": 26
     }, 
@@ -2575,18 +2649,21 @@ hotels = ([
         }, 
         "name": "GRAFO ZUBOVO", 
         "rank": 4, 
-        "coords": {
-            "lat": 55.3812623, 
-            "lng": 23.1130516
-        }, 
         "address": "Dubysos g. 1, Bubi\u0173 k., \u0160iauli\u0173 r.", 
         "halls": [
             {
+                "\u012eranga": "Multimedia, TV", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "GRAFO ZUBOVO", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Multimedia", 
                     "TV"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -2623,11 +2700,8 @@ hotels = ([
         }, 
         "name": "LIJO", 
         "rank": 3, 
-        "coords": {
-            "lat": 37.1396034, 
-            "lng": 128.9772011
-        }, 
         "address": "Sodo g. 5, Garg\u017ed\u0173 m., Klaip\u0117dos r.", 
+        "image_filename": "img/hotels/lijo.png", 
         "halls": [], 
         "size": 26
     }, 
@@ -2657,17 +2731,21 @@ hotels = ([
         }, 
         "name": "VILA ULA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.20857669999999, 
-            "lng": 24.3402795
-        }, 
         "address": "Burokarais\u010dio k., Var\u0117nos r.", 
+        "image_filename": "img/hotels/vila-ula.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "VILA ULA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 48", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -2704,17 +2782,21 @@ hotels = ([
         }, 
         "name": "RUGELIS", 
         "rank": 2, 
-        "coords": {
-            "lat": 56.3102612, 
-            "lng": 22.3286788
-        }, 
         "address": "Ventos 31 A, Ma\u017eeikiai", 
+        "image_filename": "img/hotels/rugelis.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "RUGELIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Banketo stilius: 60", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Banketo stilius", 
@@ -2724,6 +2806,57 @@ hotels = ([
             }
         ], 
         "size": 26
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "", 
+            "Maitinimo paslaugos": "Kavin\u0117", 
+            "Oficialus \u012fm. pavadinimas": "D.Mediko individuali \u012fmon\u0117", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "", 
+            "Kambari\u0173 skai\u010dius": "12", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Biliardas, Pirtis/Sauna", 
+            "Telefonas": "45832816", 
+            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2012.01.06", 
+            "El. pa\u0161tas": "d.medikas@gmail.com", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "45832610", 
+            "Klas\u0117": "2*", 
+            "Viet\u0173 skai\u010dius": "27", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "ANGEL\u0116", 
+        "rank": 2, 
+        "address": "Roki\u0161kio r. sav., Roki\u0161kio miesto sen., Roki\u0161kis, Panev\u0117\u017eio g. 7A", 
+        "image_filename": "img/hotels/angela.png", 
+        "halls": [
+            {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "ANGEL\u0116", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 50
+                    }
+                ]
+            }
+        ], 
+        "size": 27
     }, 
     {
         "info": {
@@ -2751,21 +2884,76 @@ hotels = ([
         }, 
         "name": "NES\u0116", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.71080260000001, 
-            "lng": 21.1318065
-        }, 
         "address": "Klaip\u0117dos m. sav., Klaip\u0117da, Sportinink\u0173 g. 46", 
+        "image_filename": "img/hotels/nesa.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "NES\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 50
+                    }
+                ]
+            }
+        ], 
+        "size": 27
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "", 
+            "Maitinimo paslaugos": "Pusry\u010diai, Restoranas", 
+            "Oficialus \u012fm. pavadinimas": "UAB \"PRIE E\u017dERO\"", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "", 
+            "Kambari\u0173 skai\u010dius": "14", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Pirtis/Sauna", 
+            "Telefonas": "42244430", 
+            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2011.11.22", 
+            "El. pa\u0161tas": "pe@hotelpe.lt", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "42244436", 
+            "Klas\u0117": "3*", 
+            "Viet\u0173 skai\u010dius": "27", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "PRIE E\u017dERO", 
+        "rank": 3, 
+        "address": "Radvili\u0161kio r. sav., Pakalni\u0161ki\u0173 apylink\u0117s sen., Raudondvaris", 
+        "image_filename": "img/hotels/prie-eaero.png", 
+        "halls": [
+            {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PRIE E\u017dERO", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 100", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 100
                     }
                 ]
             }
@@ -2798,11 +2986,8 @@ hotels = ([
         }, 
         "name": "SOFIJOS REZIDENCIJA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.60677020000001, 
-            "lng": 24.0265699
-        }, 
         "address": "Jaunimo g. 6, Bir\u0161tono m., Bir\u0161tono sav.", 
+        "image_filename": "img/hotels/sofijos-rezidencija.png", 
         "halls": [], 
         "size": 28
     }, 
@@ -2832,10 +3017,6 @@ hotels = ([
         }, 
         "name": "ASIMAR\u0116", 
         "rank": 1, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Vilniaus m. sav., Vilnius, \u017dirm\u016bn\u0173 g. 149", 
         "halls": [], 
         "size": 28
@@ -2866,11 +3047,8 @@ hotels = ([
         }, 
         "name": "A PENKI", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Savanori\u0173 pr. 176, Vilniaus m.", 
+        "image_filename": "img/hotels/a-penki.png", 
         "halls": [], 
         "size": 28
     }, 
@@ -2900,17 +3078,20 @@ hotels = ([
         }, 
         "name": "\u0160ACHMATIN\u0116", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.9197072, 
-            "lng": 21.0525799
-        }, 
         "address": "J. Basanavi\u010diaus g. 45, Palangos m.", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "Susitikim\u0173 kambarys", 
+                "Sal\u0117": "Susitikim\u0173 kambarys", 
+                "Vie\u0161butis": "\u0160ACHMATIN\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Susitikim\u0173 kambarys", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "U stilius: 10", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -2947,17 +3128,21 @@ hotels = ([
         }, 
         "name": "NEMUNAS PARK RESIDENCE HOTEL", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.3954281, 
-            "lng": 24.0467819
-        }, 
         "address": "Alytaus r. sav., Nemunai\u010dio sen., Nemunaitis", 
+        "image_filename": "img/hotels/nemunas-park-residence-hotel.png", 
         "halls": [
             {
-                "hardware": [
-                    ""
-                ], 
+                "\u012eranga": "", 
                 "name": "Amadeus", 
+                "Sal\u0117": "Amadeus", 
+                "Vie\u0161butis": "NEMUNAS PARK RESIDENCE HOTEL", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 100; Klas\u0117s stilius: 60; U stilius: 40; Apvalaus stalo stilius: 60; Banketo stilius: 100", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -2982,10 +3167,17 @@ hotels = ([
                 ]
             }, 
             {
-                "hardware": [
-                    ""
-                ], 
+                "\u012eranga": "", 
                 "name": "Aura", 
+                "Sal\u0117": "Aura", 
+                "Vie\u0161butis": "NEMUNAS PARK RESIDENCE HOTEL", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 80; Klas\u0117s stilius: 50; U stilius: 40; Apvalaus stalo stilius: 50; Banketo stilius: 80", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -3010,10 +3202,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "galerija", 
+                "Sal\u0117": "galerija", 
+                "Vie\u0161butis": "NEMUNAS PARK RESIDENCE HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "galerija", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 24; Klas\u0117s stilius: 16; U stilius: 16; Apvalaus stalo stilius: 26; Banketo stilius: 26", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -3038,10 +3237,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Sonata", 
+                "Sal\u0117": "Sonata", 
+                "Vie\u0161butis": "NEMUNAS PARK RESIDENCE HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Sonata", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 20; Klas\u0117s stilius: 12; U stilius: 12; Apvalaus stalo stilius: 20; Banketo stilius: 20", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -3094,17 +3300,21 @@ hotels = ([
         }, 
         "name": "APPLE ECONOMY HOTEL", 
         "rank": 2, 
-        "coords": {
-            "lat": 54.8968721, 
-            "lng": 23.8924264
-        }, 
         "address": "Kauno m. sav., Kaunas, M. Valan\u010diaus g. 19", 
+        "image_filename": "img/hotels/apple-economy-hotel.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "APPLE ECONOMY HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 54", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -3141,17 +3351,21 @@ hotels = ([
         }, 
         "name": "LA\u0160AS", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.9184962, 
-            "lng": 21.0583097
-        }, 
         "address": "J. Basanavi\u010diaus g. 29, Palangos m.", 
+        "image_filename": "img/hotels/laa-as.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "LA\u0160AS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 15", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -3188,17 +3402,21 @@ hotels = ([
         }, 
         "name": "TAURAG\u0116", 
         "rank": 2, 
-        "coords": {
-            "lat": 55.25335699999999, 
-            "lng": 22.2850513
-        }, 
         "address": "Taurag\u0117s r. sav., Taurag\u0117s miesto sen., Taurag\u0117, Vytauto g. 83", 
+        "image_filename": "img/hotels/tauraga.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "TAURAG\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 30; U stilius: 30; Apvalaus stalo stilius: 15; Banketo stilius: 50", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -3251,17 +3469,20 @@ hotels = ([
         }, 
         "name": "R\u016aDNINK\u0172 VARTAI", 
         "rank": 2, 
-        "coords": {
-            "lat": 54.6756257, 
-            "lng": 25.2833706
-        }, 
         "address": "R\u016bdnink\u0173 g. 15/46, Vilniaus m.", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "R\u016aDNINK\u0172 VARTAI", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 14", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -3298,17 +3519,21 @@ hotels = ([
         }, 
         "name": "SANTA BARBARA", 
         "rank": 2, 
-        "coords": {
-            "lat": 54.6358229, 
-            "lng": 23.1091862
-        }, 
         "address": "Barau\u010diznos k., Vilkavi\u0161kio r.", 
+        "image_filename": "img/hotels/santa-barbara.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "SANTA BARBARA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 100", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -3345,18 +3570,22 @@ hotels = ([
         }, 
         "name": "PAS KATIN\u0104", 
         "rank": 2, 
-        "coords": {
-            "lat": 55.7595951, 
-            "lng": 24.403435
-        }, 
         "address": "Vilkatupio g. 1, Vaivad\u0173 k., Panev\u0117\u017eio r.", 
+        "image_filename": "img/hotels/pas-katina.png", 
         "halls": [
             {
+                "\u012eranga": "Grafinis projektorius, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PAS KATIN\u0104", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Grafinis projektorius", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 100", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -3365,10 +3594,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Grafinis projektorius", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PAS KATIN\u0104", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Grafinis projektorius"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 150", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -3405,17 +3641,21 @@ hotels = ([
         }, 
         "name": "OD\u0116", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.3967622, 
-            "lng": 24.0306287
-        }, 
         "address": "Naujoji g. 8-C, Alytaus m.", 
+        "image_filename": "img/hotels/oda.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "OD\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Banketo stilius: 100", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Banketo stilius", 
@@ -3452,17 +3692,21 @@ hotels = ([
         }, 
         "name": "HBH JUOZO ALAUS BRAVORO VIE\u0160BUTIS", 
         "rank": 2, 
-        "coords": {
-            "lat": 55.9596245, 
-            "lng": 21.1513928
-        }, 
         "address": "\u017dibininkai, Kretingos r.", 
+        "image_filename": "img/hotels/hbh-juozo-alaus-bravoro-viea-butis.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "HBH JUOZO ALAUS BRAVORO VIE\u0160BUTIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 50", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -3499,17 +3743,21 @@ hotels = ([
         }, 
         "name": "RINNO", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.6773447, 
-            "lng": 25.2795414
-        }, 
         "address": "Vingri\u0173 g. 25, Vilniaus m.", 
+        "image_filename": "img/hotels/rinno.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "Raudonmed\u017eio sal\u0117", 
+                "Sal\u0117": "Raudonmed\u017eio sal\u0117", 
+                "Vie\u0161butis": "RINNO", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Raudonmed\u017eio sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 35; Klas\u0117s stilius: 30; U stilius: 22; Apvalaus stalo stilius: 30; Banketo stilius: 20", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -3534,10 +3782,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "RINNO", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 10", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -3574,19 +3829,23 @@ hotels = ([
         }, 
         "name": "PALVA", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.71080260000001, 
-            "lng": 21.1318065
-        }, 
         "address": "Statybinink\u0173 pr. 7, Klaip\u0117dos m.", 
+        "image_filename": "img/hotels/palva.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Multimedia, Ra\u0161ymo lenta", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PALVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
                     "Ra\u0161ymo lenta"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 40", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -3623,17 +3882,21 @@ hotels = ([
         }, 
         "name": "MORENA", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.7374757, 
-            "lng": 21.0920962
-        }, 
         "address": "Audros g. 8a, Klaip\u0117da", 
+        "image_filename": "img/hotels/morena.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "MORENA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 120; Klas\u0117s stilius: 80; U stilius: 50; Apvalaus stalo stilius: 50; Banketo stilius: 80", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -3658,10 +3921,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "MORENA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 20; Klas\u0117s stilius: 18; U stilius: 14; Apvalaus stalo stilius: 16; Banketo stilius: 16", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -3714,17 +3984,20 @@ hotels = ([
         }, 
         "name": "PAJ\u016aRIO VIE\u0160KELIS", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.7464667, 
-            "lng": 21.1304151
-        }, 
         "address": "Liepojos g. 7A, Klaip\u0117dos m.", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PAJ\u016aRIO VIE\u0160KELIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -3733,10 +4006,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PAJ\u016aRIO VIE\u0160KELIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 70", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -3773,10 +4053,6 @@ hotels = ([
         }, 
         "name": "J\u016aRAGIS", 
         "rank": 1, 
-        "coords": {
-            "lat": 55.71080260000001, 
-            "lng": 21.1318065
-        }, 
         "address": "Klaip\u0117dos m. sav., Klaip\u0117da, Debreceno g. 27", 
         "halls": [], 
         "size": 32
@@ -3807,13 +4083,14 @@ hotels = ([
         }, 
         "name": "VENTAIN\u0116", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.3500117, 
-            "lng": 21.1992241
-        }, 
         "address": "Vent\u0117, \u0160ilut\u0117s r.", 
         "halls": [
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Biliardin\u0117", 
+                "Sal\u0117": "Biliardin\u0117", 
+                "Vie\u0161butis": "VENTAIN\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -3828,7 +4105,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Biliardin\u0117", 
+                "Plotas (kv. m.)": "40", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Apvalaus stalo stilius: 20", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Apvalaus stalo stilius", 
@@ -3837,6 +4116,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Did\u017eioji", 
+                "Sal\u0117": "Did\u017eioji", 
+                "Vie\u0161butis": "VENTAIN\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -3858,7 +4142,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Did\u017eioji", 
+                "Plotas (kv. m.)": "110", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 80", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -3867,6 +4153,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Ma\u017eoji", 
+                "Sal\u0117": "Ma\u017eoji", 
+                "Vie\u0161butis": "VENTAIN\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -3886,7 +4177,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Ma\u017eoji", 
+                "Plotas (kv. m.)": "45", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Apvalaus stalo stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Apvalaus stalo stilius", 
@@ -3923,17 +4216,20 @@ hotels = ([
         }, 
         "name": "EUTERP\u0116", 
         "rank": 4, 
-        "coords": {
-            "lat": 55.706516, 
-            "lng": 21.1355035
-        }, 
         "address": "Dar\u017e\u0173 g. 9, Klaip\u0117dos m.", 
         "halls": [
             {
+                "\u012eranga": "TV", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "EUTERP\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "TV"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; U stilius: 30; Banketo stilius: 30", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -3978,17 +4274,21 @@ hotels = ([
         }, 
         "name": "GILIJA", 
         "rank": 4, 
-        "coords": {
-            "lat": 55.2514931, 
-            "lng": 24.768816
-        }, 
         "address": "Vytauto g. 17, \u0160ilut\u0117s m., \u0160ilut\u0117s r.", 
+        "image_filename": "img/hotels/gilija.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "GILIJA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Banketo stilius: 80", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Banketo stilius", 
@@ -3997,10 +4297,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "GILIJA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Banketo stilius: 16", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Banketo stilius", 
@@ -4009,10 +4316,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "GILIJA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Banketo stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Banketo stilius", 
@@ -4049,17 +4363,21 @@ hotels = ([
         }, 
         "name": "SAULININKAS", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.9320758, 
-            "lng": 23.3142194
-        }, 
         "address": "\u0160iauli\u0173 m. sav., \u0160iauliai, S. Lukauskio g. 5A", 
+        "image_filename": "img/hotels/saulininkas.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "SAULININKAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -4096,17 +4414,21 @@ hotels = ([
         }, 
         "name": "TYLA", 
         "rank": 3, 
-        "coords": {
-            "lat": 56.184038, 
-            "lng": 24.7657822
-        }, 
         "address": "Tylos g. 2, Bir\u017eai", 
+        "image_filename": "img/hotels/tyla.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "TYLA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 18", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -4143,11 +4465,8 @@ hotels = ([
         }, 
         "name": "MOBUSTA", 
         "rank": 1, 
-        "coords": {
-            "lat": 55.9565293, 
-            "lng": 23.3206368
-        }, 
         "address": "Vaidoto g. 33, \u0160iauliai", 
+        "image_filename": "img/hotels/mobusta.png", 
         "halls": [], 
         "size": 33
     }, 
@@ -4177,13 +4496,15 @@ hotels = ([
         }, 
         "name": "GR\u0116JAUS NAMAS", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.6621276, 
-            "lng": 25.503181
-        }, 
         "address": "Did\u017eioji g. 36, K\u0117daini\u0173 m., K\u0117daini\u0173 r.", 
+        "image_filename": "img/hotels/grajaus-namas.png", 
         "halls": [
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Interneto ry\u0161ys, Mikrofonas, Multimedia, Oro kondicionierius, TV", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "GR\u0116JAUS NAMAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -4194,7 +4515,9 @@ hotels = ([
                     "Oro kondicionierius", 
                     "TV"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 50; U stilius: 25", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -4239,13 +4562,15 @@ hotels = ([
         }, 
         "name": "VINGIS", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.6778795, 
-            "lng": 21.1615713
-        }, 
         "address": "Poilsio g. 21, Marijampol\u0117s m., Marijampol\u0117s sav.", 
+        "image_filename": "img/hotels/vingis.png", 
         "halls": [
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Interneto ry\u0161ys, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, Telefonas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "VINGIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -4257,7 +4582,9 @@ hotels = ([
                     "Skaidri\u0173 projektorius", 
                     "Telefonas"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 70; Klas\u0117s stilius: 36; U stilius: 25; Apvalaus stalo stilius: 30; Banketo stilius: 54", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -4278,103 +4605,6 @@ hotels = ([
                     {
                         "name": "Banketo stilius", 
                         "people": 54
-                    }
-                ]
-            }
-        ], 
-        "size": 34
-    }, 
-    {
-        "info": {
-            "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Kavin\u0117, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"KISTELA\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
-            "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "17", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
-            "Telefonas": "52855595", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
-            "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.12.22", 
-            "El. pa\u0161tas": "info@asklubas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
-            "Faksas": "52851760", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "34", 
-            "Sveikatingumo paslaugos": "", 
-            "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
-        }, 
-        "name": "APVALAUS STALO KLUBAS", 
-        "rank": 4, 
-        "coords": {
-            "lat": 54.62851860000001, 
-            "lng": 24.9305178
-        }, 
-        "address": "Gilu\u0161io g. 6, Trak\u0173 m., Trak\u0173 r.", 
-        "halls": [
-            {
-                "hardware": [
-                    "CD grotuvas", 
-                    "DVD grotuvas", 
-                    "Ekranas", 
-                    "Grafinis projektorius"
-                ], 
-                "name": "", 
-                "configurations": [
-                    {
-                        "name": "Klas\u0117s stilius", 
-                        "people": 40
-                    }
-                ]
-            }
-        ], 
-        "size": 34
-    }, 
-    {
-        "info": {
-            "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Rimvirita\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
-            "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "12", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas", 
-            "Telefonas": "301982", 
-            "Pritaikyta ne\u012fgaliesiems": "", 
-            "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.05.14", 
-            "El. pa\u0161tas": "hotelsfinx@takas.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
-            "Faksas": "301983", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "34", 
-            "Sveikatingumo paslaugos": "", 
-            "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
-        }, 
-        "name": "SFINKSAS", 
-        "rank": 4, 
-        "coords": {
-            "lat": 54.9038789, 
-            "lng": 23.9344894
-        }, 
-        "address": "Auk\u0161tai\u010di\u0173 g. 55, Kauno m.", 
-        "halls": [
-            {
-                "hardware": [
-                    ""
-                ], 
-                "name": "", 
-                "configurations": [
-                    {
-                        "name": "Teatro stilius", 
-                        "people": 60
                     }
                 ]
             }
@@ -4407,21 +4637,129 @@ hotels = ([
         }, 
         "name": "V\u0116TRA", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.71080260000001, 
-            "lng": 21.1318065
-        }, 
         "address": "Taikos pr. 80 , Klaip\u0117dos m.", 
+        "image_filename": "img/hotels/vatra.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "V\u0116TRA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 15", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
                         "people": 15
+                    }
+                ]
+            }
+        ], 
+        "size": 34
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "", 
+            "Maitinimo paslaugos": "Restoranas", 
+            "Oficialus \u012fm. pavadinimas": "UAB \"Rimvirita\"", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "", 
+            "Kambari\u0173 skai\u010dius": "12", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas", 
+            "Telefonas": "301982", 
+            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2015.05.14", 
+            "El. pa\u0161tas": "hotelsfinx@takas.lt", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "301983", 
+            "Klas\u0117": "4*", 
+            "Viet\u0173 skai\u010dius": "34", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "SFINKSAS", 
+        "rank": 4, 
+        "address": "Auk\u0161tai\u010di\u0173 g. 55, Kauno m.", 
+        "image_filename": "img/hotels/sfinksas.png", 
+        "halls": [
+            {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "SFINKSAS", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 60
+                    }
+                ]
+            }
+        ], 
+        "size": 34
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "", 
+            "Maitinimo paslaugos": "Kavin\u0117, Restoranas", 
+            "Oficialus \u012fm. pavadinimas": "UAB \"KISTELA\"", 
+            "Pri\u0117mimo m\u0117n.": "", 
+            "Darbo valandos": "", 
+            "Kambari\u0173 skai\u010dius": "17", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Telefonas": "52855595", 
+            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2013.12.22", 
+            "El. pa\u0161tas": "info@asklubas.lt", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "52851760", 
+            "Klas\u0117": "4*", 
+            "Viet\u0173 skai\u010dius": "34", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "APVALAUS STALO KLUBAS", 
+        "rank": 4, 
+        "address": "Gilu\u0161io g. 6, Trak\u0173 m., Trak\u0173 r.", 
+        "halls": [
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "APVALAUS STALO KLUBAS", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Ekranas", 
+                    "Grafinis projektorius"
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 40", 
+                "Pob\u016bviams": "", 
+                "configurations": [
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 40
                     }
                 ]
             }
@@ -4454,11 +4792,8 @@ hotels = ([
         }, 
         "name": "AMBASSADOR", 
         "rank": 2, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Gedimino pr. 12, Vilniaus m.", 
+        "image_filename": "img/hotels/ambassador.png", 
         "halls": [], 
         "size": 34
     }, 
@@ -4488,17 +4823,21 @@ hotels = ([
         }, 
         "name": "MAGNISIMA", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.7189661, 
-            "lng": 21.1238698
-        }, 
         "address": "J. Janonio g. 11, Klaip\u0117da", 
+        "image_filename": "img/hotels/magnisima.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "MAGNISIMA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 60; U stilius: 60; Apvalaus stalo stilius: 60; Banketo stilius: 60", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -4551,11 +4890,8 @@ hotels = ([
         }, 
         "name": "INFO HOTEL", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.9214547, 
-            "lng": 21.0685893
-        }, 
         "address": "Vytauto g. 116, Palangos m.", 
+        "image_filename": "img/hotels/info-hotel.png", 
         "halls": [], 
         "size": 35
     }, 
@@ -4585,10 +4921,6 @@ hotels = ([
         }, 
         "name": "BELLAVILA", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.9016736, 
-            "lng": 21.13474
-        }, 
         "address": "Gintaro g. 1A, Palangos m.", 
         "halls": [], 
         "size": 36
@@ -4619,10 +4951,6 @@ hotels = ([
         }, 
         "name": "VILA DIEMEDIS", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.9121489, 
-            "lng": 21.0632529
-        }, 
         "address": "Vytauto g. 53, Palangos m.", 
         "halls": [], 
         "size": 36
@@ -4653,17 +4981,21 @@ hotels = ([
         }, 
         "name": "SENAS NAMAS", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.3990555, 
-            "lng": 24.0460539
-        }, 
         "address": "U\u017euolankos g. 24, Alytaus m.", 
+        "image_filename": "img/hotels/senas-namas.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "SENAS NAMAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 40; Klas\u0117s stilius: 40", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -4704,17 +5036,21 @@ hotels = ([
         }, 
         "name": "\u0160IRVINTA", 
         "rank": 2, 
-        "coords": {
-            "lat": 55.4961948, 
-            "lng": 25.5846885
-        }, 
         "address": "J. Basanavi\u010diaus a. 5, Vilkavi\u0161kio m., Vilkavi\u0161kio r.", 
+        "image_filename": "img/hotels/a-irvinta.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "\u0160IRVINTA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 40", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -4751,13 +5087,14 @@ hotels = ([
         }, 
         "name": "CITY GATE", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.674134, 
-            "lng": 25.2874522
-        }, 
         "address": "Bazilijon\u0173 g. 3, Vilniaus m.", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Interneto ry\u0161ys, Kompiuteris, Multimedia, Ra\u0161ymo lenta, Telefonas", 
+                "name": "Did\u017eioji sal\u0117", 
+                "Sal\u0117": "Did\u017eioji sal\u0117", 
+                "Vie\u0161butis": "CITY GATE", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Interneto ry\u0161ys", 
@@ -4766,7 +5103,9 @@ hotels = ([
                     "Ra\u0161ymo lenta", 
                     "Telefonas"
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 30; U stilius: 22; Apvalaus stalo stilius: 30; Banketo stilius: 24", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -4791,6 +5130,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Interneto ry\u0161ys, Kompiuteris, Mikrofonas, Multimedia, Ra\u0161ymo lenta, Telefonas", 
+                "name": "Ma\u017eoji sal\u0117", 
+                "Sal\u0117": "Ma\u017eoji sal\u0117", 
+                "Vie\u0161butis": "CITY GATE", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Interneto ry\u0161ys", 
@@ -4800,7 +5144,9 @@ hotels = ([
                     "Ra\u0161ymo lenta", 
                     "Telefonas"
                 ], 
-                "name": "Ma\u017eoji sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 12", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -4813,76 +5159,34 @@ hotels = ([
     }, 
     {
         "info": {
-            "Inventoriaus nuoma": "Dvira\u010diai", 
-            "Maitinimo paslaugos": "Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Draygyst\u0117s sanatorija\"", 
-            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis", 
-            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
-            "Kambari\u0173 skai\u010dius": "20", 
+            "Inventoriaus nuoma": "\u017d\u016bkl\u0117s priemon\u0117s", 
+            "Maitinimo paslaugos": "Kavin\u0117", 
+            "Oficialus \u012fm. pavadinimas": "UAB \"\"NEMUNO\" VIE\u0160BUTIS", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "", 
+            "Kambari\u0173 skai\u010dius": "23", 
             "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
-            "Telefonas": "31360600", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Telefonas": "44152345", 
+            "Pritaikyta ne\u012fgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2013.12.22", 
-            "El. pa\u0161tas": "violeta@draugyste.lt", 
+            "Klas\u0117 suteikta iki": "2006.03.29", 
+            "El. pa\u0161tas": "nemunas@siltec.lt", 
             "Pramogos ne\u012fgaliesiems": "", 
             "Verslo centro \u012franga": "", 
-            "Faksas": "31360602", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "40", 
+            "Faksas": "44162480", 
+            "Klas\u0117": "2*", 
+            "Viet\u0173 skai\u010dius": "39", 
             "Sveikatingumo paslaugos": "", 
             "Pramogos": "", 
             "Svetain\u0117s adresas": ""
         }, 
-        "name": "VIOLETA", 
-        "rank": 4, 
-        "coords": {
-            "lat": 54.01772949999999, 
-            "lng": 23.9838921
-        }, 
-        "address": "Kurorto g. 4, Druskininkai", 
-        "halls": [
-            {
-                "hardware": [
-                    "CD grotuvas", 
-                    "DVD grotuvas", 
-                    "Ekranas", 
-                    "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
-                    "Kompiuteris", 
-                    "Mikrofonas", 
-                    "Multimedia", 
-                    "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
-                    "Skaidri\u0173 projektorius", 
-                    "TV", 
-                    "Telefonas", 
-                    "Trib\u016bna", 
-                    "Video grotuvas"
-                ], 
-                "name": "", 
-                "configurations": [
-                    {
-                        "name": "Teatro stilius", 
-                        "people": 50
-                    }, 
-                    {
-                        "name": "Klas\u0117s stilius", 
-                        "people": 20
-                    }, 
-                    {
-                        "name": "U stilius", 
-                        "people": 32
-                    }, 
-                    {
-                        "name": "Apvalaus stalo stilius", 
-                        "people": 28
-                    }
-                ]
-            }
-        ], 
-        "size": 40
+        "name": "NEMUNO VIE\u0160BUTIS", 
+        "rank": 2, 
+        "address": "\u0160ilut\u0117s r. sav., \u0160ilut\u0117s sen., \u0160ilut\u0117, Lietuvinink\u0173 g. 70", 
+        "image_filename": "img/hotels/nemuno-viea-butis.png", 
+        "halls": [], 
+        "size": 39
     }, 
     {
         "info": {
@@ -4910,17 +5214,21 @@ hotels = ([
         }, 
         "name": "R\u0104\u017d\u0116", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.9148516, 
-            "lng": 21.0647949
-        }, 
         "address": "Vytauto g. 74, Palangos m.", 
+        "image_filename": "img/hotels/raaa.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "R\u0104\u017d\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 40", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -4957,21 +5265,102 @@ hotels = ([
         }, 
         "name": "PROMENADA", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.9566126, 
-            "lng": 23.2980745
-        }, 
         "address": "\u0160iauli\u0173 g. 41, Klaip\u0117dos m.", 
+        "image_filename": "img/hotels/promenada.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas", 
+                "name": "Konferencij\u0173 sal\u0117", 
+                "Sal\u0117": "Konferencij\u0173 sal\u0117", 
+                "Vie\u0161butis": "PROMENADA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas"
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 30
+                    }
+                ]
+            }
+        ], 
+        "size": 40
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "Dvira\u010diai", 
+            "Maitinimo paslaugos": "Restoranas", 
+            "Oficialus \u012fm. pavadinimas": "UAB \"Draygyst\u0117s sanatorija\"", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambari\u0173 skai\u010dius": "20", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Telefonas": "31360600", 
+            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2013.12.22", 
+            "El. pa\u0161tas": "violeta@draugyste.lt", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "31360602", 
+            "Klas\u0117": "4*", 
+            "Viet\u0173 skai\u010dius": "40", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "VIOLETA", 
+        "rank": 4, 
+        "address": "Kurorto g. 4, Druskininkai", 
+        "image_filename": "img/hotels/violeta.png", 
+        "halls": [
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "VIOLETA", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Ekranas", 
+                    "Grafinis projektorius", 
+                    "Interneto ry\u0161ys", 
+                    "Kompiuteris", 
+                    "Mikrofonas", 
+                    "Multimedia", 
+                    "Oro kondicionierius", 
+                    "Ra\u0161ymo lenta", 
+                    "Skaidri\u0173 projektorius", 
+                    "TV", 
+                    "Telefonas", 
+                    "Trib\u016bna", 
+                    "Video grotuvas"
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 20; U stilius: 32; Apvalaus stalo stilius: 28", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 50
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 20
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 32
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 28
                     }
                 ]
             }
@@ -5004,11 +5393,8 @@ hotels = ([
         }, 
         "name": "DALIA", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.2517376, 
-            "lng": 24.7700949
-        }, 
         "address": "Vytauto g. 27, Druskinink\u0173 m., Druskinink\u0173 sav.", 
+        "image_filename": "img/hotels/dalia.png", 
         "halls": [], 
         "size": 40
     }, 
@@ -5038,11 +5424,8 @@ hotels = ([
         }, 
         "name": "RUNMIS", 
         "rank": 2, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Paneb\u0117\u017eio 8A, Vilnius", 
+        "image_filename": "img/hotels/runmis.png", 
         "halls": [], 
         "size": 40
     }, 
@@ -5072,10 +5455,6 @@ hotels = ([
         }, 
         "name": "\u017dIJ\u016aR\u0116", 
         "rank": 2, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Vilniaus m. sav., Vilnius, \u017dirni\u0173 g. 10", 
         "halls": [], 
         "size": 40
@@ -5106,13 +5485,15 @@ hotels = ([
         }, 
         "name": "GROTTHUSS HOTEL", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.676406, 
-            "lng": 25.2830424
-        }, 
         "address": "Ligonin\u0117s g. 7, Vilnius", 
+        "image_filename": "img/hotels/grotthuss-hotel.png", 
         "halls": [
             {
+                "\u012eranga": "CD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Konrado", 
+                "Sal\u0117": "Konrado", 
+                "Vie\u0161butis": "GROTTHUSS HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "Ekranas", 
@@ -5131,7 +5512,9 @@ hotels = ([
                     "Trib\u016bna", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Konrado", 
+                "Plotas (kv. m.)": "70", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30; Klas\u0117s stilius: 20; Apvalaus stalo stilius: 20; Banketo stilius: 70", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -5180,17 +5563,21 @@ hotels = ([
         }, 
         "name": "ATGAIVA TAU", 
         "rank": 1, 
-        "coords": {
-            "lat": 55.07850730000001, 
-            "lng": 24.3163627
-        }, 
         "address": "Ruklos k., Ruklos sen., Jonavos r.", 
+        "image_filename": "img/hotels/atgaiva-tau.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "ATGAIVA TAU", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 25", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -5199,10 +5586,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "ATGAIVA TAU", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 45", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -5239,13 +5633,15 @@ hotels = ([
         }, 
         "name": "MINOTEL", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.8959753, 
-            "lng": 23.8883024
-        }, 
         "address": "V. Kuzmos g. 8, Kaunas", 
+        "image_filename": "img/hotels/minotel.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Oro kondicionierius, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, Telefonas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "MINOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
@@ -5256,7 +5652,9 @@ hotels = ([
                     "Skaidri\u0173 projektorius", 
                     "Telefonas"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "30", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30; Klas\u0117s stilius: 20; U stilius: 20; Apvalaus stalo stilius: 15; Banketo stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -5309,17 +5707,21 @@ hotels = ([
         }, 
         "name": "AUST\u0116JA", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.9221629, 
-            "lng": 21.0624742
-        }, 
         "address": "Smil\u010di\u0173 g. 31, Palanga", 
+        "image_filename": "img/hotels/austaja.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "AUST\u0116JA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 24", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -5329,6 +5731,57 @@ hotels = ([
             }
         ], 
         "size": 42
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "", 
+            "Maitinimo paslaugos": "Baras, Kavin\u0117", 
+            "Oficialus \u012fm. pavadinimas": "A.GRIGALI\u016aNO INDIVIDUALI \u012eMON\u0116", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "", 
+            "Kambari\u0173 skai\u010dius": "17", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Rusi\u0161ka pirtis", 
+            "Telefonas": "42261211", 
+            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2009.05.14", 
+            "El. pa\u0161tas": "grigaliunas@one.lt", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "42251185", 
+            "Klas\u0117": "2*", 
+            "Viet\u0173 skai\u010dius": "43", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "PURIENA", 
+        "rank": 2, 
+        "address": "Radvili\u0161kio r. sav., Radvili\u0161kio miesto sen., Radvili\u0161kis, Daujo\u010di\u0173 g. 10B", 
+        "image_filename": "img/hotels/puriena.png", 
+        "halls": [
+            {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PURIENA", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 30
+                    }
+                ]
+            }
+        ], 
+        "size": 43
     }, 
     {
         "info": {
@@ -5356,19 +5809,23 @@ hotels = ([
         }, 
         "name": "VILA FLORA", 
         "rank": 3, 
-        "coords": {
-            "lat": 48.3950921, 
-            "lng": 19.7108316
-        }, 
         "address": "Kalno g. 7a, Neringos m., Neringos sav.", 
+        "image_filename": "img/hotels/vila-flora.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Ra\u0161ymo lenta, Video projektorius", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "VILA FLORA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Ra\u0161ymo lenta", 
                     "Video projektorius"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 30", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -5405,17 +5862,21 @@ hotels = ([
         }, 
         "name": "DANIELA", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.8963776, 
-            "lng": 23.9174456
-        }, 
         "address": "A. Mickevi\u010diaus g. 28, Kauno m.", 
+        "image_filename": "img/hotels/daniela.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "Did\u017eioji sal\u0117", 
+                "Sal\u0117": "Did\u017eioji sal\u0117", 
+                "Vie\u0161butis": "DANIELA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 100", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -5424,10 +5885,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Ma\u017eoji sal\u0117", 
+                "Sal\u0117": "Ma\u017eoji sal\u0117", 
+                "Vie\u0161butis": "DANIELA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Ma\u017eoji sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Apvalaus stalo stilius: 8", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Apvalaus stalo stilius", 
@@ -5436,10 +5904,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Vidutin\u0117 sal\u0117", 
+                "Sal\u0117": "Vidutin\u0117 sal\u0117", 
+                "Vie\u0161butis": "DANIELA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Vidutin\u0117 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 160; U stilius: 30", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -5480,11 +5955,8 @@ hotels = ([
         }, 
         "name": "TURN\u0116", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.9263075, 
-            "lng": 23.3159265
-        }, 
         "address": "R\u016bd\u0117s g. 9, \u0160iauliai", 
+        "image_filename": "img/hotels/turna.png", 
         "halls": [], 
         "size": 44
     }, 
@@ -5514,11 +5986,8 @@ hotels = ([
         }, 
         "name": "CREDO", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Vilniaus al. 2A, Druskinink\u0173 m., Druskinink\u0173 sav.", 
+        "image_filename": "img/hotels/credo.png", 
         "halls": [], 
         "size": 44
     }, 
@@ -5548,18 +6017,21 @@ hotels = ([
         }, 
         "name": "PU\u0160YNO NAMAI", 
         "rank": 4, 
-        "coords": {
-            "lat": 42.5584069, 
-            "lng": -2.6043635
-        }, 
         "address": "Spurgan\u0173 k., Ma\u017eeiki\u0173 r.", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Grafinis projektorius", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PU\u0160YNO NAMAI", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 30", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -5596,17 +6068,20 @@ hotels = ([
         }, 
         "name": "GRAFAIT\u0116S SVETAIN\u0116", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.4978666, 
-            "lng": 25.6045432
-        }, 
         "address": "Au\u0161ros g. 1, Gink\u016bnai, \u0160iauli\u0173 r.", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "GRAFAIT\u0116S SVETAIN\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "U stilius: 25", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -5643,11 +6118,8 @@ hotels = ([
         }, 
         "name": "VIE\u0160BUTIS \"TURN\u0116\"", 
         "rank": 2, 
-        "coords": {
-            "lat": 55.9263075, 
-            "lng": 23.3159265
-        }, 
         "address": "R\u016bd\u0117s g. 9, \u0160iauli\u0173 m.", 
+        "image_filename": "img/hotels/viea-butis-turna.png", 
         "halls": [], 
         "size": 44
     }, 
@@ -5677,13 +6149,15 @@ hotels = ([
         }, 
         "name": "VECEKRUG", 
         "rank": 4, 
-        "coords": {
-            "lat": 55.712332, 
-            "lng": 21.1255676
-        }, 
         "address": "J\u016bros g. 23, Klaip\u0117da", 
+        "image_filename": "img/hotels/vecekrug.png", 
         "halls": [
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Interneto ry\u0161ys, Oro kondicionierius, Ra\u0161ymo lenta, TV, Video grotuvas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "VECEKRUG", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -5694,7 +6168,9 @@ hotels = ([
                     "TV", 
                     "Video grotuvas"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "60", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 40; Klas\u0117s stilius: 24; U stilius: 28; Apvalaus stalo stilius: 15; Banketo stilius: 45", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -5747,11 +6223,8 @@ hotels = ([
         }, 
         "name": "AMICUS HOTEL", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.6591734, 
-            "lng": 25.2777473
-        }, 
         "address": "Kaminkelio g. 15, Vilnius", 
+        "image_filename": "img/hotels/amicus-hotel.png", 
         "halls": [], 
         "size": 45
     }, 
@@ -5781,17 +6254,21 @@ hotels = ([
         }, 
         "name": "ATRIUM", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.5411633, 
-            "lng": 25.6544901
-        }, 
         "address": "Pilies g. 10, Vilniaus m.", 
+        "image_filename": "img/hotels/atrium.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "Riteri\u0173", 
+                "Sal\u0117": "Riteri\u0173", 
+                "Vie\u0161butis": "ATRIUM", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Riteri\u0173", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Banketo stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Banketo stilius", 
@@ -5828,17 +6305,21 @@ hotels = ([
         }, 
         "name": "L\u016aGN\u0116", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.71080260000001, 
-            "lng": 21.1318065
-        }, 
         "address": "Klaip\u0117dos m. sav., Klaip\u0117da, Galinio Pylimo g. 16", 
+        "image_filename": "img/hotels/laagna.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "L\u016aGN\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 15", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -5875,11 +6356,8 @@ hotels = ([
         }, 
         "name": "MONELA", 
         "rank": 2, 
-        "coords": {
-            "lat": 54.8968721, 
-            "lng": 23.8924264
-        }, 
         "address": "Laisv\u0117s al. 35, Kaunas", 
+        "image_filename": "img/hotels/monela.png", 
         "halls": [], 
         "size": 46
     }, 
@@ -5909,20 +6387,24 @@ hotels = ([
         }, 
         "name": "LIUKRENA", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.9242705, 
-            "lng": 21.0703095
-        }, 
         "address": "Vytauto g. 93A, Palangos m.", 
+        "image_filename": "img/hotels/liukrena.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Grafinis projektorius, Multimedia, Video grotuvas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "LIUKRENA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
                     "Multimedia", 
                     "Video grotuvas"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 24", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -5959,13 +6441,14 @@ hotels = ([
         }, 
         "name": "PERK\u016aNO NAMAI", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.8968721, 
-            "lng": 23.8924264
-        }, 
         "address": "Perk\u016bno al. 61, Kaunas", 
         "halls": [
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Scena, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PERK\u016aNO NAMAI", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -5983,7 +6466,9 @@ hotels = ([
                     "Trib\u016bna", 
                     "Video grotuvas"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "U stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -5992,6 +6477,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Scena, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PERK\u016aNO NAMAI", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -6009,7 +6499,9 @@ hotels = ([
                     "Trib\u016bna", 
                     "Video grotuvas"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 50", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -6046,10 +6538,6 @@ hotels = ([
         }, 
         "name": "DZ\u016aKIJA", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.0195337, 
-            "lng": 23.9789143
-        }, 
         "address": "V. Kudirkos g. 47, Druskininkai", 
         "halls": [], 
         "size": 48
@@ -6080,13 +6568,14 @@ hotels = ([
         }, 
         "name": "EGLI\u0172 SL\u0116NIS", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.5378449, 
-            "lng": 21.1169592
-        }, 
         "address": "Ievos kalno g. 28, Neringa", 
         "halls": [
             {
+                "\u012eranga": "Grafinis projektorius, Interneto ry\u0161ys, Multimedia, Ra\u0161ymo lenta, Telefonas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "EGLI\u0172 SL\u0116NIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Grafinis projektorius", 
                     "Interneto ry\u0161ys", 
@@ -6094,7 +6583,9 @@ hotels = ([
                     "Ra\u0161ymo lenta", 
                     "Telefonas"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 24; Klas\u0117s stilius: 20", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -6135,11 +6626,8 @@ hotels = ([
         }, 
         "name": "VLASPA", 
         "rank": 1, 
-        "coords": {
-            "lat": 54.6737159, 
-            "lng": 25.2807887
-        }, 
         "address": "\u0160v. Stepono g. 11, Vilnius", 
+        "image_filename": "img/hotels/vlaspa.png", 
         "halls": [], 
         "size": 48
     }, 
@@ -6169,17 +6657,20 @@ hotels = ([
         }, 
         "name": "TULP\u0116", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.9119677, 
-            "lng": 21.0571086
-        }, 
         "address": "S. Dariaus ir S. Gir\u0117no g. 11, Palangos m.", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "TULP\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 30; U stilius: 15; Apvalaus stalo stilius: 20", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -6196,10 +6687,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "TULP\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 30; U stilius: 15; Apvalaus stalo stilius: 20", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -6244,22 +6742,75 @@ hotels = ([
         }, 
         "name": "\u0160IAULI\u0172 KRA\u0160TO MED\u017dIOTOJ\u0172 U\u017dEIGA", 
         "rank": 4, 
-        "coords": {
-            "lat": 55.9280315, 
-            "lng": 23.297225
-        }, 
         "address": "Dubijos g. 20, \u0160iauliai", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Multimedia", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "\u0160IAULI\u0172 KRA\u0160TO MED\u017dIOTOJ\u0172 U\u017dEIGA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Multimedia"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 60
+                    }
+                ]
+            }
+        ], 
+        "size": 50
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "", 
+            "Maitinimo paslaugos": "Baras, Restoranas", 
+            "Oficialus \u012fm. pavadinimas": "\u017dem\u0117s \u016bkio bendrov\u0117 \"Turizmo ir sveikatingumo bendrov\u0117 \"Juknai\u010diai\"", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "", 
+            "Kambari\u0173 skai\u010dius": "24", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Telefonas": "44158973", 
+            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2007.05.12", 
+            "El. pa\u0161tas": "tsab@one.lt", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "44158963", 
+            "Klas\u0117": "3*", 
+            "Viet\u0173 skai\u010dius": "50", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "JUKNAI\u010cIAI", 
+        "rank": 3, 
+        "address": "Ber\u017e\u0173 g. 3, Juknai\u010diai, Juknai\u010di\u0173 sen., \u0160ilut\u0117s raj.", 
+        "halls": [
+            {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "JUKNAI\u010cIAI", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 50
                     }
                 ]
             }
@@ -6292,17 +6843,21 @@ hotels = ([
         }, 
         "name": "SPA HOTEL BELVILIS", 
         "rank": 4, 
-        "coords": {
-            "lat": 55.2098483, 
-            "lng": 25.4723211
-        }, 
         "address": "Kirneil\u0117s k., Mol\u0117t\u0173 r.", 
+        "image_filename": "img/hotels/spa-hotel-belvilis.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "SPA HOTEL BELVILIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 12", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -6311,10 +6866,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "SPA HOTEL BELVILIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Apvalaus stalo stilius: 6", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Apvalaus stalo stilius", 
@@ -6323,16 +6885,95 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Grafinis projektorius, Kompiuteris, Mikrofonas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "SPA HOTEL BELVILIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Grafinis projektorius", 
                     "Kompiuteris", 
                     "Mikrofonas"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 70", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 70
+                    }
+                ]
+            }
+        ], 
+        "size": 50
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "", 
+            "Maitinimo paslaugos": "Baras, Restoranas", 
+            "Oficialus \u012fm. pavadinimas": "UAB \"PALANGOS VERSM\u0116\"", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "", 
+            "Kambari\u0173 skai\u010dius": "25", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Telefonas": "46056450", 
+            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Papildomas telefonas": "46056420", 
+            "Klas\u0117 suteikta iki": "2013.12.22", 
+            "El. pa\u0161tas": "viesbutis@pkmeduza.lt", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "46048148", 
+            "Klas\u0117": "3*", 
+            "Viet\u0173 skai\u010dius": "50", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "MED\u016aZA", 
+        "rank": 3, 
+        "address": "Palangos m. sav., Palanga, Kontinink\u0173 g. 9", 
+        "halls": [
+            {
+                "\u012eranga": "Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Telefonas, Video grotuvas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "MED\u016aZA", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "Ekranas", 
+                    "Grafinis projektorius", 
+                    "Interneto ry\u0161ys", 
+                    "Mikrofonas", 
+                    "Multimedia", 
+                    "Oro kondicionierius", 
+                    "Ra\u0161ymo lenta", 
+                    "Skaidri\u0173 projektorius", 
+                    "TV", 
+                    "Telefonas", 
+                    "Video grotuvas"
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 28; U stilius: 32; Banketo stilius: 40", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 60
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 28
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 32
+                    }, 
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 40
                     }
                 ]
             }
@@ -6365,23 +7006,78 @@ hotels = ([
         }, 
         "name": "ASTRUM PALACE", 
         "rank": 4, 
-        "coords": {
-            "lat": 56.27039689999999, 
-            "lng": 21.5195055
-        }, 
         "address": "Laisv\u0117s g. 7, Ma\u017eeiki\u0173 m., Ma\u017eeiki\u0173 r.", 
+        "image_filename": "img/hotels/astrum-palace.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Grafinis projektorius, TV", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "ASTRUM PALACE", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
                     "TV"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 70", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
                         "people": 70
+                    }
+                ]
+            }
+        ], 
+        "size": 50
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "", 
+            "Maitinimo paslaugos": "Kavin\u0117", 
+            "Oficialus \u012fm. pavadinimas": "UAB \"Respublikin\u0117 mokomoji sportin\u0117 baz\u0117\"", 
+            "Pri\u0117mimo m\u0117n.": "Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis", 
+            "Darbo valandos": "", 
+            "Kambari\u0173 skai\u010dius": "19", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Teniso kortai", 
+            "Telefonas": "46052828", 
+            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2010.06.07", 
+            "El. pa\u0161tas": "", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "46051290", 
+            "Klas\u0117": "2*", 
+            "Viet\u0173 skai\u010dius": "50", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "TENISAS", 
+        "rank": 2, 
+        "address": "Palangos m. sav., Palanga, G\u0117li\u0173 a. 1A", 
+        "image_filename": "img/hotels/tenisas.png", 
+        "halls": [
+            {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "TENISAS", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50", 
+                "Pob\u016bviams": "", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 50
                     }
                 ]
             }
@@ -6414,20 +7110,24 @@ hotels = ([
         }, 
         "name": "EMBASSY HOTEL BALATONAS", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.6948316, 
-            "lng": 25.2473892
-        }, 
         "address": "Latvi\u0173 g. 38, Vilniaus m.", 
+        "image_filename": "img/hotels/embassy-hotel-balatonas.png", 
         "halls": [
             {
+                "\u012eranga": "Kompiuteris, Multimedia, Ra\u0161ymo lenta, Skaidri\u0173 projektorius", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "EMBASSY HOTEL BALATONAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Kompiuteris", 
                     "Multimedia", 
                     "Ra\u0161ymo lenta", 
                     "Skaidri\u0173 projektorius"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Banketo stilius: 40", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Banketo stilius", 
@@ -6464,18 +7164,21 @@ hotels = ([
         }, 
         "name": "BAJOR\u0172 U\u017dEIGA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.7616325, 
-            "lng": 25.1773853
-        }, 
         "address": "Suderv\u0117s g. 10, Avi\u017eieni\u0173 k., Vilniaus r.", 
         "halls": [
             {
+                "\u012eranga": "Grafinis projektorius, Video grotuvas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "BAJOR\u0172 U\u017dEIGA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Grafinis projektorius", 
                     "Video grotuvas"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 60", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -6512,20 +7215,24 @@ hotels = ([
         }, 
         "name": "PU\u0160IS", 
         "rank": 1, 
-        "coords": {
-            "lat": 54.6969929, 
-            "lng": 25.2397069
-        }, 
         "address": "Blind\u017ei\u0173 g. 17, Vilnius", 
+        "image_filename": "img/hotels/pua-is.png", 
         "halls": [
             {
+                "\u012eranga": "Multimedia, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PU\u0160IS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Multimedia", 
                     "Ra\u0161ymo lenta", 
                     "Skaidri\u0173 projektorius", 
                     "TV"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "52", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 25; U stilius: 25", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -6538,17 +7245,185 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Multimedia, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PU\u0160IS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Multimedia", 
                     "Ra\u0161ymo lenta", 
                     "Skaidri\u0173 projektorius", 
                     "TV"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "U stilius: 12", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "U stilius", 
                         "people": 12
+                    }
+                ]
+            }
+        ], 
+        "size": 52
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "", 
+            "Maitinimo paslaugos": "Baras, Restoranas", 
+            "Oficialus \u012fm. pavadinimas": "UAB \"PU\u0160\u0172 PAUNKSN\u0116JE\"", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "", 
+            "Kambari\u0173 skai\u010dius": "14", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Telefonas": "46049080", 
+            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2012.05.23", 
+            "El. pa\u0161tas": "pusupaunksneje@takas.lt", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "46049081", 
+            "Klas\u0117": "4*", 
+            "Viet\u0173 skai\u010dius": "52", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "PU\u0160\u0172 PAUNKSN\u0116JE", 
+        "rank": 4, 
+        "address": "Palangos m. sav., Palanga, S. Dariaus ir S. Gir\u0117no g. 25", 
+        "halls": [
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Interneto ry\u0161ys, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, TV, Telefonas, Video grotuvas", 
+                "name": "Sal\u0117 1", 
+                "Sal\u0117": "Sal\u0117 1", 
+                "Vie\u0161butis": "PU\u0160\u0172 PAUNKSN\u0116JE", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Ekranas", 
+                    "Interneto ry\u0161ys", 
+                    "Multimedia", 
+                    "Oro kondicionierius", 
+                    "Ra\u0161ymo lenta", 
+                    "TV", 
+                    "Telefonas", 
+                    "Video grotuvas"
+                ], 
+                "Plotas (kv. m.)": "47", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 25; Klas\u0117s stilius: 25; U stilius: 30; Apvalaus stalo stilius: 20; Banketo stilius: 30", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 25
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 25
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 30
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 20
+                    }, 
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 30
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Interneto ry\u0161ys, Oro kondicionierius, Ra\u0161ymo lenta, TV, Telefonas, Video grotuvas", 
+                "name": "Sal\u0117 2", 
+                "Sal\u0117": "Sal\u0117 2", 
+                "Vie\u0161butis": "PU\u0160\u0172 PAUNKSN\u0116JE", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Ekranas", 
+                    "Interneto ry\u0161ys", 
+                    "Oro kondicionierius", 
+                    "Ra\u0161ymo lenta", 
+                    "TV", 
+                    "Telefonas", 
+                    "Video grotuvas"
+                ], 
+                "Plotas (kv. m.)": "32", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 12; Klas\u0117s stilius: 12; U stilius: 30; Apvalaus stalo stilius: 20; Banketo stilius: 20", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 12
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 12
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 30
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 20
+                    }, 
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 20
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Interneto ry\u0161ys, Oro kondicionierius, Ra\u0161ymo lenta, TV, Telefonas, Video grotuvas", 
+                "name": "Sal\u0117 3", 
+                "Sal\u0117": "Sal\u0117 3", 
+                "Vie\u0161butis": "PU\u0160\u0172 PAUNKSN\u0116JE", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Ekranas", 
+                    "Interneto ry\u0161ys", 
+                    "Oro kondicionierius", 
+                    "Ra\u0161ymo lenta", 
+                    "TV", 
+                    "Telefonas", 
+                    "Video grotuvas"
+                ], 
+                "Plotas (kv. m.)": "23", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 6; Klas\u0117s stilius: 6; U stilius: 10; Apvalaus stalo stilius: 10; Banketo stilius: 10", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 6
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 6
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 10
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 10
+                    }, 
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 10
                     }
                 ]
             }
@@ -6581,11 +7456,8 @@ hotels = ([
         }, 
         "name": "TEL\u0160I\u0172 VIE\u0160BUTIS", 
         "rank": 1, 
-        "coords": {
-            "lat": 55.9835785, 
-            "lng": 22.2508131
-        }, 
         "address": "Tel\u0161i\u0173 r. sav., Tel\u0161i\u0173 sen., Tel\u0161iai, K\u0119stu\u010dio g. 21", 
+        "image_filename": "img/hotels/tela-ia-viea-butis.png", 
         "halls": [], 
         "size": 52
     }, 
@@ -6615,13 +7487,15 @@ hotels = ([
         }, 
         "name": "CENTRE HOTEL NUOVA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.8968721, 
-            "lng": 23.8924264
-        }, 
         "address": "Kauno m. sav., Kaunas, Savanori\u0173 pr. 66", 
+        "image_filename": "img/hotels/centre-hotel-nuova.png", 
         "halls": [
             {
+                "\u012eranga": "Interneto ry\u0161ys, Multimedia, Ra\u0161ymo lenta, TV, Video grotuvas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "CENTRE HOTEL NUOVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Interneto ry\u0161ys", 
                     "Multimedia", 
@@ -6629,7 +7503,9 @@ hotels = ([
                     "TV", 
                     "Video grotuvas"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 40; Klas\u0117s stilius: 40; U stilius: 60; Apvalaus stalo stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -6678,11 +7554,8 @@ hotels = ([
         }, 
         "name": "VILA JELITA", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.3080966, 
-            "lng": 21.0052591
-        }, 
         "address": "G. D. Kuverto g. 7, Neringa, Neringos sav.", 
+        "image_filename": "img/hotels/vila-jelita.png", 
         "halls": [], 
         "size": 53
     }, 
@@ -6712,10 +7585,6 @@ hotels = ([
         }, 
         "name": "AMBERTON COSY", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.8959753, 
-            "lng": 23.8883024
-        }, 
         "address": "Kuzmos g. 8, Kaunas", 
         "halls": [], 
         "size": 53
@@ -6746,17 +7615,21 @@ hotels = ([
         }, 
         "name": "TAURAS", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.9214547, 
-            "lng": 21.0685893
-        }, 
         "address": "Vytauto g. 116, Palanga", 
+        "image_filename": "img/hotels/tauras.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "TAURAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 20; Banketo stilius: 20", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -6797,11 +7670,8 @@ hotels = ([
         }, 
         "name": "BALTIC INN", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.9156273, 
-            "lng": 21.06105
-        }, 
         "address": "S. Daukanto g. 10A, Palangos m.", 
+        "image_filename": "img/hotels/baltic-inn.png", 
         "halls": [], 
         "size": 53
     }, 
@@ -6831,18 +7701,22 @@ hotels = ([
         }, 
         "name": "TOMAS", 
         "rank": 4, 
-        "coords": {
-            "lat": 55.9171765, 
-            "lng": 23.2837387
-        }, 
         "address": "Til\u017e\u0117s g. 63A, \u0160iauli\u0173 m.", 
+        "image_filename": "img/hotels/tomas.png", 
         "halls": [
             {
+                "\u012eranga": "Grafinis projektorius, TV", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "TOMAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Grafinis projektorius", 
                     "TV"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 70", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -6879,17 +7753,21 @@ hotels = ([
         }, 
         "name": "IVOLITA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.0186097, 
-            "lng": 23.9722411
-        }, 
         "address": "\u0160v. Jok\u016bbo g. 10, Druskinink\u0173 m., Druskinink\u0173 sav.", 
+        "image_filename": "img/hotels/ivolita.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "IVOLITA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 20", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -6926,13 +7804,15 @@ hotels = ([
         }, 
         "name": "SHAKESPEARE", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Vilniaus m. sav., Vilnius, Bernardin\u0173 g. 8/8", 
+        "image_filename": "img/hotels/shakespeare.png", 
         "halls": [
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Geltona", 
+                "Sal\u0117": "Geltona", 
+                "Vie\u0161butis": "SHAKESPEARE", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -6955,7 +7835,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Geltona", 
+                "Plotas (kv. m.)": "55", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 30; U stilius: 20; Apvalaus stalo stilius: 22; Banketo stilius: 22", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -6980,6 +7862,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Raudona", 
+                "Sal\u0117": "Raudona", 
+                "Vie\u0161butis": "SHAKESPEARE", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -7001,7 +7888,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Raudona", 
+                "Plotas (kv. m.)": "20", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 20; Klas\u0117s stilius: 16; U stilius: 12; Apvalaus stalo stilius: 14; Banketo stilius: 14", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -7026,6 +7915,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "\u017dalia", 
+                "Sal\u0117": "\u017dalia", 
+                "Vie\u0161butis": "SHAKESPEARE", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -7047,7 +7941,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "\u017dalia", 
+                "Plotas (kv. m.)": "53", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 30; U stilius: 20; Apvalaus stalo stilius: 22; Banketo stilius: 22", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -7100,11 +7996,8 @@ hotels = ([
         }, 
         "name": "ANYK\u0160\u010cI\u0172 SPORTO IR LAISVALAIKIO CENTRAS", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.520581, 
-            "lng": 25.1157457
-        }, 
         "address": "Liudi\u0161ki\u0173 g. 18, Anyk\u0161\u010diai", 
+        "image_filename": "img/hotels/anyka-aia-sporto-ir-laisvalaikio-centras.png", 
         "halls": [], 
         "size": 55
     }, 
@@ -7134,17 +8027,20 @@ hotels = ([
         }, 
         "name": "KUPI\u0160KIO VERSLO IR TECHNOLOGIJOS MOKYKLOS VIE\u0160BUTIS", 
         "rank": 2, 
-        "coords": {
-            "lat": 55.98796729999999, 
-            "lng": 24.5221189
-        }, 
         "address": "Smilgi\u0173 k., Kupi\u0161kio r.", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "KUPI\u0160KIO VERSLO IR TECHNOLOGIJOS MOKYKLOS VIE\u0160BUTIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 30", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -7181,17 +8077,20 @@ hotels = ([
         }, 
         "name": "DZ\u016aKIJOS VIE\u0160BUTIS", 
         "rank": 2, 
-        "coords": {
-            "lat": 54.3959444, 
-            "lng": 24.0460449
-        }, 
         "address": "Pulko g. 14-1, Alytaus m.", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "DZ\u016aKIJOS VIE\u0160BUTIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 20", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -7200,10 +8099,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "DZ\u016aKIJOS VIE\u0160BUTIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 20", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -7240,19 +8146,23 @@ hotels = ([
         }, 
         "name": "KETURI KALNAI", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.520581, 
-            "lng": 25.1157457
-        }, 
         "address": "Liudi\u0161ki\u0173 g. 18, Anyk\u0161\u010di\u0173 m., Anyk\u0161\u010di\u0173 r.", 
+        "image_filename": "img/hotels/keturi-kalnai.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Ra\u0161ymo lenta, Sinchroninis vertimas", 
+                "name": "Did\u017eioji sal\u0117", 
+                "Sal\u0117": "Did\u017eioji sal\u0117", 
+                "Vie\u0161butis": "KETURI KALNAI", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Ra\u0161ymo lenta", 
                     "Sinchroninis vertimas"
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 100; Klas\u0117s stilius: 30; U stilius: 30; Apvalaus stalo stilius: 32", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -7273,12 +8183,19 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Ra\u0161ymo lenta, Sinchroninis vertimas", 
+                "name": "Ma\u017eoji sal\u0117", 
+                "Sal\u0117": "Ma\u017eoji sal\u0117", 
+                "Vie\u0161butis": "KETURI KALNAI", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Ra\u0161ymo lenta", 
                     "Sinchroninis vertimas"
                 ], 
-                "name": "Ma\u017eoji sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 25; Klas\u0117s stilius: 12; U stilius: 20; Apvalaus stalo stilius: 16", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -7327,17 +8244,21 @@ hotels = ([
         }, 
         "name": "SONATA", 
         "rank": 3, 
-        "coords": {
-            "lat": 56.3209579, 
-            "lng": 22.3228953
-        }, 
         "address": "Algirdo g. 34, Bir\u0161tono m., Bir\u0161tono sav.", 
+        "image_filename": "img/hotels/sonata.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "SONATA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Banketo stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Banketo stilius", 
@@ -7374,13 +8295,15 @@ hotels = ([
         }, 
         "name": "SIMBOLY", 
         "rank": 4, 
-        "coords": {
-            "lat": 55.6779781, 
-            "lng": 21.1724402
-        }, 
         "address": "Vazgaikiemio k., Prien\u0173 r.", 
+        "image_filename": "img/hotels/simboly.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Interneto ry\u0161ys, Mikrofonas, Skaidri\u0173 projektorius, Trib\u016bna, Video projektorius", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "SIMBOLY", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Interneto ry\u0161ys", 
@@ -7389,7 +8312,9 @@ hotels = ([
                     "Trib\u016bna", 
                     "Video projektorius"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 55", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -7398,6 +8323,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Interneto ry\u0161ys, Mikrofonas, Skaidri\u0173 projektorius, Trib\u016bna, Video projektorius", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "SIMBOLY", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Interneto ry\u0161ys", 
@@ -7406,7 +8336,9 @@ hotels = ([
                     "Trib\u016bna", 
                     "Video projektorius"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 48", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -7415,6 +8347,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Interneto ry\u0161ys, Mikrofonas, Multimedia, Skaidri\u0173 projektorius, Trib\u016bna, Video projektorius", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "SIMBOLY", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Interneto ry\u0161ys", 
@@ -7424,7 +8361,9 @@ hotels = ([
                     "Trib\u016bna", 
                     "Video projektorius"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 24", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -7461,13 +8400,15 @@ hotels = ([
         }, 
         "name": "NAVALIS", 
         "rank": 4, 
-        "coords": {
-            "lat": 55.7168441, 
-            "lng": 21.1283897
-        }, 
         "address": "H. Manto g. 23, Klaip\u0117dos m.", 
+        "image_filename": "img/hotels/navalis.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Multimedia, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Video projektorius", 
+                "name": "A", 
+                "Sal\u0117": "A", 
+                "Vie\u0161butis": "NAVALIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
@@ -7476,7 +8417,9 @@ hotels = ([
                     "TV", 
                     "Video projektorius"
                 ], 
-                "name": "A", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 120; Klas\u0117s stilius: 60", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -7489,6 +8432,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Multimedia, Ra\u0161ymo lenta, TV, Video projektorius", 
+                "name": "A + B + C", 
+                "Sal\u0117": "A + B + C", 
+                "Vie\u0161butis": "NAVALIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
@@ -7496,7 +8444,9 @@ hotels = ([
                     "TV", 
                     "Video projektorius"
                 ], 
-                "name": "A + B + C", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 300; Klas\u0117s stilius: 150", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -7509,6 +8459,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, Ekranas, Multimedia, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Video projektorius", 
+                "name": "B", 
+                "Sal\u0117": "B", 
+                "Vie\u0161butis": "NAVALIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "Ekranas", 
@@ -7518,7 +8473,9 @@ hotels = ([
                     "TV", 
                     "Video projektorius"
                 ], 
-                "name": "B", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 130; Klas\u0117s stilius: 65", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -7531,6 +8488,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, Ekranas, Multimedia, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Video projektorius", 
+                "name": "C", 
+                "Sal\u0117": "C", 
+                "Vie\u0161butis": "NAVALIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "Ekranas", 
@@ -7540,7 +8502,9 @@ hotels = ([
                     "TV", 
                     "Video projektorius"
                 ], 
-                "name": "C", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 120; Klas\u0117s stilius: 60", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -7553,6 +8517,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, Ekranas, Multimedia, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Trib\u016bna, Video projektorius", 
+                "name": "KLAIP\u0116DA", 
+                "Sal\u0117": "KLAIP\u0116DA", 
+                "Vie\u0161butis": "NAVALIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "Ekranas", 
@@ -7563,7 +8532,9 @@ hotels = ([
                     "Trib\u016bna", 
                     "Video projektorius"
                 ], 
-                "name": "KLAIP\u0116DA", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 100; Klas\u0117s stilius: 36", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -7576,6 +8547,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, Ekranas, Multimedia, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Trib\u016bna, Video projektorius", 
+                "name": "VIP", 
+                "Sal\u0117": "VIP", 
+                "Vie\u0161butis": "NAVALIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "Ekranas", 
@@ -7586,7 +8562,9 @@ hotels = ([
                     "Trib\u016bna", 
                     "Video projektorius"
                 ], 
-                "name": "VIP", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 100; Klas\u0117s stilius: 50", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -7627,13 +8605,15 @@ hotels = ([
         }, 
         "name": "VIKTORIJA", 
         "rank": 2, 
-        "coords": {
-            "lat": 55.6732775, 
-            "lng": 25.7261237
-        }, 
         "address": "\u010ci\u017ei\u0161ki\u0173 k., Vilkavi\u0161kio r.", 
+        "image_filename": "img/hotels/viktorija.png", 
         "halls": [
             {
+                "\u012eranga": "Grafinis projektorius, Multimedia, Ra\u0161ymo lenta, TV, Video grotuvas, Video projektorius", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "VIKTORIJA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Grafinis projektorius", 
                     "Multimedia", 
@@ -7642,7 +8622,9 @@ hotels = ([
                     "Video grotuvas", 
                     "Video projektorius"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 100", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -7651,10 +8633,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "VIKTORIJA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 50", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -7691,17 +8680,21 @@ hotels = ([
         }, 
         "name": "PALANGOS V\u0116TRA", 
         "rank": 4, 
-        "coords": {
-            "lat": 55.9121319, 
-            "lng": 21.058719
-        }, 
         "address": "S. Daukanto g. 35, Palangos m.", 
+        "image_filename": "img/hotels/palangos-vatra.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PALANGOS V\u0116TRA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 85; Klas\u0117s stilius: 48; U stilius: 28", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -7718,10 +8711,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PALANGOS V\u0116TRA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 80; Klas\u0117s stilius: 34; U stilius: 24", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -7766,11 +8766,8 @@ hotels = ([
         }, 
         "name": "OLD MILL HOTEL", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.7067604, 
-            "lng": 21.1271485
-        }, 
         "address": "\u017dvej\u0173 g. 22, Klaip\u0117dos m.", 
+        "image_filename": "img/hotels/old-mill-hotel.png", 
         "halls": [], 
         "size": 58
     }, 
@@ -7800,11 +8797,8 @@ hotels = ([
         }, 
         "name": "PARK VILLA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.7337846, 
-            "lng": 25.295776
-        }, 
         "address": "Vaidilut\u0117s 6A, Vilnius", 
+        "image_filename": "img/hotels/park-villa.png", 
         "halls": [], 
         "size": 59
     }, 
@@ -7834,17 +8828,20 @@ hotels = ([
         }, 
         "name": "PLINK\u0160I\u0172 VIE\u0160BUTIS", 
         "rank": 2, 
-        "coords": {
-            "lat": 56.10803259999999, 
-            "lng": 22.1608347
-        }, 
         "address": "Plink\u0161i\u0173 k., Ma\u017eeiki\u0173 r.", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PLINK\u0160I\u0172 VIE\u0160BUTIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 40", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -7881,17 +8878,20 @@ hotels = ([
         }, 
         "name": "VILA VALAKAMPIAI", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.7337846, 
-            "lng": 25.295776
-        }, 
         "address": "Vaidilut\u0117s g. 6a, Vilniaus m.", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "Banketin\u0117 kolon\u0173", 
+                "Sal\u0117": "Banketin\u0117 kolon\u0173", 
+                "Vie\u0161butis": "VILA VALAKAMPIAI", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Banketin\u0117 kolon\u0173", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Banketo stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Banketo stilius", 
@@ -7900,10 +8900,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas", 
+                "name": "Did\u017eioji", 
+                "Sal\u0117": "Did\u017eioji", 
+                "Vie\u0161butis": "VILA VALAKAMPIAI", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas"
                 ], 
-                "name": "Did\u017eioji", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 100; Klas\u0117s stilius: 60; Banketo stilius: 70", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -7920,10 +8927,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas", 
+                "name": "Ma\u017eoji sal\u0117", 
+                "Sal\u0117": "Ma\u017eoji sal\u0117", 
+                "Vie\u0161butis": "VILA VALAKAMPIAI", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas"
                 ], 
-                "name": "Ma\u017eoji sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30; Klas\u0117s stilius: 80; Banketo stilius: 16", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -7968,17 +8982,21 @@ hotels = ([
         }, 
         "name": "NIDUS", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.3081549, 
-            "lng": 20.9991161
-        }, 
         "address": "G. D. Kuverto g. 15, Neringa, Neringos sav.", 
+        "image_filename": "img/hotels/nidus.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "NIDUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 20", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -7987,6 +9005,36 @@ hotels = ([
                 ]
             }
         ], 
+        "size": 60
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "", 
+            "Maitinimo paslaugos": "", 
+            "Oficialus \u012fm. pavadinimas": "UAB \"Alminga\"", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "", 
+            "Kambari\u0173 skai\u010dius": "28", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117", 
+            "Telefonas": "46048839", 
+            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2008.02.07", 
+            "El. pa\u0161tas": "info@alanga.lt", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "46048819", 
+            "Klas\u0117": "1*", 
+            "Viet\u0173 skai\u010dius": "60", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "M\u0116GUVA", 
+        "rank": 1, 
+        "address": "Palangos m. sav., Palanga, M. Valan\u010diaus g. 1", 
+        "halls": [], 
         "size": 60
     }, 
     {
@@ -8015,17 +9063,21 @@ hotels = ([
         }, 
         "name": "PARKAS", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.7450367, 
-            "lng": 21.1303247
-        }, 
         "address": "Liepojos g. 3, Klaip\u0117da", 
+        "image_filename": "img/hotels/parkas.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PARKAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -8062,11 +9114,8 @@ hotels = ([
         }, 
         "name": "VELGA", 
         "rank": 2, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Vilniaus m. sav., Vilnius, Gele\u017einio Vilko g. 3", 
+        "image_filename": "img/hotels/velga.png", 
         "halls": [], 
         "size": 60
     }, 
@@ -8096,17 +9145,21 @@ hotels = ([
         }, 
         "name": "SMILGA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.7803425, 
-            "lng": 25.2732003
-        }, 
         "address": "Senoji g. 16, K\u0117daini\u0173 m., K\u0117daini\u0173 r.", 
+        "image_filename": "img/hotels/smilga.png", 
         "halls": [
             {
+                "\u012eranga": "Multimedia", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "SMILGA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Multimedia"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 60", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -8143,11 +9196,8 @@ hotels = ([
         }, 
         "name": "JERUZAL\u0116S VIE\u0160BUTIS", 
         "rank": 2, 
-        "coords": {
-            "lat": 54.7315412, 
-            "lng": 25.2795879
-        }, 
         "address": "Kalvarij\u0173 g. 247, Vilniaus m.", 
+        "image_filename": "img/hotels/jeruzalas-viea-butis.png", 
         "halls": [], 
         "size": 61
     }, 
@@ -8177,17 +9227,21 @@ hotels = ([
         }, 
         "name": "ARARAT", 
         "rank": 4, 
-        "coords": {
-            "lat": 55.7154842, 
-            "lng": 21.1433037
-        }, 
         "address": "Liep\u0173 g. 48A, Klaip\u0117dos m.", 
+        "image_filename": "img/hotels/ararat.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "ARARAT", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 35", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -8224,10 +9278,6 @@ hotels = ([
         }, 
         "name": "MED\u016aNA", 
         "rank": 3, 
-        "coords": {
-            "lat": 56.2672263, 
-            "lng": 23.7388521
-        }, 
         "address": "Liep\u0173 g. 2, Druskininkai, Druskinink\u0173 sav.", 
         "halls": [], 
         "size": 62
@@ -8258,11 +9308,8 @@ hotels = ([
         }, 
         "name": "ADELITA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.6315631, 
-            "lng": 25.2785548
-        }, 
         "address": "Rod\u016bnios kelias 8, Vilniaus m.", 
+        "image_filename": "img/hotels/adelita.png", 
         "halls": [], 
         "size": 63
     }, 
@@ -8292,17 +9339,21 @@ hotels = ([
         }, 
         "name": "VIA BALTICA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.9580841, 
-            "lng": 23.8696641
-        }, 
         "address": "Verslo g. 17, Kumpi\u0173 k., Kauno r.", 
+        "image_filename": "img/hotels/via-baltica.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "VIA BALTICA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 100", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -8311,10 +9362,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "VIA BALTICA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "U stilius: 200", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -8351,13 +9409,15 @@ hotels = ([
         }, 
         "name": "L\u016aNA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.557812, 
-            "lng": 23.3498124
-        }, 
         "address": "Marijampol\u0117s sav.", 
+        "image_filename": "img/hotels/laana.png", 
         "halls": [
             {
+                "\u012eranga": "DVD grotuvas, Mikrofonas, Ra\u0161ymo lenta, Video grotuvas, Video projektorius", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "L\u016aNA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "DVD grotuvas", 
                     "Mikrofonas", 
@@ -8365,7 +9425,9 @@ hotels = ([
                     "Video grotuvas", 
                     "Video projektorius"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -8402,17 +9464,21 @@ hotels = ([
         }, 
         "name": "BARBACAN PALACE", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Vilnius, Bok\u0161to g. 19/\u0160v.Kazimiero g. 12", 
+        "image_filename": "img/hotels/barbacan-palace.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "BARBACAN PALACE", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "180", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 80; Klas\u0117s stilius: 40; U stilius: 32; Apvalaus stalo stilius: 36", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -8461,17 +9527,21 @@ hotels = ([
         }, 
         "name": "\u0160AULYS", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.9301519, 
-            "lng": 23.315442
-        }, 
         "address": "Vasario 16-osios g. 40, \u0160iauli\u0173 m.", 
+        "image_filename": "img/hotels/a-aulys.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "\u0160AULYS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 60; U stilius: 60; Apvalaus stalo stilius: 60; Banketo stilius: 20", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -8524,20 +9594,24 @@ hotels = ([
         }, 
         "name": "\u017dYDROJI LIEPSNA", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.92149509999999, 
-            "lng": 21.0697993
-        }, 
         "address": "Gintaro g. 36, Palanga", 
+        "image_filename": "img/hotels/aydroji-liepsna.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "\u017dYDROJI LIEPSNA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
                     "Oro kondicionierius", 
                     "Ra\u0161ymo lenta"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "60", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 30; U stilius: 20; Apvalaus stalo stilius: 30; Banketo stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -8590,11 +9664,8 @@ hotels = ([
         }, 
         "name": "VILNIAUS EUROPOLIS", 
         "rank": 2, 
-        "coords": {
-            "lat": 54.6754233, 
-            "lng": 25.2682066
-        }, 
         "address": "\u0160vitrigailos g. 11D, Vilnius", 
+        "image_filename": "img/hotels/vilniaus-europolis.png", 
         "halls": [], 
         "size": 65
     }, 
@@ -8624,17 +9695,21 @@ hotels = ([
         }, 
         "name": "GAMANTA", 
         "rank": 4, 
-        "coords": {
-            "lat": 55.91572660000001, 
-            "lng": 21.0700038
-        }, 
         "address": "Plyt\u0173 g. 7, Palanga", 
+        "image_filename": "img/hotels/gamanta.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "GAMANTA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30; Klas\u0117s stilius: 30; U stilius: 30; Apvalaus stalo stilius: 30; Banketo stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -8687,17 +9762,21 @@ hotels = ([
         }, 
         "name": "ROMANTIC", 
         "rank": 4, 
-        "coords": {
-            "lat": 55.7333218, 
-            "lng": 24.3606831
-        }, 
         "address": "Kranto g. 24, Panev\u0117\u017eio m.", 
+        "image_filename": "img/hotels/romantic.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "Did\u017eioji sal\u0117", 
+                "Sal\u0117": "Did\u017eioji sal\u0117", 
+                "Vie\u0161butis": "ROMANTIC", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 160; Klas\u0117s stilius: 50; U stilius: 30; Apvalaus stalo stilius: 36", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -8718,10 +9797,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Fort\u016bnos sal\u0117", 
+                "Sal\u0117": "Fort\u016bnos sal\u0117", 
+                "Vie\u0161butis": "ROMANTIC", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Fort\u016bnos sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 30; U stilius: 25", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -8738,10 +9824,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Ma\u017eoji sal\u0117", 
+                "Sal\u0117": "Ma\u017eoji sal\u0117", 
+                "Vie\u0161butis": "ROMANTIC", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Ma\u017eoji sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 25; U stilius: 20", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -8758,10 +9851,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "VIP pos\u0117d\u017ei\u0173 kambarys", 
+                "Sal\u0117": "VIP pos\u0117d\u017ei\u0173 kambarys", 
+                "Vie\u0161butis": "ROMANTIC", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "VIP pos\u0117d\u017ei\u0173 kambarys", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Apvalaus stalo stilius: 16", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Apvalaus stalo stilius", 
@@ -8798,17 +9898,21 @@ hotels = ([
         }, 
         "name": "KERP\u0116", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.9150632, 
-            "lng": 21.0649101
-        }, 
         "address": "Vytauto g. 76, Palangos m.", 
+        "image_filename": "img/hotels/kerpa.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "Konferencij\u0173 sal\u0117", 
+                "Sal\u0117": "Konferencij\u0173 sal\u0117", 
+                "Vie\u0161butis": "KERP\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 40", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -8817,10 +9921,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Konferencij\u0173 sal\u0117", 
+                "Sal\u0117": "Konferencij\u0173 sal\u0117", 
+                "Vie\u0161butis": "KERP\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 20", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -8857,17 +9968,21 @@ hotels = ([
         }, 
         "name": "VILA VINGIS", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.39539, 
-            "lng": 24.0702767
-        }, 
         "address": "Kurorto g. 6, Druskinink\u0173 m., Druskinink\u0173 sav.", 
+        "image_filename": "img/hotels/vila-vingis.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "VILA VINGIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -8908,17 +10023,21 @@ hotels = ([
         }, 
         "name": "BEST WESTERN HOTEL CENTRAL", 
         "rank": 4, 
-        "coords": {
-            "lat": 18.3923184, 
-            "lng": -77.85959629999999
-        }, 
         "address": "\u0160v. Jok\u016bbo g., Druskinink\u0173 m., Druskinink\u0173 sav.", 
+        "image_filename": "img/hotels/best-western-hotel-central.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "BEST WESTERN HOTEL CENTRAL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 25; Apvalaus stalo stilius: 12", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -8959,17 +10078,20 @@ hotels = ([
         }, 
         "name": "JURBARKAS", 
         "rank": 2, 
-        "coords": {
-            "lat": 55.2617057, 
-            "lng": 22.3015847
-        }, 
         "address": "Dariaus ir Gir\u0117no g. 98, Jurbarko m., Jurbarko r.", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "JURBARKAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Banketo stilius: 20", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Banketo stilius", 
@@ -9006,17 +10128,21 @@ hotels = ([
         }, 
         "name": "VIKTORIJOS VIE\u0160BUTIS", 
         "rank": 1, 
-        "coords": {
-            "lat": 54.696951, 
-            "lng": 25.25671
-        }, 
         "address": "Saltoni\u0161ki\u0173 g. 56, Vilnius", 
+        "image_filename": "img/hotels/viktorijos-viea-butis.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "VIKTORIJOS VIE\u0160BUTIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 7", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -9025,10 +10151,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "VIKTORIJOS VIE\u0160BUTIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 24", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -9065,20 +10198,24 @@ hotels = ([
         }, 
         "name": "MABRE RESIDENCE HOTEL", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.6849867, 
-            "lng": 25.2852187
-        }, 
         "address": "L. Stuokos-Gucevi\u010diaus g. 3, Vilniaus m.", 
+        "image_filename": "img/hotels/mabre-residence-hotel.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Ra\u0161ymo lenta, TV, Video projektorius", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "MABRE RESIDENCE HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Ra\u0161ymo lenta", 
                     "TV", 
                     "Video projektorius"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 80; Klas\u0117s stilius: 40; U stilius: 32; Apvalaus stalo stilius: 36", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -9127,17 +10264,21 @@ hotels = ([
         }, 
         "name": "STIKLIAI", 
         "rank": 5, 
-        "coords": {
-            "lat": 54.680473, 
-            "lng": 25.2861453
-        }, 
         "address": "Gaono g. 7, Vilniaus m.", 
+        "image_filename": "img/hotels/stikliai.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "Did\u017eioji sal\u0117", 
+                "Sal\u0117": "Did\u017eioji sal\u0117", 
+                "Vie\u0161butis": "STIKLIAI", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 24; Banketo stilius: 30", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -9182,17 +10323,21 @@ hotels = ([
         }, 
         "name": "KAUNAS", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.8968721, 
-            "lng": 23.8924264
-        }, 
         "address": "Kauno m. sav., Kaunas, Laisv\u0117s al. 79", 
+        "image_filename": "img/hotels/kaunas.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "Did\u017eioji + naujoji", 
+                "Sal\u0117": "Did\u017eioji + naujoji", 
+                "Vie\u0161butis": "KAUNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Did\u017eioji + naujoji", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 150; Klas\u0117s stilius: 80; Banketo stilius: 100", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -9209,6 +10354,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Mikrofonas, Multimedia, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Did\u017eioji sal\u0117", 
+                "Sal\u0117": "Did\u017eioji sal\u0117", 
+                "Vie\u0161butis": "KAUNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "DVD grotuvas", 
                     "Ekranas", 
@@ -9226,7 +10376,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "Plotas (kv. m.)": "110", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 150; Klas\u0117s stilius: 80; Banketo stilius: 100", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -9243,10 +10395,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Ma\u017eoji", 
+                "Sal\u0117": "Ma\u017eoji", 
+                "Vie\u0161butis": "KAUNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Ma\u017eoji", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -9255,10 +10414,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Naujoji", 
+                "Sal\u0117": "Naujoji", 
+                "Vie\u0161butis": "KAUNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Naujoji", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 150", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -9267,6 +10433,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "DVD grotuvas, Ekranas, Grafinis projektorius, Mikrofonas, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, TV, Trib\u016bna, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Pasitarim\u0173 kambarys", 
+                "Sal\u0117": "Pasitarim\u0173 kambarys", 
+                "Vie\u0161butis": "KAUNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "DVD grotuvas", 
                     "Ekranas", 
@@ -9279,7 +10450,9 @@ hotels = ([
                     "Trib\u016bna", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Pasitarim\u0173 kambarys", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "U stilius: 20", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -9316,17 +10489,21 @@ hotels = ([
         }, 
         "name": "HOTEL TILTO", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.5302511, 
-            "lng": 25.2211037
-        }, 
         "address": "Tilto g. 8, Vilniaus m.", 
+        "image_filename": "img/hotels/hotel-tilto.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "HOTEL TILTO", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "U stilius: 15", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -9363,17 +10540,20 @@ hotels = ([
         }, 
         "name": "PERVA\u017dA", 
         "rank": 2, 
-        "coords": {
-            "lat": 55.7443601, 
-            "lng": 24.3708575
-        }, 
         "address": "Sm\u0117lyn\u0117s g. 112, Panev\u0117\u017eio m.", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PERVA\u017dA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "U stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -9410,17 +10590,21 @@ hotels = ([
         }, 
         "name": "BEST WESTERN SANTAKOS", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.8969663, 
-            "lng": 23.9008
-        }, 
         "address": "J. Gruod\u017eio g. 21, Kauno m.", 
+        "image_filename": "img/hotels/best-western-santakos.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "Arkos", 
+                "Sal\u0117": "Arkos", 
+                "Vie\u0161butis": "BEST WESTERN SANTAKOS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Arkos", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30; Klas\u0117s stilius: 20; U stilius: 16; Banketo stilius: 22", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -9441,10 +10625,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Nemunas", 
+                "Sal\u0117": "Nemunas", 
+                "Vie\u0161butis": "BEST WESTERN SANTAKOS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Nemunas", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 30; U stilius: 30; Apvalaus stalo stilius: 35; Banketo stilius: 35", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -9469,10 +10660,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Nemunas", 
+                "Sal\u0117": "Nemunas", 
+                "Vie\u0161butis": "BEST WESTERN SANTAKOS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Nemunas", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 30; U stilius: 30; Apvalaus stalo stilius: 35; Banketo stilius: 35", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -9497,10 +10695,17 @@ hotels = ([
                 ]
             }, 
             {
-                "hardware": [
-                    ""
-                ], 
+                "\u012eranga": "", 
                 "name": "Neris", 
+                "Sal\u0117": "Neris", 
+                "Vie\u0161butis": "BEST WESTERN SANTAKOS", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 30; U stilius: 30; Banketo stilius: 35", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -9521,10 +10726,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "\u0160ventoji", 
+                "Sal\u0117": "\u0160ventoji", 
+                "Vie\u0161butis": "BEST WESTERN SANTAKOS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "\u0160ventoji", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 200; Klas\u0117s stilius: 80; U stilius: 50; Apvalaus stalo stilius: 60", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -9573,13 +10785,15 @@ hotels = ([
         }, 
         "name": "SANTAKOS", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.8969663, 
-            "lng": 23.9008
-        }, 
         "address": "J. Gruod\u017eio g. 21, Kaunas", 
+        "image_filename": "img/hotels/santakos.png", 
         "halls": [
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Multimedia, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Did\u017eioji", 
+                "Sal\u0117": "Did\u017eioji", 
+                "Vie\u0161butis": "SANTAKOS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -9598,7 +10812,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Did\u017eioji", 
+                "Plotas (kv. m.)": "48", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 40; U stilius: 30; Apvalaus stalo stilius: 34", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -9619,6 +10835,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Oro kondicionierius, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Telefonas, Video grotuvas", 
+                "name": "Ma\u017eoji", 
+                "Sal\u0117": "Ma\u017eoji", 
+                "Vie\u0161butis": "SANTAKOS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -9635,7 +10856,9 @@ hotels = ([
                     "Telefonas", 
                     "Video grotuvas"
                 ], 
-                "name": "Ma\u017eoji", 
+                "Plotas (kv. m.)": "34", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30; Klas\u0117s stilius: 22; U stilius: 16; Apvalaus stalo stilius: 20", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -9656,6 +10879,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Vienuolyno", 
+                "Sal\u0117": "Vienuolyno", 
+                "Vie\u0161butis": "SANTAKOS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -9675,7 +10903,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Vienuolyno", 
+                "Plotas (kv. m.)": "120", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 200; Klas\u0117s stilius: 110; U stilius: 90; Apvalaus stalo stilius: 100; Banketo stilius: 120", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -9728,13 +10958,15 @@ hotels = ([
         }, 
         "name": "EUROPA ROYALE", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.6761238, 
-            "lng": 25.2884037
-        }, 
         "address": "Au\u0161ros Vart\u0173 g. 6, Vilnius", 
+        "image_filename": "img/hotels/europa-royale.png", 
         "halls": [
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Lazerin\u0117 rodykl\u0117, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas", 
+                "name": "Konferencij\u0173 sal\u0117", 
+                "Sal\u0117": "Konferencij\u0173 sal\u0117", 
+                "Vie\u0161butis": "EUROPA ROYALE", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -9752,7 +10984,9 @@ hotels = ([
                     "Trib\u016bna", 
                     "Video grotuvas"
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 45; U stilius: 25; Apvalaus stalo stilius: 20; Banketo stilius: 45", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -9777,6 +11011,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Trib\u016bna, Video grotuvas", 
+                "name": "Pos\u0117d\u017ei\u0173 sal\u0117", 
+                "Sal\u0117": "Pos\u0117d\u017ei\u0173 sal\u0117", 
+                "Vie\u0161butis": "EUROPA ROYALE", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -9795,7 +11034,9 @@ hotels = ([
                     "Trib\u016bna", 
                     "Video grotuvas"
                 ], 
-                "name": "Pos\u0117d\u017ei\u0173 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 20; Klas\u0117s stilius: 12; U stilius: 10; Apvalaus stalo stilius: 10; Banketo stilius: 15", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -9848,19 +11089,23 @@ hotels = ([
         }, 
         "name": "ALKA", 
         "rank": 4, 
-        "coords": {
-            "lat": 55.9154501, 
-            "lng": 21.0609366
-        }, 
         "address": "S. Daukanto g. 21, Palanga", 
+        "image_filename": "img/hotels/alka.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Multimedia, Ra\u0161ymo lenta", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "ALKA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
                     "Ra\u0161ymo lenta"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 50; U stilius: 50; Apvalaus stalo stilius: 50; Banketo stilius: 50", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -9890,6 +11135,104 @@ hotels = ([
     {
         "info": {
             "Inventoriaus nuoma": "", 
+            "Maitinimo paslaugos": "", 
+            "Oficialus \u012fm. pavadinimas": "UAB \"Jot\u0117ja\"", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambari\u0173 skai\u010dius": "40", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "", 
+            "Telefonas": "81359060", 
+            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2013.12.22", 
+            "El. pa\u0161tas": "reservation@regina.lt", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "81359061", 
+            "Klas\u0117": "3*", 
+            "Viet\u0173 skai\u010dius": "77", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": "www.regina.lt"
+        }, 
+        "name": "REGINA", 
+        "rank": 3, 
+        "address": "Druskinink\u0173 sav.", 
+        "image_filename": "img/hotels/regina.png", 
+        "halls": [
+            {
+                "\u012eranga": "Ekranas, Grafinis projektorius, Mikrofonas, Multimedia, TV, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "REGINA", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "Ekranas", 
+                    "Grafinis projektorius", 
+                    "Mikrofonas", 
+                    "Multimedia", 
+                    "TV", 
+                    "\u012eranga garso \u012fra\u0161ymui"
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 90", 
+                "Pob\u016bviams": "", 
+                "configurations": [
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 90
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "REGINA", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 90; Apvalaus stalo stilius: 20", 
+                "Pob\u016bviams": "", 
+                "configurations": [
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 90
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 20
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "REGINA", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Apvalaus stalo stilius: 20", 
+                "Pob\u016bviams": "", 
+                "configurations": [
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 20
+                    }
+                ]
+            }
+        ], 
+        "size": 77
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "", 
             "Maitinimo paslaugos": "Restoranas", 
             "Oficialus \u012fm. pavadinimas": "UAB \"CITY HOTELS\"", 
             "Pri\u0117mimo m\u0117n.": "", 
@@ -9913,18 +11256,22 @@ hotels = ([
         }, 
         "name": "ALGIRDAS CITY HOTEL", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.67628699999999, 
-            "lng": 25.2714727
-        }, 
         "address": "Algirdo g. 24, Vilniaus m.", 
+        "image_filename": "img/hotels/algirdas-city-hotel.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Video projektorius", 
+                "name": "Konferencij\u0173 sal\u0117", 
+                "Sal\u0117": "Konferencij\u0173 sal\u0117", 
+                "Vie\u0161butis": "ALGIRDAS CITY HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Video projektorius"
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 22; U stilius: 22; Apvalaus stalo stilius: 24; Banketo stilius: 22", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -9977,17 +11324,21 @@ hotels = ([
         }, 
         "name": "RATONDA CENTRUM HOTEL", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Gedimino pr. 52/1a, Vilnius", 
+        "image_filename": "img/hotels/ratonda-centrum-hotel.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "Kaunas", 
+                "Sal\u0117": "Kaunas", 
+                "Vie\u0161butis": "RATONDA CENTRUM HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Kaunas", 
+                "Plotas (kv. m.)": "85", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 25; Klas\u0117s stilius: 18; U stilius: 18; Banketo stilius: 25", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -10008,10 +11359,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Klaip\u0117da", 
+                "Sal\u0117": "Klaip\u0117da", 
+                "Vie\u0161butis": "RATONDA CENTRUM HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Klaip\u0117da", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 80; Klas\u0117s stilius: 54; U stilius: 35; Apvalaus stalo stilius: 35", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -10060,17 +11418,21 @@ hotels = ([
         }, 
         "name": "DE LITA", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.25270769999999, 
-            "lng": 24.7729701
-        }, 
         "address": "Vytauto g. 43, Druskinink\u0173 m., Druskinink\u0173 sav.", 
+        "image_filename": "img/hotels/de-lita.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "DE LITA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30; Klas\u0117s stilius: 16; U stilius: 16; Apvalaus stalo stilius: 16; Banketo stilius: 10", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -10095,10 +11457,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "DE LITA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 16; Apvalaus stalo stilius: 10; Banketo stilius: 5", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -10143,20 +11512,23 @@ hotels = ([
         }, 
         "name": "NEMUNO SL\u0116NIS", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.6034719, 
-            "lng": 24.0597273
-        }, 
         "address": "Verkn\u0117s g. 8, Bir\u0161tono m., Bir\u0161tono sav.", 
         "halls": [
             {
+                "\u012eranga": "DVD grotuvas, Ekranas, Multimedia, TV", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "NEMUNO SL\u0116NIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Multimedia", 
                     "TV"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 150", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -10165,6 +11537,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "DVD grotuvas, Ekranas, Grafinis projektorius, Multimedia, TV", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "NEMUNO SL\u0116NIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "DVD grotuvas", 
                     "Ekranas", 
@@ -10172,7 +11549,9 @@ hotels = ([
                     "Multimedia", 
                     "TV"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 20", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -10209,17 +11588,21 @@ hotels = ([
         }, 
         "name": "AD ASTRUM", 
         "rank": 2, 
-        "coords": {
-            "lat": 54.6945613, 
-            "lng": 25.2867837
-        }, 
         "address": "\u0160eimyni\u0161ki\u0173 g. 21, Vilnius", 
+        "image_filename": "img/hotels/ad-astrum.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "AD ASTRUM", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -10228,10 +11611,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "AD ASTRUM", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 15", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -10245,60 +11635,62 @@ hotels = ([
     {
         "info": {
             "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "UAB \"Lausna\"", 
+            "Maitinimo paslaugos": "", 
+            "Oficialus \u012fm. pavadinimas": "K.Geco prekybos \u012fmon\u0117, Vie\u0161butis \"Vandenis\"", 
             "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
             "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "31", 
+            "Kambari\u0173 skai\u010dius": "35", 
             "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Teniso kortai, Treniruokli\u0173 sal\u0117", 
-            "Telefonas": "52821716", 
-            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna", 
+            "Telefonas": "46052987", 
+            "Pritaikyta ne\u012fgaliesiems": "", 
             "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2009.12.29", 
-            "El. pa\u0161tas": "vygantas@margis.lt", 
+            "Klas\u0117 suteikta iki": "2015.03.06", 
+            "El. pa\u0161tas": "info@vandenis.lt", 
             "Pramogos ne\u012fgaliesiems": "", 
             "Verslo centro \u012franga": "", 
-            "Faksas": "52821720", 
-            "Klas\u0117": "4*", 
-            "Viet\u0173 skai\u010dius": "82", 
+            "Faksas": "46053584", 
+            "Klas\u0117": "3*", 
+            "Viet\u0173 skai\u010dius": "80", 
             "Sveikatingumo paslaugos": "", 
-            "Pramogos": "Sporto aik\u0161tel\u0117", 
+            "Pramogos": "", 
             "Svetain\u0117s adresas": ""
         }, 
-        "name": "MARGIS", 
-        "rank": 4, 
-        "coords": {
-            "lat": 54.62851860000001, 
-            "lng": 24.9305178
-        }, 
-        "address": "Gilu\u0161io g. 6, Trak\u0173 m., Trak\u0173 r.", 
+        "name": "VANDENIS", 
+        "rank": 3, 
+        "address": "Birut\u0117s al. 47, Palanga", 
+        "image_filename": "img/hotels/vandenis.png", 
         "halls": [
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Mikrofonas, Multimedia, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "VANDENIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
+                    "CD grotuvas", 
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Mikrofonas", 
                     "Multimedia", 
-                    "Popierius", 
                     "Ra\u0161ymo lenta", 
                     "Skaidri\u0173 projektorius", 
-                    "Video projektorius"
+                    "TV", 
+                    "Video grotuvas", 
+                    "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 150", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
-                        "name": "Klas\u0117s stilius", 
-                        "people": 140
-                    }, 
-                    {
-                        "name": "Apvalaus stalo stilius", 
-                        "people": 25
+                        "name": "Teatro stilius", 
+                        "people": 150
                     }
                 ]
             }
         ], 
-        "size": 82
+        "size": 80
     }, 
     {
         "info": {
@@ -10326,19 +11718,23 @@ hotels = ([
         }, 
         "name": "\u0160ERMUTAS", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.7449906, 
-            "lng": 24.4237981
-        }, 
         "address": "Tinkl\u0173 g. 51, Panev\u0117\u017eio m.", 
+        "image_filename": "img/hotels/a-ermutas.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Grafinis projektorius, Kompiuteris", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "\u0160ERMUTAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
                     "Kompiuteris"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 100", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -10347,12 +11743,19 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Grafinis projektorius, Kompiuteris", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "\u0160ERMUTAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
                     "Kompiuteris"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 150", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -10361,12 +11764,19 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Grafinis projektorius, Kompiuteris", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "\u0160ERMUTAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
                     "Kompiuteris"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 50", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -10403,11 +11813,8 @@ hotels = ([
         }, 
         "name": "MEMEL HOTEL", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.7072712, 
-            "lng": 21.1409113
-        }, 
         "address": "Bang\u0173 g. 4, Klaip\u0117dos m.", 
+        "image_filename": "img/hotels/memel-hotel.png", 
         "halls": [], 
         "size": 82
     }, 
@@ -10437,17 +11844,21 @@ hotels = ([
         }, 
         "name": "DAUGIRDAS", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.8953781, 
-            "lng": 23.8848966
-        }, 
         "address": "T. Daugirdo g. 4, Kauno m.", 
+        "image_filename": "img/hotels/daugirdas.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas", 
+                "name": "Flambe", 
+                "Sal\u0117": "Flambe", 
+                "Vie\u0161butis": "DAUGIRDAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas"
                 ], 
-                "name": "Flambe", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 40; Klas\u0117s stilius: 30; U stilius: 22", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -10464,10 +11875,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Kolon\u0173", 
+                "Sal\u0117": "Kolon\u0173", 
+                "Vie\u0161butis": "DAUGIRDAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Kolon\u0173", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 80; U stilius: 40", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -10512,13 +11930,15 @@ hotels = ([
         }, 
         "name": "NARUTIS", 
         "rank": 5, 
-        "coords": {
-            "lat": 54.68238239999999, 
-            "lng": 25.2891538
-        }, 
         "address": "Pilies g. 24, Vilnius", 
+        "image_filename": "img/hotels/narutis.png", 
         "halls": [
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "NARUTIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -10534,7 +11954,9 @@ hotels = ([
                     "TV", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 120; Klas\u0117s stilius: 70; U stilius: 70; Apvalaus stalo stilius: 120", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -10555,6 +11977,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Telefonas, Video grotuvas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "NARUTIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -10572,7 +11999,9 @@ hotels = ([
                     "Telefonas", 
                     "Video grotuvas"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 55; Klas\u0117s stilius: 30; U stilius: 25; Apvalaus stalo stilius: 25", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -10593,6 +12022,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Telefonas, Video grotuvas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "NARUTIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -10610,7 +12044,9 @@ hotels = ([
                     "Telefonas", 
                     "Video grotuvas"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 35; Klas\u0117s stilius: 25; U stilius: 20; Apvalaus stalo stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -10659,18 +12095,22 @@ hotels = ([
         }, 
         "name": "DEIMS", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.3439846, 
-            "lng": 21.4765091
-        }, 
         "address": "Lietuvinink\u0173 g. 70, \u0160ilut\u0117s m., \u0160ilut\u0117s r.", 
+        "image_filename": "img/hotels/deims.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Ra\u0161ymo lenta", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "DEIMS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Ra\u0161ymo lenta"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "U stilius: 35", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -10707,17 +12147,20 @@ hotels = ([
         }, 
         "name": "\u0160AR\u016aNAS", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.69458780000001, 
-            "lng": 25.2946363
-        }, 
         "address": "Raitinink\u0173 g. 4, Vilniaus m.", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "I sal\u0117", 
+                "Sal\u0117": "I sal\u0117", 
+                "Vie\u0161butis": "\u0160AR\u016aNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "I sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 230; Klas\u0117s stilius: 100; U stilius: 60; Banketo stilius: 150", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -10738,10 +12181,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "2 sal\u0117", 
+                "Sal\u0117": "2 sal\u0117", 
+                "Vie\u0161butis": "\u0160AR\u016aNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "2 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 90; Klas\u0117s stilius: 60; U stilius: 35; Banketo stilius: 40", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -10762,10 +12212,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "3 sal\u0117", 
+                "Sal\u0117": "3 sal\u0117", 
+                "Vie\u0161butis": "\u0160AR\u016aNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "3 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30; Klas\u0117s stilius: 22; U stilius: 18; Banketo stilius: 35", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -10786,10 +12243,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "4 sal\u0117", 
+                "Sal\u0117": "4 sal\u0117", 
+                "Vie\u0161butis": "\u0160AR\u016aNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "4 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 40; U stilius: 27; Banketo stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -10838,17 +12302,21 @@ hotels = ([
         }, 
         "name": "PONAS TADAS", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.6708748, 
-            "lng": 25.2604591
-        }, 
         "address": "Naugarduko g. 76, Vilniaus m.", 
+        "image_filename": "img/hotels/ponas-tadas.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "Did\u017eioji sal\u0117", 
+                "Sal\u0117": "Did\u017eioji sal\u0117", 
+                "Vie\u0161butis": "PONAS TADAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 500", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -10857,10 +12325,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Konferencij\u0173 sal\u0117", 
+                "Sal\u0117": "Konferencij\u0173 sal\u0117", 
+                "Vie\u0161butis": "PONAS TADAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 85; Klas\u0117s stilius: 40; U stilius: 40; Apvalaus stalo stilius: 50; Banketo stilius: 40", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -10885,10 +12360,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Konferencij\u0173 sal\u0117", 
+                "Sal\u0117": "Konferencij\u0173 sal\u0117", 
+                "Vie\u0161butis": "PONAS TADAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 30; U stilius: 25; Apvalaus stalo stilius: 40", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -10937,17 +12419,20 @@ hotels = ([
         }, 
         "name": "EUROPA ROYALE MARIJAMPOL\u0116", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.6418604, 
-            "lng": 22.7465161
-        }, 
         "address": "J. Basanavi\u010diaus a. 8, Marijampol\u0117s m., Marijampol\u0117s sav.", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "Riga", 
+                "Sal\u0117": "Riga", 
+                "Vie\u0161butis": "EUROPA ROYALE MARIJAMPOL\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Riga", 
+                "Plotas (kv. m.)": "70", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 70; Klas\u0117s stilius: 40; U stilius: 30; Banketo stilius: 50", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -10968,10 +12453,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Talinn", 
+                "Sal\u0117": "Talinn", 
+                "Vie\u0161butis": "EUROPA ROYALE MARIJAMPOL\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Talinn", 
+                "Plotas (kv. m.)": "40", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Banketo stilius: 20", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Banketo stilius", 
@@ -10980,10 +12472,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Vilnius", 
+                "Sal\u0117": "Vilnius", 
+                "Vie\u0161butis": "EUROPA ROYALE MARIJAMPOL\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Vilnius", 
+                "Plotas (kv. m.)": "185", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 200; Klas\u0117s stilius: 80; U stilius: 100; Banketo stilius: 140", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -11004,10 +12503,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Vilnius I", 
+                "Sal\u0117": "Vilnius I", 
+                "Vie\u0161butis": "EUROPA ROYALE MARIJAMPOL\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Vilnius I", 
+                "Plotas (kv. m.)": "130", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 120; Klas\u0117s stilius: 60; U stilius: 90; Banketo stilius: 100", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -11028,10 +12534,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Vilnius II", 
+                "Sal\u0117": "Vilnius II", 
+                "Vie\u0161butis": "EUROPA ROYALE MARIJAMPOL\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Vilnius II", 
+                "Plotas (kv. m.)": "50", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 30; U stilius: 40; Banketo stilius: 40", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -11080,20 +12593,24 @@ hotels = ([
         }, 
         "name": "OLD PORT HOTEL", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.7068357, 
-            "lng": 21.1274458
-        }, 
         "address": "\u017dvej\u0173 g. 20-22, Klaip\u0117dos m.", 
+        "image_filename": "img/hotels/old-port-hotel.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Mikrofonas, Ra\u0161ymo lenta, Skaidri\u0173 projektorius", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "OLD PORT HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Mikrofonas", 
                     "Ra\u0161ymo lenta", 
                     "Skaidri\u0173 projektorius"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 100", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -11130,17 +12647,21 @@ hotels = ([
         }, 
         "name": "VALINA", 
         "rank": 2, 
-        "coords": {
-            "lat": 56.3050097, 
-            "lng": 22.3293313
-        }, 
         "address": "Draugyst\u0117s g. 18, Ma\u017eeikiai", 
+        "image_filename": "img/hotels/valina.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "VALINA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 14", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -11177,21 +12698,76 @@ hotels = ([
         }, 
         "name": "NERIJA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.783458, 
-            "lng": 24.1253725
-        }, 
         "address": "Pamario g. 13, Neringos m., Neringos sav.", 
+        "image_filename": "img/hotels/nerija.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "NERIJA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 50", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
                         "people": 50
+                    }
+                ]
+            }
+        ], 
+        "size": 91
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "", 
+            "Maitinimo paslaugos": "Kavin\u0117", 
+            "Oficialus \u012fm. pavadinimas": "UAB \"Vitra\"", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "", 
+            "Kambari\u0173 skai\u010dius": "33", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "", 
+            "Telefonas": "46040038", 
+            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2008.03.30", 
+            "El. pa\u0161tas": "vitra@kaunas.omnitel.net", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "46040039", 
+            "Klas\u0117": "1*", 
+            "Viet\u0173 skai\u010dius": "91", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "VILIJA", 
+        "rank": 1, 
+        "address": "Birut\u0117s al. 26, Palangos m.", 
+        "image_filename": "img/hotels/vilija.png", 
+        "halls": [
+            {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "VILIJA", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 20", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 20
                     }
                 ]
             }
@@ -11224,11 +12800,8 @@ hotels = ([
         }, 
         "name": "DOMUS MARIA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.67491, 
-            "lng": 25.2892789
-        }, 
         "address": "Au\u0161ros vart\u0173 g. 12, Vilnius", 
+        "image_filename": "img/hotels/domus-maria.png", 
         "halls": [], 
         "size": 92
     }, 
@@ -11258,17 +12831,21 @@ hotels = ([
         }, 
         "name": "NATIONAL HOTEL", 
         "rank": 4, 
-        "coords": {
-            "lat": 55.7083905, 
-            "lng": 21.1313968
-        }, 
         "address": "Teatro g. 1, Klaip\u0117da", 
+        "image_filename": "img/hotels/national-hotel.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "Europa", 
+                "Sal\u0117": "Europa", 
+                "Vie\u0161butis": "NATIONAL HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Europa", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 40; Klas\u0117s stilius: 28; U stilius: 26; Apvalaus stalo stilius: 30; Banketo stilius: 35", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -11293,10 +12870,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "San Marino", 
+                "Sal\u0117": "San Marino", 
+                "Vie\u0161butis": "NATIONAL HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "San Marino", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 40; Klas\u0117s stilius: 26; U stilius: 20; Apvalaus stalo stilius: 24; Banketo stilius: 35", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -11349,13 +12933,15 @@ hotels = ([
         }, 
         "name": "DRUSKININKAI", 
         "rank": 4, 
-        "coords": {
-            "lat": 56.23822939999999, 
-            "lng": 23.6227714
-        }, 
         "address": "V. Kudirkos g. 43, Druskinink\u0173 m., Druskinink\u0173 sav.", 
+        "image_filename": "img/hotels/druskininkai.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Trib\u016bna, Video grotuvas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "DRUSKININKAI", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
@@ -11371,7 +12957,9 @@ hotels = ([
                     "Trib\u016bna", 
                     "Video grotuvas"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30; Klas\u0117s stilius: 20; U stilius: 22", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -11388,6 +12976,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Trib\u016bna, Video grotuvas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "DRUSKININKAI", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
@@ -11403,7 +12996,9 @@ hotels = ([
                     "Trib\u016bna", 
                     "Video grotuvas"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 120; Klas\u0117s stilius: 67; U stilius: 60", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -11448,11 +13043,8 @@ hotels = ([
         }, 
         "name": "PALANGOS JUZ\u0116", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.918238, 
-            "lng": 21.0727495
-        }, 
         "address": "Virbali\u0161k\u0117s takas 2, Palangos m.", 
+        "image_filename": "img/hotels/palangos-juza.png", 
         "halls": [], 
         "size": 94
     }, 
@@ -11482,108 +13074,10 @@ hotels = ([
         }, 
         "name": "KAUNAS CITY", 
         "rank": 2, 
-        "coords": {
-            "lat": 54.8968721, 
-            "lng": 23.8924264
-        }, 
         "address": "Laisv\u0117s al. 90, Kauno m.", 
+        "image_filename": "img/hotels/kaunas-city.png", 
         "halls": [], 
         "size": 95
-    }, 
-    {
-        "info": {
-            "Inventoriaus nuoma": "", 
-            "Maitinimo paslaugos": "Baras, Restoranas", 
-            "Oficialus \u012fm. pavadinimas": "V\u012e poilsio namai \"Baltija\"", 
-            "Pri\u0117mimo m\u0117n.": "", 
-            "Darbo valandos": "", 
-            "Kambari\u0173 skai\u010dius": "", 
-            "Priklausomyb\u0117 tinklui": "", 
-            "Papildomos paslaugos": "Baseinas, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117", 
-            "Telefonas": "46048332", 
-            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
-            "Papildomas telefonas": "", 
-            "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "baltija@is.lt", 
-            "Pramogos ne\u012fgaliesiems": "", 
-            "Verslo centro \u012franga": "", 
-            "Faksas": "46049226", 
-            "Klas\u0117": "3*", 
-            "Viet\u0173 skai\u010dius": "96", 
-            "Sveikatingumo paslaugos": "", 
-            "Pramogos": "", 
-            "Svetain\u0117s adresas": ""
-        }, 
-        "name": "\u017dILVINAS", 
-        "rank": 3, 
-        "coords": {
-            "lat": 55.9213002, 
-            "lng": 21.0733943
-        }, 
-        "address": "Ganykl\u0173 g. 30, Palangos m.", 
-        "halls": [
-            {
-                "hardware": [
-                    ""
-                ], 
-                "name": "Banketin\u0117 sal\u0117", 
-                "configurations": [
-                    {
-                        "name": "U stilius", 
-                        "people": 24
-                    }
-                ]
-            }, 
-            {
-                "hardware": [
-                    ""
-                ], 
-                "name": "Did\u017eioji sal\u0117", 
-                "configurations": [
-                    {
-                        "name": "Teatro stilius", 
-                        "people": 100
-                    }
-                ]
-            }, 
-            {
-                "hardware": [
-                    ""
-                ], 
-                "name": "Gedimino 6 sal\u0117", 
-                "configurations": [
-                    {
-                        "name": "Apvalaus stalo stilius", 
-                        "people": 24
-                    }
-                ]
-            }, 
-            {
-                "hardware": [
-                    ""
-                ], 
-                "name": "Ma\u017eoji banketin\u0117 sal\u0117", 
-                "configurations": [
-                    {
-                        "name": "Apvalaus stalo stilius", 
-                        "people": 12
-                    }
-                ]
-            }, 
-            {
-                "hardware": [
-                    ""
-                ], 
-                "name": "Restorano sal\u0117", 
-                "configurations": [
-                    {
-                        "name": "Banketo stilius", 
-                        "people": 80
-                    }
-                ]
-            }
-        ], 
-        "size": 96
     }, 
     {
         "info": {
@@ -11611,17 +13105,20 @@ hotels = ([
         }, 
         "name": "PAJ\u016aRIS", 
         "rank": 2, 
-        "coords": {
-            "lat": 55.7664025, 
-            "lng": 21.0893431
-        }, 
         "address": "\u0160laito g. 18a, Klaip\u0117dos m.", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PAJ\u016aRIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 250", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -11630,14 +13127,148 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PAJ\u016aRIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 50
+                    }
+                ]
+            }
+        ], 
+        "size": 96
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "", 
+            "Maitinimo paslaugos": "Baras, Restoranas", 
+            "Oficialus \u012fm. pavadinimas": "V\u012e poilsio namai \"Baltija\"", 
+            "Pri\u0117mimo m\u0117n.": "", 
+            "Darbo valandos": "", 
+            "Kambari\u0173 skai\u010dius": "", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Seifas, Skalbimas ir valymas, Treniruokli\u0173 sal\u0117", 
+            "Telefonas": "46048332", 
+            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2015.03.06", 
+            "El. pa\u0161tas": "baltija@is.lt", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "46049226", 
+            "Klas\u0117": "3*", 
+            "Viet\u0173 skai\u010dius": "96", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "\u017dILVINAS", 
+        "rank": 3, 
+        "address": "Ganykl\u0173 g. 30, Palangos m.", 
+        "image_filename": "img/hotels/ailvinas.png", 
+        "halls": [
+            {
+                "\u012eranga": "", 
+                "name": "Banketin\u0117 sal\u0117", 
+                "Sal\u0117": "Banketin\u0117 sal\u0117", 
+                "Vie\u0161butis": "\u017dILVINAS", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "U stilius: 24", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "U stilius", 
+                        "people": 24
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "", 
+                "name": "Did\u017eioji sal\u0117", 
+                "Sal\u0117": "Did\u017eioji sal\u0117", 
+                "Vie\u0161butis": "\u017dILVINAS", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 100", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 100
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "", 
+                "name": "Gedimino 6 sal\u0117", 
+                "Sal\u0117": "Gedimino 6 sal\u0117", 
+                "Vie\u0161butis": "\u017dILVINAS", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Apvalaus stalo stilius: 24", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 24
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "", 
+                "name": "Ma\u017eoji banketin\u0117 sal\u0117", 
+                "Sal\u0117": "Ma\u017eoji banketin\u0117 sal\u0117", 
+                "Vie\u0161butis": "\u017dILVINAS", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Apvalaus stalo stilius: 12", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 12
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "", 
+                "name": "Restorano sal\u0117", 
+                "Sal\u0117": "Restorano sal\u0117", 
+                "Vie\u0161butis": "\u017dILVINAS", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Banketo stilius: 80", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 80
                     }
                 ]
             }
@@ -11670,10 +13301,6 @@ hotels = ([
         }, 
         "name": "\u017dEMAIT\u0116S", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.6777574, 
-            "lng": 25.2824898
-        }, 
         "address": "\u017demaitijos g. 15, Vilniaus m.", 
         "halls": [], 
         "size": 96
@@ -11704,17 +13331,21 @@ hotels = ([
         }, 
         "name": "\"PALANGOS DAIL\u0116\"", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.9130681, 
-            "lng": 21.0593434
-        }, 
         "address": "S. Daukanto g. 33, Palangos m.", 
+        "image_filename": "img/hotels/palangos-daila.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "\"PALANGOS DAIL\u0116\"", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 20", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -11751,17 +13382,21 @@ hotels = ([
         }, 
         "name": "NERINGA", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Gedimino pr. 23, Vilniaus m.", 
+        "image_filename": "img/hotels/neringa.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "Konferencij\u0173 sal\u0117", 
+                "Sal\u0117": "Konferencij\u0173 sal\u0117", 
+                "Vie\u0161butis": "NERINGA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "U stilius: 30", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -11798,18 +13433,22 @@ hotels = ([
         }, 
         "name": "\"ALANGA\"", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.9197146, 
-            "lng": 21.0608284
-        }, 
         "address": "S. N\u0117ries g. 14, Palangos m.", 
+        "image_filename": "img/hotels/alanga.png", 
         "halls": [
             {
+                "\u012eranga": "DVD grotuvas, TV", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "\"ALANGA\"", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "DVD grotuvas", 
                     "TV"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 60", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -11846,17 +13485,21 @@ hotels = ([
         }, 
         "name": "ALANGA", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.9197146, 
-            "lng": 21.0608284
-        }, 
         "address": "S. N\u0117ries g. 14, Palanga", 
+        "image_filename": "img/hotels/alanga.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "ALANGA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 100; Klas\u0117s stilius: 60; U stilius: 50", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -11869,6 +13512,118 @@ hotels = ([
                     {
                         "name": "U stilius", 
                         "people": 50
+                    }
+                ]
+            }
+        ], 
+        "size": 100
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "Dvira\u010diai", 
+            "Maitinimo paslaugos": "", 
+            "Oficialus \u012fm. pavadinimas": "K.Geco prekybos \u012fmon\u0117, Vie\u0161butis \"Palanga\"", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "", 
+            "Kambari\u0173 skai\u010dius": "40", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Rusi\u0161ka pirtis, Seifas, Skalbimas ir valymas, Suvenyr\u0173 parduotuv\u0117, Treniruokli\u0173 sal\u0117, Turki\u0161ka pirtis, Vaik\u0173 prie\u017eiura", 
+            "Telefonas": "46041414", 
+            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2015.03.06", 
+            "El. pa\u0161tas": "info@palangahotel.lt", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "46041415", 
+            "Klas\u0117": "5*", 
+            "Viet\u0173 skai\u010dius": "100", 
+            "Sveikatingumo paslaugos": "Klasikinis masa\u017eas, Manualin\u0117 kineziterapija, Muzikos terapija, Povandeninis masa\u017eas (g\u0117lo vandens pagrindu), Psichofizin\u0117 treniruot\u0117, Relakcinis masa\u017eas, S\u016bkurin\u0117s vandens vonios (g\u0117lo vandens pagrindu)", 
+            "Pramogos": "Golfo klubas, Interneto kavin\u0117, Jodin\u0117jimas, Kazino, Naktinis klubas, Sveikatingumo klubas", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "PALANGA", 
+        "rank": 5, 
+        "address": "Palangos m. sav., Palanga, Birut\u0117s al. 60", 
+        "image_filename": "img/hotels/palanga.png", 
+        "halls": [
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Video grotuvas", 
+                "name": "Pos\u0117d\u017ei\u0173 kambarys", 
+                "Sal\u0117": "Pos\u0117d\u017ei\u0173 kambarys", 
+                "Vie\u0161butis": "PALANGA", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Ekranas", 
+                    "Grafinis projektorius", 
+                    "Interneto ry\u0161ys", 
+                    "Lazerin\u0117 rodykl\u0117", 
+                    "Mikrofonas", 
+                    "Multimedia", 
+                    "Oro kondicionierius", 
+                    "Popierius", 
+                    "Ra\u0161ymo lenta", 
+                    "Sinchroninis vertimas", 
+                    "Skaidri\u0173 projektorius", 
+                    "TV", 
+                    "Telefonas", 
+                    "Video grotuvas"
+                ], 
+                "Plotas (kv. m.)": "60", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Apvalaus stalo stilius: 20", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 20
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Video grotuvas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PALANGA", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Ekranas", 
+                    "Grafinis projektorius", 
+                    "Interneto ry\u0161ys", 
+                    "Lazerin\u0117 rodykl\u0117", 
+                    "Mikrofonas", 
+                    "Multimedia", 
+                    "Oro kondicionierius", 
+                    "Popierius", 
+                    "Ra\u0161ymo lenta", 
+                    "Sinchroninis vertimas", 
+                    "Skaidri\u0173 projektorius", 
+                    "TV", 
+                    "Telefonas", 
+                    "Video grotuvas"
+                ], 
+                "Plotas (kv. m.)": "180", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 150; Klas\u0117s stilius: 60; U stilius: 45; Apvalaus stalo stilius: 60", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 150
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 60
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 45
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 60
                     }
                 ]
             }
@@ -11901,13 +13656,15 @@ hotels = ([
         }, 
         "name": "RAMADA HOTEL AND SUITES VILNIUS", 
         "rank": 5, 
-        "coords": {
-            "lat": 54.6765683, 
-            "lng": 25.2885665
-        }, 
         "address": "Suba\u010diaus g. 2, Vilniaus m.", 
+        "image_filename": "img/hotels/ramada-hotel-and-suites-vilnius.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Mikrofonas, Multimedia, Ra\u0161ymo lenta, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "RAMADA HOTEL AND SUITES VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Mikrofonas", 
@@ -11915,7 +13672,9 @@ hotels = ([
                     "Ra\u0161ymo lenta", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 100; Apvalaus stalo stilius: 20", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -11929,6 +13688,119 @@ hotels = ([
             }
         ], 
         "size": 101
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "", 
+            "Maitinimo paslaugos": "Kavin\u0117, Valgykla", 
+            "Oficialus \u012fm. pavadinimas": "UAB \"DESOLA\"", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "", 
+            "Kambari\u0173 skai\u010dius": "514", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Treniruokli\u0173 sal\u0117", 
+            "Telefonas": "31351660", 
+            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2006.07.04", 
+            "El. pa\u0161tas": "nemunas@vija.lt", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "31351085", 
+            "Klas\u0117": "1*", 
+            "Viet\u0173 skai\u010dius": "102", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "NEMUNAS", 
+        "rank": 1, 
+        "address": "Druskinink\u0173 sav., Druskininkai, T. Kosciu\u0161kos g. 6", 
+        "image_filename": "img/hotels/nemunas.png", 
+        "halls": [
+            {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "NEMUNAS", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 700", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 700
+                    }
+                ]
+            }
+        ], 
+        "size": 102
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "Sporto inventorius", 
+            "Maitinimo paslaugos": "Restoranas", 
+            "Oficialus \u012fm. pavadinimas": "UAB \"Lausna\"", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambari\u0173 skai\u010dius": "31", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Teniso kortai, Treniruokli\u0173 sal\u0117, Vaik\u0173 prie\u017eiura", 
+            "Telefonas": "52821717", 
+            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Papildomas telefonas": "52821716", 
+            "Klas\u0117 suteikta iki": "2013.10.04", 
+            "El. pa\u0161tas": "", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "21720", 
+            "Klas\u0117": "4*", 
+            "Viet\u0173 skai\u010dius": "104", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "Sporto aik\u0161tel\u0117", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "MARGIS", 
+        "rank": 4, 
+        "address": "Pensinink\u0173 km., Trak\u0173 r.", 
+        "image_filename": "img/hotels/margis.png", 
+        "halls": [
+            {
+                "\u012eranga": "DVD grotuvas, Ekranas, Mikrofonas, Multimedia, Popierius, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, Video projektorius", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "MARGIS", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "DVD grotuvas", 
+                    "Ekranas", 
+                    "Mikrofonas", 
+                    "Multimedia", 
+                    "Popierius", 
+                    "Ra\u0161ymo lenta", 
+                    "Skaidri\u0173 projektorius", 
+                    "Video projektorius"
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 140; Apvalaus stalo stilius: 25", 
+                "Pob\u016bviams": "", 
+                "configurations": [
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 140
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 25
+                    }
+                ]
+            }
+        ], 
+        "size": 104
     }, 
     {
         "info": {
@@ -11956,17 +13828,21 @@ hotels = ([
         }, 
         "name": "SKRYDIS", 
         "rank": 2, 
-        "coords": {
-            "lat": 54.6315631, 
-            "lng": 25.2785548
-        }, 
         "address": "Rod\u016bnios kelias 8, Vilniaus m.", 
+        "image_filename": "img/hotels/skrydis.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "Konferencij\u0173 sal\u0117 1", 
+                "Sal\u0117": "Konferencij\u0173 sal\u0117 1", 
+                "Vie\u0161butis": "SKRYDIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Konferencij\u0173 sal\u0117 1", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 10", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -11975,10 +13851,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Konferencij\u0173 sal\u0117 2", 
+                "Sal\u0117": "Konferencij\u0173 sal\u0117 2", 
+                "Vie\u0161butis": "SKRYDIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Konferencij\u0173 sal\u0117 2", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 80", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -11987,14 +13870,72 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Konferencij\u0173 sal\u0117 3", 
+                "Sal\u0117": "Konferencij\u0173 sal\u0117 3", 
+                "Vie\u0161butis": "SKRYDIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Konferencij\u0173 sal\u0117 3", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 14", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
                         "people": 14
+                    }
+                ]
+            }
+        ], 
+        "size": 108
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "", 
+            "Maitinimo paslaugos": "Restoranas", 
+            "Oficialus \u012fm. pavadinimas": "UAB \"NIDOS SMILT\u0116\"", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "", 
+            "Kambari\u0173 skai\u010dius": "84", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Skalbimas ir valymas", 
+            "Telefonas": "46952219", 
+            "Pritaikyta ne\u012fgaliesiems": "N\u0117ra", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2013.10.04", 
+            "El. pa\u0161tas": "smilte@is.lt", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "46952762", 
+            "Klas\u0117": "3*", 
+            "Viet\u0173 skai\u010dius": "108", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "NIDOS SMILT\u0116", 
+        "rank": 3, 
+        "address": "Neringos sav., Neringa, Skruzdyn\u0117s g. 2", 
+        "image_filename": "img/hotels/nidos-smilta.png", 
+        "halls": [
+            {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "NIDOS SMILT\u0116", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 34", 
+                "Pob\u016bviams": "", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 34
                     }
                 ]
             }
@@ -12027,17 +13968,21 @@ hotels = ([
         }, 
         "name": "COMFORT VILNIUS", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Vilniaus m. sav., Vilnius, G\u0117li\u0173 g. 5", 
+        "image_filename": "img/hotels/comfort-vilnius.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "Did\u017eioji sal\u0117", 
+                "Sal\u0117": "Did\u017eioji sal\u0117", 
+                "Vie\u0161butis": "COMFORT VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "U stilius: 50", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -12046,10 +13991,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Ma\u017eoji sal\u0117", 
+                "Sal\u0117": "Ma\u017eoji sal\u0117", 
+                "Vie\u0161butis": "COMFORT VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Ma\u017eoji sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "U stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -12086,13 +14038,15 @@ hotels = ([
         }, 
         "name": "GABIJA", 
         "rank": 4, 
-        "coords": {
-            "lat": 55.9105559, 
-            "lng": 21.0624703
-        }, 
         "address": "Vytauto g. 40, Palangos m.", 
+        "image_filename": "img/hotels/gabija.png", 
         "halls": [
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Interneto ry\u0161ys, Lazerin\u0117 rodykl\u0117, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Scena, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Did\u017eioji sal\u0117", 
+                "Sal\u0117": "Did\u017eioji sal\u0117", 
+                "Vie\u0161butis": "GABIJA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -12109,7 +14063,9 @@ hotels = ([
                     "Trib\u016bna", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "Plotas (kv. m.)": "140", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 190; Klas\u0117s stilius: 100; U stilius: 80; Apvalaus stalo stilius: 100; Banketo stilius: 150", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12134,6 +14090,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Interneto ry\u0161ys, Lazerin\u0117 rodykl\u0117, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Ma\u017eoji sal\u0117", 
+                "Sal\u0117": "Ma\u017eoji sal\u0117", 
+                "Vie\u0161butis": "GABIJA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -12149,7 +14110,9 @@ hotels = ([
                     "Trib\u016bna", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Ma\u017eoji sal\u0117", 
+                "Plotas (kv. m.)": "70", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 55; Klas\u0117s stilius: 35; U stilius: 30; Apvalaus stalo stilius: 36; Banketo stilius: 36", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12202,13 +14165,14 @@ hotels = ([
         }, 
         "name": "PARK INN BY RADISSON KLAIP\u0116DOS VIE\u0160BUTIS", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.6846191, 
-            "lng": 21.1489046
-        }, 
         "address": "Minijos g. 119, Klaip\u0117dos m.", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Interneto ry\u0161ys, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, TV, Telefonas, Video grotuvas", 
+                "name": "Juodkrant\u0117", 
+                "Sal\u0117": "Juodkrant\u0117", 
+                "Vie\u0161butis": "PARK INN BY RADISSON KLAIP\u0116DOS VIE\u0160BUTIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Interneto ry\u0161ys", 
@@ -12219,7 +14183,9 @@ hotels = ([
                     "Telefonas", 
                     "Video grotuvas"
                 ], 
-                "name": "Juodkrant\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 38; U stilius: 55; Apvalaus stalo stilius: 32", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12240,6 +14206,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Interneto ry\u0161ys, Multimedia, Ra\u0161ymo lenta, TV, Telefonas, Video grotuvas", 
+                "name": "Nida", 
+                "Sal\u0117": "Nida", 
+                "Vie\u0161butis": "PARK INN BY RADISSON KLAIP\u0116DOS VIE\u0160BUTIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Interneto ry\u0161ys", 
@@ -12249,7 +14220,9 @@ hotels = ([
                     "Telefonas", 
                     "Video grotuvas"
                 ], 
-                "name": "Nida", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 20; Klas\u0117s stilius: 15; U stilius: 10; Apvalaus stalo stilius: 16; Banketo stilius: 10", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12274,6 +14247,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Interneto ry\u0161ys, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, TV, Telefonas", 
+                "name": "Smiltyn\u0117", 
+                "Sal\u0117": "Smiltyn\u0117", 
+                "Vie\u0161butis": "PARK INN BY RADISSON KLAIP\u0116DOS VIE\u0160BUTIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Interneto ry\u0161ys", 
@@ -12283,7 +14261,9 @@ hotels = ([
                     "TV", 
                     "Telefonas"
                 ], 
-                "name": "Smiltyn\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 70; Klas\u0117s stilius: 56; U stilius: 15; Apvalaus stalo stilius: 40; Banketo stilius: 50", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12304,6 +14284,75 @@ hotels = ([
                     {
                         "name": "Banketo stilius", 
                         "people": 50
+                    }
+                ]
+            }
+        ], 
+        "size": 112
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "", 
+            "Maitinimo paslaugos": "Valgykla", 
+            "Oficialus \u012fm. pavadinimas": "UAB \"PALANGOS \u017dVOR\u016aN\u0116\"", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "", 
+            "Kambari\u0173 skai\u010dius": "48", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Teniso kortai, Treniruokli\u0173 sal\u0117", 
+            "Telefonas": "46054037", 
+            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2010.01.31", 
+            "El. pa\u0161tas": "palangoszvorune@takas.lt", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "46051461", 
+            "Klas\u0117": "2*", 
+            "Viet\u0173 skai\u010dius": "112", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "PALANGOS \u017dVOR\u016aN\u0116", 
+        "rank": 2, 
+        "address": "Palangos m. sav., Palanga, Vanagup\u0117s g. 15", 
+        "halls": [
+            {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PALANGOS \u017dVOR\u016aN\u0116", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 40", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 40
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PALANGOS \u017dVOR\u016aN\u0116", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 200", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 200
                     }
                 ]
             }
@@ -12336,17 +14385,21 @@ hotels = ([
         }, 
         "name": "ARTIS CENTRUM HOTEL", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.6834788, 
-            "lng": 25.2823692
-        }, 
         "address": "Liejyklos g. 11/23, Vilnius", 
+        "image_filename": "img/hotels/artis-centrum-hotel.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "Aida", 
+                "Sal\u0117": "Aida", 
+                "Vie\u0161butis": "ARTIS CENTRUM HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Aida", 
+                "Plotas (kv. m.)": "40", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 160; Klas\u0117s stilius: 90; U stilius: 50; Banketo stilius: 70", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12367,10 +14420,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Aida I/II", 
+                "Sal\u0117": "Aida I/II", 
+                "Vie\u0161butis": "ARTIS CENTRUM HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Aida I/II", 
+                "Plotas (kv. m.)": "53", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 70; Klas\u0117s stilius: 50; U stilius: 30", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12387,10 +14447,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Carmen", 
+                "Sal\u0117": "Carmen", 
+                "Vie\u0161butis": "ARTIS CENTRUM HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Carmen", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 70; Klas\u0117s stilius: 48; U stilius: 34; Banketo stilius: 35", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12411,10 +14478,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Micado", 
+                "Sal\u0117": "Micado", 
+                "Vie\u0161butis": "ARTIS CENTRUM HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Micado", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 30; U stilius: 28", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12431,10 +14505,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Nabuco", 
+                "Sal\u0117": "Nabuco", 
+                "Vie\u0161butis": "ARTIS CENTRUM HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Nabuco", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 30; U stilius: 28; Banketo stilius: 28", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12455,10 +14536,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Norma", 
+                "Sal\u0117": "Norma", 
+                "Vie\u0161butis": "ARTIS CENTRUM HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Norma", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 70; Klas\u0117s stilius: 46; U stilius: 34", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12475,10 +14563,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Rigoletto", 
+                "Sal\u0117": "Rigoletto", 
+                "Vie\u0161butis": "ARTIS CENTRUM HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Rigoletto", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 24; Klas\u0117s stilius: 16; U stilius: 18", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12495,10 +14590,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Tosca", 
+                "Sal\u0117": "Tosca", 
+                "Vie\u0161butis": "ARTIS CENTRUM HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Tosca", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 26; Klas\u0117s stilius: 18; U stilius: 20", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12515,10 +14617,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Tosca", 
+                "Sal\u0117": "Tosca", 
+                "Vie\u0161butis": "ARTIS CENTRUM HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Tosca", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 26; Klas\u0117s stilius: 18; U stilius: 20", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12547,14 +14656,14 @@ hotels = ([
             "Kambari\u0173 skai\u010dius": "55", 
             "Priklausomyb\u0117 tinklui": "", 
             "Papildomos paslaugos": "Baseinas, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
-            "Telefonas": "31360510", 
+            "Telefonas": "31360514", 
             "Pritaikyta ne\u012fgaliesiems": "", 
             "Papildomas telefonas": "", 
             "Klas\u0117 suteikta iki": "2015.03.06", 
-            "El. pa\u0161tas": "hotel2@galia.lt", 
+            "El. pa\u0161tas": "hotel4@galia.lt", 
             "Pramogos ne\u012fgaliesiems": "", 
             "Verslo centro \u012franga": "", 
-            "Faksas": "31360512", 
+            "Faksas": "31355100", 
             "Klas\u0117": "3*", 
             "Viet\u0173 skai\u010dius": "124", 
             "Sveikatingumo paslaugos": "", 
@@ -12563,17 +14672,21 @@ hotels = ([
         }, 
         "name": "GALIA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.021759, 
-            "lng": 23.966555
-        }, 
-        "address": "Dabintos g. 3, Druskininkai", 
+        "address": "Druskinink\u0173 sav., Druskininkai, M. K. \u010ciurlionio g. 97", 
+        "image_filename": "img/hotels/galia.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "GALIA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 120; Klas\u0117s stilius: 90; Apvalaus stalo stilius: 28; Banketo stilius: 32", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12622,17 +14735,21 @@ hotels = ([
         }, 
         "name": "EUROPA ROYALE DRUSKININKAI", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Vilniaus al. 7, Druskinink\u0173 m., Druskinink\u0173 sav.", 
+        "image_filename": "img/hotels/europa-royale-druskininkai.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "1", 
+                "Sal\u0117": "1", 
+                "Vie\u0161butis": "EUROPA ROYALE DRUSKININKAI", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "1", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 40; U stilius: 24", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12649,10 +14766,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "1 + 2", 
+                "Sal\u0117": "1 + 2", 
+                "Vie\u0161butis": "EUROPA ROYALE DRUSKININKAI", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "1 + 2", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 126; Klas\u0117s stilius: 60; U stilius: 32", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12669,10 +14793,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "1+2+3+4", 
+                "Sal\u0117": "1+2+3+4", 
+                "Vie\u0161butis": "EUROPA ROYALE DRUSKININKAI", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "1+2+3+4", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 370; Klas\u0117s stilius: 112", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12685,10 +14816,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "2", 
+                "Sal\u0117": "2", 
+                "Vie\u0161butis": "EUROPA ROYALE DRUSKININKAI", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "2", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30; Klas\u0117s stilius: 16; U stilius: 16", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12705,10 +14843,17 @@ hotels = ([
                 ]
             }, 
             {
-                "hardware": [
-                    ""
-                ], 
+                "\u012eranga": "", 
                 "name": "3", 
+                "Sal\u0117": "3", 
+                "Vie\u0161butis": "EUROPA ROYALE DRUSKININKAI", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 126; Klas\u0117s stilius: 60; U stilius: 32", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12725,10 +14870,17 @@ hotels = ([
                 ]
             }, 
             {
-                "hardware": [
-                    ""
-                ], 
+                "\u012eranga": "", 
                 "name": "4", 
+                "Sal\u0117": "4", 
+                "Vie\u0161butis": "EUROPA ROYALE DRUSKININKAI", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 126; Klas\u0117s stilius: 60; U stilius: 32", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12745,10 +14897,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "5", 
+                "Sal\u0117": "5", 
+                "Vie\u0161butis": "EUROPA ROYALE DRUSKININKAI", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "5", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 54; Klas\u0117s stilius: 24; U stilius: 18", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12765,10 +14924,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "6", 
+                "Sal\u0117": "6", 
+                "Vie\u0161butis": "EUROPA ROYALE DRUSKININKAI", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "6", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 54; Klas\u0117s stilius: 24; U stilius: 29", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12813,19 +14979,23 @@ hotels = ([
         }, 
         "name": "BELORUS", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.3796992, 
-            "lng": 23.1154464
-        }, 
         "address": "Maironio g. 2, Druskinink\u0173 m., Druskinink\u0173 sav.", 
+        "image_filename": "img/hotels/belorus.png", 
         "halls": [
             {
+                "\u012eranga": "Kompiuteris, Multimedia, TV", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "BELORUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Kompiuteris", 
                     "Multimedia", 
                     "TV"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 60", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -12862,17 +15032,21 @@ hotels = ([
         }, 
         "name": "AMBERTON", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.685185, 
-            "lng": 25.2855815
-        }, 
         "address": "L. Stuokos-Gucevi\u010diaus g. 1, Vilniaus m.", 
+        "image_filename": "img/hotels/amberton.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "AMBERTON", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 80; Klas\u0117s stilius: 80; U stilius: 80; Apvalaus stalo stilius: 80; Banketo stilius: 80", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12925,13 +15099,15 @@ hotels = ([
         }, 
         "name": "CITY PARK HOTEL", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.6849867, 
-            "lng": 25.2852187
-        }, 
         "address": "L. Stuokos-Gucevi\u010diaus g. 3, Vilnius", 
+        "image_filename": "img/hotels/city-park-hotel.png", 
         "halls": [
             {
+                "\u012eranga": "CD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Sinchroninis vertimas, TV, Trib\u016bna, Video grotuvas", 
+                "name": "City hall", 
+                "Sal\u0117": "City hall", 
+                "Vie\u0161butis": "CITY PARK HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "Ekranas", 
@@ -12946,7 +15122,9 @@ hotels = ([
                     "Trib\u016bna", 
                     "Video grotuvas"
                 ], 
-                "name": "City hall", 
+                "Plotas (kv. m.)": "90", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 80; Klas\u0117s stilius: 42; U stilius: 32; Apvalaus stalo stilius: 36; Banketo stilius: 80", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -12971,6 +15149,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, Ekranas, Interneto ry\u0161ys, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Sinchroninis vertimas, TV, Trib\u016bna, Video grotuvas", 
+                "name": "Park hall", 
+                "Sal\u0117": "Park hall", 
+                "Vie\u0161butis": "CITY PARK HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "Ekranas", 
@@ -12984,7 +15167,9 @@ hotels = ([
                     "Trib\u016bna", 
                     "Video grotuvas"
                 ], 
-                "name": "Park hall", 
+                "Plotas (kv. m.)": "90", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 80; Klas\u0117s stilius: 42; U stilius: 32; Apvalaus stalo stilius: 36; Banketo stilius: 80", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -13037,13 +15222,15 @@ hotels = ([
         }, 
         "name": "CONGRESS", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.8432811, 
-            "lng": 25.4637455
-        }, 
         "address": "Vilniaus g. 2/15, Vilniaus m.", 
+        "image_filename": "img/hotels/congress.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Mikrofonas, Multimedia, Skaidri\u0173 projektorius, TV, Video grotuvas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "CONGRESS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Mikrofonas", 
@@ -13052,7 +15239,9 @@ hotels = ([
                     "TV", 
                     "Video grotuvas"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 70", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -13061,6 +15250,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Mikrofonas, Multimedia, Skaidri\u0173 projektorius, TV, Video grotuvas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "CONGRESS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Mikrofonas", 
@@ -13069,7 +15263,9 @@ hotels = ([
                     "TV", 
                     "Video grotuvas"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 50", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -13106,11 +15302,8 @@ hotels = ([
         }, 
         "name": "METROPOLIS", 
         "rank": 2, 
-        "coords": {
-            "lat": 54.8979693, 
-            "lng": 23.9136248
-        }, 
         "address": "S. Daukanto g. 21, Kaunas", 
+        "image_filename": "img/hotels/metropolis.png", 
         "halls": [], 
         "size": 140
     }, 
@@ -13140,19 +15333,23 @@ hotels = ([
         }, 
         "name": "PU\u0160YNAS", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Vilniaus al. 3, Druskininkai, Druskinink\u0173 sav.", 
+        "image_filename": "img/hotels/pua-ynas.png", 
         "halls": [
             {
+                "\u012eranga": "DVD grotuvas, Grafinis projektorius, Multimedia", 
+                "name": "Konferencij\u0173 sal\u0117", 
+                "Sal\u0117": "Konferencij\u0173 sal\u0117", 
+                "Vie\u0161butis": "PU\u0160YNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "DVD grotuvas", 
                     "Grafinis projektorius", 
                     "Multimedia"
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -13161,10 +15358,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Konferencij\u0173 sal\u0117", 
+                "Sal\u0117": "Konferencij\u0173 sal\u0117", 
+                "Vie\u0161butis": "PU\u0160YNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -13201,11 +15405,8 @@ hotels = ([
         }, 
         "name": "CORNER HOTEL", 
         "rank": 2, 
-        "coords": {
-            "lat": 54.6772898, 
-            "lng": 25.2658015
-        }, 
         "address": "T. \u0160ev\u010denkos g. 16, Vilnius", 
+        "image_filename": "img/hotels/corner-hotel.png", 
         "halls": [], 
         "size": 142
     }, 
@@ -13235,11 +15436,8 @@ hotels = ([
         }, 
         "name": "KARALI\u0160KOJI REZIDENCIJA", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.6062875, 
-            "lng": 23.9997481
-        }, 
         "address": "Pakaln\u0117s g. 3, Bir\u0161tonas", 
+        "image_filename": "img/hotels/karalia-koji-rezidencija.png", 
         "halls": [], 
         "size": 147
     }, 
@@ -13269,17 +15467,21 @@ hotels = ([
         }, 
         "name": "GIL\u0116", 
         "rank": 2, 
-        "coords": {
-            "lat": 54.6772898, 
-            "lng": 25.2658015
-        }, 
         "address": "T. \u0160ev\u010denkos g. 16, Vilniaus m.", 
+        "image_filename": "img/hotels/gila.png", 
         "halls": [
             {
+                "\u012eranga": "Multimedia", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "GIL\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Multimedia"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "U stilius: 60", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -13316,17 +15518,20 @@ hotels = ([
         }, 
         "name": "RADISSON BLU KLAIP\u0116DA", 
         "rank": 4, 
-        "coords": {
-            "lat": 55.3980328, 
-            "lng": 22.5420268
-        }, 
         "address": "\u0160iauli\u0173 g. 28", 
         "halls": [
             {
+                "\u012eranga": "Grafinis projektorius", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "RADISSON BLU KLAIP\u0116DA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Grafinis projektorius"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 55", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -13335,10 +15540,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Grafinis projektorius", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "RADISSON BLU KLAIP\u0116DA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Grafinis projektorius"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 55", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -13348,6 +15560,67 @@ hotels = ([
             }
         ], 
         "size": 150
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "Dvira\u010diai", 
+            "Maitinimo paslaugos": "", 
+            "Oficialus \u012fm. pavadinimas": "UAB \"Palangos \u017euv\u0117dra\"", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambari\u0173 skai\u010dius": "76", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Automobili\u0173 nuoma, Biliardas, Seifas", 
+            "Telefonas": "46052353", 
+            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2015.06.26", 
+            "El. pa\u0161tas": "info@palangos-zuvedra.lt", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "46053852", 
+            "Klas\u0117": "3*", 
+            "Viet\u0173 skai\u010dius": "151", 
+            "Sveikatingumo paslaugos": "Klasikinis masa\u017eas", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "PALANGOS \u017dUV\u0116DRA", 
+        "rank": 3, 
+        "address": "Meil\u0117s al. 11, Palangos m.", 
+        "halls": [], 
+        "size": 151
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "", 
+            "Maitinimo paslaugos": "", 
+            "Oficialus \u012fm. pavadinimas": "UAB \"BALTIJOS ENERGIJA\"", 
+            "Pri\u0117mimo m\u0117n.": "", 
+            "Darbo valandos": "", 
+            "Kambari\u0173 skai\u010dius": "70", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
+            "Telefonas": "46045644", 
+            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2015.03.06", 
+            "El. pa\u0161tas": "info@kursiukaimas.lt", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "46045644", 
+            "Klas\u0117": "3*", 
+            "Viet\u0173 skai\u010dius": "152", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "KUR\u0160I\u0172 KAIMAS", 
+        "rank": 3, 
+        "address": "Vytauto g. 79/Gintaro g.30, Palangos m.", 
+        "image_filename": "img/hotels/kura-ia-kaimas.png", 
+        "halls": [], 
+        "size": 152
     }, 
     {
         "info": {
@@ -13375,10 +15648,6 @@ hotels = ([
         }, 
         "name": "PANEV\u0116\u017dYS", 
         "rank": 1, 
-        "coords": {
-            "lat": 55.7293777, 
-            "lng": 24.361581
-        }, 
         "address": "Laisv\u0117s a. 26, Panev\u0117\u017eys", 
         "halls": [], 
         "size": 153
@@ -13409,19 +15678,23 @@ hotels = ([
         }, 
         "name": "CONTI", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.67539780000001, 
-            "lng": 25.2824727
-        }, 
         "address": "Raugyklos g. 7/2, Vilnius", 
+        "image_filename": "img/hotels/conti.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Multimedia, Video projektorius", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "CONTI", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
                     "Video projektorius"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 120; Klas\u0117s stilius: 70; U stilius: 40", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -13438,12 +15711,19 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Multimedia, Video projektorius", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "CONTI", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
                     "Video projektorius"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 250; Klas\u0117s stilius: 190; U stilius: 120", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -13460,12 +15740,19 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Multimedia, Video projektorius", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "CONTI", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
                     "Video projektorius"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 30; U stilius: 20", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -13482,12 +15769,19 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Multimedia, Video projektorius", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "CONTI", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
                     "Video projektorius"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 160; Klas\u0117s stilius: 100; U stilius: 60", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -13504,12 +15798,19 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Multimedia, Video projektorius", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "CONTI", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
                     "Video projektorius"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "U stilius: 10", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -13546,17 +15847,21 @@ hotels = ([
         }, 
         "name": "GRATA HOTEL", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.67897050000001, 
-            "lng": 25.26358
-        }, 
         "address": "Vytenio g. 9/25, Vilniaus m.", 
+        "image_filename": "img/hotels/grata-hotel.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "GRATA HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 100; Klas\u0117s stilius: 34; U stilius: 28; Apvalaus stalo stilius: 42; Banketo stilius: 120", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -13609,20 +15914,24 @@ hotels = ([
         }, 
         "name": "IBIS KAUNAS CENTRE", 
         "rank": 2, 
-        "coords": {
-            "lat": 54.8901867, 
-            "lng": 23.9287415
-        }, 
         "address": "Vytauto pr. 28, LT-44328 Kaunas", 
+        "image_filename": "img/hotels/ibis-kaunas-centre.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Skaidri\u0173 projektorius, Telefonas, Video projektorius", 
+                "name": "Sal\u0117 \"Lionas\"", 
+                "Sal\u0117": "Sal\u0117 \"Lionas\"", 
+                "Vie\u0161butis": "IBIS KAUNAS CENTRE", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Skaidri\u0173 projektorius", 
                     "Telefonas", 
                     "Video projektorius"
                 ], 
-                "name": "Sal\u0117 \"Lionas\"", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 12", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -13631,13 +15940,20 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Skaidri\u0173 projektorius, Telefonas, Video projektorius", 
+                "name": "Sal\u0117 \"Tul\u016bza\"", 
+                "Sal\u0117": "Sal\u0117 \"Tul\u016bza\"", 
+                "Vie\u0161butis": "IBIS KAUNAS CENTRE", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Skaidri\u0173 projektorius", 
                     "Telefonas", 
                     "Video projektorius"
                 ], 
-                "name": "Sal\u0117 \"Tul\u016bza\"", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 18", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -13674,13 +15990,15 @@ hotels = ([
         }, 
         "name": "REVAL INN VILNIUS", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.7386332, 
-            "lng": 25.2286319
-        }, 
         "address": "Ukmerg\u0117s g. 363, Vilnius", 
+        "image_filename": "img/hotels/reval-inn-vilnius.png", 
         "halls": [
             {
+                "\u012eranga": "Diktofonas, Ekranas, Grafinis projektorius, Kompiuteris, Lazerin\u0117 rodykl\u0117, Multimedia, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, TV", 
+                "name": "Baltija 1", 
+                "Sal\u0117": "Baltija 1", 
+                "Vie\u0161butis": "REVAL INN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Diktofonas", 
                     "Ekranas", 
@@ -13693,7 +16011,9 @@ hotels = ([
                     "Sinchroninis vertimas", 
                     "TV"
                 ], 
-                "name": "Baltija 1", 
+                "Plotas (kv. m.)": "90", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 80; Klas\u0117s stilius: 50", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -13706,10 +16026,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Baltija 1+2", 
+                "Sal\u0117": "Baltija 1+2", 
+                "Vie\u0161butis": "REVAL INN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Baltija 1+2", 
+                "Plotas (kv. m.)": "140", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 140; Klas\u0117s stilius: 60; U stilius: 50", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -13726,6 +16053,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Diktofonas, Ekranas, Grafinis projektorius, Kompiuteris, Lazerin\u0117 rodykl\u0117, Multimedia, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, TV", 
+                "name": "Baltija 2", 
+                "Sal\u0117": "Baltija 2", 
+                "Vie\u0161butis": "REVAL INN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Diktofonas", 
                     "Ekranas", 
@@ -13738,7 +16070,9 @@ hotels = ([
                     "Sinchroninis vertimas", 
                     "TV"
                 ], 
-                "name": "Baltija 2", 
+                "Plotas (kv. m.)": "50", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 20", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -13779,17 +16113,21 @@ hotels = ([
         }, 
         "name": "PARK INN VILNIUS NORTH", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.7386332, 
-            "lng": 25.2286319
-        }, 
         "address": "Ukmerg\u0117s g. 363, Vilniaus m.", 
+        "image_filename": "img/hotels/park-inn-vilnius-north.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "BALTIJA I", 
+                "Sal\u0117": "BALTIJA I", 
+                "Vie\u0161butis": "PARK INN VILNIUS NORTH", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "BALTIJA I", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 80; Klas\u0117s stilius: 50", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -13802,10 +16140,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "BALTIJA I + II", 
+                "Sal\u0117": "BALTIJA I + II", 
+                "Vie\u0161butis": "PARK INN VILNIUS NORTH", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "BALTIJA I + II", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 140; Klas\u0117s stilius: 60; U stilius: 50", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -13822,10 +16167,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "BALTIJA II", 
+                "Sal\u0117": "BALTIJA II", 
+                "Vie\u0161butis": "PARK INN VILNIUS NORTH", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "BALTIJA II", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 20", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -13866,20 +16218,24 @@ hotels = ([
         }, 
         "name": "AUK\u0160TAITIJA", 
         "rank": 2, 
-        "coords": {
-            "lat": 55.5981335, 
-            "lng": 26.4350517
-        }, 
         "address": "Veteran\u0173 g. 9, Visagino m., Visagino sav.", 
+        "image_filename": "img/hotels/auka-taitija.png", 
         "halls": [
             {
+                "\u012eranga": "DVD grotuvas, Grafinis projektorius, TV, Video grotuvas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "AUK\u0160TAITIJA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "DVD grotuvas", 
                     "Grafinis projektorius", 
                     "TV", 
                     "Video grotuvas"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 20", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -13916,19 +16272,23 @@ hotels = ([
         }, 
         "name": "EUROPA ROYALE HOTEL KAUNAS", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.893646, 
-            "lng": 23.9221505
-        }, 
         "address": "Mi\u0161ko g. 11, Kaunas", 
+        "image_filename": "img/hotels/europa-royale-hotel-kaunas.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Multimedia, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "EUROPA ROYALE HOTEL KAUNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 8", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -13937,12 +16297,19 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Multimedia, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "EUROPA ROYALE HOTEL KAUNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 30", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -13951,12 +16318,19 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Multimedia, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "EUROPA ROYALE HOTEL KAUNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 30", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -13965,12 +16339,19 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Multimedia, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "EUROPA ROYALE HOTEL KAUNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 30", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -13979,12 +16360,19 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Multimedia, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "EUROPA ROYALE HOTEL KAUNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 30", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -13993,12 +16381,19 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Multimedia, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "EUROPA ROYALE HOTEL KAUNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 200", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -14007,12 +16402,19 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Multimedia, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "EUROPA ROYALE HOTEL KAUNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 250", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -14021,12 +16423,19 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Multimedia, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "EUROPA ROYALE HOTEL KAUNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Multimedia", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 200", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -14063,17 +16472,21 @@ hotels = ([
         }, 
         "name": "EUROPA STAY VILNIUS", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.9802635, 
-            "lng": 25.2363514
-        }, 
         "address": "\u0104\u017euolyno g. 7, Vilniaus m.", 
+        "image_filename": "img/hotels/europa-stay-vilnius.png", 
         "halls": [
             {
-                "hardware": [
-                    ""
-                ], 
+                "\u012eranga": "", 
                 "name": "I", 
+                "Sal\u0117": "I", 
+                "Vie\u0161butis": "EUROPA STAY VILNIUS", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 20", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -14082,10 +16495,17 @@ hotels = ([
                 ]
             }, 
             {
-                "hardware": [
-                    ""
-                ], 
+                "\u012eranga": "", 
                 "name": "II", 
+                "Sal\u0117": "II", 
+                "Vie\u0161butis": "EUROPA STAY VILNIUS", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 20", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -14094,10 +16514,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "III", 
+                "Sal\u0117": "III", 
+                "Vie\u0161butis": "EUROPA STAY VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "III", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 30", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -14106,10 +16533,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "IV", 
+                "Sal\u0117": "IV", 
+                "Vie\u0161butis": "EUROPA STAY VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "IV", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 40", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -14146,19 +16580,23 @@ hotels = ([
         }, 
         "name": "VIVA GREEN RESORT", 
         "rank": 2, 
-        "coords": {
-            "lat": 54.8518252, 
-            "lng": 25.5408495
-        }, 
         "address": "Tu\u0161\u010diauli\u0173 k., Vilniaus r.", 
+        "image_filename": "img/hotels/viva-green-resort.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Grafinis projektorius, Ra\u0161ymo lenta", 
+                "name": "M\u0117lynoji", 
+                "Sal\u0117": "M\u0117lynoji", 
+                "Vie\u0161butis": "VIVA GREEN RESORT", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
                     "Ra\u0161ymo lenta"
                 ], 
-                "name": "M\u0117lynoji", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 40; Klas\u0117s stilius: 40; U stilius: 25; Banketo stilius: 40", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -14179,10 +16617,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Pu\u0161yno", 
+                "Sal\u0117": "Pu\u0161yno", 
+                "Vie\u0161butis": "VIVA GREEN RESORT", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Pu\u0161yno", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "U stilius: 60", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -14191,13 +16636,20 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Grafinis projektorius, Ra\u0161ymo lenta, Video projektorius", 
+                "name": "\u017dalioji", 
+                "Sal\u0117": "\u017dalioji", 
+                "Vie\u0161butis": "VIVA GREEN RESORT", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
                     "Ra\u0161ymo lenta", 
                     "Video projektorius"
                 ], 
-                "name": "\u017dalioji", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 80; Klas\u0117s stilius: 80; U stilius: 40; Banketo stilius: 80", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -14219,6 +16671,384 @@ hotels = ([
             }
         ], 
         "size": 192
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "", 
+            "Maitinimo paslaugos": "Kavin\u0117, Restoranas", 
+            "Oficialus \u012fm. pavadinimas": "V.\u012f. Valstyb\u0117s ir savivaldybi\u0173 tarnautij\u0173 mokymo centras \"Dainava\"", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambari\u0173 skai\u010dius": "", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Treniruokli\u0173 sal\u0117", 
+            "Telefonas": "31359090", 
+            "Pritaikyta ne\u012fgaliesiems": "", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2015.02.01", 
+            "El. pa\u0161tas": "dainava@centrasdainava.lt", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "31359104", 
+            "Klas\u0117": "2*", 
+            "Viet\u0173 skai\u010dius": "203", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "DAINAVA", 
+        "rank": 2, 
+        "address": "Druskinink\u0173 sav., Druskininkai, Maironio g. 22", 
+        "image_filename": "img/hotels/dainava.png", 
+        "halls": [
+            {
+                "\u012eranga": "", 
+                "name": "Did\u017eioji sal\u0117", 
+                "Sal\u0117": "Did\u017eioji sal\u0117", 
+                "Vie\u0161butis": "DAINAVA", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 255; Klas\u0117s stilius: 80; U stilius: 70; Apvalaus stalo stilius: 80; Banketo stilius: 200", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 255
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 80
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 70
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 80
+                    }, 
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 200
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "", 
+                "name": "Ilgoji sal\u0117", 
+                "Sal\u0117": "Ilgoji sal\u0117", 
+                "Vie\u0161butis": "DAINAVA", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 50; U stilius: 40; Apvalaus stalo stilius: 50; Banketo stilius: 100", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 60
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 50
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 40
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 50
+                    }, 
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 100
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "", 
+                "name": "Korpuso did\u017eioji sal\u0117", 
+                "Sal\u0117": "Korpuso did\u017eioji sal\u0117", 
+                "Vie\u0161butis": "DAINAVA", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 40; U stilius: 30; Apvalaus stalo stilius: 30; Banketo stilius: 60", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 50
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 40
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 30
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 30
+                    }, 
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 60
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "", 
+                "name": "Korpuso ma\u017eoji sal\u0117", 
+                "Sal\u0117": "Korpuso ma\u017eoji sal\u0117", 
+                "Vie\u0161butis": "DAINAVA", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30; U stilius: 20; Apvalaus stalo stilius: 25; Banketo stilius: 30", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 30
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 20
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 25
+                    }, 
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 30
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "", 
+                "name": "Mokymo sal\u0117", 
+                "Sal\u0117": "Mokymo sal\u0117", 
+                "Vie\u0161butis": "DAINAVA", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30; Klas\u0117s stilius: 24; U stilius: 20; Apvalaus stalo stilius: 24; Banketo stilius: 30", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 30
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 24
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 20
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 24
+                    }, 
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 30
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "", 
+                "name": "Mokymo sal\u0117", 
+                "Sal\u0117": "Mokymo sal\u0117", 
+                "Vie\u0161butis": "DAINAVA", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30; Klas\u0117s stilius: 24; U stilius: 20; Apvalaus stalo stilius: 24; Banketo stilius: 30", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 30
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 24
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 20
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 24
+                    }, 
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 30
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "", 
+                "name": "Mokymo sal\u0117", 
+                "Sal\u0117": "Mokymo sal\u0117", 
+                "Vie\u0161butis": "DAINAVA", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30; Klas\u0117s stilius: 24; U stilius: 20; Apvalaus stalo stilius: 24; Banketo stilius: 30", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 30
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 24
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 20
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 24
+                    }, 
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 30
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "", 
+                "name": "Mokymo sal\u0117", 
+                "Sal\u0117": "Mokymo sal\u0117", 
+                "Vie\u0161butis": "DAINAVA", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30; Klas\u0117s stilius: 24; U stilius: 20; Apvalaus stalo stilius: 24; Banketo stilius: 30", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 30
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 24
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 20
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 24
+                    }, 
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 30
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "", 
+                "name": "Prie\u0161salis", 
+                "Sal\u0117": "Prie\u0161salis", 
+                "Vie\u0161butis": "DAINAVA", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 40; U stilius: 30; Apvalaus stalo stilius: 30; Banketo stilius: 60", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 50
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 40
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 30
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 30
+                    }, 
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 60
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "DAINAVA", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30; Klas\u0117s stilius: 24; U stilius: 20; Apvalaus stalo stilius: 24; Banketo stilius: 30", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 30
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 24
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 20
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 24
+                    }, 
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 30
+                    }
+                ]
+            }
+        ], 
+        "size": 203
     }, 
     {
         "info": {
@@ -14246,20 +17076,24 @@ hotels = ([
         }, 
         "name": "TRASALIS", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.5560078, 
-            "lng": 23.3568465
-        }, 
         "address": "Gedimino g. 26, Trak\u0173 m., Trak\u0173 r.", 
+        "image_filename": "img/hotels/trasalis.png", 
         "halls": [
             {
+                "\u012eranga": "DVD grotuvas, Ekranas, Mikrofonas, Multimedia", 
+                "name": "Konferencij\u0173 sal\u0117", 
+                "Sal\u0117": "Konferencij\u0173 sal\u0117", 
+                "Vie\u0161butis": "TRASALIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "DVD grotuvas", 
                     "Ekranas", 
                     "Mikrofonas", 
                     "Multimedia"
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 100", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -14296,17 +17130,21 @@ hotels = ([
         }, 
         "name": "PARK INN KAUNAS", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.89879389999999, 
-            "lng": 23.9197192
-        }, 
         "address": "K. Donelai\u010dio g. 27, Kauno m.", 
+        "image_filename": "img/hotels/park-inn-kaunas.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "Alfa", 
+                "Sal\u0117": "Alfa", 
+                "Vie\u0161butis": "PARK INN KAUNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Alfa", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 450; Klas\u0117s stilius: 210; Banketo stilius: 300", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -14323,10 +17161,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Beta", 
+                "Sal\u0117": "Beta", 
+                "Vie\u0161butis": "PARK INN KAUNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Beta", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 160; Klas\u0117s stilius: 84; Banketo stilius: 60", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -14343,11 +17188,18 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Multimedia", 
+                "name": "Delta", 
+                "Sal\u0117": "Delta", 
+                "Vie\u0161butis": "PARK INN KAUNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Multimedia"
                 ], 
-                "name": "Delta", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 90; Klas\u0117s stilius: 48", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -14360,11 +17212,18 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Multimedia", 
+                "name": "Eta", 
+                "Sal\u0117": "Eta", 
+                "Vie\u0161butis": "PARK INN KAUNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Multimedia"
                 ], 
-                "name": "Eta", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 44; Klas\u0117s stilius: 24", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -14377,10 +17236,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas", 
+                "name": "Gamma", 
+                "Sal\u0117": "Gamma", 
+                "Vie\u0161butis": "PARK INN KAUNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas"
                 ], 
-                "name": "Gamma", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 130; Klas\u0117s stilius: 80", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -14393,11 +17259,18 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Multimedia", 
+                "name": "Omega", 
+                "Sal\u0117": "Omega", 
+                "Vie\u0161butis": "PARK INN KAUNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Multimedia"
                 ], 
-                "name": "Omega", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 28; Klas\u0117s stilius: 12", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -14410,11 +17283,18 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Multimedia", 
+                "name": "Sigma", 
+                "Sal\u0117": "Sigma", 
+                "Vie\u0161butis": "PARK INN KAUNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Multimedia"
                 ], 
-                "name": "Sigma", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 40; Klas\u0117s stilius: 24", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -14427,11 +17307,18 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Multimedia", 
+                "name": "Zeta", 
+                "Sal\u0117": "Zeta", 
+                "Vie\u0161butis": "PARK INN KAUNAS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Multimedia"
                 ], 
-                "name": "Zeta", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 44; Klas\u0117s stilius: 24", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -14472,17 +17359,21 @@ hotels = ([
         }, 
         "name": "\u0160IAULIAI", 
         "rank": 3, 
-        "coords": {
-            "lat": 55.9320758, 
-            "lng": 23.3142194
-        }, 
         "address": "Draugyst\u0117s pr. 25, \u0160iauliai", 
+        "image_filename": "img/hotels/a-iauliai.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "\u0160IAULIAI", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 100", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -14519,13 +17410,15 @@ hotels = ([
         }, 
         "name": "BEST WESTERN VILNIUS", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Konstitucijos pr. 14, Vilnius", 
+        "image_filename": "img/hotels/best-western-vilnius.png", 
         "halls": [
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Granito", 
+                "Sal\u0117": "Granito", 
+                "Vie\u0161butis": "BEST WESTERN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -14549,7 +17442,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Granito", 
+                "Plotas (kv. m.)": "190", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 200; Klas\u0117s stilius: 120; U stilius: 50; Apvalaus stalo stilius: 60; Banketo stilius: 150", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -14574,6 +17469,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Granito A", 
+                "Sal\u0117": "Granito A", 
+                "Vie\u0161butis": "BEST WESTERN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -14597,7 +17497,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Granito A", 
+                "Plotas (kv. m.)": "77", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 30; U stilius: 28; Apvalaus stalo stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -14618,6 +17520,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Granito A+B", 
+                "Sal\u0117": "Granito A+B", 
+                "Vie\u0161butis": "BEST WESTERN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -14641,7 +17548,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Granito A+B", 
+                "Plotas (kv. m.)": "126", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 120; Klas\u0117s stilius: 60; U stilius: 44; Apvalaus stalo stilius: 50", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -14662,6 +17571,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Marmuro", 
+                "Sal\u0117": "Marmuro", 
+                "Vie\u0161butis": "BEST WESTERN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -14685,7 +17599,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Marmuro", 
+                "Plotas (kv. m.)": "57", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 40; U stilius: 28; Apvalaus stalo stilius: 30; Banketo stilius: 28", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -14710,6 +17626,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Skaidri\u0173 projektorius, TV, Telefonas, Video grotuvas", 
+                "name": "Pos\u0117d\u017ei\u0173 sal\u0117", 
+                "Sal\u0117": "Pos\u0117d\u017ei\u0173 sal\u0117", 
+                "Vie\u0161butis": "BEST WESTERN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -14725,7 +17646,9 @@ hotels = ([
                     "Telefonas", 
                     "Video grotuvas"
                 ], 
-                "name": "Pos\u0117d\u017ei\u0173 sal\u0117", 
+                "Plotas (kv. m.)": "13", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Apvalaus stalo stilius: 10", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Apvalaus stalo stilius", 
@@ -14734,6 +17657,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Stiklo A", 
+                "Sal\u0117": "Stiklo A", 
+                "Vie\u0161butis": "BEST WESTERN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -14757,7 +17685,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Stiklo A", 
+                "Plotas (kv. m.)": "165", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 220; Klas\u0117s stilius: 150; U stilius: 70; Apvalaus stalo stilius: 80; Banketo stilius: 200", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -14782,6 +17712,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Stiklo A+B", 
+                "Sal\u0117": "Stiklo A+B", 
+                "Vie\u0161butis": "BEST WESTERN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -14805,7 +17740,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Stiklo A+B", 
+                "Plotas (kv. m.)": "366", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 420; Klas\u0117s stilius: 268; U stilius: 110; Apvalaus stalo stilius: 58; Banketo stilius: 280", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -14830,6 +17767,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Stiklo B", 
+                "Sal\u0117": "Stiklo B", 
+                "Vie\u0161butis": "BEST WESTERN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -14853,7 +17795,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Stiklo B", 
+                "Plotas (kv. m.)": "119", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 180; Klas\u0117s stilius: 130; U stilius: 50; Apvalaus stalo stilius: 60; Banketo stilius: 100", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -14906,13 +17850,15 @@ hotels = ([
         }, 
         "name": "CROWNE PLAZA VILNIUS", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.6819901, 
-            "lng": 25.2492951
-        }, 
         "address": "M. K. \u010ciurlionio g. 84, Vilnius", 
+        "image_filename": "img/hotels/crowne-plaza-vilnius.png", 
         "halls": [
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Koralin\u0117 A", 
+                "Sal\u0117": "Koralin\u0117 A", 
+                "Vie\u0161butis": "CROWNE PLAZA VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -14935,7 +17881,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Koralin\u0117 A", 
+                "Plotas (kv. m.)": "86", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 83; Klas\u0117s stilius: 32; U stilius: 28; Apvalaus stalo stilius: 28; Banketo stilius: 40", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -14960,6 +17908,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Koralin\u0117 (A+B)", 
+                "Sal\u0117": "Koralin\u0117 (A+B)", 
+                "Vie\u0161butis": "CROWNE PLAZA VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -14982,7 +17935,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Koralin\u0117 (A+B)", 
+                "Plotas (kv. m.)": "163", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 156; Klas\u0117s stilius: 64; U stilius: 56; Apvalaus stalo stilius: 60; Banketo stilius: 80", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -15007,6 +17962,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Koralin\u0117 B", 
+                "Sal\u0117": "Koralin\u0117 B", 
+                "Vie\u0161butis": "CROWNE PLAZA VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -15029,7 +17989,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Koralin\u0117 B", 
+                "Plotas (kv. m.)": "77", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 73; Klas\u0117s stilius: 32; U stilius: 28; Apvalaus stalo stilius: 28; Banketo stilius: 40", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -15054,6 +18016,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Kri\u0161tolin\u0117", 
+                "Sal\u0117": "Kri\u0161tolin\u0117", 
+                "Vie\u0161butis": "CROWNE PLAZA VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -15076,7 +18043,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Kri\u0161tolin\u0117", 
+                "Plotas (kv. m.)": "26", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Apvalaus stalo stilius: 10", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Apvalaus stalo stilius", 
@@ -15085,6 +18054,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Malachitin\u0117 A", 
+                "Sal\u0117": "Malachitin\u0117 A", 
+                "Vie\u0161butis": "CROWNE PLAZA VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -15107,7 +18081,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Malachitin\u0117 A", 
+                "Plotas (kv. m.)": "57", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 12; U stilius: 20; Apvalaus stalo stilius: 20; Banketo stilius: 20", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -15128,6 +18104,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Malachitin\u0117 B", 
+                "Sal\u0117": "Malachitin\u0117 B", 
+                "Vie\u0161butis": "CROWNE PLAZA VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -15150,7 +18131,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Malachitin\u0117 B", 
+                "Plotas (kv. m.)": "36", 
+                "Viet. i\u0161d\u0117st. ir sk.": "U stilius: 12; Apvalaus stalo stilius: 16; Banketo stilius: 10", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -15167,6 +18150,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Safyrin\u0117 A", 
+                "Sal\u0117": "Safyrin\u0117 A", 
+                "Vie\u0161butis": "CROWNE PLAZA VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -15189,7 +18177,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Safyrin\u0117 A", 
+                "Plotas (kv. m.)": "160", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 156; Klas\u0117s stilius: 82; U stilius: 44; Apvalaus stalo stilius: 52; Banketo stilius: 80", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -15214,6 +18204,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Safyrin\u0117 (A+B+C)", 
+                "Sal\u0117": "Safyrin\u0117 (A+B+C)", 
+                "Vie\u0161butis": "CROWNE PLAZA VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -15236,7 +18231,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Safyrin\u0117 (A+B+C)", 
+                "Plotas (kv. m.)": "550", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 530; Klas\u0117s stilius: 250; U stilius: 100; Apvalaus stalo stilius: 156; Banketo stilius: 300", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -15261,6 +18258,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Safyrin\u0117 B", 
+                "Sal\u0117": "Safyrin\u0117 B", 
+                "Vie\u0161butis": "CROWNE PLAZA VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -15283,7 +18285,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Safyrin\u0117 B", 
+                "Plotas (kv. m.)": "225", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 220; Klas\u0117s stilius: 100; U stilius: 54; Apvalaus stalo stilius: 60; Banketo stilius: 100", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -15308,6 +18312,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Safyrin\u0117 C", 
+                "Sal\u0117": "Safyrin\u0117 C", 
+                "Vie\u0161butis": "CROWNE PLAZA VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -15330,7 +18339,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Safyrin\u0117 C", 
+                "Plotas (kv. m.)": "140", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 135; Klas\u0117s stilius: 66; U stilius: 40; Apvalaus stalo stilius: 44; Banketo stilius: 70", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -15383,13 +18394,15 @@ hotels = ([
         }, 
         "name": "RADISSON BLU ASTORIJA", 
         "rank": 5, 
-        "coords": {
-            "lat": 54.6772841, 
-            "lng": 25.2877592
-        }, 
         "address": "Vilnius, Did\u017eioji g. 35", 
+        "image_filename": "img/hotels/radisson-blu-astorija.png", 
         "halls": [
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Diskusiniai mikrofonai, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Arija", 
+                "Sal\u0117": "Arija", 
+                "Vie\u0161butis": "RADISSON BLU ASTORIJA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -15411,7 +18424,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Arija", 
+                "Plotas (kv. m.)": "27", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 20; U stilius: 12", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -15424,6 +18439,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Diskusiniai mikrofonai, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Fuga", 
+                "Sal\u0117": "Fuga", 
+                "Vie\u0161butis": "RADISSON BLU ASTORIJA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -15445,7 +18465,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Fuga", 
+                "Plotas (kv. m.)": "22", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 20", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -15454,6 +18476,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Diskusiniai mikrofonai, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Oktava", 
+                "Sal\u0117": "Oktava", 
+                "Vie\u0161butis": "RADISSON BLU ASTORIJA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -15475,7 +18502,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Oktava", 
+                "Plotas (kv. m.)": "12", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Apvalaus stalo stilius: 4", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Apvalaus stalo stilius", 
@@ -15484,6 +18513,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Diskusiniai mikrofonai, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Simfonija 1", 
+                "Sal\u0117": "Simfonija 1", 
+                "Vie\u0161butis": "RADISSON BLU ASTORIJA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -15507,7 +18541,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Simfonija 1", 
+                "Plotas (kv. m.)": "61", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 30; U stilius: 20; Banketo stilius: 32", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -15528,6 +18564,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Diskusiniai mikrofonai, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Simfonija 1+2", 
+                "Sal\u0117": "Simfonija 1+2", 
+                "Vie\u0161butis": "RADISSON BLU ASTORIJA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -15551,7 +18592,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Simfonija 1+2", 
+                "Plotas (kv. m.)": "124", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 130; Klas\u0117s stilius: 70; U stilius: 40; Banketo stilius: 64", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -15572,6 +18615,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Diskusiniai mikrofonai, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Simfonija 2", 
+                "Sal\u0117": "Simfonija 2", 
+                "Vie\u0161butis": "RADISSON BLU ASTORIJA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -15595,7 +18643,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Simfonija 2", 
+                "Plotas (kv. m.)": "63", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 30; U stilius: 25; Banketo stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -15616,6 +18666,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Diskusiniai mikrofonai, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Simfonija+Lobby", 
+                "Sal\u0117": "Simfonija+Lobby", 
+                "Vie\u0161butis": "RADISSON BLU ASTORIJA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -15639,7 +18694,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Simfonija+Lobby", 
+                "Plotas (kv. m.)": "158", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 130; Klas\u0117s stilius: 100; U stilius: 40; Banketo stilius: 96", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -15660,6 +18717,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Diskusiniai mikrofonai, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Sonata", 
+                "Sal\u0117": "Sonata", 
+                "Vie\u0161butis": "RADISSON BLU ASTORIJA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -15683,7 +18745,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Sonata", 
+                "Plotas (kv. m.)": "64", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; U stilius: 14; Banketo stilius: 24", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -15701,6 +18765,478 @@ hotels = ([
             }
         ], 
         "size": 221
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "Dvira\u010diai, Karietos, ve\u017eimai", 
+            "Maitinimo paslaugos": "Baras, Restoranas", 
+            "Oficialus \u012fm. pavadinimas": "UAB \"ESKOM\"", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "", 
+            "Kambari\u0173 skai\u010dius": "98", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Automobili\u0173 nuoma, Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Suvenyr\u0173 parduotuv\u0117, Treniruokli\u0173 sal\u0117, Turki\u0161ka pirtis, Vaik\u0173 prie\u017eiura, Verslo centras", 
+            "Telefonas": "46041199", 
+            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2011.10.06", 
+            "El. pa\u0161tas": "hotel@vanagupe.lt", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "Fakso aparatas, Internetinis ry\u0161ys, Kopijavimo aparatas", 
+            "Faksas": "46031199", 
+            "Klas\u0117": "5*", 
+            "Viet\u0173 skai\u010dius": "223", 
+            "Sveikatingumo paslaugos": "S\u016bkurin\u0117s vandens vonios (g\u0117lo vandens pagrindu)", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "VANAGUP\u0116", 
+        "rank": 5, 
+        "address": "Palangos m. sav., Palanga, Vanagup\u0117s g. 31", 
+        "halls": [
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Akmena", 
+                "Sal\u0117": "Akmena", 
+                "Vie\u0161butis": "VANAGUP\u0116", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Ekranas", 
+                    "Grafinis projektorius", 
+                    "Interneto ry\u0161ys", 
+                    "Kompiuteris", 
+                    "Lazerin\u0117 rodykl\u0117", 
+                    "Mikrofonas", 
+                    "Multimedia", 
+                    "Oro kondicionierius", 
+                    "Popierius", 
+                    "Ra\u0161ymo lenta", 
+                    "Sinchroninis vertimas", 
+                    "TV", 
+                    "Telefonas", 
+                    "Trib\u016bna", 
+                    "Video grotuvas", 
+                    "\u012eranga garso \u012fra\u0161ymui"
+                ], 
+                "Plotas (kv. m.)": "100", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 40; U stilius: 36; Apvalaus stalo stilius: 56; Banketo stilius: 40", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 60
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 40
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 36
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 56
+                    }, 
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 40
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Alanta", 
+                "Sal\u0117": "Alanta", 
+                "Vie\u0161butis": "VANAGUP\u0116", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Ekranas", 
+                    "Grafinis projektorius", 
+                    "Interneto ry\u0161ys", 
+                    "Kompiuteris", 
+                    "Lazerin\u0117 rodykl\u0117", 
+                    "Mikrofonas", 
+                    "Multimedia", 
+                    "Oro kondicionierius", 
+                    "Popierius", 
+                    "Ra\u0161ymo lenta", 
+                    "Sinchroninis vertimas", 
+                    "TV", 
+                    "Telefonas", 
+                    "Trib\u016bna", 
+                    "Video grotuvas", 
+                    "\u012eranga garso \u012fra\u0161ymui"
+                ], 
+                "Plotas (kv. m.)": "72", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 44; Klas\u0117s stilius: 30; U stilius: 24; Apvalaus stalo stilius: 32; Banketo stilius: 24", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 44
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 30
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 24
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 32
+                    }, 
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 24
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Dan\u0117", 
+                "Sal\u0117": "Dan\u0117", 
+                "Vie\u0161butis": "VANAGUP\u0116", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Ekranas", 
+                    "Grafinis projektorius", 
+                    "Interneto ry\u0161ys", 
+                    "Kompiuteris", 
+                    "Lazerin\u0117 rodykl\u0117", 
+                    "Mikrofonas", 
+                    "Multimedia", 
+                    "Oro kondicionierius", 
+                    "Popierius", 
+                    "Ra\u0161ymo lenta", 
+                    "Sinchroninis vertimas", 
+                    "TV", 
+                    "Telefonas", 
+                    "Trib\u016bna", 
+                    "Video grotuvas", 
+                    "\u012eranga garso \u012fra\u0161ymui"
+                ], 
+                "Plotas (kv. m.)": "60", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 36; Klas\u0117s stilius: 24; U stilius: 20; Apvalaus stalo stilius: 32", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 36
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 24
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 20
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 32
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Dubysa", 
+                "Sal\u0117": "Dubysa", 
+                "Vie\u0161butis": "VANAGUP\u0116", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Ekranas", 
+                    "Grafinis projektorius", 
+                    "Interneto ry\u0161ys", 
+                    "Kompiuteris", 
+                    "Lazerin\u0117 rodykl\u0117", 
+                    "Mikrofonas", 
+                    "Multimedia", 
+                    "Oro kondicionierius", 
+                    "Popierius", 
+                    "Ra\u0161ymo lenta", 
+                    "Sinchroninis vertimas", 
+                    "TV", 
+                    "Telefonas", 
+                    "Trib\u016bna", 
+                    "Video grotuvas", 
+                    "\u012eranga garso \u012fra\u0161ymui"
+                ], 
+                "Plotas (kv. m.)": "312", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 400; Klas\u0117s stilius: 200; Apvalaus stalo stilius: 184; Banketo stilius: 200", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 400
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 200
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 184
+                    }, 
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 200
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Erla", 
+                "Sal\u0117": "Erla", 
+                "Vie\u0161butis": "VANAGUP\u0116", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Ekranas", 
+                    "Grafinis projektorius", 
+                    "Interneto ry\u0161ys", 
+                    "Kompiuteris", 
+                    "Lazerin\u0117 rodykl\u0117", 
+                    "Mikrofonas", 
+                    "Multimedia", 
+                    "Oro kondicionierius", 
+                    "Popierius", 
+                    "Ra\u0161ymo lenta", 
+                    "Sinchroninis vertimas", 
+                    "TV", 
+                    "Telefonas", 
+                    "Trib\u016bna", 
+                    "Video grotuvas", 
+                    "\u012eranga garso \u012fra\u0161ymui"
+                ], 
+                "Plotas (kv. m.)": "211", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 145; Klas\u0117s stilius: 90; U stilius: 65; Apvalaus stalo stilius: 88; Banketo stilius: 56", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 145
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 90
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 65
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 88
+                    }, 
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 56
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "J\u016bra", 
+                "Sal\u0117": "J\u016bra", 
+                "Vie\u0161butis": "VANAGUP\u0116", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Ekranas", 
+                    "Grafinis projektorius", 
+                    "Interneto ry\u0161ys", 
+                    "Kompiuteris", 
+                    "Lazerin\u0117 rodykl\u0117", 
+                    "Mikrofonas", 
+                    "Multimedia", 
+                    "Oro kondicionierius", 
+                    "Popierius", 
+                    "Ra\u0161ymo lenta", 
+                    "Sinchroninis vertimas", 
+                    "TV", 
+                    "Telefonas", 
+                    "Trib\u016bna", 
+                    "Video grotuvas", 
+                    "\u012eranga garso \u012fra\u0161ymui"
+                ], 
+                "Plotas (kv. m.)": "60", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 36; Klas\u0117s stilius: 24; U stilius: 20; Apvalaus stalo stilius: 32", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 36
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 24
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 20
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 32
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Minija", 
+                "Sal\u0117": "Minija", 
+                "Vie\u0161butis": "VANAGUP\u0116", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Ekranas", 
+                    "Grafinis projektorius", 
+                    "Interneto ry\u0161ys", 
+                    "Kompiuteris", 
+                    "Lazerin\u0117 rodykl\u0117", 
+                    "Mikrofonas", 
+                    "Multimedia", 
+                    "Oro kondicionierius", 
+                    "Popierius", 
+                    "Ra\u0161ymo lenta", 
+                    "Scena", 
+                    "Sinchroninis vertimas", 
+                    "TV", 
+                    "Telefonas", 
+                    "Trib\u016bna", 
+                    "Video grotuvas", 
+                    "\u012eranga garso \u012fra\u0161ymui"
+                ], 
+                "Plotas (kv. m.)": "170", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 198", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 198
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "\u0160ventoji", 
+                "Sal\u0117": "\u0160ventoji", 
+                "Vie\u0161butis": "VANAGUP\u0116", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Ekranas", 
+                    "Grafinis projektorius", 
+                    "Interneto ry\u0161ys", 
+                    "Kompiuteris", 
+                    "Lazerin\u0117 rodykl\u0117", 
+                    "Mikrofonas", 
+                    "Multimedia", 
+                    "Oro kondicionierius", 
+                    "Popierius", 
+                    "Ra\u0161ymo lenta", 
+                    "Sinchroninis vertimas", 
+                    "TV", 
+                    "Telefonas", 
+                    "Trib\u016bna", 
+                    "Video grotuvas", 
+                    "\u012eranga garso \u012fra\u0161ymui"
+                ], 
+                "Plotas (kv. m.)": "139", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 65; Klas\u0117s stilius: 40; U stilius: 25; Apvalaus stalo stilius: 40; Banketo stilius: 24", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 65
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 40
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 25
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 40
+                    }, 
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 24
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Venta", 
+                "Sal\u0117": "Venta", 
+                "Vie\u0161butis": "VANAGUP\u0116", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Ekranas", 
+                    "Grafinis projektorius", 
+                    "Interneto ry\u0161ys", 
+                    "Kompiuteris", 
+                    "Lazerin\u0117 rodykl\u0117", 
+                    "Mikrofonas", 
+                    "Multimedia", 
+                    "Oro kondicionierius", 
+                    "Popierius", 
+                    "Ra\u0161ymo lenta", 
+                    "Sinchroninis vertimas", 
+                    "TV", 
+                    "Telefonas", 
+                    "Trib\u016bna", 
+                    "Video grotuvas", 
+                    "\u012eranga garso \u012fra\u0161ymui"
+                ], 
+                "Plotas (kv. m.)": "139", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 100; Klas\u0117s stilius: 60; U stilius: 40; Apvalaus stalo stilius: 48; Banketo stilius: 40", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 100
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 60
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 40
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 48
+                    }, 
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 40
+                    }
+                ]
+            }
+        ], 
+        "size": 223
     }, 
     {
         "info": {
@@ -15728,13 +19264,15 @@ hotels = ([
         }, 
         "name": "MARTIALIS", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.7062106, 
-            "lng": 25.3206651
-        }, 
         "address": "Bistry\u010dios g. 13, Vilnius", 
+        "image_filename": "img/hotels/martialis.png", 
         "halls": [
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Interneto ry\u0161ys, Kompiuteris, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, TV", 
+                "name": "Did\u017eioji sal\u0117", 
+                "Sal\u0117": "Did\u017eioji sal\u0117", 
+                "Vie\u0161butis": "MARTIALIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -15746,7 +19284,9 @@ hotels = ([
                     "Ra\u0161ymo lenta", 
                     "TV"
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "Plotas (kv. m.)": "83", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 65; Klas\u0117s stilius: 24; U stilius: 30; Apvalaus stalo stilius: 36; Banketo stilius: 36", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -15771,6 +19311,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Interneto ry\u0161ys, Kompiuteris, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, TV", 
+                "name": "Ma\u017eoji sal\u0117", 
+                "Sal\u0117": "Ma\u017eoji sal\u0117", 
+                "Vie\u0161butis": "MARTIALIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -15782,7 +19327,9 @@ hotels = ([
                     "Ra\u0161ymo lenta", 
                     "TV"
                 ], 
-                "name": "Ma\u017eoji sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 20; Klas\u0117s stilius: 8; U stilius: 16; Apvalaus stalo stilius: 16; Banketo stilius: 16", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -15807,6 +19354,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Interneto ry\u0161ys, Kompiuteris, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, TV", 
+                "name": "Restoranas", 
+                "Sal\u0117": "Restoranas", 
+                "Vie\u0161butis": "MARTIALIS", 
+                "Konferencijoms": "", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -15818,7 +19370,9 @@ hotels = ([
                     "Ra\u0161ymo lenta", 
                     "TV"
                 ], 
-                "name": "Restoranas", 
+                "Plotas (kv. m.)": "200", 
+                "Viet. i\u0161d\u0117st. ir sk.": "U stilius: 120; Banketo stilius: 120", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "U stilius", 
@@ -15831,6 +19385,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Interneto ry\u0161ys, Kompiuteris, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, TV", 
+                "name": "Stiklo sal\u0117", 
+                "Sal\u0117": "Stiklo sal\u0117", 
+                "Vie\u0161butis": "MARTIALIS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -15842,7 +19401,9 @@ hotels = ([
                     "Ra\u0161ymo lenta", 
                     "TV"
                 ], 
-                "name": "Stiklo sal\u0117", 
+                "Plotas (kv. m.)": "70", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 20; U stilius: 22; Apvalaus stalo stilius: 30; Banketo stilius: 30", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -15895,17 +19456,21 @@ hotels = ([
         }, 
         "name": "J\u016aRAT\u0116", 
         "rank": 2, 
-        "coords": {
-            "lat": 55.3062984, 
-            "lng": 21.0062504
-        }, 
         "address": "Pamario g. 3, Neringa", 
+        "image_filename": "img/hotels/jaarata.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "J\u016aRAT\u0116", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 100", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -15915,6 +19480,63 @@ hotels = ([
             }
         ], 
         "size": 226
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "", 
+            "Maitinimo paslaugos": "Kavin\u0117", 
+            "Oficialus \u012fm. pavadinimas": "AB \"PALANGOS LINAS\"", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "", 
+            "Kambari\u0173 skai\u010dius": "104", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Biliardas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Treniruokli\u0173 sal\u0117", 
+            "Telefonas": "46056204", 
+            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2015.03.06", 
+            "El. pa\u0161tas": "rezervacija@palangoslinas.com", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "46052950", 
+            "Klas\u0117": "3*", 
+            "Viet\u0173 skai\u010dius": "237", 
+            "Sveikatingumo paslaugos": "Aerofitoterapija (grupin\u0117), Aerofitoterapija (indivuduali), Biocheminiai tyrimai, Darsonvalizacija, Deguonies terapija, Dietoterapija, Ergoterapija, Fizioterapija, Fonoforez\u0117, Klasikinis masa\u017eas, Lazerio terapija, Logoterapija, Magnetoterapija, Manualin\u0117 kineziterapija, Mechanoterapija, Mikrobang\u0173 terapija, Mineralinio vandens vonios (g\u0117lo vandens pagrindu), Mineralinio vandens vonios (mineralinio vandens pagrindu), Muzikos terapija, Perlin\u0117s vonios (g\u0117lo vandens pagrindu), Perlin\u0117s vonios (mineralinio vandens pagrindu), Povandeninis masa\u017eas (g\u0117lo vandens pagrindu), Povandeninis masa\u017eas (mineralinio vandens pagrindu), Psichofizin\u0117 treniruot\u0117, Relakcinis masa\u017eas, S\u016bkurin\u0117s vandens vonios (g\u0117lo vandens pagrindu), S\u016bkurin\u0117s vandens vonios (mineralinio vandens pagrindu), Vaista\u017eoli\u0173 vonios (g\u0117lo vandens pagrindu), Vaista\u017eoli\u0173 vonios (mineralinio vandens pagrindu), Vertikalios vandens vonios (g\u0117lo vandens pagrindu), Vertikalios vonios (mineralinio vandens pagrindu), \u0160ildomosios aplikacijos", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "PALANGOS LINAS", 
+        "rank": 3, 
+        "address": "Palangos m. sav., Palanga, Vytauto g. 155", 
+        "image_filename": "img/hotels/palangos-linas.png", 
+        "halls": [
+            {
+                "\u012eranga": "Ekranas, Interneto ry\u0161ys, Ra\u0161ymo lenta, Scena, TV, Trib\u016bna, Video grotuvas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "PALANGOS LINAS", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "Ekranas", 
+                    "Interneto ry\u0161ys", 
+                    "Ra\u0161ymo lenta", 
+                    "Scena", 
+                    "TV", 
+                    "Trib\u016bna", 
+                    "Video grotuvas"
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 350", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 350
+                    }
+                ]
+            }
+        ], 
+        "size": 237
     }, 
     {
         "info": {
@@ -15942,13 +19564,15 @@ hotels = ([
         }, 
         "name": "EUROPA CITY VILNIUS", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Vilniaus m. sav., Vilnius, J. Jasinskio g. 14", 
+        "image_filename": "img/hotels/europa-city-vilnius.png", 
         "halls": [
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Did\u017eioji sal\u0117", 
+                "Sal\u0117": "Did\u017eioji sal\u0117", 
+                "Vie\u0161butis": "EUROPA CITY VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -15970,7 +19594,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Did\u017eioji sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 150; Klas\u0117s stilius: 80; U stilius: 45; Apvalaus stalo stilius: 70; Banketo stilius: 70", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -15995,6 +19621,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Rytin\u0117 sal\u0117", 
+                "Sal\u0117": "Rytin\u0117 sal\u0117", 
+                "Vie\u0161butis": "EUROPA CITY VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -16016,7 +19647,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Rytin\u0117 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 35; Klas\u0117s stilius: 20; U stilius: 24; Apvalaus stalo stilius: 25; Banketo stilius: 25", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16041,6 +19674,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Vakarin\u0117 sal\u0117", 
+                "Sal\u0117": "Vakarin\u0117 sal\u0117", 
+                "Vie\u0161butis": "EUROPA CITY VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -16062,7 +19700,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Vakarin\u0117 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 45; Klas\u0117s stilius: 20; U stilius: 24; Apvalaus stalo stilius: 30; Banketo stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16087,6 +19727,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "1 sal\u0117", 
+                "Sal\u0117": "1 sal\u0117", 
+                "Vie\u0161butis": "EUROPA CITY VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -16108,7 +19753,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "1 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 75; Klas\u0117s stilius: 60; U stilius: 30; Apvalaus stalo stilius: 50; Banketo stilius: 50", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16133,6 +19780,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "2 sal\u0117", 
+                "Sal\u0117": "2 sal\u0117", 
+                "Vie\u0161butis": "EUROPA CITY VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -16154,7 +19806,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "2 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 35; Klas\u0117s stilius: 25; U stilius: 15; Apvalaus stalo stilius: 20; Banketo stilius: 20", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16207,18 +19861,22 @@ hotels = ([
         }, 
         "name": "GREEN VILNIUS HOTEL", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Pilait\u0117s pr. 20, Vilnius", 
+        "image_filename": "img/hotels/green-vilnius-hotel.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Video projektorius", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "GREEN VILNIUS HOTEL", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Video projektorius"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Banketo stilius: 80", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Banketo stilius", 
@@ -16255,17 +19913,21 @@ hotels = ([
         }, 
         "name": "HOLIDAY INN VILNIUS", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.6946412, 
-            "lng": 25.2821337
-        }, 
         "address": "\u0160eimyni\u0161ki\u0173 g. 1, Vilniaus m.", 
+        "image_filename": "img/hotels/holiday-inn-vilnius.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "Columbus", 
+                "Sal\u0117": "Columbus", 
+                "Vie\u0161butis": "HOLIDAY INN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Columbus", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 250; Klas\u0117s stilius: 100; U stilius: 50; Apvalaus stalo stilius: 25; Banketo stilius: 140", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16290,10 +19952,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Cousteau", 
+                "Sal\u0117": "Cousteau", 
+                "Vie\u0161butis": "HOLIDAY INN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Cousteau", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 40; Klas\u0117s stilius: 18; U stilius: 18; Apvalaus stalo stilius: 220; Banketo stilius: 25", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16318,10 +19987,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Heyerdahl", 
+                "Sal\u0117": "Heyerdahl", 
+                "Vie\u0161butis": "HOLIDAY INN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Heyerdahl", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30; Klas\u0117s stilius: 12; U stilius: 14; Banketo stilius: 16", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16342,10 +20018,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Heyerdahl + Costeau", 
+                "Sal\u0117": "Heyerdahl + Costeau", 
+                "Vie\u0161butis": "HOLIDAY INN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Heyerdahl + Costeau", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 90; Klas\u0117s stilius: 40; U stilius: 36; Apvalaus stalo stilius: 25", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16366,10 +20049,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Livingstone", 
+                "Sal\u0117": "Livingstone", 
+                "Vie\u0161butis": "HOLIDAY INN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Livingstone", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30; Klas\u0117s stilius: 12; U stilius: 14; Banketo stilius: 16", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16418,17 +20108,21 @@ hotels = ([
         }, 
         "name": "DRUSKININK\u0172 SVEIKATINIMO IR POILSIO CENTRAS AQUA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Vilniaus al. 13, Druskinink\u0173 m., Druskinink\u0173 sav.", 
+        "image_filename": "img/hotels/druskininka-sveikatinimo-ir-poilsio-centras-aqua.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "DRUSKININK\u0172 SVEIKATINIMO IR POILSIO CENTRAS AQUA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 155", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -16437,10 +20131,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "DRUSKININK\u0172 SVEIKATINIMO IR POILSIO CENTRAS AQUA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 250", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Klas\u0117s stilius", 
@@ -16450,6 +20151,195 @@ hotels = ([
             }
         ], 
         "size": 273
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "Dvira\u010diai", 
+            "Maitinimo paslaugos": "Restoranas", 
+            "Oficialus \u012fm. pavadinimas": "Valstybin\u0117 \u012fmon\u0117 Poilsio namai \"Baltija\"", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambari\u0173 skai\u010dius": "145", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Automobili\u0173 nuoma, Baseinas, Biliardas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Seifas, Skalbimas ir valymas", 
+            "Telefonas": "46049147", 
+            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2015.03.06", 
+            "El. pa\u0161tas": "vyturys@is.lt", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "46049198", 
+            "Klas\u0117": "2*", 
+            "Viet\u0173 skai\u010dius": "284", 
+            "Sveikatingumo paslaugos": "Angliar\u016bk\u0161t\u0117s vonios (g\u0117lo vandens pagrindu), Fizioterapija, Klasikinis masa\u017eas, Manualin\u0117 kineziterapija, Mineralinio vandens vonios (g\u0117lo vandens pagrindu), Perlin\u0117s vonios (g\u0117lo vandens pagrindu), Povandeninis masa\u017eas (g\u0117lo vandens pagrindu), Psichofizin\u0117 treniruot\u0117, Relakcinis masa\u017eas, Vaista\u017eoli\u0173 vonios (g\u0117lo vandens pagrindu), Vertikalios vandens vonios (g\u0117lo vandens pagrindu)", 
+            "Pramogos": "Interneto kavin\u0117", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "VYTURYS", 
+        "rank": 2, 
+        "address": "Palangos m. sav., Palanga, S. Dariaus ir S. Gir\u0117no g. 20", 
+        "image_filename": "img/hotels/vyturys.png", 
+        "halls": [
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Mikrofonas, Multimedia, Popierius, Ra\u0161ymo lenta, TV, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Klas\u0117", 
+                "Sal\u0117": "Klas\u0117", 
+                "Vie\u0161butis": "VYTURYS", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Ekranas", 
+                    "Grafinis projektorius", 
+                    "Interneto ry\u0161ys", 
+                    "Mikrofonas", 
+                    "Multimedia", 
+                    "Popierius", 
+                    "Ra\u0161ymo lenta", 
+                    "TV", 
+                    "Trib\u016bna", 
+                    "Video grotuvas", 
+                    "\u012eranga garso \u012fra\u0161ymui"
+                ], 
+                "Plotas (kv. m.)": "40", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Klas\u0117s stilius: 30", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 30
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Mikrofonas, Multimedia, Popierius, Ra\u0161ymo lenta, Scena, TV, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Koncert\u0173 sal\u0117", 
+                "Sal\u0117": "Koncert\u0173 sal\u0117", 
+                "Vie\u0161butis": "VYTURYS", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Ekranas", 
+                    "Grafinis projektorius", 
+                    "Interneto ry\u0161ys", 
+                    "Mikrofonas", 
+                    "Multimedia", 
+                    "Popierius", 
+                    "Ra\u0161ymo lenta", 
+                    "Scena", 
+                    "TV", 
+                    "Trib\u016bna", 
+                    "Video grotuvas", 
+                    "\u012eranga garso \u012fra\u0161ymui"
+                ], 
+                "Plotas (kv. m.)": "200", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 220", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 220
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Mikrofonas, Multimedia, Popierius, Ra\u0161ymo lenta, TV, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Pob\u016bvi\u0173 sal\u0117", 
+                "Sal\u0117": "Pob\u016bvi\u0173 sal\u0117", 
+                "Vie\u0161butis": "VYTURYS", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Ekranas", 
+                    "Grafinis projektorius", 
+                    "Interneto ry\u0161ys", 
+                    "Mikrofonas", 
+                    "Multimedia", 
+                    "Popierius", 
+                    "Ra\u0161ymo lenta", 
+                    "TV", 
+                    "Trib\u016bna", 
+                    "Video grotuvas", 
+                    "\u012eranga garso \u012fra\u0161ymui"
+                ], 
+                "Plotas (kv. m.)": "52", 
+                "Viet. i\u0161d\u0117st. ir sk.": "U stilius: 24", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "U stilius", 
+                        "people": 24
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Mikrofonas, Multimedia, Popierius, Ra\u0161ymo lenta, TV, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Restorano sal\u0117", 
+                "Sal\u0117": "Restorano sal\u0117", 
+                "Vie\u0161butis": "VYTURYS", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Ekranas", 
+                    "Grafinis projektorius", 
+                    "Interneto ry\u0161ys", 
+                    "Mikrofonas", 
+                    "Multimedia", 
+                    "Popierius", 
+                    "Ra\u0161ymo lenta", 
+                    "TV", 
+                    "Trib\u016bna", 
+                    "Video grotuvas", 
+                    "\u012eranga garso \u012fra\u0161ymui"
+                ], 
+                "Plotas (kv. m.)": "200", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Banketo stilius: 150", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 150
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Mikrofonas, Multimedia, Popierius, Ra\u0161ymo lenta, Scena, TV, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Valgyklos", 
+                "Sal\u0117": "Valgyklos", 
+                "Vie\u0161butis": "VYTURYS", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Ekranas", 
+                    "Grafinis projektorius", 
+                    "Interneto ry\u0161ys", 
+                    "Mikrofonas", 
+                    "Multimedia", 
+                    "Popierius", 
+                    "Ra\u0161ymo lenta", 
+                    "Scena", 
+                    "TV", 
+                    "Trib\u016bna", 
+                    "Video grotuvas", 
+                    "\u012eranga garso \u012fra\u0161ymui"
+                ], 
+                "Plotas (kv. m.)": "200", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Banketo stilius: 150", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 150
+                    }
+                ]
+            }
+        ], 
+        "size": 284
     }, 
     {
         "info": {
@@ -16477,13 +20367,15 @@ hotels = ([
         }, 
         "name": "KLAIP\u0116DA", 
         "rank": 4, 
-        "coords": {
-            "lat": 55.7109458, 
-            "lng": 21.1291436
-        }, 
         "address": "Naujojo Sodo g. 1, Klaip\u0117da", 
+        "image_filename": "img/hotels/klaipada.png", 
         "halls": [
             {
+                "\u012eranga": "Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Did\u017eioji", 
+                "Sal\u0117": "Did\u017eioji", 
+                "Vie\u0161butis": "KLAIP\u0116DA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
@@ -16501,7 +20393,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Did\u017eioji", 
+                "Plotas (kv. m.)": "161", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 220; Klas\u0117s stilius: 70; U stilius: 45; Apvalaus stalo stilius: 40; Banketo stilius: 100", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16526,6 +20420,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Telefonas, Video grotuvas", 
+                "name": "Ma\u017eoji", 
+                "Sal\u0117": "Ma\u017eoji", 
+                "Vie\u0161butis": "KLAIP\u0116DA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
@@ -16539,7 +20438,9 @@ hotels = ([
                     "Telefonas", 
                     "Video grotuvas"
                 ], 
-                "name": "Ma\u017eoji", 
+                "Plotas (kv. m.)": "27", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 25; Klas\u0117s stilius: 15; U stilius: 10; Apvalaus stalo stilius: 10", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16560,6 +20461,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas", 
+                "name": "Naujoji", 
+                "Sal\u0117": "Naujoji", 
+                "Vie\u0161butis": "KLAIP\u0116DA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
@@ -16576,7 +20482,9 @@ hotels = ([
                     "Trib\u016bna", 
                     "Video grotuvas"
                 ], 
-                "name": "Naujoji", 
+                "Plotas (kv. m.)": "125", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 100; Klas\u0117s stilius: 65; U stilius: 40; Apvalaus stalo stilius: 40; Banketo stilius: 70", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16601,6 +20509,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Skaidri\u0173 projektorius, TV, Telefonas, Video grotuvas", 
+                "name": "Pasitarim\u0173 kambarys", 
+                "Sal\u0117": "Pasitarim\u0173 kambarys", 
+                "Vie\u0161butis": "KLAIP\u0116DA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Ekranas", 
                     "Grafinis projektorius", 
@@ -16614,7 +20527,9 @@ hotels = ([
                     "Telefonas", 
                     "Video grotuvas"
                 ], 
-                "name": "Pasitarim\u0173 kambarys", 
+                "Plotas (kv. m.)": "22", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 20; Klas\u0117s stilius: 15; U stilius: 10; Apvalaus stalo stilius: 10", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16636,6 +20551,75 @@ hotels = ([
             }
         ], 
         "size": 307
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "", 
+            "Maitinimo paslaugos": "Kavin\u0117, Valgykla", 
+            "Oficialus \u012fm. pavadinimas": "UAB \"Lietuvos\" sanatorija", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "Pirmadienis: 0-24; Atradienis: 0-24; Tre\u010diadienis: 0-24; Ketvirtadienis: 0-24; Penktadienis: 0-24; \u0160e\u0161tadienis: 0-24; Sekmadienis: 0-24", 
+            "Kambari\u0173 skai\u010dius": "160", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Ma\u0161in\u0173 stov\u0117jimo aik\u0161tel\u0117, Pirtis/Sauna, Teniso kortai, Treniruokli\u0173 sal\u0117", 
+            "Telefonas": "31352414", 
+            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2011.05.23", 
+            "El. pa\u0161tas": "info@sanatorijalietuva.lt", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "31355490", 
+            "Klas\u0117": "3*", 
+            "Viet\u0173 skai\u010dius": "312", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "LIETUVA", 
+        "rank": 3, 
+        "address": "Druskinink\u0173 sav., Druskininkai, Maironio g. 45", 
+        "halls": [
+            {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "LIETUVA", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 35", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 35
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "LIETUVA", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    ""
+                ], 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 250", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 250
+                    }
+                ]
+            }
+        ], 
+        "size": 312
     }, 
     {
         "info": {
@@ -16663,17 +20647,21 @@ hotels = ([
         }, 
         "name": "NOVOTEL VILNIUS", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Vilniaus m. sav., Vilnius, Gedimino pr. 16", 
+        "image_filename": "img/hotels/novotel-vilnius.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "Baltija", 
+                "Sal\u0117": "Baltija", 
+                "Vie\u0161butis": "NOVOTEL VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Baltija", 
+                "Plotas (kv. m.)": "126", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 34; U stilius: 20; Apvalaus stalo stilius: 24; Banketo stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16698,10 +20686,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Gintaras (D)", 
+                "Sal\u0117": "Gintaras (D)", 
+                "Vie\u0161butis": "NOVOTEL VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Gintaras (D)", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 34; U stilius: 20; Apvalaus stalo stilius: 26; Banketo stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16726,10 +20721,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "J\u016brat\u0117", 
+                "Sal\u0117": "J\u016brat\u0117", 
+                "Vie\u0161butis": "NOVOTEL VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "J\u016brat\u0117", 
+                "Plotas (kv. m.)": "54", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30; Klas\u0117s stilius: 16; U stilius: 12", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16746,10 +20748,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Kastytis", 
+                "Sal\u0117": "Kastytis", 
+                "Vie\u0161butis": "NOVOTEL VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Kastytis", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30; Klas\u0117s stilius: 16; U stilius: 12", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16794,13 +20803,15 @@ hotels = ([
         }, 
         "name": "ECOTEL VILNIUS", 
         "rank": 2, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Vilniaus m. sav., Vilnius, Slucko g. 8", 
+        "image_filename": "img/hotels/ecotel-vilnius.png", 
         "halls": [
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Konferencij\u0173 sal\u0117", 
+                "Sal\u0117": "Konferencij\u0173 sal\u0117", 
+                "Vie\u0161butis": "ECOTEL VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -16818,7 +20829,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Konferencij\u0173 sal\u0117", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 100", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16855,17 +20868,21 @@ hotels = ([
         }, 
         "name": "SPA - VILNIUS", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.0126739, 
-            "lng": 23.9787926
-        }, 
         "address": "K.Dineikos g 1/3", 
+        "image_filename": "img/hotels/spa--vilnius.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "SPA - VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16874,10 +20891,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "SPA - VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 350", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16886,10 +20910,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "SPA - VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 36", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16899,6 +20930,37 @@ hotels = ([
             }
         ], 
         "size": 350
+    }, 
+    {
+        "info": {
+            "Inventoriaus nuoma": "Sporto inventorius", 
+            "Maitinimo paslaugos": "", 
+            "Oficialus \u012fm. pavadinimas": "UAB \"Grand Spa Lietuva\"", 
+            "Pri\u0117mimo m\u0117n.": "Sausis,Vasaris,Kovas,Balandis,Gegu\u017e\u0117,Bir\u017eelis,Liepa,Rugpj\u016btis,Rugs\u0117jis,Spalis,Lapkritis,Gruodis", 
+            "Darbo valandos": "", 
+            "Kambari\u0173 skai\u010dius": "179", 
+            "Priklausomyb\u0117 tinklui": "", 
+            "Papildomos paslaugos": "Baseinas, Pirtis/Sauna, Seifas, Skalbimas ir valymas, Teniso kortai, Treniruokli\u0173 sal\u0117, Vaik\u0173 prie\u017eiura", 
+            "Telefonas": "31352414", 
+            "Pritaikyta ne\u012fgaliesiems": "Yra", 
+            "Papildomas telefonas": "", 
+            "Klas\u0117 suteikta iki": "2015.04.19", 
+            "El. pa\u0161tas": "info@grandspa.lt", 
+            "Pramogos ne\u012fgaliesiems": "", 
+            "Verslo centro \u012franga": "", 
+            "Faksas": "31355490", 
+            "Klas\u0117": "3*", 
+            "Viet\u0173 skai\u010dius": "358", 
+            "Sveikatingumo paslaugos": "", 
+            "Pramogos": "", 
+            "Svetain\u0117s adresas": ""
+        }, 
+        "name": "GRAND SPA LIETUVA", 
+        "rank": 3, 
+        "address": "Druskinink\u0173 sav.", 
+        "image_filename": "img/hotels/grand-spa-lietuva.png", 
+        "halls": [], 
+        "size": 358
     }, 
     {
         "info": {
@@ -16926,13 +20988,15 @@ hotels = ([
         }, 
         "name": "LE MERIDIEN VILNIUS", 
         "rank": 5, 
-        "coords": {
-            "lat": 55.2066651, 
-            "lng": 24.8166172
-        }, 
         "address": "Greitkelis A2, Vilnius - Ryga 19tas m, E\u017eerai\u010di\u0173 k., Vilniaus r.", 
+        "image_filename": "img/hotels/le-meridien-vilnius.png", 
         "halls": [
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Adagio", 
+                "Sal\u0117": "Adagio", 
+                "Vie\u0161butis": "LE MERIDIEN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -16954,7 +21018,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Adagio", 
+                "Plotas (kv. m.)": "91", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 110; U stilius: 30; Apvalaus stalo stilius: 20; Banketo stilius: 50", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -16975,6 +21041,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Arnika", 
+                "Sal\u0117": "Arnika", 
+                "Vie\u0161butis": "LE MERIDIEN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -16995,7 +21066,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Arnika", 
+                "Plotas (kv. m.)": "80", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 40; U stilius: 24; Apvalaus stalo stilius: 30; Banketo stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17020,6 +21093,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Belvedere", 
+                "Sal\u0117": "Belvedere", 
+                "Vie\u0161butis": "LE MERIDIEN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -17041,7 +21119,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Belvedere", 
+                "Plotas (kv. m.)": "630", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 650; Klas\u0117s stilius: 450; U stilius: 120; Apvalaus stalo stilius: 100; Banketo stilius: 480", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17066,6 +21146,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas", 
+                "name": "Grand Opera", 
+                "Sal\u0117": "Grand Opera", 
+                "Vie\u0161butis": "LE MERIDIEN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -17086,7 +21171,9 @@ hotels = ([
                     "Trib\u016bna", 
                     "Video grotuvas"
                 ], 
-                "name": "Grand Opera", 
+                "Plotas (kv. m.)": "810", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 1000; Klas\u0117s stilius: 650; Banketo stilius: 600", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17103,27 +21190,34 @@ hotels = ([
                 ]
             }, 
             {
-                "hardware": [
-                    "CD grotuvas", 
-                    "DVD grotuvas", 
-                    "Ekranas", 
-                    "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
-                    "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
-                    "Mikrofonas", 
-                    "Multimedia", 
-                    "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
-                    "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
-                    "TV", 
-                    "Telefonas", 
-                    "Trib\u016bna", 
-                    "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
-                ], 
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
                 "name": "Hedera", 
+                "Sal\u0117": "Hedera", 
+                "Vie\u0161butis": "LE MERIDIEN VILNIUS", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Ekranas", 
+                    "Grafinis projektorius", 
+                    "Interneto ry\u0161ys", 
+                    "Kompiuteris", 
+                    "Lazerin\u0117 rodykl\u0117", 
+                    "Mikrofonas", 
+                    "Multimedia", 
+                    "Oro kondicionierius", 
+                    "Ra\u0161ymo lenta", 
+                    "Sinchroninis vertimas", 
+                    "Skaidri\u0173 projektorius", 
+                    "TV", 
+                    "Telefonas", 
+                    "Trib\u016bna", 
+                    "Video grotuvas", 
+                    "\u012eranga garso \u012fra\u0161ymui"
+                ], 
+                "Plotas (kv. m.)": "52", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30; Klas\u0117s stilius: 20; U stilius: 30; Apvalaus stalo stilius: 20; Banketo stilius: 20", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17148,51 +21242,11 @@ hotels = ([
                 ]
             }, 
             {
-                "hardware": [
-                    "CD grotuvas", 
-                    "DVD grotuvas", 
-                    "Ekranas", 
-                    "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
-                    "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
-                    "Mikrofonas", 
-                    "Multimedia", 
-                    "Oro kondicionierius", 
-                    "Ra\u0161ymo lenta", 
-                    "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
-                    "TV", 
-                    "Telefonas", 
-                    "Trib\u016bna", 
-                    "Video grotuvas", 
-                    "\u012eranga garso \u012fra\u0161ymui"
-                ], 
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
                 "name": "Inula", 
-                "configurations": [
-                    {
-                        "name": "Teatro stilius", 
-                        "people": 16
-                    }, 
-                    {
-                        "name": "Klas\u0117s stilius", 
-                        "people": 12
-                    }, 
-                    {
-                        "name": "U stilius", 
-                        "people": 10
-                    }, 
-                    {
-                        "name": "Apvalaus stalo stilius", 
-                        "people": 12
-                    }, 
-                    {
-                        "name": "Banketo stilius", 
-                        "people": 8
-                    }
-                ]
-            }, 
-            {
+                "Sal\u0117": "Inula", 
+                "Vie\u0161butis": "LE MERIDIEN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -17213,7 +21267,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Linaria", 
+                "Plotas (kv. m.)": "24", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 16; Klas\u0117s stilius: 12; U stilius: 10; Apvalaus stalo stilius: 12; Banketo stilius: 8", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17238,6 +21294,63 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Linaria", 
+                "Sal\u0117": "Linaria", 
+                "Vie\u0161butis": "LE MERIDIEN VILNIUS", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Ekranas", 
+                    "Grafinis projektorius", 
+                    "Interneto ry\u0161ys", 
+                    "Kompiuteris", 
+                    "Lazerin\u0117 rodykl\u0117", 
+                    "Mikrofonas", 
+                    "Multimedia", 
+                    "Oro kondicionierius", 
+                    "Ra\u0161ymo lenta", 
+                    "Sinchroninis vertimas", 
+                    "Skaidri\u0173 projektorius", 
+                    "TV", 
+                    "Telefonas", 
+                    "Trib\u016bna", 
+                    "Video grotuvas", 
+                    "\u012eranga garso \u012fra\u0161ymui"
+                ], 
+                "Plotas (kv. m.)": "37", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 16; Klas\u0117s stilius: 12; U stilius: 10; Apvalaus stalo stilius: 12; Banketo stilius: 8", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 16
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 12
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 10
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 12
+                    }, 
+                    {
+                        "name": "Banketo stilius", 
+                        "people": 8
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Salvia", 
+                "Sal\u0117": "Salvia", 
+                "Vie\u0161butis": "LE MERIDIEN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -17259,7 +21372,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Salvia", 
+                "Plotas (kv. m.)": "408", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 300; Klas\u0117s stilius: 220; U stilius: 80; Apvalaus stalo stilius: 100; Banketo stilius: 180", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17284,6 +21399,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Tilia", 
+                "Sal\u0117": "Tilia", 
+                "Vie\u0161butis": "LE MERIDIEN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -17305,7 +21425,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Tilia", 
+                "Plotas (kv. m.)": "690", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 600; Klas\u0117s stilius: 500; Banketo stilius: 400", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17322,6 +21444,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Viola", 
+                "Sal\u0117": "Viola", 
+                "Vie\u0161butis": "LE MERIDIEN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -17342,7 +21469,9 @@ hotels = ([
                     "Video grotuvas", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Viola", 
+                "Plotas (kv. m.)": "60", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 40; Klas\u0117s stilius: 30; U stilius: 24; Apvalaus stalo stilius: 20; Banketo stilius: 20", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17367,6 +21496,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Multimedia, Oro kondicionierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas", 
+                "name": "Virtuoso", 
+                "Sal\u0117": "Virtuoso", 
+                "Vie\u0161butis": "LE MERIDIEN VILNIUS", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -17384,7 +21518,9 @@ hotels = ([
                     "Trib\u016bna", 
                     "Video grotuvas"
                 ], 
-                "name": "Virtuoso", 
+                "Plotas (kv. m.)": "115", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Apvalaus stalo stilius: 28; Banketo stilius: 28", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Apvalaus stalo stilius", 
@@ -17425,17 +21561,21 @@ hotels = ([
         }, 
         "name": "PANORAMA", 
         "rank": 3, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Vilniaus m. sav., Vilnius, Sod\u0173 g. 14", 
+        "image_filename": "img/hotels/panorama.png", 
         "halls": [
             {
+                "\u012eranga": "", 
+                "name": "Aeris", 
+                "Sal\u0117": "Aeris", 
+                "Vie\u0161butis": "PANORAMA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Aeris", 
+                "Plotas (kv. m.)": "91", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 90; Klas\u0117s stilius: 52; U stilius: 34", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17452,10 +21592,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Animalis", 
+                "Sal\u0117": "Animalis", 
+                "Vie\u0161butis": "PANORAMA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Animalis", 
+                "Plotas (kv. m.)": "45", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 30; U stilius: 18", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17472,10 +21619,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Aquarius", 
+                "Sal\u0117": "Aquarius", 
+                "Vie\u0161butis": "PANORAMA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Aquarius", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 72; Klas\u0117s stilius: 44; U stilius: 26", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17492,10 +21646,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Aquarius + Terra", 
+                "Sal\u0117": "Aquarius + Terra", 
+                "Vie\u0161butis": "PANORAMA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Aquarius + Terra", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 120; Klas\u0117s stilius: 66; U stilius: 36", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17512,10 +21673,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Humanitas", 
+                "Sal\u0117": "Humanitas", 
+                "Vie\u0161butis": "PANORAMA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Humanitas", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 300; Klas\u0117s stilius: 170; U stilius: 56", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17532,10 +21700,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Igninus", 
+                "Sal\u0117": "Igninus", 
+                "Vie\u0161butis": "PANORAMA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Igninus", 
+                "Plotas (kv. m.)": "47", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 32; U stilius: 20", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17552,10 +21727,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Plantaria", 
+                "Sal\u0117": "Plantaria", 
+                "Vie\u0161butis": "PANORAMA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Plantaria", 
+                "Plotas (kv. m.)": "47", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 30; U stilius: 18", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17572,10 +21754,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Plantaria + Animalis", 
+                "Sal\u0117": "Plantaria + Animalis", 
+                "Vie\u0161butis": "PANORAMA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Plantaria + Animalis", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 90; Klas\u0117s stilius: 42; U stilius: 34", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17592,10 +21781,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Specularis", 
+                "Sal\u0117": "Specularis", 
+                "Vie\u0161butis": "PANORAMA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Specularis", 
+                "Plotas (kv. m.)": "23", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30; Klas\u0117s stilius: 20; U stilius: 14; Apvalaus stalo stilius: 16; Banketo stilius: 18", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17620,10 +21816,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Specularis", 
+                "Sal\u0117": "Specularis", 
+                "Vie\u0161butis": "PANORAMA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Specularis", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 25; Klas\u0117s stilius: 12; U stilius: 12", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17640,10 +21843,17 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "", 
+                "name": "Terra", 
+                "Sal\u0117": "Terra", 
+                "Vie\u0161butis": "PANORAMA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     ""
                 ], 
-                "name": "Terra", 
+                "Plotas (kv. m.)": "53", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 65; Klas\u0117s stilius: 32; U stilius: 26", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17688,20 +21898,24 @@ hotels = ([
         }, 
         "name": "AMBERTON KLAIP\u0116DA", 
         "rank": 4, 
-        "coords": {
-            "lat": 55.7109458, 
-            "lng": 21.1291436
-        }, 
         "address": "Naujojo Sodo g. 1, Klaip\u0117dos m.", 
+        "image_filename": "img/hotels/amberton-klaipada.png", 
         "halls": [
             {
+                "\u012eranga": "Kompiuteris, Mikrofonas, Multimedia, Sinchroninis vertimas", 
+                "name": "", 
+                "Sal\u0117": "", 
+                "Vie\u0161butis": "AMBERTON KLAIP\u0116DA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Kompiuteris", 
                     "Mikrofonas", 
                     "Multimedia", 
                     "Sinchroninis vertimas"
                 ], 
-                "name": "", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 30; Klas\u0117s stilius: 20; U stilius: 20; Apvalaus stalo stilius: 15; Banketo stilius: 30", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17754,13 +21968,15 @@ hotels = ([
         }, 
         "name": "REVAL HOTEL LIETUVA", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Vilniaus m. sav., Vilnius, Konstitucijos pr. 20", 
+        "image_filename": "img/hotels/reval-hotel-lietuva.png", 
         "halls": [
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, Video projektorius, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Alfa", 
+                "Sal\u0117": "Alfa", 
+                "Vie\u0161butis": "REVAL HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -17785,7 +22001,9 @@ hotels = ([
                     "Video projektorius", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Alfa", 
+                "Plotas (kv. m.)": "672", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 600; Banketo stilius: 300", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17798,6 +22016,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, Video projektorius, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Beta", 
+                "Sal\u0117": "Beta", 
+                "Vie\u0161butis": "REVAL HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -17822,7 +22045,9 @@ hotels = ([
                     "Video projektorius", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Beta", 
+                "Plotas (kv. m.)": "313", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 250; Banketo stilius: 200", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17835,6 +22060,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, Video projektorius, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Delta ( 22 auk\u0161tas )", 
+                "Sal\u0117": "Delta ( 22 auk\u0161tas )", 
+                "Vie\u0161butis": "REVAL HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -17858,7 +22088,9 @@ hotels = ([
                     "Video projektorius", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Delta ( 22 auk\u0161tas )", 
+                "Plotas (kv. m.)": "69", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 40; U stilius: 20; Apvalaus stalo stilius: 24; Banketo stilius: 20", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17879,6 +22111,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, Video projektorius, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Epsilon", 
+                "Sal\u0117": "Epsilon", 
+                "Vie\u0161butis": "REVAL HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -17902,7 +22139,9 @@ hotels = ([
                     "Video projektorius", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Epsilon", 
+                "Plotas (kv. m.)": "61", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 30; U stilius: 24; Apvalaus stalo stilius: 28; Banketo stilius: 30", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -17927,50 +22166,11 @@ hotels = ([
                 ]
             }, 
             {
-                "hardware": [
-                    "CD grotuvas", 
-                    "DVD grotuvas", 
-                    "Diktofonas", 
-                    "Ekranas", 
-                    "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
-                    "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
-                    "Mikrofonas", 
-                    "Multimedia", 
-                    "Oro kondicionierius", 
-                    "Popierius", 
-                    "Ra\u0161ymo lenta", 
-                    "Scena", 
-                    "Skaidri\u0173 projektorius", 
-                    "TV", 
-                    "Telefonas", 
-                    "Trib\u016bna", 
-                    "Video grotuvas", 
-                    "Video projektorius", 
-                    "\u012eranga garso \u012fra\u0161ymui"
-                ], 
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, Video projektorius, \u012eranga garso \u012fra\u0161ymui", 
                 "name": "Eta", 
-                "configurations": [
-                    {
-                        "name": "Teatro stilius", 
-                        "people": 60
-                    }, 
-                    {
-                        "name": "Klas\u0117s stilius", 
-                        "people": 30
-                    }, 
-                    {
-                        "name": "U stilius", 
-                        "people": 24
-                    }, 
-                    {
-                        "name": "Apvalaus stalo stilius", 
-                        "people": 28
-                    }
-                ]
-            }, 
-            {
+                "Sal\u0117": "Eta", 
+                "Vie\u0161butis": "REVAL HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -17994,27 +22194,34 @@ hotels = ([
                     "Video projektorius", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
+                "Plotas (kv. m.)": "58", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 30; U stilius: 24; Apvalaus stalo stilius: 28", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 60
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 30
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 24
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 28
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, Video projektorius, \u012eranga garso \u012fra\u0161ymui", 
                 "name": "Gamma", 
-                "configurations": [
-                    {
-                        "name": "Teatro stilius", 
-                        "people": 60
-                    }, 
-                    {
-                        "name": "Klas\u0117s stilius", 
-                        "people": 30
-                    }, 
-                    {
-                        "name": "U stilius", 
-                        "people": 24
-                    }, 
-                    {
-                        "name": "Apvalaus stalo stilius", 
-                        "people": 28
-                    }
-                ]
-            }, 
-            {
+                "Sal\u0117": "Gamma", 
+                "Vie\u0161butis": "REVAL HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -18038,7 +22245,60 @@ hotels = ([
                     "Video projektorius", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
+                "Plotas (kv. m.)": "61", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 60; Klas\u0117s stilius: 30; U stilius: 24; Apvalaus stalo stilius: 28", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 60
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 30
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 24
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 28
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, Video projektorius, \u012eranga garso \u012fra\u0161ymui", 
                 "name": "Iota", 
+                "Sal\u0117": "Iota", 
+                "Vie\u0161butis": "REVAL HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Diktofonas", 
+                    "Ekranas", 
+                    "Grafinis projektorius", 
+                    "Interneto ry\u0161ys", 
+                    "Kompiuteris", 
+                    "Lazerin\u0117 rodykl\u0117", 
+                    "Mikrofonas", 
+                    "Multimedia", 
+                    "Oro kondicionierius", 
+                    "Popierius", 
+                    "Ra\u0161ymo lenta", 
+                    "Scena", 
+                    "Skaidri\u0173 projektorius", 
+                    "TV", 
+                    "Telefonas", 
+                    "Trib\u016bna", 
+                    "Video grotuvas", 
+                    "Video projektorius", 
+                    "\u012eranga garso \u012fra\u0161ymui"
+                ], 
+                "Plotas (kv. m.)": "37", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 40; Klas\u0117s stilius: 22; U stilius: 16; Apvalaus stalo stilius: 20", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -18059,6 +22319,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, Video projektorius, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Lambda 1", 
+                "Sal\u0117": "Lambda 1", 
+                "Vie\u0161butis": "REVAL HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -18083,7 +22348,9 @@ hotels = ([
                     "Video projektorius", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Lambda 1", 
+                "Plotas (kv. m.)": "49", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 52; Klas\u0117s stilius: 24; U stilius: 20; Apvalaus stalo stilius: 24", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -18104,6 +22371,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, Video projektorius, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Lambda 1+2", 
+                "Sal\u0117": "Lambda 1+2", 
+                "Vie\u0161butis": "REVAL HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -18128,7 +22400,9 @@ hotels = ([
                     "Video projektorius", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Lambda 1+2", 
+                "Plotas (kv. m.)": "98", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 104; Klas\u0117s stilius: 50; U stilius: 32; Apvalaus stalo stilius: 40", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -18149,6 +22423,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, Video projektorius, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Lambda 1+2+3", 
+                "Sal\u0117": "Lambda 1+2+3", 
+                "Vie\u0161butis": "REVAL HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -18173,7 +22452,9 @@ hotels = ([
                     "Video projektorius", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Lambda 1+2+3", 
+                "Plotas (kv. m.)": "149", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 180; Klas\u0117s stilius: 80; Banketo stilius: 80", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -18190,51 +22471,11 @@ hotels = ([
                 ]
             }, 
             {
-                "hardware": [
-                    "CD grotuvas", 
-                    "DVD grotuvas", 
-                    "Diktofonas", 
-                    "Ekranas", 
-                    "Grafinis projektorius", 
-                    "Interneto ry\u0161ys", 
-                    "Kompiuteris", 
-                    "Lazerin\u0117 rodykl\u0117", 
-                    "Mikrofonas", 
-                    "Multimedia", 
-                    "Oro kondicionierius", 
-                    "Popierius", 
-                    "Ra\u0161ymo lenta", 
-                    "Scena", 
-                    "Sinchroninis vertimas", 
-                    "Skaidri\u0173 projektorius", 
-                    "TV", 
-                    "Telefonas", 
-                    "Trib\u016bna", 
-                    "Video grotuvas", 
-                    "Video projektorius", 
-                    "\u012eranga garso \u012fra\u0161ymui"
-                ], 
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, Video projektorius, \u012eranga garso \u012fra\u0161ymui", 
                 "name": "Lambda 2", 
-                "configurations": [
-                    {
-                        "name": "Teatro stilius", 
-                        "people": 52
-                    }, 
-                    {
-                        "name": "Klas\u0117s stilius", 
-                        "people": 24
-                    }, 
-                    {
-                        "name": "U stilius", 
-                        "people": 20
-                    }, 
-                    {
-                        "name": "Apvalaus stalo stilius", 
-                        "people": 24
-                    }
-                ]
-            }, 
-            {
+                "Sal\u0117": "Lambda 2", 
+                "Vie\u0161butis": "REVAL HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -18259,27 +22500,34 @@ hotels = ([
                     "Video projektorius", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
+                "Plotas (kv. m.)": "49", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 52; Klas\u0117s stilius: 24; U stilius: 20; Apvalaus stalo stilius: 24", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 52
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 24
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 20
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 24
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, Video projektorius, \u012eranga garso \u012fra\u0161ymui", 
                 "name": "Lambda 3", 
-                "configurations": [
-                    {
-                        "name": "Teatro stilius", 
-                        "people": 52
-                    }, 
-                    {
-                        "name": "Klas\u0117s stilius", 
-                        "people": 24
-                    }, 
-                    {
-                        "name": "U stilius", 
-                        "people": 20
-                    }, 
-                    {
-                        "name": "Apvalaus stalo stilius", 
-                        "people": 24
-                    }
-                ]
-            }, 
-            {
+                "Sal\u0117": "Lambda 3", 
+                "Vie\u0161butis": "REVAL HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -18304,7 +22552,61 @@ hotels = ([
                     "Video projektorius", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
+                "Plotas (kv. m.)": "51", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 52; Klas\u0117s stilius: 24; U stilius: 20; Apvalaus stalo stilius: 24", 
+                "Pob\u016bviams": "Y", 
+                "configurations": [
+                    {
+                        "name": "Teatro stilius", 
+                        "people": 52
+                    }, 
+                    {
+                        "name": "Klas\u0117s stilius", 
+                        "people": 24
+                    }, 
+                    {
+                        "name": "U stilius", 
+                        "people": 20
+                    }, 
+                    {
+                        "name": "Apvalaus stalo stilius", 
+                        "people": 24
+                    }
+                ]
+            }, 
+            {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, Video projektorius, \u012eranga garso \u012fra\u0161ymui", 
                 "name": "Lambda 3+2", 
+                "Sal\u0117": "Lambda 3+2", 
+                "Vie\u0161butis": "REVAL HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
+                "hardware": [
+                    "CD grotuvas", 
+                    "DVD grotuvas", 
+                    "Diktofonas", 
+                    "Ekranas", 
+                    "Grafinis projektorius", 
+                    "Interneto ry\u0161ys", 
+                    "Kompiuteris", 
+                    "Lazerin\u0117 rodykl\u0117", 
+                    "Mikrofonas", 
+                    "Multimedia", 
+                    "Oro kondicionierius", 
+                    "Popierius", 
+                    "Ra\u0161ymo lenta", 
+                    "Scena", 
+                    "Sinchroninis vertimas", 
+                    "Skaidri\u0173 projektorius", 
+                    "TV", 
+                    "Telefonas", 
+                    "Trib\u016bna", 
+                    "Video grotuvas", 
+                    "Video projektorius", 
+                    "\u012eranga garso \u012fra\u0161ymui"
+                ], 
+                "Plotas (kv. m.)": "100", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 104; Klas\u0117s stilius: 50; U stilius: 32; Apvalaus stalo stilius: 40", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -18325,6 +22627,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, Video projektorius, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Lobby", 
+                "Sal\u0117": "Lobby", 
+                "Vie\u0161butis": "REVAL HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -18349,7 +22656,9 @@ hotels = ([
                     "Video projektorius", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Lobby", 
+                "Plotas (kv. m.)": "400", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Banketo stilius: 300", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Banketo stilius", 
@@ -18358,6 +22667,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, Video projektorius, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Lobby+Beta", 
+                "Sal\u0117": "Lobby+Beta", 
+                "Vie\u0161butis": "REVAL HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -18382,7 +22696,9 @@ hotels = ([
                     "Video projektorius", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Lobby+Beta", 
+                "Plotas (kv. m.)": "753", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Banketo stilius: 500", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Banketo stilius", 
@@ -18391,6 +22707,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, Video projektorius, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Omega", 
+                "Sal\u0117": "Omega", 
+                "Vie\u0161butis": "REVAL HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -18414,7 +22735,9 @@ hotels = ([
                     "Video projektorius", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Omega", 
+                "Plotas (kv. m.)": "39", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 50; Klas\u0117s stilius: 24; U stilius: 16; Apvalaus stalo stilius: 20; Banketo stilius: 20", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -18439,6 +22762,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, Video projektorius, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Omikron", 
+                "Sal\u0117": "Omikron", 
+                "Vie\u0161butis": "REVAL HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -18462,7 +22790,9 @@ hotels = ([
                     "Video projektorius", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Omikron", 
+                "Plotas (kv. m.)": "24", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 24; Klas\u0117s stilius: 12; U stilius: 12; Apvalaus stalo stilius: 14", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -18483,6 +22813,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, Video projektorius, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Sigma", 
+                "Sal\u0117": "Sigma", 
+                "Vie\u0161butis": "REVAL HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -18506,7 +22841,9 @@ hotels = ([
                     "Video projektorius", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Sigma", 
+                "Plotas (kv. m.)": "15", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Apvalaus stalo stilius: 8", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Apvalaus stalo stilius", 
@@ -18515,6 +22852,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, Video projektorius, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Tau", 
+                "Sal\u0117": "Tau", 
+                "Vie\u0161butis": "REVAL HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -18538,7 +22880,9 @@ hotels = ([
                     "Video projektorius", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Tau", 
+                "Plotas (kv. m.)": "32", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 35; Klas\u0117s stilius: 18; U stilius: 14; Apvalaus stalo stilius: 16", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -18559,6 +22903,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, Video projektorius, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Theta", 
+                "Sal\u0117": "Theta", 
+                "Vie\u0161butis": "REVAL HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -18582,7 +22931,9 @@ hotels = ([
                     "Video projektorius", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Theta", 
+                "Plotas (kv. m.)": "72", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 80; Klas\u0117s stilius: 35; U stilius: 30; Apvalaus stalo stilius: 36", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -18603,6 +22954,11 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "CD grotuvas, DVD grotuvas, Diktofonas, Ekranas, Grafinis projektorius, Interneto ry\u0161ys, Kompiuteris, Lazerin\u0117 rodykl\u0117, Mikrofonas, Multimedia, Oro kondicionierius, Popierius, Ra\u0161ymo lenta, Scena, Sinchroninis vertimas, Skaidri\u0173 projektorius, TV, Telefonas, Trib\u016bna, Video grotuvas, Video projektorius, \u012eranga garso \u012fra\u0161ymui", 
+                "name": "Zeta", 
+                "Sal\u0117": "Zeta", 
+                "Vie\u0161butis": "REVAL HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "CD grotuvas", 
                     "DVD grotuvas", 
@@ -18627,7 +22983,9 @@ hotels = ([
                     "Video projektorius", 
                     "\u012eranga garso \u012fra\u0161ymui"
                 ], 
-                "name": "Zeta", 
+                "Plotas (kv. m.)": "131", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 150; Klas\u0117s stilius: 80; U stilius: 52; Apvalaus stalo stilius: 52; Banketo stilius: 80", 
+                "Pob\u016bviams": "Y", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -18680,19 +23038,23 @@ hotels = ([
         }, 
         "name": "RADISSON BLU HOTEL LIETUVA", 
         "rank": 4, 
-        "coords": {
-            "lat": 54.6893865, 
-            "lng": 25.2800243
-        }, 
         "address": "Konstitucijos pr. 20, Vilniaus m.", 
+        "image_filename": "img/hotels/radisson-blu-hotel-lietuva.png", 
         "halls": [
             {
+                "\u012eranga": "Interneto ry\u0161ys, Oro kondicionierius, Telefonas", 
+                "name": "Alfa", 
+                "Sal\u0117": "Alfa", 
+                "Vie\u0161butis": "RADISSON BLU HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Interneto ry\u0161ys", 
                     "Oro kondicionierius", 
                     "Telefonas"
                 ], 
-                "name": "Alfa", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 300; Klas\u0117s stilius: 150; Banketo stilius: 200", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -18709,12 +23071,19 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Interneto ry\u0161ys, Oro kondicionierius, Telefonas", 
+                "name": "Beta", 
+                "Sal\u0117": "Beta", 
+                "Vie\u0161butis": "RADISSON BLU HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Interneto ry\u0161ys", 
                     "Oro kondicionierius", 
                     "Telefonas"
                 ], 
-                "name": "Beta", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Banketo stilius: 300", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Banketo stilius", 
@@ -18723,12 +23092,19 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Interneto ry\u0161ys, Oro kondicionierius, Telefonas", 
+                "name": "Lambada 1", 
+                "Sal\u0117": "Lambada 1", 
+                "Vie\u0161butis": "RADISSON BLU HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Interneto ry\u0161ys", 
                     "Oro kondicionierius", 
                     "Telefonas"
                 ], 
-                "name": "Lambada 1", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 52; Klas\u0117s stilius: 24; U stilius: 20; Apvalaus stalo stilius: 24", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -18749,12 +23125,19 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Interneto ry\u0161ys, Oro kondicionierius, Telefonas", 
+                "name": "Lambada 1+2", 
+                "Sal\u0117": "Lambada 1+2", 
+                "Vie\u0161butis": "RADISSON BLU HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Interneto ry\u0161ys", 
                     "Oro kondicionierius", 
                     "Telefonas"
                 ], 
-                "name": "Lambada 1+2", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 104; Klas\u0117s stilius: 50; U stilius: 32; Apvalaus stalo stilius: 40", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -18775,12 +23158,19 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Interneto ry\u0161ys, Oro kondicionierius, Telefonas", 
+                "name": "Lambada 1+2+3", 
+                "Sal\u0117": "Lambada 1+2+3", 
+                "Vie\u0161butis": "RADISSON BLU HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Interneto ry\u0161ys", 
                     "Oro kondicionierius", 
                     "Telefonas"
                 ], 
-                "name": "Lambada 1+2+3", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 180; Klas\u0117s stilius: 80; Banketo stilius: 80", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -18797,12 +23187,19 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Interneto ry\u0161ys, Oro kondicionierius, Telefonas", 
+                "name": "Lambada 2", 
+                "Sal\u0117": "Lambada 2", 
+                "Vie\u0161butis": "RADISSON BLU HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Interneto ry\u0161ys", 
                     "Oro kondicionierius", 
                     "Telefonas"
                 ], 
-                "name": "Lambada 2", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 52; Klas\u0117s stilius: 24; U stilius: 20; Apvalaus stalo stilius: 24", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -18823,12 +23220,19 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Interneto ry\u0161ys, Oro kondicionierius, Telefonas", 
+                "name": "Lambada 3", 
+                "Sal\u0117": "Lambada 3", 
+                "Vie\u0161butis": "RADISSON BLU HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Interneto ry\u0161ys", 
                     "Oro kondicionierius", 
                     "Telefonas"
                 ], 
-                "name": "Lambada 3", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 52; Klas\u0117s stilius: 24; U stilius: 20", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -18845,12 +23249,19 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Interneto ry\u0161ys, Multimedia, Telefonas", 
+                "name": "Lambada 3+2", 
+                "Sal\u0117": "Lambada 3+2", 
+                "Vie\u0161butis": "RADISSON BLU HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Interneto ry\u0161ys", 
                     "Multimedia", 
                     "Telefonas"
                 ], 
-                "name": "Lambada 3+2", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Teatro stilius: 104; Klas\u0117s stilius: 50; U stilius: 32; Apvalaus stalo stilius: 40", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Teatro stilius", 
@@ -18871,12 +23282,19 @@ hotels = ([
                 ]
             }, 
             {
+                "\u012eranga": "Interneto ry\u0161ys, Oro kondicionierius, Telefonas", 
+                "name": "Lobby + Beta", 
+                "Sal\u0117": "Lobby + Beta", 
+                "Vie\u0161butis": "RADISSON BLU HOTEL LIETUVA", 
+                "Konferencijoms": "Y", 
                 "hardware": [
                     "Interneto ry\u0161ys", 
                     "Oro kondicionierius", 
                     "Telefonas"
                 ], 
-                "name": "Lobby + Beta", 
+                "Plotas (kv. m.)": "", 
+                "Viet. i\u0161d\u0117st. ir sk.": "Banketo stilius: 500", 
+                "Pob\u016bviams": "", 
                 "configurations": [
                     {
                         "name": "Banketo stilius", 

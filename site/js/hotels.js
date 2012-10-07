@@ -89,8 +89,10 @@ $(function(){
   var filter = function(model) {
     for (var i in hotels) {
       var hotel = hotels[i];
-      var c = hotel.coords;
-      toggleMarker(hotel.name, new google.maps.LatLng(c.lat, c.lng), hotel, test(hotel, model));
+      var c = addrs[hotel.address];
+      if (c) {
+        toggleMarker(hotel.name, new google.maps.LatLng(c.lat, c.lng), hotel, test(hotel, model));
+      }
     }
   };
   
