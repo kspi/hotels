@@ -82,7 +82,6 @@ function toggleMarker(title, loc,  hotel, visible) {
         info.push('</p>');
         for(var j in hall.configurations) {
           var conf = hall.configurations[j];
-          console.log(conf.people, conf.name);
           info.push(formatKeyValue(conf.name, conf.people + ' asmenų', true));
         }
         info.push(formatKey(hall, 'Įranga', true));
