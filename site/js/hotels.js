@@ -56,7 +56,8 @@ function toggleMarker(title, loc,  hotel, visible) {
       visible: visible,
       position: loc,
       title: title,
-      icon: icons[icon_i]
+      icon: icons[icon_i],
+      zIndex: icon_i
     });
     markerArray[title] = marker;
 
