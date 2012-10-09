@@ -2,28 +2,31 @@
 import csv
 import json
 import os
+from codecs import open
 
 largest = 0
 count = 0
 good_count = 0
 hotels = {}
 
-with open('coords.json', 'r') as coordsf:
+with open('coords.json', 'r', encoding='utf-8') as coordsf:
     coords = json.load(coordsf)
 
 with open('data/hotels.csv', 'r') as f:
     for row in csv.DictReader(f):
-        count += 1
-        name = row['Pavadinimas']
-        address = row['Veiklos vykdymo vieta']
-        rank = int(row['Klasė'].replace('*', ''))
+        row = {k.decode('utf-8'): v.decode('utf-8') for k, v in row.items()}
 
-        cs = coords.get(address.decode('utf-8'), None)
+        count += 1
+        name = row[u'Pavadinimas']
+        address = row[u'Veiklos vykdymo vieta']
+        rank = int(row[u'Klasė'].replace('*', ''))
+
+        cs = coords.get(address, None)
         if cs:
             good_count += 1
 
         try:
-            size = int(row['Vietų skaičius'])
+            size = int(row[u'Vietų skaičius'])
         except ValueError:
             size = None
 
@@ -31,8 +34,8 @@ with open('data/hotels.csv', 'r') as f:
             largest = size
 
         
-        del row['Pavadinimas']
-        del row['Veiklos vykdymo vieta']
+        del row[u'Pavadinimas']
+        del row[u'Veiklos vykdymo vieta']
         hotel = {
             'name': name,
             'address': address,
@@ -48,13 +51,15 @@ with open('data/hotels.csv', 'r') as f:
 
 with open('data/halls.csv', 'r') as f:
     for row in csv.DictReader(f):
-        hotel_name = row['Viešbutis']
+        row = {k.decode('utf-8'): v.decode('utf-8') for k, v in row.items()}
+
+        hotel_name = row[u'Viešbutis']
         if hotel_name not in hotels:
             continue
 
-        name = row['Salė']
+        name = row[u'Salė']
         configs = []
-        configs_str = row['Viet. išdėst. ir sk.']
+        configs_str = row[u'Viet. išdėst. ir sk.']
         for cfgs in configs_str.split(';'):
             cname, people = cfgs.rsplit(':', 1)
             configs.append({
@@ -62,7 +67,7 @@ with open('data/halls.csv', 'r') as f:
                 'people': int(people),
             })
 
-        hardware = row['Įranga'].split(', ')
+        hardware = row[u'Įranga'].split(', ')
 
         hall = {
             'name': name,
@@ -75,12 +80,12 @@ with open('data/halls.csv', 'r') as f:
         hotel['halls'].append(hall)
         
 
-with open('site/js/data.js', 'w') as f:
-    f.write('hotels = (')
-    f.write(json.dumps(sorted(list(hotels.values()), key=lambda x: x['size']), indent=4))
-    f.write(');\n')
+with open('site/js/data.js', 'w', encoding='utf-8') as f:
+    f.write(u'hotels = (')
+    json.dump(sorted(list(hotels.values()), key=lambda x: x['size']), f, indent=4, ensure_ascii=False)
+    f.write(u');\n')
 
-    f.write('largest_hotel_size = %s;\n' % json.dumps(largest))
+    f.write(u'largest_hotel_size = %s;\n' % json.dumps(largest))
 
 
-print('Good: %d/%d' % (good_count, count))
+print(u'Good: %d/%d' % (good_count, count))
