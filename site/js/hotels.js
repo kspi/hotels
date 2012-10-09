@@ -287,7 +287,7 @@ $(function(){
     $label.text(values[0] + ' - ' + values[1]);
   };
   
-  var executeFilter = function() {
+  var executeFilter = $.throttle(33, function() {
     
     setTimeout(function(){
       var model = {};
@@ -338,7 +338,7 @@ $(function(){
       //Execute filter function
       filter(model);
     }, 1);   
-  };
+  });
   
   var toggleAndExecute = function() {
     $(this).toggleClass('active');
