@@ -298,9 +298,9 @@ $(function(){
       model.type = type.join('_');
 
       model.grades = {};
-      $sidebar.find('.model-grade .btn').each(function() {
+      $sidebar.find('.model-grade input').each(function() {
         var $this = $(this);
-        if ($this.hasClass('active')) {
+        if ($this.is(':checked')) {
           model.grades[$this.data('value') + ''] = true;
         }
       });
@@ -348,7 +348,7 @@ $(function(){
   //Set up UI controls
   $sidebar.find('.model-type-hall, .model-type-hotel, .model-hotel-for-disabled, .model-hall-celebration, .model-hall-conference').change(executeFilter);
   
-  $sidebar.find('.model-grade .btn').click(toggleAndExecute);
+  $sidebar.find('.model-grade input').click(toggleAndExecute);
   
   $sidebar.find('.model-hall-count').slider({
     range: 'max',
