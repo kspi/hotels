@@ -25,6 +25,11 @@ hotels = ([
         }, 
         "name": "SALOS", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.5048589, 
+            "lng": 24.9787608, 
+            "normalized": "Trak\u0173 r. Kranto gatv\u0117 5, Lietuva"
+        }, 
         "address": "Trak\u0173 r. Kranto g. 5", 
         "halls": [], 
         "size": null
@@ -55,6 +60,11 @@ hotels = ([
         }, 
         "name": "PR\u016aSIJA", 
         "rank": 2, 
+        "coords": {
+            "lat": 55.7125034, 
+            "lng": 21.1297599, 
+            "normalized": "S. \u0160imkaus gatv\u0117 6, Klaip\u0117da, Lietuva"
+        }, 
         "address": "S. \u0160imkaus g. 6, Klaip\u0117da", 
         "halls": [], 
         "size": null
@@ -85,6 +95,11 @@ hotels = ([
         }, 
         "name": "MAGNUS HOTEL", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.88940909999999, 
+            "lng": 23.9268794, 
+            "normalized": "Vytauto prospektas 25, Kauno miestas, Lietuva"
+        }, 
         "address": "Vytauto pr. 25, Kauno m.", 
         "halls": [
             {
@@ -142,6 +157,11 @@ hotels = ([
         }, 
         "name": "MIKOTEL", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.67253669999999, 
+            "lng": 25.2866576, 
+            "normalized": "Pylimo gatv\u0117 63, Vilniaus miestas, Lietuva"
+        }, 
         "address": "Pylimo g. 63, Vilniaus m.", 
         "halls": [], 
         "size": null
@@ -172,6 +192,11 @@ hotels = ([
         }, 
         "name": "KAROLINA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.69321859999999, 
+            "lng": 25.2220444, 
+            "normalized": "Sausio 13-osios gatv\u0117 2, Vilnius, Lietuva"
+        }, 
         "address": "Sausio 13-osios g. 2, Vilnius", 
         "halls": [
             {
@@ -506,6 +531,11 @@ hotels = ([
         }, 
         "name": "CENTRAS", 
         "rank": 1, 
+        "coords": {
+            "lat": 55.9187176, 
+            "lng": 21.0669299, 
+            "normalized": "Vytauto gatv\u0117 96, Palanga, Lietuva"
+        }, 
         "address": "Vytauto g. 96, Palanga", 
         "halls": [], 
         "size": null
@@ -536,6 +566,11 @@ hotels = ([
         }, 
         "name": "VIE\u0160BUTIS \"BANGA\"", 
         "rank": 2, 
+        "coords": {
+            "lat": 55.2512556, 
+            "lng": 22.2813866, 
+            "normalized": "Kranto gatv\u0117 3A, Taurag\u0117s miestas, Taurag\u0117s rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Kranto g. 3A, Taurag\u0117s m., Taurag\u0117s r.", 
         "halls": [
             {
@@ -587,6 +622,11 @@ hotels = ([
         }, 
         "name": "PRIE LUK\u0160TO", 
         "rank": 2, 
+        "coords": {
+            "lat": 55.7419216, 
+            "lng": 22.3711601, 
+            "normalized": "Medinink\u0173 a. 1/1, Varniai, Tel\u0161i\u0173 rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Tel\u0161i\u0173 r. sav., Varni\u0173 sen., Varniai, Medinink\u0173 a. 1/1", 
         "halls": [
             {
@@ -637,6 +677,11 @@ hotels = ([
         }, 
         "name": "SUDAVIJA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.6767438, 
+            "lng": 23.4219765, 
+            "normalized": "Sodo gatv\u0117 1a, Marijampol\u0117, Lietuva"
+        }, 
         "address": "Sodo g. 1a, Marijampol\u0117", 
         "halls": [
             {
@@ -687,6 +732,11 @@ hotels = ([
         }, 
         "name": "NAKTIES MAGIJA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.9042484, 
+            "lng": 23.9470806, 
+            "normalized": "Skrobl\u0173 gatv\u0117 3, Kauno miestas, Lietuva"
+        }, 
         "address": "Skrobl\u0173 g. 3, Kauno m.", 
         "halls": [], 
         "size": 15
@@ -717,6 +767,11 @@ hotels = ([
         }, 
         "name": "SALDUV\u0116S", 
         "rank": 1, 
+        "coords": {
+            "lat": 55.91792, 
+            "lng": 23.3125687, 
+            "normalized": "K. Donelai\u010dio 70, \u0160iauliai, Lietuva"
+        }, 
         "address": "K. Donelai\u010dio 70, \u0160iauliai", 
         "halls": [], 
         "size": 16
@@ -747,6 +802,11 @@ hotels = ([
         }, 
         "name": "LAIMA", 
         "rank": 2, 
+        "coords": {
+            "lat": 53.99533169999999, 
+            "lng": 23.99666, 
+            "normalized": "Draugyst\u0117s gatv\u0117 2, Druskinink\u0173 miestas, Lietuva"
+        }, 
         "address": "Draugyst\u0117s g. 2, Druskinink\u0173 m., Druskinink\u0173 sav.", 
         "halls": [], 
         "size": 16
@@ -777,6 +837,11 @@ hotels = ([
         }, 
         "name": "GRO\u017dIO SALA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.7038218, 
+            "lng": 25.2318252, 
+            "normalized": "\u010c. Sugiharos gatv\u0117 3, Vilniaus miestas, Lietuva"
+        }, 
         "address": "\u010c. Sugiharos g. 3, Vilniaus m.", 
         "halls": [], 
         "size": 16
@@ -807,6 +872,11 @@ hotels = ([
         }, 
         "name": "AUSKA", 
         "rank": 5, 
+        "coords": {
+            "lat": 55.9113787, 
+            "lng": 21.0628183, 
+            "normalized": "Vytauto gatv\u0117 11, Palangos miestas, Lietuva"
+        }, 
         "address": "Vytauto g. 11, Palangos m.", 
         "halls": [
             {
@@ -876,6 +946,11 @@ hotels = ([
         }, 
         "name": "\u017dILINA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.5522206, 
+            "lng": 23.3779737, 
+            "normalized": "L. Giros gatv\u0117 42, Marijampol\u0117, Marijampol\u0117s sav., Lietuva"
+        }, 
         "address": "Marijampol\u0117s sav., Marijampol\u0117, L. Giros g. 42", 
         "halls": [
             {
@@ -926,6 +1001,11 @@ hotels = ([
         }, 
         "name": "CONVIVA", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.727101, 
+            "lng": 24.3626272, 
+            "normalized": "Laisv\u0117s a. 16, Panev\u0117\u017eio miestas, Lietuva"
+        }, 
         "address": "Laisv\u0117s a. 16, Panev\u0117\u017eio m.", 
         "halls": [], 
         "size": 18
@@ -956,6 +1036,11 @@ hotels = ([
         }, 
         "name": "BER\u017dAS", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9116487, 
+            "lng": 21.849204, 
+            "normalized": "Minijos gatv\u0117 2, Plung\u0117s miestas, Lietuva"
+        }, 
         "address": "Minijos g. 2, Plung\u0117s m., Plung\u0117s r.", 
         "halls": [
             {
@@ -1025,6 +1110,11 @@ hotels = ([
         }, 
         "name": "GABRIELLA", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.5885447, 
+            "lng": 26.4423295, 
+            "normalized": "Jaunyst\u0117s gatv\u0117 21, Visagino miestas, Lietuva"
+        }, 
         "address": "Jaunyst\u0117s g. 21, Visagino m., Visagino sav.", 
         "halls": [
             {
@@ -1075,6 +1165,11 @@ hotels = ([
         }, 
         "name": "KUR\u0116NAS", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.5318433, 
+            "lng": 21.1172813, 
+            "normalized": "L. R\u0117zos gatv\u0117 10, Neringa, Lietuva"
+        }, 
         "address": "L. R\u0117zos g. 10, Neringa", 
         "halls": [], 
         "size": 18
@@ -1105,6 +1200,11 @@ hotels = ([
         }, 
         "name": "VAIVORYK\u0160T\u0116", 
         "rank": 2, 
+        "coords": {
+            "lat": 55.9320758, 
+            "lng": 23.3142194, 
+            "normalized": "\u0160iauliai, Gytari\u0173 gatv\u0117 25, \u0160iauli\u0173 miesto savivaldyb\u0117, Lietuva"
+        }, 
         "address": "\u0160iauli\u0173 m. sav., \u0160iauliai, Gytari\u0173 g. 25", 
         "halls": [
             {
@@ -1174,6 +1274,11 @@ hotels = ([
         }, 
         "name": "LINELIS", 
         "rank": 2, 
+        "coords": {
+            "lat": 56.0460852, 
+            "lng": 21.8906039, 
+            "normalized": "Paplatel\u0117, Plung\u0117s r., Lietuva"
+        }, 
         "address": "Paplatel\u0117s k., \u017demai\u010di\u0173 Kalvarijos sen., Plung\u0117s r.", 
         "halls": [
             {
@@ -1224,6 +1329,11 @@ hotels = ([
         }, 
         "name": "BABILONAS", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.9035102, 
+            "lng": 23.9061726, 
+            "normalized": "\u017dalioji gatv\u0117 38A, Kauno miestas, Lietuva"
+        }, 
         "address": "\u017dalioji g. 38A, Kauno m.", 
         "halls": [
             {
@@ -1286,6 +1396,11 @@ hotels = ([
         }, 
         "name": "A.V.GODA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.733248, 
+            "lng": 25.2791232, 
+            "normalized": "Kalvarij\u0173 gatv\u0117 265, Vilniaus miestas, Lietuva"
+        }, 
         "address": "Kalvarij\u0173 g. 265, Vilniaus m.", 
         "halls": [
             {
@@ -1338,6 +1453,11 @@ hotels = ([
         }, 
         "name": "PUNTUKAS", 
         "rank": 2, 
+        "coords": {
+            "lat": 55.5250214, 
+            "lng": 25.1034693, 
+            "normalized": "A. Baranausko a. 15, Anyk\u0161\u010di\u0173 miestas, Anyk\u0161\u010di\u0173 rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "A. Baranausko a. 15, Anyk\u0161\u010di\u0173 m., Anyk\u0161\u010di\u0173 r.", 
         "halls": [
             {
@@ -1388,6 +1508,11 @@ hotels = ([
         }, 
         "name": "STADALA", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.6474419, 
+            "lng": 25.0590237, 
+            "normalized": "Gureli\u0173 kaimas, Lietuva"
+        }, 
         "address": "Gureli\u0173 k., \u0160al\u010dinink\u0173 r.", 
         "halls": [
             {
@@ -1438,6 +1563,11 @@ hotels = ([
         }, 
         "name": "JEREVAN", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.00477129999999, 
+            "lng": 24.0118797, 
+            "normalized": "M. K. \u010ciurlionio gatv\u0117 128, Druskinink\u0173 miestas, Druskinink\u0173 sav., Lietuva"
+        }, 
         "address": "M. K. \u010ciurlionio g. 128, Druskinink\u0173 m., Druskinink\u0173 sav.", 
         "halls": [], 
         "size": 20
@@ -1468,6 +1598,11 @@ hotels = ([
         }, 
         "name": "VIEVIJA", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.77055619999999, 
+            "lng": 24.8171486, 
+            "normalized": "Ba\u017eny\u010dios gatv\u0117 4a, Vievis, Elektr\u0117n\u0173 sav., Lietuva"
+        }, 
         "address": "Ba\u017eny\u010dios g. 4a, Vievio m., Elektr\u0117n\u0173 sav.", 
         "halls": [
             {
@@ -1518,6 +1653,11 @@ hotels = ([
         }, 
         "name": "NAUJOSIOS AKMEN\u0116S VIE\u0160BUTIS", 
         "rank": 2, 
+        "coords": {
+            "lat": 56.3191315, 
+            "lng": 22.8741132, 
+            "normalized": "Respublikos gatv\u0117 11A, Naujosios Akmen\u0117s miestas, Akmen\u0117s r., Lietuva"
+        }, 
         "address": "Respublikos g. 11A, Naujosios Akmen\u0117s m., Akmen\u0117s r.", 
         "halls": [
             {
@@ -1572,6 +1712,11 @@ hotels = ([
         }, 
         "name": "APUOL\u0116", 
         "rank": 2, 
+        "coords": {
+            "lat": 56.2694473, 
+            "lng": 21.5423997, 
+            "normalized": "Dariaus ir Gir\u0117no gatv\u0117 50, Skuodo miestas, Lietuva"
+        }, 
         "address": "Dariaus ir Gir\u0117no g. 50, Skuodo m., Skuodo r.", 
         "halls": [], 
         "size": 20
@@ -1602,6 +1747,11 @@ hotels = ([
         }, 
         "name": "PA\u017dAISLIS PARK HOTEL", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.8832783, 
+            "lng": 24.0079674, 
+            "normalized": "T. Masiulio gatv\u0117 18E, Kauno miestas, Lietuva"
+        }, 
         "address": "T. Masiulio g. 18E, Kauno m.", 
         "halls": [
             {
@@ -1656,6 +1806,11 @@ hotels = ([
         }, 
         "name": "SENATORIAI", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.6865343, 
+            "lng": 25.2858894, 
+            "normalized": "Tilto gatv\u0117 2A, Vilnius, Lietuva"
+        }, 
         "address": "Tilto g. 2A, Vilnius", 
         "halls": [], 
         "size": 21
@@ -1686,6 +1841,11 @@ hotels = ([
         }, 
         "name": "SM\u0116LYN\u0116", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.7312332, 
+            "lng": 24.3675248, 
+            "normalized": "Sm\u0117lyn\u0117s gatv\u0117 3, Panev\u0117\u017eio miestas, Lietuva"
+        }, 
         "address": "Sm\u0117lyn\u0117s g. 3, Panev\u0117\u017eio m.", 
         "halls": [
             {
@@ -1743,6 +1903,11 @@ hotels = ([
         }, 
         "name": "VILA SENJORA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.8329235, 
+            "lng": 23.8687212, 
+            "normalized": "\u017dalioji gatv\u0117, Garliavos miestas, Kauno rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "\u017dalioji g., Garliavos m., Kauno r.", 
         "halls": [
             {
@@ -1793,6 +1958,11 @@ hotels = ([
         }, 
         "name": "ARIB\u0116", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.7097655, 
+            "lng": 21.1447652, 
+            "normalized": "Bang\u0173 gatv\u0117 19, Klaip\u0117da, Lietuva"
+        }, 
         "address": "Bang\u0173 g. 19, Klaip\u0117da", 
         "halls": [], 
         "size": 22
@@ -1823,6 +1993,11 @@ hotels = ([
         }, 
         "name": "PAGUNDA", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9603462, 
+            "lng": 25.5872832, 
+            "normalized": "Respublikos gatv\u0117 45a, Roki\u0161kis, Roki\u0161kio r., Lietuva"
+        }, 
         "address": "Respublikos g. 45a, Roki\u0161kis, Roki\u0161kio r.", 
         "halls": [
             {
@@ -1873,6 +2048,11 @@ hotels = ([
         }, 
         "name": "VAIDILA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.3961586, 
+            "lng": 24.0482121, 
+            "normalized": "Rotu\u0161\u0117s a. 12, Alytus, Alytaus miesto savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Alytaus m. sav., Alytus, Rotu\u0161\u0117s a. 12", 
         "halls": [
             {
@@ -1923,6 +2103,11 @@ hotels = ([
         }, 
         "name": "ELEKTRA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.6898424, 
+            "lng": 25.2876827, 
+            "normalized": "\u017dvej\u0173 gatv\u0117 14A, Vilnius, Lietuva"
+        }, 
         "address": "\u017dvej\u0173 g. 14A, Vilnius", 
         "halls": [], 
         "size": 23
@@ -1953,6 +2138,11 @@ hotels = ([
         }, 
         "name": "RASA", 
         "rank": 1, 
+        "coords": {
+            "lat": 55.3796992, 
+            "lng": 23.1154464, 
+            "normalized": "Maironio gatv\u0117 2, Raseiniai, Lietuva"
+        }, 
         "address": "Maironio g. 2-95/20958, Raseiniai", 
         "halls": [
             {
@@ -2003,6 +2193,11 @@ hotels = ([
         }, 
         "name": "PARNID\u017dIO KOPA", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.304258, 
+            "lng": 21.0013692, 
+            "normalized": "Taikos gatv\u0117 26, Neringa, Lietuva"
+        }, 
         "address": "Taikos g. 26, Neringa", 
         "halls": [
             {
@@ -2057,6 +2252,11 @@ hotels = ([
         }, 
         "name": "HERMIS", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.9276381, 
+            "lng": 23.9709778, 
+            "normalized": "Savanori\u0173 prospektas 404, Kauno miestas, Lietuva"
+        }, 
         "address": "Savanori\u0173 pr. 404, Kauno m.", 
         "halls": [
             {
@@ -2107,6 +2307,11 @@ hotels = ([
         }, 
         "name": "PRIE MAL\u016aNO", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.7118639, 
+            "lng": 25.0282158, 
+            "normalized": "Vosyliukai, Trak\u0173 rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Vosyliuk\u0173 k., Lentvario sen., Trak\u0173 r.", 
         "halls": [
             {
@@ -2222,6 +2427,11 @@ hotels = ([
         }, 
         "name": "\u017dUV\u0116DRA", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.3442407, 
+            "lng": 26.1587538, 
+            "normalized": "Mokyklos gatv\u0117 11, Ignalinos miestas, Lietuva"
+        }, 
         "address": "Mokyklos g. 11, Ignalinos m., Ignalinos r.", 
         "halls": [
             {
@@ -2272,6 +2482,11 @@ hotels = ([
         }, 
         "name": "DU BROLIAI", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.916511, 
+            "lng": 21.0616283, 
+            "normalized": "S. Daukanto gatv\u0117 15, Palangos miestas, Lietuva"
+        }, 
         "address": "S. Daukanto g. 15, Palangos m.", 
         "halls": [], 
         "size": 24
@@ -2302,6 +2517,11 @@ hotels = ([
         }, 
         "name": "APIA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.6814657, 
+            "lng": 25.2846421, 
+            "normalized": "\u0160v. Ignoto gatv\u0117 12, Vilnius, Vilniaus m. sav., Lietuva"
+        }, 
         "address": "Vilniaus m. sav., Vilnius, \u0160v. Ignoto g. 12-1", 
         "halls": [], 
         "size": 24
@@ -2332,6 +2552,11 @@ hotels = ([
         }, 
         "name": "ACAPPELLA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.6454505, 
+            "lng": 25.2726579, 
+            "normalized": "Dariaus ir Gir\u0117no gatv\u0117 61, Vilnius, Vilniaus m. sav., Lietuva"
+        }, 
         "address": "Vilniaus m. sav., Vilnius, Dariaus ir Gir\u0117no g. 61", 
         "halls": [], 
         "size": 25
@@ -2362,6 +2587,11 @@ hotels = ([
         }, 
         "name": "E-GUESTHOUSE", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.6772898, 
+            "lng": 25.2658015, 
+            "normalized": "T. \u0160ev\u010denkos gatv\u0117 16, Vilnius, Lietuva"
+        }, 
         "address": "T. \u0160ev\u010denkos g. 16, Vilnius", 
         "halls": [
             {
@@ -2484,6 +2714,11 @@ hotels = ([
         }, 
         "name": "AUDRUVIS", 
         "rank": 3, 
+        "coords": {
+            "lat": 56.2299787, 
+            "lng": 23.6089941, 
+            "normalized": "V. Kudirkos gatv\u0117 93, Joni\u0161kis, Lietuva"
+        }, 
         "address": "V. Kudirkos g. 93, Joni\u0161kio m., Joni\u0161kio r.", 
         "halls": [
             {
@@ -2534,6 +2769,11 @@ hotels = ([
         }, 
         "name": "E-GUEST HOUSE", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.6772898, 
+            "lng": 25.2658015, 
+            "normalized": "T. \u0160ev\u010denkos gatv\u0117 16, Vilniaus miestas, Lietuva"
+        }, 
         "address": "T. \u0160ev\u010denkos g. 16, Vilniaus m.", 
         "halls": [
             {
@@ -2584,6 +2824,11 @@ hotels = ([
         }, 
         "name": "\u017dALIAS NAMAS", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9246224, 
+            "lng": 21.0705219, 
+            "normalized": "Vytauto gatv\u0117 97, Palangos miestas, Lietuva"
+        }, 
         "address": "Vytauto g. 97, Palangos m.", 
         "halls": [], 
         "size": 26
@@ -2614,6 +2859,11 @@ hotels = ([
         }, 
         "name": "GRAFO ZUBOVO", 
         "rank": 4, 
+        "coords": {
+            "lat": 55.8698431, 
+            "lng": 23.1956617, 
+            "normalized": "Dubysos gatv\u0117 1, Bubiai, \u0160iauli\u0173 r., Lietuva"
+        }, 
         "address": "Dubysos g. 1, Bubi\u0173 k., \u0160iauli\u0173 r.", 
         "halls": [
             {
@@ -2665,6 +2915,11 @@ hotels = ([
         }, 
         "name": "LIJO", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.7124386, 
+            "lng": 21.4033004, 
+            "normalized": "Sodo gatv\u0117 5, Garg\u017ed\u0173 miestas, Klaip\u0117dos r., Lietuva"
+        }, 
         "address": "Sodo g. 5, Garg\u017ed\u0173 m., Klaip\u0117dos r.", 
         "halls": [], 
         "size": 26
@@ -2695,6 +2950,11 @@ hotels = ([
         }, 
         "name": "VILA ULA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.20857669999999, 
+            "lng": 24.3402795, 
+            "normalized": "Burokarais\u010dio, Var\u0117nos r., Lietuva"
+        }, 
         "address": "Burokarais\u010dio k., Var\u0117nos r.", 
         "halls": [
             {
@@ -2745,6 +3005,11 @@ hotels = ([
         }, 
         "name": "RUGELIS", 
         "rank": 2, 
+        "coords": {
+            "lat": 56.3102612, 
+            "lng": 22.3286788, 
+            "normalized": "Ventos 31 A, Ma\u017eeikiai, Lietuva"
+        }, 
         "address": "Ventos 31 A, Ma\u017eeikiai", 
         "halls": [
             {
@@ -2795,6 +3060,11 @@ hotels = ([
         }, 
         "name": "ANGEL\u0116", 
         "rank": 2, 
+        "coords": {
+            "lat": 55.7374357, 
+            "lng": 24.3703332, 
+            "normalized": "Panev\u0117\u017eio gatv\u0117 7A, Roki\u0161kis, Roki\u0161kio rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Roki\u0161kio r. sav., Roki\u0161kio miesto sen., Roki\u0161kis, Panev\u0117\u017eio g. 7A", 
         "halls": [
             {
@@ -2845,6 +3115,11 @@ hotels = ([
         }, 
         "name": "NES\u0116", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.7246226, 
+            "lng": 21.1118955, 
+            "normalized": "Sportinink\u0173 gatv\u0117 46, Klaip\u0117da, Klaip\u0117dos m. sav., Lietuva"
+        }, 
         "address": "Klaip\u0117dos m. sav., Klaip\u0117da, Sportinink\u0173 g. 46", 
         "halls": [
             {
@@ -2895,6 +3170,11 @@ hotels = ([
         }, 
         "name": "PRIE E\u017dERO", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.7496577, 
+            "lng": 23.800993, 
+            "normalized": "Raudondvaris, Radvili\u0161kio rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Radvili\u0161kio r. sav., Pakalni\u0161ki\u0173 apylink\u0117s sen., Raudondvaris", 
         "halls": [
             {
@@ -2945,6 +3225,11 @@ hotels = ([
         }, 
         "name": "SOFIJOS REZIDENCIJA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.606649, 
+            "lng": 24.0284559, 
+            "normalized": "Jaunimo gatv\u0117 6, Bir\u0161tono miestas, Bir\u0161tono sav., Lietuva"
+        }, 
         "address": "Jaunimo g. 6, Bir\u0161tono m., Bir\u0161tono sav.", 
         "halls": [], 
         "size": 28
@@ -2975,6 +3260,11 @@ hotels = ([
         }, 
         "name": "ASIMAR\u0116", 
         "rank": 1, 
+        "coords": {
+            "lat": 54.7226621, 
+            "lng": 25.2985079, 
+            "normalized": "\u017dirm\u016bn\u0173 gatv\u0117 149, Vilnius, Vilniaus m. sav., Lietuva"
+        }, 
         "address": "Vilniaus m. sav., Vilnius, \u017dirm\u016bn\u0173 g. 149", 
         "halls": [], 
         "size": 28
@@ -3005,6 +3295,11 @@ hotels = ([
         }, 
         "name": "A PENKI", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.6533877, 
+            "lng": 25.2229447, 
+            "normalized": "Savanori\u0173 prospektas 176, Vilniaus miestas, Lietuva"
+        }, 
         "address": "Savanori\u0173 pr. 176, Vilniaus m.", 
         "halls": [], 
         "size": 28
@@ -3035,6 +3330,11 @@ hotels = ([
         }, 
         "name": "\u0160ACHMATIN\u0116", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9197072, 
+            "lng": 21.0525799, 
+            "normalized": "J. Basanavi\u010diaus gatv\u0117 45, Palangos miestas, Lietuva"
+        }, 
         "address": "J. Basanavi\u010diaus g. 45, Palangos m.", 
         "halls": [
             {
@@ -3085,6 +3385,11 @@ hotels = ([
         }, 
         "name": "NEMUNAS PARK RESIDENCE HOTEL", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.3467215, 
+            "lng": 24.1310766, 
+            "normalized": "Nemunaitis, Alytaus rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Alytaus r. sav., Nemunai\u010dio sen., Nemunaitis", 
         "halls": [
             {
@@ -3256,6 +3561,11 @@ hotels = ([
         }, 
         "name": "APPLE ECONOMY HOTEL", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.898563, 
+            "lng": 23.8883749, 
+            "normalized": "M. Valan\u010diaus gatv\u0117 19, Kaunas, Kauno miesto savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Kauno m. sav., Kaunas, M. Valan\u010diaus g. 19", 
         "halls": [
             {
@@ -3306,6 +3616,11 @@ hotels = ([
         }, 
         "name": "LA\u0160AS", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9184962, 
+            "lng": 21.0583097, 
+            "normalized": "J. Basanavi\u010diaus gatv\u0117 29, Palangos miestas, Lietuva"
+        }, 
         "address": "J. Basanavi\u010diaus g. 29, Palangos m.", 
         "halls": [
             {
@@ -3356,6 +3671,11 @@ hotels = ([
         }, 
         "name": "TAURAG\u0116", 
         "rank": 2, 
+        "coords": {
+            "lat": 55.25444590000001, 
+            "lng": 22.285205, 
+            "normalized": "Vytauto gatv\u0117 83, Taurag\u0117, Taurag\u0117s rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Taurag\u0117s r. sav., Taurag\u0117s miesto sen., Taurag\u0117, Vytauto g. 83", 
         "halls": [
             {
@@ -3422,6 +3742,11 @@ hotels = ([
         }, 
         "name": "R\u016aDNINK\u0172 VARTAI", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.6756257, 
+            "lng": 25.2833706, 
+            "normalized": "R\u016bdnink\u0173 gatv\u0117 15, Vilniaus miestas, Lietuva"
+        }, 
         "address": "R\u016bdnink\u0173 g. 15/46, Vilniaus m.", 
         "halls": [
             {
@@ -3472,6 +3797,11 @@ hotels = ([
         }, 
         "name": "SANTA BARBARA", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.6358229, 
+            "lng": 23.1091862, 
+            "normalized": "Barau\u010dizna, Vilkavi\u0161kio r., Lietuva"
+        }, 
         "address": "Barau\u010diznos k., Vilkavi\u0161kio r.", 
         "halls": [
             {
@@ -3522,6 +3852,11 @@ hotels = ([
         }, 
         "name": "PAS KATIN\u0104", 
         "rank": 2, 
+        "coords": {
+            "lat": 55.7595951, 
+            "lng": 24.403435, 
+            "normalized": "Vilkatupio gatv\u0117 1, Vaivadai, Panev\u0117\u017eio rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Vilkatupio g. 1, Vaivad\u0173 k., Panev\u0117\u017eio r.", 
         "halls": [
             {
@@ -3592,6 +3927,11 @@ hotels = ([
         }, 
         "name": "OD\u0116", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.3967622, 
+            "lng": 24.0306287, 
+            "normalized": "Naujoji gatv\u0117 8-C, Alytaus miestas, Lietuva"
+        }, 
         "address": "Naujoji g. 8-C, Alytaus m.", 
         "halls": [
             {
@@ -3642,6 +3982,11 @@ hotels = ([
         }, 
         "name": "HBH JUOZO ALAUS BRAVORO VIE\u0160BUTIS", 
         "rank": 2, 
+        "coords": {
+            "lat": 55.9596245, 
+            "lng": 21.1513928, 
+            "normalized": "\u017dibininkai, Kretingos r., Lietuva"
+        }, 
         "address": "\u017dibininkai, Kretingos r.", 
         "halls": [
             {
@@ -3692,6 +4037,11 @@ hotels = ([
         }, 
         "name": "RINNO", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.6773447, 
+            "lng": 25.2795414, 
+            "normalized": "Vingri\u0173 gatv\u0117 25, Vilniaus miestas, Lietuva"
+        }, 
         "address": "Vingri\u0173 g. 25, Vilniaus m.", 
         "halls": [
             {
@@ -3777,6 +4127,11 @@ hotels = ([
         }, 
         "name": "PALVA", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.6741434, 
+            "lng": 21.1806361, 
+            "normalized": "Statybinink\u0173 prospektas 7, Klaip\u0117dos miestas, Lietuva"
+        }, 
         "address": "Statybinink\u0173 pr. 7, Klaip\u0117dos m.", 
         "halls": [
             {
@@ -3829,6 +4184,11 @@ hotels = ([
         }, 
         "name": "MORENA", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.7374757, 
+            "lng": 21.0920962, 
+            "normalized": "Audros gatv\u0117 8a, Klaip\u0117da, Lietuva"
+        }, 
         "address": "Audros g. 8a, Klaip\u0117da", 
         "halls": [
             {
@@ -3930,6 +4290,11 @@ hotels = ([
         }, 
         "name": "PAJ\u016aRIO VIE\u0160KELIS", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.7464667, 
+            "lng": 21.1304151, 
+            "normalized": "Liepojos gatv\u0117 7A, Klaip\u0117dos miestas, Lietuva"
+        }, 
         "address": "Liepojos g. 7A, Klaip\u0117dos m.", 
         "halls": [
             {
@@ -3999,6 +4364,11 @@ hotels = ([
         }, 
         "name": "J\u016aRAGIS", 
         "rank": 1, 
+        "coords": {
+            "lat": 55.6817801, 
+            "lng": 21.1792402, 
+            "normalized": "Debreceno gatv\u0117 27, Klaip\u0117da, Klaip\u0117dos m. sav., Lietuva"
+        }, 
         "address": "Klaip\u0117dos m. sav., Klaip\u0117da, Debreceno g. 27", 
         "halls": [], 
         "size": 32
@@ -4029,6 +4399,11 @@ hotels = ([
         }, 
         "name": "VENTAIN\u0116", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.3500117, 
+            "lng": 21.1992241, 
+            "normalized": "Vent\u0117, \u0160ilut\u0117s rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Vent\u0117, \u0160ilut\u0117s r.", 
         "halls": [
             {
@@ -4162,6 +4537,11 @@ hotels = ([
         }, 
         "name": "EUTERP\u0116", 
         "rank": 4, 
+        "coords": {
+            "lat": 55.706516, 
+            "lng": 21.1355035, 
+            "normalized": "Dar\u017e\u0173 gatv\u0117 9, Klaip\u0117dos miestas, Lietuva"
+        }, 
         "address": "Dar\u017e\u0173 g. 9, Klaip\u0117dos m.", 
         "halls": [
             {
@@ -4220,6 +4600,11 @@ hotels = ([
         }, 
         "name": "GILIJA", 
         "rank": 4, 
+        "coords": {
+            "lat": 55.3572852, 
+            "lng": 21.7039608, 
+            "normalized": "Vytauto gatv\u0117 17, \u0160ilut\u0117s miestas, Lietuva"
+        }, 
         "address": "Vytauto g. 17, \u0160ilut\u0117s m., \u0160ilut\u0117s r.", 
         "halls": [
             {
@@ -4308,6 +4693,11 @@ hotels = ([
         }, 
         "name": "SAULININKAS", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9320758, 
+            "lng": 23.3142194, 
+            "normalized": "\u0160iauliai, S. Lukauskio gatv\u0117 5A, \u0160iauli\u0173 miesto savivaldyb\u0117, Lietuva"
+        }, 
         "address": "\u0160iauli\u0173 m. sav., \u0160iauliai, S. Lukauskio g. 5A", 
         "halls": [
             {
@@ -4358,6 +4748,11 @@ hotels = ([
         }, 
         "name": "TYLA", 
         "rank": 3, 
+        "coords": {
+            "lat": 56.184038, 
+            "lng": 24.7657822, 
+            "normalized": "Tylos gatv\u0117 2, Bir\u017eai, Lietuva"
+        }, 
         "address": "Tylos g. 2, Bir\u017eai", 
         "halls": [
             {
@@ -4408,6 +4803,11 @@ hotels = ([
         }, 
         "name": "MOBUSTA", 
         "rank": 1, 
+        "coords": {
+            "lat": 55.9565293, 
+            "lng": 23.3206368, 
+            "normalized": "Vaidoto gatv\u0117 33, \u0160iauliai, Lietuva"
+        }, 
         "address": "Vaidoto g. 33, \u0160iauliai", 
         "halls": [], 
         "size": 33
@@ -4438,6 +4838,11 @@ hotels = ([
         }, 
         "name": "GR\u0116JAUS NAMAS", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.2858427, 
+            "lng": 23.9811764, 
+            "normalized": "Did\u017eioji gatv\u0117 36, K\u0117daini\u0173 miestas, K\u0117daini\u0173 rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Did\u017eioji g. 36, K\u0117daini\u0173 m., K\u0117daini\u0173 r.", 
         "halls": [
             {
@@ -4503,6 +4908,11 @@ hotels = ([
         }, 
         "name": "VINGIS", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.525681, 
+            "lng": 23.3472639, 
+            "normalized": "Poilsio gatv\u0117 21, Marijampol\u0117s miestas, Marijampol\u0117s sav., Lietuva"
+        }, 
         "address": "Poilsio g. 21, Marijampol\u0117s m., Marijampol\u0117s sav.", 
         "halls": [
             {
@@ -4577,6 +4987,11 @@ hotels = ([
         }, 
         "name": "V\u0116TRA", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.6742992, 
+            "lng": 21.1671424, 
+            "normalized": "Taikos prospektas 80, Klaip\u0117dos miestas, Lietuva"
+        }, 
         "address": "Taikos pr. 80 , Klaip\u0117dos m.", 
         "halls": [
             {
@@ -4627,6 +5042,11 @@ hotels = ([
         }, 
         "name": "SFINKSAS", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.9038789, 
+            "lng": 23.9344894, 
+            "normalized": "Auk\u0161tai\u010di\u0173 gatv\u0117 55, Kauno miestas, Lietuva"
+        }, 
         "address": "Auk\u0161tai\u010di\u0173 g. 55, Kauno m.", 
         "halls": [
             {
@@ -4677,6 +5097,11 @@ hotels = ([
         }, 
         "name": "APVALAUS STALO KLUBAS", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.62851860000001, 
+            "lng": 24.9305178, 
+            "normalized": "Gilu\u0161io gatv\u0117 6, Trak\u0173 miestas, Trak\u0173 rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Gilu\u0161io g. 6, Trak\u0173 m., Trak\u0173 r.", 
         "halls": [
             {
@@ -4730,6 +5155,11 @@ hotels = ([
         }, 
         "name": "AMBASSADOR", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.6869361, 
+            "lng": 25.2807574, 
+            "normalized": "Gedimino prospektas 12, Vilniaus miestas, Lietuva"
+        }, 
         "address": "Gedimino pr. 12, Vilniaus m.", 
         "halls": [], 
         "size": 34
@@ -4760,6 +5190,11 @@ hotels = ([
         }, 
         "name": "MAGNISIMA", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.7189661, 
+            "lng": 21.1238698, 
+            "normalized": "J. Janonio gatv\u0117 11, Klaip\u0117da, Lietuva"
+        }, 
         "address": "J. Janonio g. 11, Klaip\u0117da", 
         "halls": [
             {
@@ -4826,6 +5261,11 @@ hotels = ([
         }, 
         "name": "INFO HOTEL", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9214547, 
+            "lng": 21.0685893, 
+            "normalized": "Vytauto gatv\u0117 116, Palangos miestas, Lietuva"
+        }, 
         "address": "Vytauto g. 116, Palangos m.", 
         "halls": [], 
         "size": 35
@@ -4856,6 +5296,11 @@ hotels = ([
         }, 
         "name": "BELLAVILA", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9240256, 
+            "lng": 21.0578073, 
+            "normalized": "Gintaro gatv\u0117 1A, Palangos miestas, Lietuva"
+        }, 
         "address": "Gintaro g. 1A, Palangos m.", 
         "halls": [], 
         "size": 36
@@ -4886,6 +5331,11 @@ hotels = ([
         }, 
         "name": "VILA DIEMEDIS", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9121489, 
+            "lng": 21.0632529, 
+            "normalized": "Vytauto gatv\u0117 53, Palangos miestas, Lietuva"
+        }, 
         "address": "Vytauto g. 53, Palangos m.", 
         "halls": [], 
         "size": 36
@@ -4916,6 +5366,11 @@ hotels = ([
         }, 
         "name": "SENAS NAMAS", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.3990555, 
+            "lng": 24.0460539, 
+            "normalized": "U\u017euolankos gatv\u0117 24, Alytaus miestas, Lietuva"
+        }, 
         "address": "U\u017euolankos g. 24, Alytaus m.", 
         "halls": [
             {
@@ -4970,6 +5425,11 @@ hotels = ([
         }, 
         "name": "\u0160IRVINTA", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.65019599999999, 
+            "lng": 23.0338577, 
+            "normalized": "J. Basanavi\u010diaus a. 5, Vilkavi\u0161kio miestas, Vilkavi\u0161kio r., Lietuva"
+        }, 
         "address": "J. Basanavi\u010diaus a. 5, Vilkavi\u0161kio m., Vilkavi\u0161kio r.", 
         "halls": [
             {
@@ -5020,6 +5480,11 @@ hotels = ([
         }, 
         "name": "CITY GATE", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.674134, 
+            "lng": 25.2874522, 
+            "normalized": "Bazilijon\u0173 gatv\u0117 3, Vilniaus miestas, Lietuva"
+        }, 
         "address": "Bazilijon\u0173 g. 3, Vilniaus m.", 
         "halls": [
             {
@@ -5116,6 +5581,11 @@ hotels = ([
         }, 
         "name": "NEMUNO VIE\u0160BUTIS", 
         "rank": 2, 
+        "coords": {
+            "lat": 55.342327, 
+            "lng": 21.4697679, 
+            "normalized": "\u0160ilut\u0117, Lietuvinink\u0173 gatv\u0117 70, \u0160ilut\u0117s rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "\u0160ilut\u0117s r. sav., \u0160ilut\u0117s sen., \u0160ilut\u0117, Lietuvinink\u0173 g. 70", 
         "halls": [], 
         "size": 39
@@ -5146,6 +5616,11 @@ hotels = ([
         }, 
         "name": "R\u0104\u017d\u0116", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9148516, 
+            "lng": 21.0647949, 
+            "normalized": "Vytauto gatv\u0117 74, Palangos miestas, Lietuva"
+        }, 
         "address": "Vytauto g. 74, Palangos m.", 
         "halls": [
             {
@@ -5196,6 +5671,11 @@ hotels = ([
         }, 
         "name": "PROMENADA", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.7206189, 
+            "lng": 21.1293204, 
+            "normalized": "\u0160iauli\u0173 gatv\u0117 41, Klaip\u0117dos miestas, Lietuva"
+        }, 
         "address": "\u0160iauli\u0173 g. 41, Klaip\u0117dos m.", 
         "halls": [
             {
@@ -5246,6 +5726,11 @@ hotels = ([
         }, 
         "name": "VIOLETA", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.01772949999999, 
+            "lng": 23.9838921, 
+            "normalized": "Kurorto gatv\u0117 4, Druskininkai, Lietuva"
+        }, 
         "address": "Kurorto g. 4, Druskininkai", 
         "halls": [
             {
@@ -5322,6 +5807,11 @@ hotels = ([
         }, 
         "name": "DALIA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.0125211, 
+            "lng": 23.9872091, 
+            "normalized": "Vytauto gatv\u0117 27, Druskinink\u0173 miestas, Lietuva"
+        }, 
         "address": "Vytauto g. 27, Druskinink\u0173 m., Druskinink\u0173 sav.", 
         "halls": [], 
         "size": 40
@@ -5352,6 +5842,11 @@ hotels = ([
         }, 
         "name": "RUNMIS", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243, 
+            "normalized": "Paneb\u0117\u017eio 8A, Vilnius, Lietuva"
+        }, 
         "address": "Paneb\u0117\u017eio 8A, Vilnius", 
         "halls": [], 
         "size": 40
@@ -5382,6 +5877,11 @@ hotels = ([
         }, 
         "name": "\u017dIJ\u016aR\u0116", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.6550249, 
+            "lng": 25.2981254, 
+            "normalized": "\u017dirni\u0173 gatv\u0117 10, Vilnius, Vilniaus m. sav., Lietuva"
+        }, 
         "address": "Vilniaus m. sav., Vilnius, \u017dirni\u0173 g. 10", 
         "halls": [], 
         "size": 40
@@ -5412,6 +5912,11 @@ hotels = ([
         }, 
         "name": "GROTTHUSS HOTEL", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.676406, 
+            "lng": 25.2830424, 
+            "normalized": "Ligonin\u0117s gatv\u0117 7, Vilnius, Lietuva"
+        }, 
         "address": "Ligonin\u0117s g. 7, Vilnius", 
         "halls": [
             {
@@ -5489,6 +5994,11 @@ hotels = ([
         }, 
         "name": "ATGAIVA TAU", 
         "rank": 1, 
+        "coords": {
+            "lat": 55.0514789, 
+            "lng": 24.3754625, 
+            "normalized": "Rukla, Jonavos rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Ruklos k., Ruklos sen., Jonavos r.", 
         "halls": [
             {
@@ -5558,6 +6068,11 @@ hotels = ([
         }, 
         "name": "MINOTEL", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.8959753, 
+            "lng": 23.8883024, 
+            "normalized": "V. Kuzmos gatv\u0117 8, Kaunas, Lietuva"
+        }, 
         "address": "V. Kuzmos g. 8, Kaunas", 
         "halls": [
             {
@@ -5631,6 +6146,11 @@ hotels = ([
         }, 
         "name": "AUST\u0116JA", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9221629, 
+            "lng": 21.0624742, 
+            "normalized": "Smil\u010di\u0173 gatv\u0117 31, Palanga, Lietuva"
+        }, 
         "address": "Smil\u010di\u0173 g. 31, Palanga", 
         "halls": [
             {
@@ -5681,6 +6201,11 @@ hotels = ([
         }, 
         "name": "PURIENA", 
         "rank": 2, 
+        "coords": {
+            "lat": 55.7951235, 
+            "lng": 23.5543656, 
+            "normalized": "Daujo\u010di\u0173 gatv\u0117 10B, Radvili\u0161kis, Radvili\u0161kio rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Radvili\u0161kio r. sav., Radvili\u0161kio miesto sen., Radvili\u0161kis, Daujo\u010di\u0173 g. 10B", 
         "halls": [
             {
@@ -5731,6 +6256,11 @@ hotels = ([
         }, 
         "name": "VILA FLORA", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.5425605, 
+            "lng": 21.1199682, 
+            "normalized": "Kalno gatv\u0117 7a, Neringos miestas, Neringos sav., Lietuva"
+        }, 
         "address": "Kalno g. 7a, Neringos m., Neringos sav.", 
         "halls": [
             {
@@ -5783,6 +6313,11 @@ hotels = ([
         }, 
         "name": "DANIELA", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.8963776, 
+            "lng": 23.9174456, 
+            "normalized": "A. Mickevi\u010diaus gatv\u0117 28, Kauno miestas, Lietuva"
+        }, 
         "address": "A. Mickevi\u010diaus g. 28, Kauno m.", 
         "halls": [
             {
@@ -5875,6 +6410,11 @@ hotels = ([
         }, 
         "name": "TURN\u0116", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9263075, 
+            "lng": 23.3159265, 
+            "normalized": "R\u016bd\u0117s gatv\u0117 9, \u0160iauliai, Lietuva"
+        }, 
         "address": "R\u016bd\u0117s g. 9, \u0160iauliai", 
         "halls": [], 
         "size": 44
@@ -5905,6 +6445,11 @@ hotels = ([
         }, 
         "name": "CREDO", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243, 
+            "normalized": "Vilniaus al. 2A, Druskinink\u0173 miestas, Druskinink\u0173 sav., Lietuva"
+        }, 
         "address": "Vilniaus al. 2A, Druskinink\u0173 m., Druskinink\u0173 sav.", 
         "halls": [], 
         "size": 44
@@ -5935,6 +6480,11 @@ hotels = ([
         }, 
         "name": "PU\u0160YNO NAMAI", 
         "rank": 4, 
+        "coords": {
+            "lat": 56.2634036, 
+            "lng": 22.2656004, 
+            "normalized": "Spurganai, Ma\u017eeiki\u0173 rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Spurgan\u0173 k., Ma\u017eeiki\u0173 r.", 
         "halls": [
             {
@@ -5986,6 +6536,11 @@ hotels = ([
         }, 
         "name": "GRAFAIT\u0116S SVETAIN\u0116", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9539716, 
+            "lng": 23.3552627, 
+            "normalized": "Au\u0161ros gatv\u0117 1, Gink\u016bnai, \u0160iauli\u0173 r., Lietuva"
+        }, 
         "address": "Au\u0161ros g. 1, Gink\u016bnai, \u0160iauli\u0173 r.", 
         "halls": [
             {
@@ -6036,6 +6591,11 @@ hotels = ([
         }, 
         "name": "VIE\u0160BUTIS \"TURN\u0116\"", 
         "rank": 2, 
+        "coords": {
+            "lat": 55.9263075, 
+            "lng": 23.3159265, 
+            "normalized": "R\u016bd\u0117s gatv\u0117 9, \u0160iauli\u0173 miestas, Lietuva"
+        }, 
         "address": "R\u016bd\u0117s g. 9, \u0160iauli\u0173 m.", 
         "halls": [], 
         "size": 44
@@ -6066,6 +6626,11 @@ hotels = ([
         }, 
         "name": "VECEKRUG", 
         "rank": 4, 
+        "coords": {
+            "lat": 55.712332, 
+            "lng": 21.1255676, 
+            "normalized": "J\u016bros gatv\u0117 23, Klaip\u0117da, Lietuva"
+        }, 
         "address": "J\u016bros g. 23, Klaip\u0117da", 
         "halls": [
             {
@@ -6139,6 +6704,11 @@ hotels = ([
         }, 
         "name": "AMICUS HOTEL", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.6591734, 
+            "lng": 25.2777473, 
+            "normalized": "Kaminkelio gatv\u0117 15, Vilnius, Lietuva"
+        }, 
         "address": "Kaminkelio g. 15, Vilnius", 
         "halls": [], 
         "size": 45
@@ -6169,6 +6739,11 @@ hotels = ([
         }, 
         "name": "ATRIUM", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.683822, 
+            "lng": 25.2894471, 
+            "normalized": "Pilies gatv\u0117 10, Vilniaus miestas, Lietuva"
+        }, 
         "address": "Pilies g. 10, Vilniaus m.", 
         "halls": [
             {
@@ -6219,6 +6794,11 @@ hotels = ([
         }, 
         "name": "L\u016aGN\u0116", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.7048393, 
+            "lng": 21.1380252, 
+            "normalized": "Galinio Pylimo gatv\u0117 16, Klaip\u0117da, Klaip\u0117dos m. sav., Lietuva"
+        }, 
         "address": "Klaip\u0117dos m. sav., Klaip\u0117da, Galinio Pylimo g. 16", 
         "halls": [
             {
@@ -6269,6 +6849,11 @@ hotels = ([
         }, 
         "name": "MONELA", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.8968721, 
+            "lng": 23.8924264, 
+            "normalized": "Laisv\u0117s al. 35, Kaunas, Lietuva"
+        }, 
         "address": "Laisv\u0117s al. 35, Kaunas", 
         "halls": [], 
         "size": 46
@@ -6299,6 +6884,11 @@ hotels = ([
         }, 
         "name": "LIUKRENA", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9242705, 
+            "lng": 21.0703095, 
+            "normalized": "Vytauto gatv\u0117 93A, Palangos miestas, Lietuva"
+        }, 
         "address": "Vytauto g. 93A, Palangos m.", 
         "halls": [
             {
@@ -6352,6 +6942,11 @@ hotels = ([
         }, 
         "name": "PERK\u016aNO NAMAI", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.8968721, 
+            "lng": 23.8924264, 
+            "normalized": "Perk\u016bno al. 61, Kaunas, Lietuva"
+        }, 
         "address": "Perk\u016bno al. 61, Kaunas", 
         "halls": [
             {
@@ -6449,6 +7044,11 @@ hotels = ([
         }, 
         "name": "DZ\u016aKIJA", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.0195337, 
+            "lng": 23.9789143, 
+            "normalized": "V. Kudirkos gatv\u0117 47, Druskininkai, Lietuva"
+        }, 
         "address": "V. Kudirkos g. 47, Druskininkai", 
         "halls": [], 
         "size": 48
@@ -6479,6 +7079,11 @@ hotels = ([
         }, 
         "name": "EGLI\u0172 SL\u0116NIS", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.5378449, 
+            "lng": 21.1169592, 
+            "normalized": "Ievos kalno gatv\u0117 28, Neringa, Lietuva"
+        }, 
         "address": "Ievos kalno g. 28, Neringa", 
         "halls": [
             {
@@ -6537,6 +7142,11 @@ hotels = ([
         }, 
         "name": "VLASPA", 
         "rank": 1, 
+        "coords": {
+            "lat": 54.6737159, 
+            "lng": 25.2807887, 
+            "normalized": "\u0160v. Stepono gatv\u0117 11, Vilnius, Lietuva"
+        }, 
         "address": "\u0160v. Stepono g. 11, Vilnius", 
         "halls": [], 
         "size": 48
@@ -6567,6 +7177,11 @@ hotels = ([
         }, 
         "name": "TULP\u0116", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9119677, 
+            "lng": 21.0571086, 
+            "normalized": "S. Dariaus ir S. Gir\u0117no gatv\u0117 11, Palangos miestas, Lietuva"
+        }, 
         "address": "S. Dariaus ir S. Gir\u0117no g. 11, Palangos m.", 
         "halls": [
             {
@@ -6652,6 +7267,11 @@ hotels = ([
         }, 
         "name": "\u0160IAULI\u0172 KRA\u0160TO MED\u017dIOTOJ\u0172 U\u017dEIGA", 
         "rank": 4, 
+        "coords": {
+            "lat": 55.9280315, 
+            "lng": 23.297225, 
+            "normalized": "Dubijos gatv\u0117 20, \u0160iauliai, Lietuva"
+        }, 
         "address": "Dubijos g. 20, \u0160iauliai", 
         "halls": [
             {
@@ -6703,6 +7323,11 @@ hotels = ([
         }, 
         "name": "JUKNAI\u010cIAI", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.2879877, 
+            "lng": 21.5815649, 
+            "normalized": "Ber\u017e\u0173 gatv\u0117 3, Juknai\u010diai, \u0160ilut\u0117s raj., Lietuva"
+        }, 
         "address": "Ber\u017e\u0173 g. 3, Juknai\u010diai, Juknai\u010di\u0173 sen., \u0160ilut\u0117s raj.", 
         "halls": [
             {
@@ -6753,6 +7378,11 @@ hotels = ([
         }, 
         "name": "SPA HOTEL BELVILIS", 
         "rank": 4, 
+        "coords": {
+            "lat": 55.2098483, 
+            "lng": 25.4723211, 
+            "normalized": "Kirneil\u0117, Mol\u0117t\u0173 r., Lietuva"
+        }, 
         "address": "Kirneil\u0117s k., Mol\u0117t\u0173 r.", 
         "halls": [
             {
@@ -6843,6 +7473,11 @@ hotels = ([
         }, 
         "name": "MED\u016aZA", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9475428, 
+            "lng": 21.0664709, 
+            "normalized": "Kontinink\u0173 gatv\u0117 9, Palanga, Lietuva"
+        }, 
         "address": "Palangos m. sav., Palanga, Kontinink\u0173 g. 9", 
         "halls": [
             {
@@ -6915,6 +7550,11 @@ hotels = ([
         }, 
         "name": "ASTRUM PALACE", 
         "rank": 4, 
+        "coords": {
+            "lat": 56.31531, 
+            "lng": 22.34102, 
+            "normalized": "Laisv\u0117s gatv\u0117 7, Ma\u017eeiki\u0173 miestas, Ma\u017eeiki\u0173 rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Laisv\u0117s g. 7, Ma\u017eeiki\u0173 m., Ma\u017eeiki\u0173 r.", 
         "halls": [
             {
@@ -6967,6 +7607,11 @@ hotels = ([
         }, 
         "name": "TENISAS", 
         "rank": 2, 
+        "coords": {
+            "lat": 55.9244916, 
+            "lng": 21.0657412, 
+            "normalized": "G\u0117li\u0173 a. 1A, Palanga, Lietuva"
+        }, 
         "address": "Palangos m. sav., Palanga, G\u0117li\u0173 a. 1A", 
         "halls": [
             {
@@ -7017,6 +7662,11 @@ hotels = ([
         }, 
         "name": "EMBASSY HOTEL BALATONAS", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.6948316, 
+            "lng": 25.2473892, 
+            "normalized": "Latvi\u0173 gatv\u0117 38, Vilniaus miestas, Lietuva"
+        }, 
         "address": "Latvi\u0173 g. 38, Vilniaus m.", 
         "halls": [
             {
@@ -7070,6 +7720,11 @@ hotels = ([
         }, 
         "name": "BAJOR\u0172 U\u017dEIGA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.7616325, 
+            "lng": 25.1773853, 
+            "normalized": "Suderv\u0117s gatv\u0117 10, Avi\u017eieniai, Vilniaus rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Suderv\u0117s g. 10, Avi\u017eieni\u0173 k., Vilniaus r.", 
         "halls": [
             {
@@ -7121,6 +7776,11 @@ hotels = ([
         }, 
         "name": "PU\u0160IS", 
         "rank": 1, 
+        "coords": {
+            "lat": 54.6969929, 
+            "lng": 25.2397069, 
+            "normalized": "Blind\u017ei\u0173 gatv\u0117 17, Vilnius, Lietuva"
+        }, 
         "address": "Blind\u017ei\u0173 g. 17, Vilnius", 
         "halls": [
             {
@@ -7200,6 +7860,11 @@ hotels = ([
         }, 
         "name": "PU\u0160\u0172 PAUNKSN\u0116JE", 
         "rank": 4, 
+        "coords": {
+            "lat": 55.9108901, 
+            "lng": 21.0615661, 
+            "normalized": "S. Dariaus ir S. Gir\u0117no gatv\u0117 25, Palanga, Palangos miesto savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Palangos m. sav., Palanga, S. Dariaus ir S. Gir\u0117no g. 25", 
         "halls": [
             {
@@ -7361,6 +8026,11 @@ hotels = ([
         }, 
         "name": "TEL\u0160I\u0172 VIE\u0160BUTIS", 
         "rank": 1, 
+        "coords": {
+            "lat": 55.9851397, 
+            "lng": 22.2480565, 
+            "normalized": "K\u0119stu\u010dio gatv\u0117 21, Tel\u0161iai, Tel\u0161i\u0173 rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Tel\u0161i\u0173 r. sav., Tel\u0161i\u0173 sen., Tel\u0161iai, K\u0119stu\u010dio g. 21", 
         "halls": [], 
         "size": 52
@@ -7391,6 +8061,11 @@ hotels = ([
         }, 
         "name": "CENTRE HOTEL NUOVA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.9020051, 
+            "lng": 23.910447, 
+            "normalized": "Savanori\u0173 prospektas 66, Kaunas, Kauno miesto savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Kauno m. sav., Kaunas, Savanori\u0173 pr. 66", 
         "halls": [
             {
@@ -7457,6 +8132,11 @@ hotels = ([
         }, 
         "name": "VILA JELITA", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.3080966, 
+            "lng": 21.0052591, 
+            "normalized": "G. D. Kuverto gatv\u0117 7, Neringa, Lietuva"
+        }, 
         "address": "G. D. Kuverto g. 7, Neringa, Neringos sav.", 
         "halls": [], 
         "size": 53
@@ -7487,6 +8167,11 @@ hotels = ([
         }, 
         "name": "AMBERTON COSY", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.8959753, 
+            "lng": 23.8883024, 
+            "normalized": "Kuzmos gatv\u0117 8, Kaunas, Lietuva"
+        }, 
         "address": "Kuzmos g. 8, Kaunas", 
         "halls": [], 
         "size": 53
@@ -7517,6 +8202,11 @@ hotels = ([
         }, 
         "name": "TAURAS", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9214547, 
+            "lng": 21.0685893, 
+            "normalized": "Vytauto gatv\u0117 116, Palanga, Lietuva"
+        }, 
         "address": "Vytauto g. 116, Palanga", 
         "halls": [
             {
@@ -7571,6 +8261,11 @@ hotels = ([
         }, 
         "name": "BALTIC INN", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9156273, 
+            "lng": 21.06105, 
+            "normalized": "S. Daukanto gatv\u0117 10A, Palangos miestas, Lietuva"
+        }, 
         "address": "S. Daukanto g. 10A, Palangos m.", 
         "halls": [], 
         "size": 53
@@ -7601,6 +8296,11 @@ hotels = ([
         }, 
         "name": "TOMAS", 
         "rank": 4, 
+        "coords": {
+            "lat": 55.9171765, 
+            "lng": 23.2837387, 
+            "normalized": "Til\u017e\u0117s gatv\u0117 63A, \u0160iauli\u0173 miestas, Lietuva"
+        }, 
         "address": "Til\u017e\u0117s g. 63A, \u0160iauli\u0173 m.", 
         "halls": [
             {
@@ -7652,6 +8352,11 @@ hotels = ([
         }, 
         "name": "IVOLITA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.0186097, 
+            "lng": 23.9722411, 
+            "normalized": "\u0160v. Jok\u016bbo gatv\u0117 10, Druskinink\u0173 miestas, Druskinink\u0173 sav., Lietuva"
+        }, 
         "address": "\u0160v. Jok\u016bbo g. 10, Druskinink\u0173 m., Druskinink\u0173 sav.", 
         "halls": [
             {
@@ -7702,6 +8407,11 @@ hotels = ([
         }, 
         "name": "SHAKESPEARE", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.6835671, 
+            "lng": 25.2914924, 
+            "normalized": "Bernardin\u0173 gatv\u0117 8, Vilnius, Vilniaus m. sav., Lietuva"
+        }, 
         "address": "Vilniaus m. sav., Vilnius, Bernardin\u0173 g. 8/8", 
         "halls": [
             {
@@ -7893,6 +8603,11 @@ hotels = ([
         }, 
         "name": "ANYK\u0160\u010cI\u0172 SPORTO IR LAISVALAIKIO CENTRAS", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.520581, 
+            "lng": 25.1157457, 
+            "normalized": "Liudi\u0161ki\u0173 gatv\u0117 18, Anyk\u0161\u010diai, Lietuva"
+        }, 
         "address": "Liudi\u0161ki\u0173 g. 18, Anyk\u0161\u010diai", 
         "halls": [], 
         "size": 55
@@ -7923,6 +8638,11 @@ hotels = ([
         }, 
         "name": "KUPI\u0160KIO VERSLO IR TECHNOLOGIJOS MOKYKLOS VIE\u0160BUTIS", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.3966086, 
+            "lng": 23.9984023, 
+            "normalized": "Smilgys, Lietuva"
+        }, 
         "address": "Smilgi\u0173 k., Kupi\u0161kio r.", 
         "halls": [
             {
@@ -7973,6 +8693,11 @@ hotels = ([
         }, 
         "name": "DZ\u016aKIJOS VIE\u0160BUTIS", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.3959444, 
+            "lng": 24.0460449, 
+            "normalized": "Pulko gatv\u0117 14, Alytaus miestas, Lietuva"
+        }, 
         "address": "Pulko g. 14-1, Alytaus m.", 
         "halls": [
             {
@@ -8042,6 +8767,11 @@ hotels = ([
         }, 
         "name": "KETURI KALNAI", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.520581, 
+            "lng": 25.1157457, 
+            "normalized": "Liudi\u0161ki\u0173 gatv\u0117 18, Anyk\u0161\u010di\u0173 miestas, Anyk\u0161\u010di\u0173 rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Liudi\u0161ki\u0173 g. 18, Anyk\u0161\u010di\u0173 m., Anyk\u0161\u010di\u0173 r.", 
         "halls": [
             {
@@ -8139,6 +8869,11 @@ hotels = ([
         }, 
         "name": "SONATA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.6105285, 
+            "lng": 24.0294936, 
+            "normalized": "Algirdo gatv\u0117 34, Bir\u0161tono miestas, Lietuva"
+        }, 
         "address": "Algirdo g. 34, Bir\u0161tono m., Bir\u0161tono sav.", 
         "halls": [
             {
@@ -8189,6 +8924,11 @@ hotels = ([
         }, 
         "name": "SIMBOLY", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.5816087, 
+            "lng": 23.8858068, 
+            "normalized": "Vazgaikiemis, Prien\u0173 r., Lietuva"
+        }, 
         "address": "Vazgaikiemio k., Prien\u0173 r.", 
         "halls": [
             {
@@ -8293,6 +9033,11 @@ hotels = ([
         }, 
         "name": "NAVALIS", 
         "rank": 4, 
+        "coords": {
+            "lat": 55.7168441, 
+            "lng": 21.1283897, 
+            "normalized": "H. Manto gatv\u0117 23, Klaip\u0117dos miestas, Lietuva"
+        }, 
         "address": "H. Manto g. 23, Klaip\u0117dos m.", 
         "halls": [
             {
@@ -8497,6 +9242,11 @@ hotels = ([
         }, 
         "name": "VIKTORIJA", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.4117982, 
+            "lng": 22.7620251, 
+            "normalized": "\u010ci\u017ei\u0161kiai, Vilkavi\u0161kio r., Lietuva"
+        }, 
         "address": "\u010ci\u017ei\u0161ki\u0173 k., Vilkavi\u0161kio r.", 
         "halls": [
             {
@@ -8571,6 +9321,11 @@ hotels = ([
         }, 
         "name": "PALANGOS V\u0116TRA", 
         "rank": 4, 
+        "coords": {
+            "lat": 55.9121319, 
+            "lng": 21.058719, 
+            "normalized": "S. Daukanto gatv\u0117 35, Palangos miestas, Lietuva"
+        }, 
         "address": "S. Daukanto g. 35, Palangos m.", 
         "halls": [
             {
@@ -8656,6 +9411,11 @@ hotels = ([
         }, 
         "name": "OLD MILL HOTEL", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.7067604, 
+            "lng": 21.1271485, 
+            "normalized": "\u017dvej\u0173 gatv\u0117 22, Klaip\u0117dos miestas, Lietuva"
+        }, 
         "address": "\u017dvej\u0173 g. 22, Klaip\u0117dos m.", 
         "halls": [], 
         "size": 58
@@ -8686,6 +9446,11 @@ hotels = ([
         }, 
         "name": "PARK VILLA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.7337846, 
+            "lng": 25.295776, 
+            "normalized": "Vaidilut\u0117s 6A, Vilnius, Lietuva"
+        }, 
         "address": "Vaidilut\u0117s 6A, Vilnius", 
         "halls": [], 
         "size": 59
@@ -8716,6 +9481,11 @@ hotels = ([
         }, 
         "name": "PLINK\u0160I\u0172 VIE\u0160BUTIS", 
         "rank": 2, 
+        "coords": {
+            "lat": 56.1166667, 
+            "lng": 22.1666667, 
+            "normalized": "Plink\u0161ys, Ma\u017eeiki\u0173 rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Plink\u0161i\u0173 k., Ma\u017eeiki\u0173 r.", 
         "halls": [
             {
@@ -8766,6 +9536,11 @@ hotels = ([
         }, 
         "name": "VILA VALAKAMPIAI", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.7337846, 
+            "lng": 25.295776, 
+            "normalized": "Vaidilut\u0117s gatv\u0117 6a, Vilniaus miestas, Lietuva"
+        }, 
         "address": "Vaidilut\u0117s g. 6a, Vilniaus m.", 
         "halls": [
             {
@@ -8870,6 +9645,11 @@ hotels = ([
         }, 
         "name": "NIDUS", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.3081549, 
+            "lng": 20.9991161, 
+            "normalized": "G. D. Kuverto gatv\u0117 15, Neringa, Lietuva"
+        }, 
         "address": "G. D. Kuverto g. 15, Neringa, Neringos sav.", 
         "halls": [
             {
@@ -8920,6 +9700,11 @@ hotels = ([
         }, 
         "name": "M\u0116GUVA", 
         "rank": 1, 
+        "coords": {
+            "lat": 55.917617, 
+            "lng": 21.0648831, 
+            "normalized": "M. Valan\u010diaus gatv\u0117 1, Palanga, Lietuva"
+        }, 
         "address": "Palangos m. sav., Palanga, M. Valan\u010diaus g. 1", 
         "halls": [], 
         "size": 60
@@ -8950,6 +9735,11 @@ hotels = ([
         }, 
         "name": "PARKAS", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.7450367, 
+            "lng": 21.1303247, 
+            "normalized": "Liepojos gatv\u0117 3, Klaip\u0117da, Lietuva"
+        }, 
         "address": "Liepojos g. 3, Klaip\u0117da", 
         "halls": [
             {
@@ -9000,6 +9790,11 @@ hotels = ([
         }, 
         "name": "VELGA", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.6707712, 
+            "lng": 25.238043, 
+            "normalized": "Gele\u017einio Vilko gatv\u0117 3, Vilnius, Vilniaus m. sav., Lietuva"
+        }, 
         "address": "Vilniaus m. sav., Vilnius, Gele\u017einio Vilko g. 3", 
         "halls": [], 
         "size": 60
@@ -9030,6 +9825,11 @@ hotels = ([
         }, 
         "name": "SMILGA", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.2858427, 
+            "lng": 23.9811764, 
+            "normalized": "Senoji gatv\u0117 16, K\u0117daini\u0173 miestas, K\u0117daini\u0173 rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Senoji g. 16, K\u0117daini\u0173 m., K\u0117daini\u0173 r.", 
         "halls": [
             {
@@ -9080,6 +9880,11 @@ hotels = ([
         }, 
         "name": "JERUZAL\u0116S VIE\u0160BUTIS", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.7315412, 
+            "lng": 25.2795879, 
+            "normalized": "Kalvarij\u0173 gatv\u0117 247, Vilniaus miestas, Lietuva"
+        }, 
         "address": "Kalvarij\u0173 g. 247, Vilniaus m.", 
         "halls": [], 
         "size": 61
@@ -9110,6 +9915,11 @@ hotels = ([
         }, 
         "name": "ARARAT", 
         "rank": 4, 
+        "coords": {
+            "lat": 55.7154842, 
+            "lng": 21.1433037, 
+            "normalized": "Liep\u0173 gatv\u0117 48A, Klaip\u0117dos miestas, Lietuva"
+        }, 
         "address": "Liep\u0173 g. 48A, Klaip\u0117dos m.", 
         "halls": [
             {
@@ -9160,6 +9970,11 @@ hotels = ([
         }, 
         "name": "MED\u016aNA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.0964518, 
+            "lng": 23.8584375, 
+            "normalized": "Liep\u0173 gatv\u0117 2, Druskininkai, Lietuva"
+        }, 
         "address": "Liep\u0173 g. 2, Druskininkai, Druskinink\u0173 sav.", 
         "halls": [], 
         "size": 62
@@ -9190,6 +10005,11 @@ hotels = ([
         }, 
         "name": "ADELITA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.6315631, 
+            "lng": 25.2785548, 
+            "normalized": "Rod\u016bnios kelias 8, Vilniaus miestas, Lietuva"
+        }, 
         "address": "Rod\u016bnios kelias 8, Vilniaus m.", 
         "halls": [], 
         "size": 63
@@ -9220,6 +10040,11 @@ hotels = ([
         }, 
         "name": "VIA BALTICA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.9580841, 
+            "lng": 23.8696641, 
+            "normalized": "Verslo gatv\u0117 17, Kumpiai, Kauno rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Verslo g. 17, Kumpi\u0173 k., Kauno r.", 
         "halls": [
             {
@@ -9289,6 +10114,11 @@ hotels = ([
         }, 
         "name": "L\u016aNA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.557812, 
+            "lng": 23.3498124, 
+            "normalized": "Marijampol\u0117s sav., Lietuva"
+        }, 
         "address": "Marijampol\u0117s sav.", 
         "halls": [
             {
@@ -9343,6 +10173,11 @@ hotels = ([
         }, 
         "name": "BARBACAN PALACE", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.677913, 
+            "lng": 25.2914493, 
+            "normalized": "Bok\u0161to gatv\u0117 19/\u0160v.Kazimiero gatv\u0117 12, Vilnius, Lietuva"
+        }, 
         "address": "Vilnius, Bok\u0161to g. 19/\u0160v.Kazimiero g. 12", 
         "halls": [
             {
@@ -9405,6 +10240,11 @@ hotels = ([
         }, 
         "name": "\u0160AULYS", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9301519, 
+            "lng": 23.315442, 
+            "normalized": "Vasario 16-osios gatv\u0117 40, \u0160iauli\u0173 miestas, Lietuva"
+        }, 
         "address": "Vasario 16-osios g. 40, \u0160iauli\u0173 m.", 
         "halls": [
             {
@@ -9471,6 +10311,11 @@ hotels = ([
         }, 
         "name": "\u017dYDROJI LIEPSNA", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.92149509999999, 
+            "lng": 21.0697993, 
+            "normalized": "Gintaro gatv\u0117 36, Palanga, Lietuva"
+        }, 
         "address": "Gintaro g. 36, Palanga", 
         "halls": [
             {
@@ -9540,6 +10385,11 @@ hotels = ([
         }, 
         "name": "VILNIAUS EUROPOLIS", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.6754233, 
+            "lng": 25.2682066, 
+            "normalized": "\u0160vitrigailos gatv\u0117 11D, Vilnius, Lietuva"
+        }, 
         "address": "\u0160vitrigailos g. 11D, Vilnius", 
         "halls": [], 
         "size": 65
@@ -9570,6 +10420,11 @@ hotels = ([
         }, 
         "name": "GAMANTA", 
         "rank": 4, 
+        "coords": {
+            "lat": 55.91572660000001, 
+            "lng": 21.0700038, 
+            "normalized": "Plyt\u0173 gatv\u0117 7, Palanga, Lietuva"
+        }, 
         "address": "Plyt\u0173 g. 7, Palanga", 
         "halls": [
             {
@@ -9636,6 +10491,11 @@ hotels = ([
         }, 
         "name": "ROMANTIC", 
         "rank": 4, 
+        "coords": {
+            "lat": 55.7333218, 
+            "lng": 24.3606831, 
+            "normalized": "Kranto gatv\u0117 24, Panev\u0117\u017eio miestas, Lietuva"
+        }, 
         "address": "Kranto g. 24, Panev\u0117\u017eio m.", 
         "halls": [
             {
@@ -9771,6 +10631,11 @@ hotels = ([
         }, 
         "name": "KERP\u0116", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9150632, 
+            "lng": 21.0649101, 
+            "normalized": "Vytauto gatv\u0117 76, Palangos miestas, Lietuva"
+        }, 
         "address": "Vytauto g. 76, Palangos m.", 
         "halls": [
             {
@@ -9840,6 +10705,11 @@ hotels = ([
         }, 
         "name": "VILA VINGIS", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.01775259999999, 
+            "lng": 23.9849977, 
+            "normalized": "Kurorto gatv\u0117 6, Druskinink\u0173 miestas, Lietuva"
+        }, 
         "address": "Kurorto g. 6, Druskinink\u0173 m., Druskinink\u0173 sav.", 
         "halls": [
             {
@@ -9894,6 +10764,11 @@ hotels = ([
         }, 
         "name": "BEST WESTERN HOTEL CENTRAL", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.018882, 
+            "lng": 23.9723123, 
+            "normalized": "\u0160v. Jok\u016bbo gatv\u0117, Druskinink\u0173 miestas, Lietuva"
+        }, 
         "address": "\u0160v. Jok\u016bbo g., Druskinink\u0173 m., Druskinink\u0173 sav.", 
         "halls": [
             {
@@ -9948,6 +10823,11 @@ hotels = ([
         }, 
         "name": "JURBARKAS", 
         "rank": 2, 
+        "coords": {
+            "lat": 55.077726, 
+            "lng": 22.7755559, 
+            "normalized": "Dariaus ir Gir\u0117no gatv\u0117 98, Jurbarko miestas, Jurbarko rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Dariaus ir Gir\u0117no g. 98, Jurbarko m., Jurbarko r.", 
         "halls": [
             {
@@ -9998,6 +10878,11 @@ hotels = ([
         }, 
         "name": "VIKTORIJOS VIE\u0160BUTIS", 
         "rank": 1, 
+        "coords": {
+            "lat": 54.696951, 
+            "lng": 25.25671, 
+            "normalized": "Saltoni\u0161ki\u0173 gatv\u0117 56, Vilnius, Lietuva"
+        }, 
         "address": "Saltoni\u0161ki\u0173 g. 56, Vilnius", 
         "halls": [
             {
@@ -10067,6 +10952,11 @@ hotels = ([
         }, 
         "name": "MABRE RESIDENCE HOTEL", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.6849867, 
+            "lng": 25.2852187, 
+            "normalized": "L. Stuokos-Gucevi\u010diaus gatv\u0117 3, Vilniaus miestas, Lietuva"
+        }, 
         "address": "L. Stuokos-Gucevi\u010diaus g. 3, Vilniaus m.", 
         "halls": [
             {
@@ -10132,6 +11022,11 @@ hotels = ([
         }, 
         "name": "STIKLIAI", 
         "rank": 5, 
+        "coords": {
+            "lat": 54.680473, 
+            "lng": 25.2861453, 
+            "normalized": "Gaono gatv\u0117 7, Vilniaus miestas, Lietuva"
+        }, 
         "address": "Gaono g. 7, Vilniaus m.", 
         "halls": [
             {
@@ -10190,6 +11085,11 @@ hotels = ([
         }, 
         "name": "KAUNAS", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.8968721, 
+            "lng": 23.8924264, 
+            "normalized": "Laisv\u0117s al. 79, Kaunas, Lietuva"
+        }, 
         "address": "Kauno m. sav., Kaunas, Laisv\u0117s al. 79", 
         "halls": [
             {
@@ -10355,6 +11255,11 @@ hotels = ([
         }, 
         "name": "HOTEL TILTO", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.6874273, 
+            "lng": 25.2842278, 
+            "normalized": "Tilto gatv\u0117 8, Vilniaus miestas, Lietuva"
+        }, 
         "address": "Tilto g. 8, Vilniaus m.", 
         "halls": [
             {
@@ -10405,6 +11310,11 @@ hotels = ([
         }, 
         "name": "PERVA\u017dA", 
         "rank": 2, 
+        "coords": {
+            "lat": 55.7443601, 
+            "lng": 24.3708575, 
+            "normalized": "Sm\u0117lyn\u0117s gatv\u0117 112, Panev\u0117\u017eio miestas, Lietuva"
+        }, 
         "address": "Sm\u0117lyn\u0117s g. 112, Panev\u0117\u017eio m.", 
         "halls": [
             {
@@ -10455,6 +11365,11 @@ hotels = ([
         }, 
         "name": "BEST WESTERN SANTAKOS", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.8969663, 
+            "lng": 23.9008, 
+            "normalized": "J. Gruod\u017eio gatv\u0117 21, Kauno miestas, Lietuva"
+        }, 
         "address": "J. Gruod\u017eio g. 21, Kauno m.", 
         "halls": [
             {
@@ -10649,6 +11564,11 @@ hotels = ([
         }, 
         "name": "SANTAKOS", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.8969663, 
+            "lng": 23.9008, 
+            "normalized": "J. Gruod\u017eio gatv\u0117 21, Kaunas, Lietuva"
+        }, 
         "address": "J. Gruod\u017eio g. 21, Kaunas", 
         "halls": [
             {
@@ -10821,6 +11741,11 @@ hotels = ([
         }, 
         "name": "EUROPA ROYALE", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.6761238, 
+            "lng": 25.2884037, 
+            "normalized": "Au\u0161ros Vart\u0173 gatv\u0117 6, Vilnius, Lietuva"
+        }, 
         "address": "Au\u0161ros Vart\u0173 g. 6, Vilnius", 
         "halls": [
             {
@@ -10951,6 +11876,11 @@ hotels = ([
         }, 
         "name": "ALKA", 
         "rank": 4, 
+        "coords": {
+            "lat": 55.9154501, 
+            "lng": 21.0609366, 
+            "normalized": "S. Daukanto gatv\u0117 21, Palanga, Lietuva"
+        }, 
         "address": "S. Daukanto g. 21, Palanga", 
         "halls": [
             {
@@ -11019,6 +11949,7 @@ hotels = ([
         }, 
         "name": "REGINA", 
         "rank": 3, 
+        "coords": null, 
         "address": "Druskinink\u0173 sav.", 
         "halls": [
             {
@@ -11116,6 +12047,11 @@ hotels = ([
         }, 
         "name": "ALGIRDAS CITY HOTEL", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.67628699999999, 
+            "lng": 25.2714727, 
+            "normalized": "Algirdo gatv\u0117 24, Vilniaus miestas, Lietuva"
+        }, 
         "address": "Algirdo g. 24, Vilniaus m.", 
         "halls": [
             {
@@ -11183,6 +12119,11 @@ hotels = ([
         }, 
         "name": "RATONDA CENTRUM HOTEL", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.6894425, 
+            "lng": 25.2660087, 
+            "normalized": "Gedimino prospektas 52, Vilnius, Lietuva"
+        }, 
         "address": "Gedimino pr. 52/1a, Vilnius", 
         "halls": [
             {
@@ -11276,6 +12217,11 @@ hotels = ([
         }, 
         "name": "DE LITA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.014999, 
+            "lng": 23.9917, 
+            "normalized": "Vytauto gatv\u0117 43, Druskinink\u0173 miestas, Druskinink\u0173 sav., Lietuva"
+        }, 
         "address": "Vytauto g. 43, Druskinink\u0173 m., Druskinink\u0173 sav.", 
         "halls": [
             {
@@ -11369,6 +12315,11 @@ hotels = ([
         }, 
         "name": "NEMUNO SL\u0116NIS", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.6034719, 
+            "lng": 24.0597273, 
+            "normalized": "Verkn\u0117s gatv\u0117 8, Bir\u0161tono miestas, Lietuva"
+        }, 
         "address": "Verkn\u0117s g. 8, Bir\u0161tono m., Bir\u0161tono sav.", 
         "halls": [
             {
@@ -11445,6 +12396,11 @@ hotels = ([
         }, 
         "name": "AD ASTRUM", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.6945613, 
+            "lng": 25.2867837, 
+            "normalized": "\u0160eimyni\u0161ki\u0173 gatv\u0117 21, Vilnius, Lietuva"
+        }, 
         "address": "\u0160eimyni\u0161ki\u0173 g. 21, Vilnius", 
         "halls": [
             {
@@ -11514,6 +12470,11 @@ hotels = ([
         }, 
         "name": "VANDENIS", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9183386, 
+            "lng": 21.0676478, 
+            "normalized": "Palanga, Lietuva"
+        }, 
         "address": "Birut\u0117s al. 47, Palanga", 
         "halls": [
             {
@@ -11573,6 +12534,11 @@ hotels = ([
         }, 
         "name": "\u0160ERMUTAS", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.7449906, 
+            "lng": 24.4237981, 
+            "normalized": "Tinkl\u0173 gatv\u0117 51, Panev\u0117\u017eio miestas, Lietuva"
+        }, 
         "address": "Tinkl\u0173 g. 51, Panev\u0117\u017eio m.", 
         "halls": [
             {
@@ -11667,6 +12633,11 @@ hotels = ([
         }, 
         "name": "MEMEL HOTEL", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.7072712, 
+            "lng": 21.1409113, 
+            "normalized": "Bang\u0173 gatv\u0117 4, Klaip\u0117dos miestas, Lietuva"
+        }, 
         "address": "Bang\u0173 g. 4, Klaip\u0117dos m.", 
         "halls": [], 
         "size": 82
@@ -11697,6 +12668,11 @@ hotels = ([
         }, 
         "name": "DAUGIRDAS", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.8953781, 
+            "lng": 23.8848966, 
+            "normalized": "T. Daugirdo gatv\u0117 4, Kauno miestas, Lietuva"
+        }, 
         "address": "T. Daugirdo g. 4, Kauno m.", 
         "halls": [
             {
@@ -11782,6 +12758,11 @@ hotels = ([
         }, 
         "name": "NARUTIS", 
         "rank": 5, 
+        "coords": {
+            "lat": 54.68238239999999, 
+            "lng": 25.2891538, 
+            "normalized": "Pilies gatv\u0117 24, Vilnius, Lietuva"
+        }, 
         "address": "Pilies g. 24, Vilnius", 
         "halls": [
             {
@@ -11946,6 +12927,11 @@ hotels = ([
         }, 
         "name": "DEIMS", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.342327, 
+            "lng": 21.4697679, 
+            "normalized": "Lietuvinink\u0173 gatv\u0117 70, \u0160ilut\u0117s miestas, \u0160ilut\u0117s rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Lietuvinink\u0173 g. 70, \u0160ilut\u0117s m., \u0160ilut\u0117s r.", 
         "halls": [
             {
@@ -11997,6 +12983,11 @@ hotels = ([
         }, 
         "name": "\u0160AR\u016aNAS", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.69458780000001, 
+            "lng": 25.2946363, 
+            "normalized": "Raitinink\u0173 gatv\u0117 4, Vilniaus miestas, Lietuva"
+        }, 
         "address": "Raitinink\u0173 g. 4, Vilniaus m.", 
         "halls": [
             {
@@ -12152,6 +13143,11 @@ hotels = ([
         }, 
         "name": "PONAS TADAS", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.6708748, 
+            "lng": 25.2604591, 
+            "normalized": "Naugarduko gatv\u0117 76, Vilniaus miestas, Lietuva"
+        }, 
         "address": "Naugarduko g. 76, Vilniaus m.", 
         "halls": [
             {
@@ -12268,6 +13264,11 @@ hotels = ([
         }, 
         "name": "EUROPA ROYALE MARIJAMPOL\u0116", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.5573047, 
+            "lng": 23.3484543, 
+            "normalized": "J. Basanavi\u010diaus a. 8, Marijampol\u0117s miestas, Marijampol\u0117s sav., Lietuva"
+        }, 
         "address": "J. Basanavi\u010diaus a. 8, Marijampol\u0117s m., Marijampol\u0117s sav.", 
         "halls": [
             {
@@ -12442,6 +13443,11 @@ hotels = ([
         }, 
         "name": "OLD PORT HOTEL", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.7068357, 
+            "lng": 21.1274458, 
+            "normalized": "\u017dvej\u0173 gatv\u0117 20, Klaip\u0117dos miestas, Lietuva"
+        }, 
         "address": "\u017dvej\u0173 g. 20-22, Klaip\u0117dos m.", 
         "halls": [
             {
@@ -12495,6 +13501,11 @@ hotels = ([
         }, 
         "name": "VALINA", 
         "rank": 2, 
+        "coords": {
+            "lat": 56.3050097, 
+            "lng": 22.3293313, 
+            "normalized": "Draugyst\u0117s gatv\u0117 18, Ma\u017eeikiai, Lietuva"
+        }, 
         "address": "Draugyst\u0117s g. 18, Ma\u017eeikiai", 
         "halls": [
             {
@@ -12545,6 +13556,11 @@ hotels = ([
         }, 
         "name": "NERIJA", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.3112207, 
+            "lng": 21.0100745, 
+            "normalized": "Pamario gatv\u0117 13, Neringos miestas, Neringos sav., Lietuva"
+        }, 
         "address": "Pamario g. 13, Neringos m., Neringos sav.", 
         "halls": [
             {
@@ -12595,6 +13611,11 @@ hotels = ([
         }, 
         "name": "VILIJA", 
         "rank": 1, 
+        "coords": {
+            "lat": 55.9183386, 
+            "lng": 21.0676478, 
+            "normalized": "Palangos miestas, Lietuva"
+        }, 
         "address": "Birut\u0117s al. 26, Palangos m.", 
         "halls": [
             {
@@ -12645,6 +13666,11 @@ hotels = ([
         }, 
         "name": "DOMUS MARIA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.67491, 
+            "lng": 25.2892789, 
+            "normalized": "Au\u0161ros vart\u0173 gatv\u0117 12, Vilnius, Lietuva"
+        }, 
         "address": "Au\u0161ros vart\u0173 g. 12, Vilnius", 
         "halls": [], 
         "size": 92
@@ -12675,6 +13701,11 @@ hotels = ([
         }, 
         "name": "NATIONAL HOTEL", 
         "rank": 4, 
+        "coords": {
+            "lat": 55.7083905, 
+            "lng": 21.1313968, 
+            "normalized": "Teatro gatv\u0117 1, Klaip\u0117da, Lietuva"
+        }, 
         "address": "Teatro g. 1, Klaip\u0117da", 
         "halls": [
             {
@@ -12776,6 +13807,11 @@ hotels = ([
         }, 
         "name": "DRUSKININKAI", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.0183109, 
+            "lng": 23.9759755, 
+            "normalized": "V. Kudirkos gatv\u0117 43, Druskinink\u0173 miestas, Druskinink\u0173 sav., Lietuva"
+        }, 
         "address": "V. Kudirkos g. 43, Druskinink\u0173 m., Druskinink\u0173 sav.", 
         "halls": [
             {
@@ -12885,6 +13921,11 @@ hotels = ([
         }, 
         "name": "PALANGOS JUZ\u0116", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.918238, 
+            "lng": 21.0727495, 
+            "normalized": "Virbali\u0161k\u0117s takas 2, Palangos miestas, Lietuva"
+        }, 
         "address": "Virbali\u0161k\u0117s takas 2, Palangos m.", 
         "halls": [], 
         "size": 94
@@ -12915,6 +13956,11 @@ hotels = ([
         }, 
         "name": "KAUNAS CITY", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.8968721, 
+            "lng": 23.8924264, 
+            "normalized": "Laisv\u0117s al. 90, Kauno miestas, Lietuva"
+        }, 
         "address": "Laisv\u0117s al. 90, Kauno m.", 
         "halls": [], 
         "size": 95
@@ -12945,6 +13991,11 @@ hotels = ([
         }, 
         "name": "PAJ\u016aRIS", 
         "rank": 2, 
+        "coords": {
+            "lat": 55.7664025, 
+            "lng": 21.0893431, 
+            "normalized": "\u0160laito gatv\u0117 18a, Klaip\u0117dos miestas, Lietuva"
+        }, 
         "address": "\u0160laito g. 18a, Klaip\u0117dos m.", 
         "halls": [
             {
@@ -13014,6 +14065,11 @@ hotels = ([
         }, 
         "name": "\u017dILVINAS", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9213002, 
+            "lng": 21.0733943, 
+            "normalized": "Ganykl\u0173 gatv\u0117 30, Palangos miestas, Lietuva"
+        }, 
         "address": "Ganykl\u0173 g. 30, Palangos m.", 
         "halls": [
             {
@@ -13140,6 +14196,11 @@ hotels = ([
         }, 
         "name": "\u017dEMAIT\u0116S", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.6777574, 
+            "lng": 25.2824898, 
+            "normalized": "\u017demaitijos gatv\u0117 15, Vilniaus miestas, Lietuva"
+        }, 
         "address": "\u017demaitijos g. 15, Vilniaus m.", 
         "halls": [], 
         "size": 96
@@ -13170,6 +14231,11 @@ hotels = ([
         }, 
         "name": "\"PALANGOS DAIL\u0116\"", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9130681, 
+            "lng": 21.0593434, 
+            "normalized": "S. Daukanto gatv\u0117 33, Palangos miestas, Lietuva"
+        }, 
         "address": "S. Daukanto g. 33, Palangos m.", 
         "halls": [
             {
@@ -13220,6 +14286,11 @@ hotels = ([
         }, 
         "name": "NERINGA", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.6877943, 
+            "lng": 25.2758364, 
+            "normalized": "Gedimino prospektas 23, Vilniaus miestas, Lietuva"
+        }, 
         "address": "Gedimino pr. 23, Vilniaus m.", 
         "halls": [
             {
@@ -13270,6 +14341,11 @@ hotels = ([
         }, 
         "name": "\"ALANGA\"", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9197146, 
+            "lng": 21.0608284, 
+            "normalized": "S. N\u0117ries gatv\u0117 14, Palangos miestas, Lietuva"
+        }, 
         "address": "S. N\u0117ries g. 14, Palangos m.", 
         "halls": [
             {
@@ -13321,6 +14397,11 @@ hotels = ([
         }, 
         "name": "ALANGA", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9197146, 
+            "lng": 21.0608284, 
+            "normalized": "S. N\u0117ries gatv\u0117 14, Palanga, Lietuva"
+        }, 
         "address": "S. N\u0117ries g. 14, Palanga", 
         "halls": [
             {
@@ -13379,6 +14460,11 @@ hotels = ([
         }, 
         "name": "PALANGA", 
         "rank": 5, 
+        "coords": {
+            "lat": 55.9183386, 
+            "lng": 21.0676478, 
+            "normalized": "Palanga, Lietuva"
+        }, 
         "address": "Palangos m. sav., Palanga, Birut\u0117s al. 60", 
         "halls": [
             {
@@ -13490,6 +14576,11 @@ hotels = ([
         }, 
         "name": "RAMADA HOTEL AND SUITES VILNIUS", 
         "rank": 5, 
+        "coords": {
+            "lat": 54.6765683, 
+            "lng": 25.2885665, 
+            "normalized": "Suba\u010diaus gatv\u0117 2, Vilniaus miestas, Lietuva"
+        }, 
         "address": "Suba\u010diaus g. 2, Vilniaus m.", 
         "halls": [
             {
@@ -13548,6 +14639,11 @@ hotels = ([
         }, 
         "name": "NEMUNAS", 
         "rank": 1, 
+        "coords": {
+            "lat": 54.0227257, 
+            "lng": 23.9703781, 
+            "normalized": "T. Kosciu\u0161kos gatv\u0117 6, Druskininkai, Lietuva"
+        }, 
         "address": "Druskinink\u0173 sav., Druskininkai, T. Kosciu\u0161kos g. 6", 
         "halls": [
             {
@@ -13598,6 +14694,11 @@ hotels = ([
         }, 
         "name": "MARGIS", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.63886189999999, 
+            "lng": 24.934901, 
+            "normalized": "Trak\u0173 rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Pensinink\u0173 km., Trak\u0173 r.", 
         "halls": [
             {
@@ -13659,6 +14760,11 @@ hotels = ([
         }, 
         "name": "SKRYDIS", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.6315631, 
+            "lng": 25.2785548, 
+            "normalized": "Rod\u016bnios kelias 8, Vilniaus miestas, Lietuva"
+        }, 
         "address": "Rod\u016bnios kelias 8, Vilniaus m.", 
         "halls": [
             {
@@ -13747,6 +14853,11 @@ hotels = ([
         }, 
         "name": "NIDOS SMILT\u0116", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.3113246, 
+            "lng": 21.010299, 
+            "normalized": "Skruzdyn\u0117s gatv\u0117 2, Neringa, Lietuva"
+        }, 
         "address": "Neringos sav., Neringa, Skruzdyn\u0117s g. 2", 
         "halls": [
             {
@@ -13797,6 +14908,11 @@ hotels = ([
         }, 
         "name": "COMFORT VILNIUS", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.6673422, 
+            "lng": 25.0850787, 
+            "normalized": "G\u0117li\u0173 gatv\u0117 5, Vilnius, Vilniaus m. sav., Lietuva"
+        }, 
         "address": "Vilniaus m. sav., Vilnius, G\u0117li\u0173 g. 5", 
         "halls": [
             {
@@ -13866,6 +14982,11 @@ hotels = ([
         }, 
         "name": "GABIJA", 
         "rank": 4, 
+        "coords": {
+            "lat": 55.9105559, 
+            "lng": 21.0624703, 
+            "normalized": "Vytauto gatv\u0117 40, Palangos miestas, Lietuva"
+        }, 
         "address": "Vytauto g. 40, Palangos m.", 
         "halls": [
             {
@@ -13992,6 +15113,11 @@ hotels = ([
         }, 
         "name": "PARK INN BY RADISSON KLAIP\u0116DOS VIE\u0160BUTIS", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.6846191, 
+            "lng": 21.1489046, 
+            "normalized": "Minijos gatv\u0117 119, Klaip\u0117dos miestas, Lietuva"
+        }, 
         "address": "Minijos g. 119, Klaip\u0117dos m.", 
         "halls": [
             {
@@ -14143,6 +15269,11 @@ hotels = ([
         }, 
         "name": "PALANGOS \u017dVOR\u016aN\u0116", 
         "rank": 2, 
+        "coords": {
+            "lat": 55.9410742, 
+            "lng": 21.0724684, 
+            "normalized": "Vanagup\u0117s gatv\u0117 15, Palanga, Lietuva"
+        }, 
         "address": "Palangos m. sav., Palanga, Vanagup\u0117s g. 15", 
         "halls": [
             {
@@ -14212,6 +15343,11 @@ hotels = ([
         }, 
         "name": "ARTIS CENTRUM HOTEL", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.6834788, 
+            "lng": 25.2823692, 
+            "normalized": "Liejyklos gatv\u0117 11/23, Vilnius, Lietuva"
+        }, 
         "address": "Liejyklos g. 11/23, Vilnius", 
         "halls": [
             {
@@ -14498,6 +15634,11 @@ hotels = ([
         }, 
         "name": "GALIA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.0128722, 
+            "lng": 23.9867045, 
+            "normalized": "M. K. \u010ciurlionio gatv\u0117 97, Druskininkai, Lietuva"
+        }, 
         "address": "Druskinink\u0173 sav., Druskininkai, M. K. \u010ciurlionio g. 97", 
         "halls": [
             {
@@ -14560,6 +15701,11 @@ hotels = ([
         }, 
         "name": "EUROPA ROYALE DRUSKININKAI", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243, 
+            "normalized": "Vilniaus al. 7, Druskinink\u0173 miestas, Druskinink\u0173 sav., Lietuva"
+        }, 
         "address": "Vilniaus al. 7, Druskinink\u0173 m., Druskinink\u0173 sav.", 
         "halls": [
             {
@@ -14803,6 +15949,11 @@ hotels = ([
         }, 
         "name": "BELORUS", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.0232187, 
+            "lng": 23.9660475, 
+            "normalized": "Maironio gatv\u0117 2, Druskinink\u0173 miestas, Lietuva"
+        }, 
         "address": "Maironio g. 2, Druskinink\u0173 m., Druskinink\u0173 sav.", 
         "halls": [
             {
@@ -14855,6 +16006,11 @@ hotels = ([
         }, 
         "name": "AMBERTON", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.685185, 
+            "lng": 25.2855815, 
+            "normalized": "L. Stuokos-Gucevi\u010diaus gatv\u0117 1, Vilniaus miestas, Lietuva"
+        }, 
         "address": "L. Stuokos-Gucevi\u010diaus g. 1, Vilniaus m.", 
         "halls": [
             {
@@ -14921,6 +16077,11 @@ hotels = ([
         }, 
         "name": "CITY PARK HOTEL", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.6849867, 
+            "lng": 25.2852187, 
+            "normalized": "L. Stuokos-Gucevi\u010diaus gatv\u0117 3, Vilnius, Lietuva"
+        }, 
         "address": "L. Stuokos-Gucevi\u010diaus g. 3, Vilnius", 
         "halls": [
             {
@@ -15043,6 +16204,11 @@ hotels = ([
         }, 
         "name": "CONGRESS", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.8393392, 
+            "lng": 25.4701931, 
+            "normalized": "Vilniaus gatv\u0117 2, Vilniaus miestas, Lietuva"
+        }, 
         "address": "Vilniaus g. 2/15, Vilniaus m.", 
         "halls": [
             {
@@ -15122,6 +16288,11 @@ hotels = ([
         }, 
         "name": "METROPOLIS", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.8979693, 
+            "lng": 23.9136248, 
+            "normalized": "S. Daukanto gatv\u0117 21, Kaunas, Lietuva"
+        }, 
         "address": "S. Daukanto g. 21, Kaunas", 
         "halls": [], 
         "size": 140
@@ -15152,6 +16323,11 @@ hotels = ([
         }, 
         "name": "PU\u0160YNAS", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243, 
+            "normalized": "Vilniaus al. 3, Druskininkai, Druskinink\u0173 sav., Lietuva"
+        }, 
         "address": "Vilniaus al. 3, Druskininkai, Druskinink\u0173 sav.", 
         "halls": [
             {
@@ -15223,6 +16399,11 @@ hotels = ([
         }, 
         "name": "CORNER HOTEL", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.6772898, 
+            "lng": 25.2658015, 
+            "normalized": "T. \u0160ev\u010denkos gatv\u0117 16, Vilnius, Lietuva"
+        }, 
         "address": "T. \u0160ev\u010denkos g. 16, Vilnius", 
         "halls": [], 
         "size": 142
@@ -15253,6 +16434,11 @@ hotels = ([
         }, 
         "name": "KARALI\u0160KOJI REZIDENCIJA", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.6062875, 
+            "lng": 23.9997481, 
+            "normalized": "Pakaln\u0117s gatv\u0117 3, Bir\u0161tonas, Lietuva"
+        }, 
         "address": "Pakaln\u0117s g. 3, Bir\u0161tonas", 
         "halls": [], 
         "size": 147
@@ -15283,6 +16469,11 @@ hotels = ([
         }, 
         "name": "GIL\u0116", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.6772898, 
+            "lng": 25.2658015, 
+            "normalized": "T. \u0160ev\u010denkos gatv\u0117 16, Vilniaus miestas, Lietuva"
+        }, 
         "address": "T. \u0160ev\u010denkos g. 16, Vilniaus m.", 
         "halls": [
             {
@@ -15333,6 +16524,11 @@ hotels = ([
         }, 
         "name": "RADISSON BLU KLAIP\u0116DA", 
         "rank": 4, 
+        "coords": {
+            "lat": 55.3980328, 
+            "lng": 22.5420268, 
+            "normalized": "\u0160iauli\u0173 gatv\u0117 28, Lietuva"
+        }, 
         "address": "\u0160iauli\u0173 g. 28", 
         "halls": [
             {
@@ -15402,6 +16598,11 @@ hotels = ([
         }, 
         "name": "PALANGOS \u017dUV\u0116DRA", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9183386, 
+            "lng": 21.0676478, 
+            "normalized": "Palangos miestas, Lietuva"
+        }, 
         "address": "Meil\u0117s al. 11, Palangos m.", 
         "halls": [], 
         "size": 151
@@ -15432,6 +16633,11 @@ hotels = ([
         }, 
         "name": "KUR\u0160I\u0172 KAIMAS", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9215317, 
+            "lng": 21.0686328, 
+            "normalized": "Vytauto gatv\u0117 79, Palangos miestas, Lietuva"
+        }, 
         "address": "Vytauto g. 79/Gintaro g.30, Palangos m.", 
         "halls": [], 
         "size": 152
@@ -15462,6 +16668,11 @@ hotels = ([
         }, 
         "name": "PANEV\u0116\u017dYS", 
         "rank": 1, 
+        "coords": {
+            "lat": 55.7293777, 
+            "lng": 24.361581, 
+            "normalized": "Laisv\u0117s a. 26, Panev\u0117\u017eys, Lietuva"
+        }, 
         "address": "Laisv\u0117s a. 26, Panev\u0117\u017eys", 
         "halls": [], 
         "size": 153
@@ -15492,6 +16703,11 @@ hotels = ([
         }, 
         "name": "CONTI", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.6752338, 
+            "lng": 25.2821432, 
+            "normalized": "Raugyklos gatv\u0117 7, Vilnius, Lietuva"
+        }, 
         "address": "Raugyklos g. 7/2, Vilnius", 
         "halls": [
             {
@@ -15660,6 +16876,11 @@ hotels = ([
         }, 
         "name": "GRATA HOTEL", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.67897050000001, 
+            "lng": 25.26358, 
+            "normalized": "Vytenio gatv\u0117 9, Vilniaus miestas, Lietuva"
+        }, 
         "address": "Vytenio g. 9/25, Vilniaus m.", 
         "halls": [
             {
@@ -15726,6 +16947,11 @@ hotels = ([
         }, 
         "name": "IBIS KAUNAS CENTRE", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.8895716, 
+            "lng": 23.9266291, 
+            "normalized": "Vytauto prospektas 28, LT-44328 Kaunas, Lietuva"
+        }, 
         "address": "Vytauto pr. 28, LT-44328 Kaunas", 
         "halls": [
             {
@@ -15801,6 +17027,11 @@ hotels = ([
         }, 
         "name": "REVAL INN VILNIUS", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.7386332, 
+            "lng": 25.2286319, 
+            "normalized": "Ukmerg\u0117s gatv\u0117 363, Vilnius, Lietuva"
+        }, 
         "address": "Ukmerg\u0117s g. 363, Vilnius", 
         "halls": [
             {
@@ -15923,6 +17154,11 @@ hotels = ([
         }, 
         "name": "PARK INN VILNIUS NORTH", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.7386332, 
+            "lng": 25.2286319, 
+            "normalized": "Ukmerg\u0117s gatv\u0117 363, Vilniaus miestas, Lietuva"
+        }, 
         "address": "Ukmerg\u0117s g. 363, Vilniaus m.", 
         "halls": [
             {
@@ -16027,6 +17263,11 @@ hotels = ([
         }, 
         "name": "AUK\u0160TAITIJA", 
         "rank": 2, 
+        "coords": {
+            "lat": 55.5981335, 
+            "lng": 26.4350517, 
+            "normalized": "Veteran\u0173 gatv\u0117 9, Visagino miestas, Lietuva"
+        }, 
         "address": "Veteran\u0173 g. 9, Visagino m., Visagino sav.", 
         "halls": [
             {
@@ -16080,6 +17321,11 @@ hotels = ([
         }, 
         "name": "EUROPA ROYALE HOTEL KAUNAS", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.893646, 
+            "lng": 23.9221505, 
+            "normalized": "Mi\u0161ko gatv\u0117 11, Kaunas, Lietuva"
+        }, 
         "address": "Mi\u0161ko g. 11, Kaunas", 
         "halls": [
             {
@@ -16279,6 +17525,11 @@ hotels = ([
         }, 
         "name": "EUROPA STAY VILNIUS", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.9802635, 
+            "lng": 25.2363514, 
+            "normalized": "\u0104\u017euolyno gatv\u0117 7, Vilniaus miestas, Lietuva"
+        }, 
         "address": "\u0104\u017euolyno g. 7, Vilniaus m.", 
         "halls": [
             {
@@ -16386,6 +17637,11 @@ hotels = ([
         }, 
         "name": "VIVA GREEN RESORT", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.8518252, 
+            "lng": 25.5408495, 
+            "normalized": "Tu\u0161\u010diauliai, Vilniaus r., Lietuva"
+        }, 
         "address": "Tu\u0161\u010diauli\u0173 k., Vilniaus r.", 
         "halls": [
             {
@@ -16503,6 +17759,11 @@ hotels = ([
         }, 
         "name": "DAINAVA", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.0240527, 
+            "lng": 23.9741022, 
+            "normalized": "Maironio gatv\u0117 22, Druskininkai, Lietuva"
+        }, 
         "address": "Druskinink\u0173 sav., Druskininkai, Maironio g. 22", 
         "halls": [
             {
@@ -16880,6 +18141,11 @@ hotels = ([
         }, 
         "name": "TRASALIS", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.62763270000001, 
+            "lng": 24.9356021, 
+            "normalized": "Gedimino gatv\u0117 26, Trak\u0173 miestas, Trak\u0173 rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Gedimino g. 26, Trak\u0173 m., Trak\u0173 r.", 
         "halls": [
             {
@@ -16933,6 +18199,11 @@ hotels = ([
         }, 
         "name": "PARK INN KAUNAS", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.89879389999999, 
+            "lng": 23.9197192, 
+            "normalized": "K. Donelai\u010dio gatv\u0117 27, Kauno miestas, Lietuva"
+        }, 
         "address": "K. Donelai\u010dio g. 27, Kauno m.", 
         "halls": [
             {
@@ -17161,6 +18432,11 @@ hotels = ([
         }, 
         "name": "\u0160IAULIAI", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9281397, 
+            "lng": 23.3211883, 
+            "normalized": "Draugyst\u0117s prospektas 25, \u0160iauliai, Lietuva"
+        }, 
         "address": "Draugyst\u0117s pr. 25, \u0160iauliai", 
         "halls": [
             {
@@ -17211,6 +18487,11 @@ hotels = ([
         }, 
         "name": "BEST WESTERN VILNIUS", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.6956235, 
+            "lng": 25.2769919, 
+            "normalized": "Konstitucijos prospektas 14, Vilnius, Lietuva"
+        }, 
         "address": "Konstitucijos pr. 14, Vilnius", 
         "halls": [
             {
@@ -17650,6 +18931,11 @@ hotels = ([
         }, 
         "name": "CROWNE PLAZA VILNIUS", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.6819901, 
+            "lng": 25.2492951, 
+            "normalized": "M. K. \u010ciurlionio gatv\u0117 84, Vilnius, Lietuva"
+        }, 
         "address": "M. K. \u010ciurlionio g. 84, Vilnius", 
         "halls": [
             {
@@ -18193,6 +19479,11 @@ hotels = ([
         }, 
         "name": "RADISSON BLU ASTORIJA", 
         "rank": 5, 
+        "coords": {
+            "lat": 54.6772841, 
+            "lng": 25.2877592, 
+            "normalized": "Did\u017eioji gatv\u0117 35, Vilnius, Lietuva"
+        }, 
         "address": "Vilnius, Did\u017eioji g. 35", 
         "halls": [
             {
@@ -18590,6 +19881,11 @@ hotels = ([
         }, 
         "name": "VANAGUP\u0116", 
         "rank": 5, 
+        "coords": {
+            "lat": 55.9407393, 
+            "lng": 21.0768775, 
+            "normalized": "Vanagup\u0117s gatv\u0117 31, Palanga, Lietuva"
+        }, 
         "address": "Palangos m. sav., Palanga, Vanagup\u0117s g. 31", 
         "halls": [
             {
@@ -19062,6 +20358,11 @@ hotels = ([
         }, 
         "name": "MARTIALIS", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.7062106, 
+            "lng": 25.3206651, 
+            "normalized": "Bistry\u010dios gatv\u0117 13, Vilnius, Lietuva"
+        }, 
         "address": "Bistry\u010dios g. 13, Vilnius", 
         "halls": [
             {
@@ -19253,6 +20554,11 @@ hotels = ([
         }, 
         "name": "J\u016aRAT\u0116", 
         "rank": 2, 
+        "coords": {
+            "lat": 55.3062984, 
+            "lng": 21.0062504, 
+            "normalized": "Pamario gatv\u0117 3, Neringa, Lietuva"
+        }, 
         "address": "Pamario g. 3, Neringa", 
         "halls": [
             {
@@ -19303,6 +20609,11 @@ hotels = ([
         }, 
         "name": "PALANGOS LINAS", 
         "rank": 3, 
+        "coords": {
+            "lat": 55.9208001, 
+            "lng": 21.0680158, 
+            "normalized": "Vytauto gatv\u0117 155, Palanga, Palangos miesto savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Palangos m. sav., Palanga, Vytauto g. 155", 
         "halls": [
             {
@@ -19359,6 +20670,11 @@ hotels = ([
         }, 
         "name": "EUROPA CITY VILNIUS", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.6882301, 
+            "lng": 25.263181, 
+            "normalized": "J. Jasinskio gatv\u0117 14, Vilnius, Vilniaus m. sav., Lietuva"
+        }, 
         "address": "Vilniaus m. sav., Vilnius, J. Jasinskio g. 14", 
         "halls": [
             {
@@ -19655,6 +20971,11 @@ hotels = ([
         }, 
         "name": "GREEN VILNIUS HOTEL", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.7029047, 
+            "lng": 25.2027449, 
+            "normalized": "Pilait\u0117s prospektas 20, Vilnius, Lietuva"
+        }, 
         "address": "Pilait\u0117s pr. 20, Vilnius", 
         "halls": [
             {
@@ -19706,6 +21027,11 @@ hotels = ([
         }, 
         "name": "HOLIDAY INN VILNIUS", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.6946412, 
+            "lng": 25.2821337, 
+            "normalized": "\u0160eimyni\u0161ki\u0173 gatv\u0117 1, Vilniaus miestas, Lietuva"
+        }, 
         "address": "\u0160eimyni\u0161ki\u0173 g. 1, Vilniaus m.", 
         "halls": [
             {
@@ -19900,6 +21226,11 @@ hotels = ([
         }, 
         "name": "DRUSKININK\u0172 SVEIKATINIMO IR POILSIO CENTRAS AQUA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.6893865, 
+            "lng": 25.2800243, 
+            "normalized": "Vilniaus al. 13, Druskinink\u0173 miestas, Druskinink\u0173 sav., Lietuva"
+        }, 
         "address": "Vilniaus al. 13, Druskinink\u0173 m., Druskinink\u0173 sav.", 
         "halls": [
             {
@@ -19969,6 +21300,11 @@ hotels = ([
         }, 
         "name": "VYTURYS", 
         "rank": 2, 
+        "coords": {
+            "lat": 55.9073204, 
+            "lng": 21.0722755, 
+            "normalized": "S. Dariaus ir S. Gir\u0117no gatv\u0117 20, Palanga, Palangos miesto savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Palangos m. sav., Palanga, S. Dariaus ir S. Gir\u0117no g. 20", 
         "halls": [
             {
@@ -20157,6 +21493,11 @@ hotels = ([
         }, 
         "name": "KLAIP\u0116DA", 
         "rank": 4, 
+        "coords": {
+            "lat": 55.7109458, 
+            "lng": 21.1291436, 
+            "normalized": "Naujojo Sodo gatv\u0117 1, Klaip\u0117da, Lietuva"
+        }, 
         "address": "Naujojo Sodo g. 1, Klaip\u0117da", 
         "halls": [
             {
@@ -20367,6 +21708,11 @@ hotels = ([
         }, 
         "name": "LIETUVA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.0235767, 
+            "lng": 23.9693861, 
+            "normalized": "Maironio gatv\u0117 45, Druskininkai, Lietuva"
+        }, 
         "address": "Druskinink\u0173 sav., Druskininkai, Maironio g. 45", 
         "halls": [
             {
@@ -20436,6 +21782,11 @@ hotels = ([
         }, 
         "name": "NOVOTEL VILNIUS", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.68708969999999, 
+            "lng": 25.279882, 
+            "normalized": "Gedimino prospektas 16, Vilnius, Vilniaus m. sav., Lietuva"
+        }, 
         "address": "Vilniaus m. sav., Vilnius, Gedimino pr. 16", 
         "halls": [
             {
@@ -20591,6 +21942,11 @@ hotels = ([
         }, 
         "name": "ECOTEL VILNIUS", 
         "rank": 2, 
+        "coords": {
+            "lat": 54.6955687, 
+            "lng": 25.2853848, 
+            "normalized": "Slucko gatv\u0117 8, Vilnius, Vilniaus m. sav., Lietuva"
+        }, 
         "address": "Vilniaus m. sav., Vilnius, Slucko g. 8", 
         "halls": [
             {
@@ -20655,6 +22011,11 @@ hotels = ([
         }, 
         "name": "SPA - VILNIUS", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.0126739, 
+            "lng": 23.9787926, 
+            "normalized": "K.Dineikos g 1/3, Lietuva"
+        }, 
         "address": "K.Dineikos g 1/3", 
         "halls": [
             {
@@ -20743,6 +22104,7 @@ hotels = ([
         }, 
         "name": "GRAND SPA LIETUVA", 
         "rank": 3, 
+        "coords": null, 
         "address": "Druskinink\u0173 sav.", 
         "halls": [], 
         "size": 358
@@ -20773,6 +22135,11 @@ hotels = ([
         }, 
         "name": "LE MERIDIEN VILNIUS", 
         "rank": 5, 
+        "coords": {
+            "lat": 54.7961614, 
+            "lng": 25.1674536, 
+            "normalized": "Greitkelis A2, E\u017eerai\u010di\u0173, Vilniaus rajono savivaldyb\u0117, Lietuva"
+        }, 
         "address": "Greitkelis A2, Vilnius - Ryga 19tas m, E\u017eerai\u010di\u0173 k., Vilniaus r.", 
         "halls": [
             {
@@ -21345,6 +22712,11 @@ hotels = ([
         }, 
         "name": "PANORAMA", 
         "rank": 3, 
+        "coords": {
+            "lat": 54.6716171, 
+            "lng": 25.0803664, 
+            "normalized": "Sod\u0173 gatv\u0117 14, Vilnius, Vilniaus m. sav., Lietuva"
+        }, 
         "address": "Vilniaus m. sav., Vilnius, Sod\u0173 g. 14", 
         "halls": [
             {
@@ -21681,6 +23053,11 @@ hotels = ([
         }, 
         "name": "AMBERTON KLAIP\u0116DA", 
         "rank": 4, 
+        "coords": {
+            "lat": 55.7109458, 
+            "lng": 21.1291436, 
+            "normalized": "Naujojo Sodo gatv\u0117 1, Klaip\u0117dos miestas, Lietuva"
+        }, 
         "address": "Naujojo Sodo g. 1, Klaip\u0117dos m.", 
         "halls": [
             {
@@ -21750,6 +23127,11 @@ hotels = ([
         }, 
         "name": "REVAL HOTEL LIETUVA", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.6959944, 
+            "lng": 25.275671, 
+            "normalized": "Konstitucijos prospektas 20, Vilnius, Vilniaus m. sav., Lietuva"
+        }, 
         "address": "Vilniaus m. sav., Vilnius, Konstitucijos pr. 20", 
         "halls": [
             {
@@ -22819,6 +24201,11 @@ hotels = ([
         }, 
         "name": "RADISSON BLU HOTEL LIETUVA", 
         "rank": 4, 
+        "coords": {
+            "lat": 54.6959944, 
+            "lng": 25.275671, 
+            "normalized": "Konstitucijos prospektas 20, Vilniaus miestas, Lietuva"
+        }, 
         "address": "Konstitucijos pr. 20, Vilniaus m.", 
         "halls": [
             {

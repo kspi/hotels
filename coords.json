@@ -1,0 +1,1417 @@
+{
+    "Druskinink\u0173 sav., Druskininkai, Maironio g. 22": {
+        "lat": 54.0240527, 
+        "lng": 23.9741022, 
+        "normalized": "Maironio gatv\u0117 22, Druskininkai, Lietuva"
+    }, 
+    "L. R\u0117zos g. 10, Neringa": {
+        "lat": 55.5318433, 
+        "lng": 21.1172813, 
+        "normalized": "L. R\u0117zos gatv\u0117 10, Neringa, Lietuva"
+    }, 
+    "Laisv\u0117s al. 90, Kauno m.": {
+        "lat": 54.8968721, 
+        "lng": 23.8924264, 
+        "normalized": "Laisv\u0117s al. 90, Kauno miestas, Lietuva"
+    }, 
+    "Bistry\u010dios g. 13, Vilnius": {
+        "lat": 54.7062106, 
+        "lng": 25.3206651, 
+        "normalized": "Bistry\u010dios gatv\u0117 13, Vilnius, Lietuva"
+    }, 
+    "Tilto g. 2A, Vilnius": {
+        "lat": 54.6865343, 
+        "lng": 25.2858894, 
+        "normalized": "Tilto gatv\u0117 2A, Vilnius, Lietuva"
+    }, 
+    "Liep\u0173 g. 48A, Klaip\u0117dos m.": {
+        "lat": 55.7154842, 
+        "lng": 21.1433037, 
+        "normalized": "Liep\u0173 gatv\u0117 48A, Klaip\u0117dos miestas, Lietuva"
+    }, 
+    "Pilies g. 24, Vilnius": {
+        "lat": 54.68238239999999, 
+        "lng": 25.2891538, 
+        "normalized": "Pilies gatv\u0117 24, Vilnius, Lietuva"
+    }, 
+    "Senoji g. 16, K\u0117daini\u0173 m., K\u0117daini\u0173 r.": {
+        "lat": 55.2858427, 
+        "lng": 23.9811764, 
+        "normalized": "Senoji gatv\u0117 16, K\u0117daini\u0173 miestas, K\u0117daini\u0173 rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "Vytauto g. 116, Palanga": {
+        "lat": 55.9214547, 
+        "lng": 21.0685893, 
+        "normalized": "Vytauto gatv\u0117 116, Palanga, Lietuva"
+    }, 
+    "Druskinink\u0173 sav., Druskininkai, T. Kosciu\u0161kos g. 6": {
+        "lat": 54.0227257, 
+        "lng": 23.9703781, 
+        "normalized": "T. Kosciu\u0161kos gatv\u0117 6, Druskininkai, Lietuva"
+    }, 
+    "Vytauto g. 79/Gintaro g.30, Palangos m.": {
+        "lat": 55.9215317, 
+        "lng": 21.0686328, 
+        "normalized": "Vytauto gatv\u0117 79, Palangos miestas, Lietuva"
+    }, 
+    "Pilait\u0117s pr. 20, Vilnius": {
+        "lat": 54.7029047, 
+        "lng": 25.2027449, 
+        "normalized": "Pilait\u0117s prospektas 20, Vilnius, Lietuva"
+    }, 
+    "Alytaus r. sav., Nemunai\u010dio sen., Nemunaitis": {
+        "lat": 54.3467215, 
+        "lng": 24.1310766, 
+        "normalized": "Nemunaitis, Alytaus rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "Ligonin\u0117s g. 7, Vilnius": {
+        "lat": 54.676406, 
+        "lng": 25.2830424, 
+        "normalized": "Ligonin\u0117s gatv\u0117 7, Vilnius, Lietuva"
+    }, 
+    "Naujojo Sodo g. 1, Klaip\u0117da": {
+        "lat": 55.7109458, 
+        "lng": 21.1291436, 
+        "normalized": "Naujojo Sodo gatv\u0117 1, Klaip\u0117da, Lietuva"
+    }, 
+    "\u0160laito g. 18a, Klaip\u0117dos m.": {
+        "lat": 55.7664025, 
+        "lng": 21.0893431, 
+        "normalized": "\u0160laito gatv\u0117 18a, Klaip\u0117dos miestas, Lietuva"
+    }, 
+    "Vasario 16-osios g. 40, \u0160iauli\u0173 m.": {
+        "lat": 55.9301519, 
+        "lng": 23.315442, 
+        "normalized": "Vasario 16-osios gatv\u0117 40, \u0160iauli\u0173 miestas, Lietuva"
+    }, 
+    "Raugyklos g. 7/2, Vilnius": {
+        "lat": 54.6752338, 
+        "lng": 25.2821432, 
+        "normalized": "Raugyklos gatv\u0117 7, Vilnius, Lietuva"
+    }, 
+    "Spurgan\u0173 k., Ma\u017eeiki\u0173 r.": {
+        "lat": 56.2634036, 
+        "lng": 22.2656004, 
+        "normalized": "Spurganai, Ma\u017eeiki\u0173 rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "\u017demaitijos g. 15, Vilniaus m.": {
+        "lat": 54.6777574, 
+        "lng": 25.2824898, 
+        "normalized": "\u017demaitijos gatv\u0117 15, Vilniaus miestas, Lietuva"
+    }, 
+    "Vent\u0117, \u0160ilut\u0117s r.": {
+        "lat": 55.3500117, 
+        "lng": 21.1992241, 
+        "normalized": "Vent\u0117, \u0160ilut\u0117s rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "Vaidilut\u0117s g. 6a, Vilniaus m.": {
+        "lat": 54.7337846, 
+        "lng": 25.295776, 
+        "normalized": "Vaidilut\u0117s gatv\u0117 6a, Vilniaus miestas, Lietuva"
+    }, 
+    "Vilniaus m. sav., Vilnius, Slucko g. 8": {
+        "lat": 54.6955687, 
+        "lng": 25.2853848, 
+        "normalized": "Slucko gatv\u0117 8, Vilnius, Vilniaus m. sav., Lietuva"
+    }, 
+    "A. Mickevi\u010diaus g. 28, Kauno m.": {
+        "lat": 54.8963776, 
+        "lng": 23.9174456, 
+        "normalized": "A. Mickevi\u010diaus gatv\u0117 28, Kauno miestas, Lietuva"
+    }, 
+    "M. K. \u010ciurlionio g. 84, Vilnius": {
+        "lat": 54.6819901, 
+        "lng": 25.2492951, 
+        "normalized": "M. K. \u010ciurlionio gatv\u0117 84, Vilnius, Lietuva"
+    }, 
+    "\u017dvej\u0173 g. 20-22, Klaip\u0117dos m.": {
+        "lat": 55.7068357, 
+        "lng": 21.1274458, 
+        "normalized": "\u017dvej\u0173 gatv\u0117 20, Klaip\u0117dos miestas, Lietuva"
+    }, 
+    "U\u017euolankos g. 24, Alytaus m.": {
+        "lat": 54.3990555, 
+        "lng": 24.0460539, 
+        "normalized": "U\u017euolankos gatv\u0117 24, Alytaus miestas, Lietuva"
+    }, 
+    "Vingri\u0173 g. 25, Vilniaus m.": {
+        "lat": 54.6773447, 
+        "lng": 25.2795414, 
+        "normalized": "Vingri\u0173 gatv\u0117 25, Vilniaus miestas, Lietuva"
+    }, 
+    "Gaono g. 7, Vilniaus m.": {
+        "lat": 54.680473, 
+        "lng": 25.2861453, 
+        "normalized": "Gaono gatv\u0117 7, Vilniaus miestas, Lietuva"
+    }, 
+    "Vilniaus m. sav., Vilnius, J. Jasinskio g. 14": {
+        "lat": 54.6882301, 
+        "lng": 25.263181, 
+        "normalized": "J. Jasinskio gatv\u0117 14, Vilnius, Vilniaus m. sav., Lietuva"
+    }, 
+    "\u0160iauli\u0173 g. 41, Klaip\u0117dos m.": {
+        "lat": 55.7206189, 
+        "lng": 21.1293204, 
+        "normalized": "\u0160iauli\u0173 gatv\u0117 41, Klaip\u0117dos miestas, Lietuva"
+    }, 
+    "Birut\u0117s al. 47, Palanga": {
+        "lat": 55.9183386, 
+        "lng": 21.0676478, 
+        "normalized": "Palanga, Lietuva"
+    }, 
+    "Draugyst\u0117s g. 2, Druskinink\u0173 m., Druskinink\u0173 sav.": {
+        "lat": 53.99533169999999, 
+        "lng": 23.99666, 
+        "normalized": "Draugyst\u0117s gatv\u0117 2, Druskinink\u0173 miestas, Lietuva"
+    }, 
+    "V. Kudirkos g. 47, Druskininkai": {
+        "lat": 54.0195337, 
+        "lng": 23.9789143, 
+        "normalized": "V. Kudirkos gatv\u0117 47, Druskininkai, Lietuva"
+    }, 
+    "Vilniaus m. sav., Vilnius, Konstitucijos pr. 20": {
+        "lat": 54.6959944, 
+        "lng": 25.275671, 
+        "normalized": "Konstitucijos prospektas 20, Vilnius, Vilniaus m. sav., Lietuva"
+    }, 
+    "V. Kudirkos g. 43, Druskinink\u0173 m., Druskinink\u0173 sav.": {
+        "lat": 54.0183109, 
+        "lng": 23.9759755, 
+        "normalized": "V. Kudirkos gatv\u0117 43, Druskinink\u0173 miestas, Druskinink\u0173 sav., Lietuva"
+    }, 
+    "Vytauto pr. 25, Kauno m.": {
+        "lat": 54.88940909999999, 
+        "lng": 23.9268794, 
+        "normalized": "Vytauto prospektas 25, Kauno miestas, Lietuva"
+    }, 
+    "J. Gruod\u017eio g. 21, Kaunas": {
+        "lat": 54.8969663, 
+        "lng": 23.9008, 
+        "normalized": "J. Gruod\u017eio gatv\u0117 21, Kaunas, Lietuva"
+    }, 
+    "S. \u0160imkaus g. 6, Klaip\u0117da": {
+        "lat": 55.7125034, 
+        "lng": 21.1297599, 
+        "normalized": "S. \u0160imkaus gatv\u0117 6, Klaip\u0117da, Lietuva"
+    }, 
+    "Vosyliuk\u0173 k., Lentvario sen., Trak\u0173 r.": {
+        "lat": 54.7118639, 
+        "lng": 25.0282158, 
+        "normalized": "Vosyliukai, Trak\u0173 rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "Kaminkelio g. 15, Vilnius": {
+        "lat": 54.6591734, 
+        "lng": 25.2777473, 
+        "normalized": "Kaminkelio gatv\u0117 15, Vilnius, Lietuva"
+    }, 
+    "Algirdo g. 24, Vilniaus m.": {
+        "lat": 54.67628699999999, 
+        "lng": 25.2714727, 
+        "normalized": "Algirdo gatv\u0117 24, Vilniaus miestas, Lietuva"
+    }, 
+    "Vilniaus g. 2/15, Vilniaus m.": {
+        "lat": 54.8393392, 
+        "lng": 25.4701931, 
+        "normalized": "Vilniaus gatv\u0117 2, Vilniaus miestas, Lietuva"
+    }, 
+    "K.Dineikos g 1/3": {
+        "lat": 54.0126739, 
+        "lng": 23.9787926, 
+        "normalized": "K.Dineikos g 1/3, Lietuva"
+    }, 
+    "S. Daukanto g. 21, Kaunas": {
+        "lat": 54.8979693, 
+        "lng": 23.9136248, 
+        "normalized": "S. Daukanto gatv\u0117 21, Kaunas, Lietuva"
+    }, 
+    "Laisv\u0117s a. 16, Panev\u0117\u017eio m.": {
+        "lat": 55.727101, 
+        "lng": 24.3626272, 
+        "normalized": "Laisv\u0117s a. 16, Panev\u0117\u017eio miestas, Lietuva"
+    }, 
+    "Suba\u010diaus g. 2, Vilniaus m.": {
+        "lat": 54.6765683, 
+        "lng": 25.2885665, 
+        "normalized": "Suba\u010diaus gatv\u0117 2, Vilniaus miestas, Lietuva"
+    }, 
+    "Vytauto g. 116, Palangos m.": {
+        "lat": 55.9214547, 
+        "lng": 21.0685893, 
+        "normalized": "Vytauto gatv\u0117 116, Palangos miestas, Lietuva"
+    }, 
+    "\u0160iauli\u0173 g. 28": {
+        "lat": 55.3980328, 
+        "lng": 22.5420268, 
+        "normalized": "\u0160iauli\u0173 gatv\u0117 28, Lietuva"
+    }, 
+    "Ber\u017e\u0173 g. 3, Juknai\u010diai, Juknai\u010di\u0173 sen., \u0160ilut\u0117s raj.": {
+        "lat": 55.2879877, 
+        "lng": 21.5815649, 
+        "normalized": "Ber\u017e\u0173 gatv\u0117 3, Juknai\u010diai, \u0160ilut\u0117s raj., Lietuva"
+    }, 
+    "S. Daukanto g. 15, Palangos m.": {
+        "lat": 55.916511, 
+        "lng": 21.0616283, 
+        "normalized": "S. Daukanto gatv\u0117 15, Palangos miestas, Lietuva"
+    }, 
+    "Palangos m. sav., Palanga, Kontinink\u0173 g. 9": {
+        "lat": 55.9475428, 
+        "lng": 21.0664709, 
+        "normalized": "Kontinink\u0173 gatv\u0117 9, Palanga, Lietuva"
+    }, 
+    "Tel\u0161i\u0173 r. sav., Tel\u0161i\u0173 sen., Tel\u0161iai, K\u0119stu\u010dio g. 21": {
+        "lat": 55.9851397, 
+        "lng": 22.2480565, 
+        "normalized": "K\u0119stu\u010dio gatv\u0117 21, Tel\u0161iai, Tel\u0161i\u0173 rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "Marijampol\u0117s sav.": {
+        "lat": 54.557812, 
+        "lng": 23.3498124, 
+        "normalized": "Marijampol\u0117s sav., Lietuva"
+    }, 
+    "Taurag\u0117s r. sav., Taurag\u0117s miesto sen., Taurag\u0117, Vytauto g. 83": {
+        "lat": 55.25444590000001, 
+        "lng": 22.285205, 
+        "normalized": "Vytauto gatv\u0117 83, Taurag\u0117, Taurag\u0117s rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "Kalvarij\u0173 g. 265, Vilniaus m.": {
+        "lat": 54.733248, 
+        "lng": 25.2791232, 
+        "normalized": "Kalvarij\u0173 gatv\u0117 265, Vilniaus miestas, Lietuva"
+    }, 
+    "Liepojos g. 3, Klaip\u0117da": {
+        "lat": 55.7450367, 
+        "lng": 21.1303247, 
+        "normalized": "Liepojos gatv\u0117 3, Klaip\u0117da, Lietuva"
+    }, 
+    "Vaidoto g. 33, \u0160iauliai": {
+        "lat": 55.9565293, 
+        "lng": 23.3206368, 
+        "normalized": "Vaidoto gatv\u0117 33, \u0160iauliai, Lietuva"
+    }, 
+    "Klaip\u0117dos m. sav., Klaip\u0117da, Sportinink\u0173 g. 46": {
+        "lat": 55.7246226, 
+        "lng": 21.1118955, 
+        "normalized": "Sportinink\u0173 gatv\u0117 46, Klaip\u0117da, Klaip\u0117dos m. sav., Lietuva"
+    }, 
+    "Vilniaus al. 7, Druskinink\u0173 m., Druskinink\u0173 sav.": {
+        "lat": 54.6893865, 
+        "lng": 25.2800243, 
+        "normalized": "Vilniaus al. 7, Druskinink\u0173 miestas, Druskinink\u0173 sav., Lietuva"
+    }, 
+    "Paneb\u0117\u017eio 8A, Vilnius": {
+        "lat": 54.6893865, 
+        "lng": 25.2800243, 
+        "normalized": "Paneb\u0117\u017eio 8A, Vilnius, Lietuva"
+    }, 
+    "Vilniaus m. sav., Vilnius, Sod\u0173 g. 14": {
+        "lat": 54.6716171, 
+        "lng": 25.0803664, 
+        "normalized": "Sod\u0173 gatv\u0117 14, Vilnius, Vilniaus m. sav., Lietuva"
+    }, 
+    "Birut\u0117s al. 26, Palangos m.": {
+        "lat": 55.9183386, 
+        "lng": 21.0676478, 
+        "normalized": "Palangos miestas, Lietuva"
+    }, 
+    "Bang\u0173 g. 4, Klaip\u0117dos m.": {
+        "lat": 55.7072712, 
+        "lng": 21.1409113, 
+        "normalized": "Bang\u0173 gatv\u0117 4, Klaip\u0117dos miestas, Lietuva"
+    }, 
+    "Respublikos g. 45a, Roki\u0161kis, Roki\u0161kio r.": {
+        "lat": 55.9603462, 
+        "lng": 25.5872832, 
+        "normalized": "Respublikos gatv\u0117 45a, Roki\u0161kis, Roki\u0161kio r., Lietuva"
+    }, 
+    "Mi\u0161ko g. 11, Kaunas": {
+        "lat": 54.893646, 
+        "lng": 23.9221505, 
+        "normalized": "Mi\u0161ko gatv\u0117 11, Kaunas, Lietuva"
+    }, 
+    "Ievos kalno g. 28, Neringa": {
+        "lat": 55.5378449, 
+        "lng": 21.1169592, 
+        "normalized": "Ievos kalno gatv\u0117 28, Neringa, Lietuva"
+    }, 
+    "Kalno g. 7a, Neringos m., Neringos sav.": {
+        "lat": 55.5425605, 
+        "lng": 21.1199682, 
+        "normalized": "Kalno gatv\u0117 7a, Neringos miestas, Neringos sav., Lietuva"
+    }, 
+    "Naujoji g. 8-C, Alytaus m.": {
+        "lat": 54.3967622, 
+        "lng": 24.0306287, 
+        "normalized": "Naujoji gatv\u0117 8-C, Alytaus miestas, Lietuva"
+    }, 
+    "Vilniaus al. 2A, Druskinink\u0173 m., Druskinink\u0173 sav.": {
+        "lat": 54.6893865, 
+        "lng": 25.2800243, 
+        "normalized": "Vilniaus al. 2A, Druskinink\u0173 miestas, Druskinink\u0173 sav., Lietuva"
+    }, 
+    "Vytauto g. 40, Palangos m.": {
+        "lat": 55.9105559, 
+        "lng": 21.0624703, 
+        "normalized": "Vytauto gatv\u0117 40, Palangos miestas, Lietuva"
+    }, 
+    "Bang\u0173 g. 19, Klaip\u0117da": {
+        "lat": 55.7097655, 
+        "lng": 21.1447652, 
+        "normalized": "Bang\u0173 gatv\u0117 19, Klaip\u0117da, Lietuva"
+    }, 
+    "Radvili\u0161kio r. sav., Pakalni\u0161ki\u0173 apylink\u0117s sen., Raudondvaris": {
+        "lat": 55.7496577, 
+        "lng": 23.800993, 
+        "normalized": "Raudondvaris, Radvili\u0161kio rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "Neringos sav., Neringa, Skruzdyn\u0117s g. 2": {
+        "lat": 55.3113246, 
+        "lng": 21.010299, 
+        "normalized": "Skruzdyn\u0117s gatv\u0117 2, Neringa, Lietuva"
+    }, 
+    "Fabijoni\u0161ki\u0173 g. 5-6, Vilniaus m.": {
+        "lat": 54.7202643, 
+        "lng": 25.248806, 
+        "normalized": "Fabijoni\u0161ki\u0173 gatv\u0117 5, Vilniaus miestas, Lietuva"
+    }, 
+    "Sodo g. 1a, Marijampol\u0117": {
+        "lat": 54.6767438, 
+        "lng": 23.4219765, 
+        "normalized": "Sodo gatv\u0117 1a, Marijampol\u0117, Lietuva"
+    }, 
+    "Gureli\u0173 k., \u0160al\u010dinink\u0173 r.": {
+        "lat": 54.6474419, 
+        "lng": 25.0590237, 
+        "normalized": "Gureli\u0173 kaimas, Lietuva"
+    }, 
+    "Verslo g. 17, Kumpi\u0173 k., Kauno r.": {
+        "lat": 54.9580841, 
+        "lng": 23.8696641, 
+        "normalized": "Verslo gatv\u0117 17, Kumpiai, Kauno rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "Kranto g. 24, Panev\u0117\u017eio m.": {
+        "lat": 55.7333218, 
+        "lng": 24.3606831, 
+        "normalized": "Kranto gatv\u0117 24, Panev\u0117\u017eio miestas, Lietuva"
+    }, 
+    "Pamario g. 13, Neringos m., Neringos sav.": {
+        "lat": 55.3112207, 
+        "lng": 21.0100745, 
+        "normalized": "Pamario gatv\u0117 13, Neringos miestas, Neringos sav., Lietuva"
+    }, 
+    "Minijos g. 119, Klaip\u0117dos m.": {
+        "lat": 55.6846191, 
+        "lng": 21.1489046, 
+        "normalized": "Minijos gatv\u0117 119, Klaip\u0117dos miestas, Lietuva"
+    }, 
+    "J\u016bros g. 23, Klaip\u0117da": {
+        "lat": 55.712332, 
+        "lng": 21.1255676, 
+        "normalized": "J\u016bros gatv\u0117 23, Klaip\u0117da, Lietuva"
+    }, 
+    "Auk\u0161tai\u010di\u0173 g. 55, Kauno m.": {
+        "lat": 54.9038789, 
+        "lng": 23.9344894, 
+        "normalized": "Auk\u0161tai\u010di\u0173 gatv\u0117 55, Kauno miestas, Lietuva"
+    }, 
+    "Dariaus ir Gir\u0117no g. 50, Skuodo m., Skuodo r.": {
+        "lat": 56.2694473, 
+        "lng": 21.5423997, 
+        "normalized": "Dariaus ir Gir\u0117no gatv\u0117 50, Skuodo miestas, Lietuva"
+    }, 
+    "Skrobl\u0173 g. 3, Kauno m.": {
+        "lat": 54.9042484, 
+        "lng": 23.9470806, 
+        "normalized": "Skrobl\u0173 gatv\u0117 3, Kauno miestas, Lietuva"
+    }, 
+    "Minijos g. 2, Plung\u0117s m., Plung\u0117s r.": {
+        "lat": 55.9116487, 
+        "lng": 21.849204, 
+        "normalized": "Minijos gatv\u0117 2, Plung\u0117s miestas, Lietuva"
+    }, 
+    "Liepojos g. 7A, Klaip\u0117dos m.": {
+        "lat": 55.7464667, 
+        "lng": 21.1304151, 
+        "normalized": "Liepojos gatv\u0117 7A, Klaip\u0117dos miestas, Lietuva"
+    }, 
+    "\u017dvej\u0173 g. 22, Klaip\u0117dos m.": {
+        "lat": 55.7067604, 
+        "lng": 21.1271485, 
+        "normalized": "\u017dvej\u0173 gatv\u0117 22, Klaip\u0117dos miestas, Lietuva"
+    }, 
+    "S. Daukanto g. 21, Palanga": {
+        "lat": 55.9154501, 
+        "lng": 21.0609366, 
+        "normalized": "S. Daukanto gatv\u0117 21, Palanga, Lietuva"
+    }, 
+    "S. Daukanto g. 35, Palangos m.": {
+        "lat": 55.9121319, 
+        "lng": 21.058719, 
+        "normalized": "S. Daukanto gatv\u0117 35, Palangos miestas, Lietuva"
+    }, 
+    "Vytauto g. 96, Palanga": {
+        "lat": 55.9187176, 
+        "lng": 21.0669299, 
+        "normalized": "Vytauto gatv\u0117 96, Palanga, Lietuva"
+    }, 
+    "Raitinink\u0173 g. 4, Vilniaus m.": {
+        "lat": 54.69458780000001, 
+        "lng": 25.2946363, 
+        "normalized": "Raitinink\u0173 gatv\u0117 4, Vilniaus miestas, Lietuva"
+    }, 
+    "G. D. Kuverto g. 15, Neringa, Neringos sav.": {
+        "lat": 55.3081549, 
+        "lng": 20.9991161, 
+        "normalized": "G. D. Kuverto gatv\u0117 15, Neringa, Lietuva"
+    }, 
+    "Sm\u0117lyn\u0117s g. 112, Panev\u0117\u017eio m.": {
+        "lat": 55.7443601, 
+        "lng": 24.3708575, 
+        "normalized": "Sm\u0117lyn\u0117s gatv\u0117 112, Panev\u0117\u017eio miestas, Lietuva"
+    }, 
+    "\u0160v. Jok\u016bbo g., Druskinink\u0173 m., Druskinink\u0173 sav.": {
+        "lat": 54.018882, 
+        "lng": 23.9723123, 
+        "normalized": "\u0160v. Jok\u016bbo gatv\u0117, Druskinink\u0173 miestas, Lietuva"
+    }, 
+    "Kranto g. 3A, Taurag\u0117s m., Taurag\u0117s r.": {
+        "lat": 55.2512556, 
+        "lng": 22.2813866, 
+        "normalized": "Kranto gatv\u0117 3A, Taurag\u0117s miestas, Taurag\u0117s rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "Gedimino pr. 23, Vilniaus m.": {
+        "lat": 54.6877943, 
+        "lng": 25.2758364, 
+        "normalized": "Gedimino prospektas 23, Vilniaus miestas, Lietuva"
+    }, 
+    "Gilu\u0161io g. 6, Trak\u0173 m., Trak\u0173 r.": {
+        "lat": 54.62851860000001, 
+        "lng": 24.9305178, 
+        "normalized": "Gilu\u0161io gatv\u0117 6, Trak\u0173 miestas, Trak\u0173 rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "Vilniaus m. sav., Vilnius, G\u0117li\u0173 g. 5": {
+        "lat": 54.6673422, 
+        "lng": 25.0850787, 
+        "normalized": "G\u0117li\u0173 gatv\u0117 5, Vilnius, Vilniaus m. sav., Lietuva"
+    }, 
+    "Au\u0161ros g. 1, Gink\u016bnai, \u0160iauli\u0173 r.": {
+        "lat": 55.9539716, 
+        "lng": 23.3552627, 
+        "normalized": "Au\u0161ros gatv\u0117 1, Gink\u016bnai, \u0160iauli\u0173 r., Lietuva"
+    }, 
+    "Vytauto g. 17, \u0160ilut\u0117s m., \u0160ilut\u0117s r.": {
+        "lat": 55.3572852, 
+        "lng": 21.7039608, 
+        "normalized": "Vytauto gatv\u0117 17, \u0160ilut\u0117s miestas, Lietuva"
+    }, 
+    "Gedimino pr. 52/1a, Vilnius": {
+        "lat": 54.6894425, 
+        "lng": 25.2660087, 
+        "normalized": "Gedimino prospektas 52, Vilnius, Lietuva"
+    }, 
+    "Saltoni\u0161ki\u0173 g. 56, Vilnius": {
+        "lat": 54.696951, 
+        "lng": 25.25671, 
+        "normalized": "Saltoni\u0161ki\u0173 gatv\u0117 56, Vilnius, Lietuva"
+    }, 
+    "Vytauto g. 53, Palangos m.": {
+        "lat": 55.9121489, 
+        "lng": 21.0632529, 
+        "normalized": "Vytauto gatv\u0117 53, Palangos miestas, Lietuva"
+    }, 
+    "Dubijos g. 20, \u0160iauliai": {
+        "lat": 55.9280315, 
+        "lng": 23.297225, 
+        "normalized": "Dubijos gatv\u0117 20, \u0160iauliai, Lietuva"
+    }, 
+    "J. Janonio g. 11, Klaip\u0117da": {
+        "lat": 55.7189661, 
+        "lng": 21.1238698, 
+        "normalized": "J. Janonio gatv\u0117 11, Klaip\u0117da, Lietuva"
+    }, 
+    "Kauno m. sav., Kaunas, Savanori\u0173 pr. 66": {
+        "lat": 54.9020051, 
+        "lng": 23.910447, 
+        "normalized": "Savanori\u0173 prospektas 66, Kaunas, Kauno miesto savivaldyb\u0117, Lietuva"
+    }, 
+    "Ruklos k., Ruklos sen., Jonavos r.": {
+        "lat": 55.0514789, 
+        "lng": 24.3754625, 
+        "normalized": "Rukla, Jonavos rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "Vytauto g. 97, Palangos m.": {
+        "lat": 55.9246224, 
+        "lng": 21.0705219, 
+        "normalized": "Vytauto gatv\u0117 97, Palangos miestas, Lietuva"
+    }, 
+    "L. Stuokos-Gucevi\u010diaus g. 3, Vilnius": {
+        "lat": 54.6849867, 
+        "lng": 25.2852187, 
+        "normalized": "L. Stuokos-Gucevi\u010diaus gatv\u0117 3, Vilnius, Lietuva"
+    }, 
+    "Veteran\u0173 g. 9, Visagino m., Visagino sav.": {
+        "lat": 55.5981335, 
+        "lng": 26.4350517, 
+        "normalized": "Veteran\u0173 gatv\u0117 9, Visagino miestas, Lietuva"
+    }, 
+    "Ukmerg\u0117s g. 363, Vilniaus m.": {
+        "lat": 54.7386332, 
+        "lng": 25.2286319, 
+        "normalized": "Ukmerg\u0117s gatv\u0117 363, Vilniaus miestas, Lietuva"
+    }, 
+    "Plink\u0161i\u0173 k., Ma\u017eeiki\u0173 r.": {
+        "lat": 56.1166667, 
+        "lng": 22.1666667, 
+        "normalized": "Plink\u0161ys, Ma\u017eeiki\u0173 rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "M. K. \u010ciurlionio g. 128, Druskinink\u0173 m., Druskinink\u0173 sav.": {
+        "lat": 54.00477129999999, 
+        "lng": 24.0118797, 
+        "normalized": "M. K. \u010ciurlionio gatv\u0117 128, Druskinink\u0173 miestas, Druskinink\u0173 sav., Lietuva"
+    }, 
+    "G. D. Kuverto g. 7, Neringa, Neringos sav.": {
+        "lat": 55.3080966, 
+        "lng": 21.0052591, 
+        "normalized": "G. D. Kuverto gatv\u0117 7, Neringa, Lietuva"
+    }, 
+    "L. Stuokos-Gucevi\u010diaus g. 3, Vilniaus m.": {
+        "lat": 54.6849867, 
+        "lng": 25.2852187, 
+        "normalized": "L. Stuokos-Gucevi\u010diaus gatv\u0117 3, Vilniaus miestas, Lietuva"
+    }, 
+    "Verkn\u0117s g. 8, Bir\u0161tono m., Bir\u0161tono sav.": {
+        "lat": 54.6034719, 
+        "lng": 24.0597273, 
+        "normalized": "Verkn\u0117s gatv\u0117 8, Bir\u0161tono miestas, Lietuva"
+    }, 
+    "Vytauto pr. 28, LT-44328 Kaunas": {
+        "lat": 54.8895716, 
+        "lng": 23.9266291, 
+        "normalized": "Vytauto prospektas 28, LT-44328 Kaunas, Lietuva"
+    }, 
+    "Vingri\u0173 g. 25, Vilnius": {
+        "lat": 54.6773447, 
+        "lng": 25.2795414, 
+        "normalized": "Vingri\u0173 gatv\u0117 25, Vilnius, Lietuva"
+    }, 
+    "Palangos m. sav., Palanga, Vytauto g. 155": {
+        "lat": 55.9208001, 
+        "lng": 21.0680158, 
+        "normalized": "Vytauto gatv\u0117 155, Palanga, Palangos miesto savivaldyb\u0117, Lietuva"
+    }, 
+    "\u0160eimyni\u0161ki\u0173 g. 1, Vilniaus m.": {
+        "lat": 54.6946412, 
+        "lng": 25.2821337, 
+        "normalized": "\u0160eimyni\u0161ki\u0173 gatv\u0117 1, Vilniaus miestas, Lietuva"
+    }, 
+    "Pylimo g. 63, Vilniaus m.": {
+        "lat": 54.67253669999999, 
+        "lng": 25.2866576, 
+        "normalized": "Pylimo gatv\u0117 63, Vilniaus miestas, Lietuva"
+    }, 
+    "Lietuvinink\u0173 g. 70, \u0160ilut\u0117s m., \u0160ilut\u0117s r.": {
+        "lat": 55.342327, 
+        "lng": 21.4697679, 
+        "normalized": "Lietuvinink\u0173 gatv\u0117 70, \u0160ilut\u0117s miestas, \u0160ilut\u0117s rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "T. \u0160ev\u010denkos g. 16, Vilnius": {
+        "lat": 54.6772898, 
+        "lng": 25.2658015, 
+        "normalized": "T. \u0160ev\u010denkos gatv\u0117 16, Vilnius, Lietuva"
+    }, 
+    "Virbali\u0161k\u0117s takas 2, Palangos m.": {
+        "lat": 55.918238, 
+        "lng": 21.0727495, 
+        "normalized": "Virbali\u0161k\u0117s takas 2, Palangos miestas, Lietuva"
+    }, 
+    "Naugarduko g. 76, Vilniaus m.": {
+        "lat": 54.6708748, 
+        "lng": 25.2604591, 
+        "normalized": "Naugarduko gatv\u0117 76, Vilniaus miestas, Lietuva"
+    }, 
+    "Vazgaikiemio k., Prien\u0173 r.": {
+        "lat": 54.5816087, 
+        "lng": 23.8858068, 
+        "normalized": "Vazgaikiemis, Prien\u0173 r., Lietuva"
+    }, 
+    "Vilniaus al. 3, Druskininkai, Druskinink\u0173 sav.": {
+        "lat": 54.6893865, 
+        "lng": 25.2800243, 
+        "normalized": "Vilniaus al. 3, Druskininkai, Druskinink\u0173 sav., Lietuva"
+    }, 
+    "Panev\u0117\u017eio g. 8a, Vilnius": {
+        "lat": 54.6657889, 
+        "lng": 25.2832282, 
+        "normalized": "Panev\u0117\u017eio gatv\u0117 8a, Vilnius, Lietuva"
+    }, 
+    "\u010ci\u017ei\u0161ki\u0173 k., Vilkavi\u0161kio r.": {
+        "lat": 54.4117982, 
+        "lng": 22.7620251, 
+        "normalized": "\u010ci\u017ei\u0161kiai, Vilkavi\u0161kio r., Lietuva"
+    }, 
+    "Vilniaus m. sav., Vilnius, Dariaus ir Gir\u0117no g. 61": {
+        "lat": 54.6454505, 
+        "lng": 25.2726579, 
+        "normalized": "Dariaus ir Gir\u0117no gatv\u0117 61, Vilnius, Vilniaus m. sav., Lietuva"
+    }, 
+    "\u017dalioji g. 38A, Kauno m.": {
+        "lat": 54.9035102, 
+        "lng": 23.9061726, 
+        "normalized": "\u017dalioji gatv\u0117 38A, Kauno miestas, Lietuva"
+    }, 
+    "\u017dalioji g., Garliavos m., Kauno r.": {
+        "lat": 54.8329235, 
+        "lng": 23.8687212, 
+        "normalized": "\u017dalioji gatv\u0117, Garliavos miestas, Kauno rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "Gedimino pr. 12, Vilniaus m.": {
+        "lat": 54.6869361, 
+        "lng": 25.2807574, 
+        "normalized": "Gedimino prospektas 12, Vilniaus miestas, Lietuva"
+    }, 
+    "S. N\u0117ries g. 14, Palangos m.": {
+        "lat": 55.9197146, 
+        "lng": 21.0608284, 
+        "normalized": "S. N\u0117ries gatv\u0117 14, Palangos miestas, Lietuva"
+    }, 
+    "Pensinink\u0173 km., Trak\u0173 r.": {
+        "lat": 54.63886189999999, 
+        "lng": 24.934901, 
+        "normalized": "Trak\u0173 rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "Vytauto g. 43, Druskinink\u0173 m., Druskinink\u0173 sav.": {
+        "lat": 54.014999, 
+        "lng": 23.9917, 
+        "normalized": "Vytauto gatv\u0117 43, Druskinink\u0173 miestas, Druskinink\u0173 sav., Lietuva"
+    }, 
+    "Radvili\u0161kio r. sav., Radvili\u0161kio miesto sen., Radvili\u0161kis, Daujo\u010di\u0173 g. 10B": {
+        "lat": 55.7951235, 
+        "lng": 23.5543656, 
+        "normalized": "Daujo\u010di\u0173 gatv\u0117 10B, Radvili\u0161kis, Radvili\u0161kio rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "Tel\u0161i\u0173 r. sav., Varni\u0173 sen., Varniai, Medinink\u0173 a. 1/1": {
+        "lat": 55.7419216, 
+        "lng": 22.3711601, 
+        "normalized": "Medinink\u0173 a. 1/1, Varniai, Tel\u0161i\u0173 rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "Vilniaus m. sav., Vilnius, \u017dirm\u016bn\u0173 g. 149": {
+        "lat": 54.7226621, 
+        "lng": 25.2985079, 
+        "normalized": "\u017dirm\u016bn\u0173 gatv\u0117 149, Vilnius, Vilniaus m. sav., Lietuva"
+    }, 
+    "Vytenio g. 9/25, Vilniaus m.": {
+        "lat": 54.67897050000001, 
+        "lng": 25.26358, 
+        "normalized": "Vytenio gatv\u0117 9, Vilniaus miestas, Lietuva"
+    }, 
+    "Pilies g. 10, Vilniaus m.": {
+        "lat": 54.683822, 
+        "lng": 25.2894471, 
+        "normalized": "Pilies gatv\u0117 10, Vilniaus miestas, Lietuva"
+    }, 
+    "\u0160v. Stepono g. 11, Vilnius": {
+        "lat": 54.6737159, 
+        "lng": 25.2807887, 
+        "normalized": "\u0160v. Stepono gatv\u0117 11, Vilnius, Lietuva"
+    }, 
+    "Gedimino g. 26, Trak\u0173 m., Trak\u0173 r.": {
+        "lat": 54.62763270000001, 
+        "lng": 24.9356021, 
+        "normalized": "Gedimino gatv\u0117 26, Trak\u0173 miestas, Trak\u0173 rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "Pulko g. 14-1, Alytaus m.": {
+        "lat": 54.3959444, 
+        "lng": 24.0460449, 
+        "normalized": "Pulko gatv\u0117 14, Alytaus miestas, Lietuva"
+    }, 
+    "Dabintos g. 3, Druskininkai": {
+        "lat": 54.021759, 
+        "lng": 23.966555, 
+        "normalized": "Dabintos gatv\u0117 3, Druskininkai, Lietuva"
+    }, 
+    "Vilniaus m. sav., Vilnius, Bernardin\u0173 g. 8/8": {
+        "lat": 54.6835671, 
+        "lng": 25.2914924, 
+        "normalized": "Bernardin\u0173 gatv\u0117 8, Vilnius, Vilniaus m. sav., Lietuva"
+    }, 
+    "Vilnius, Bok\u0161to g. 19/\u0160v.Kazimiero g. 12": {
+        "lat": 54.677913, 
+        "lng": 25.2914493, 
+        "normalized": "Bok\u0161to gatv\u0117 19/\u0160v.Kazimiero gatv\u0117 12, Vilnius, Lietuva"
+    }, 
+    "Greitkelis A2, Vilnius - Ryga 19tas m, E\u017eerai\u010di\u0173 k., Vilniaus r.": {
+        "lat": 54.7961614, 
+        "lng": 25.1674536, 
+        "normalized": "Greitkelis A2, E\u017eerai\u010di\u0173, Vilniaus rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "Did\u017eioji g. 36, K\u0117daini\u0173 m., K\u0117daini\u0173 r.": {
+        "lat": 55.2858427, 
+        "lng": 23.9811764, 
+        "normalized": "Did\u017eioji gatv\u0117 36, K\u0117daini\u0173 miestas, K\u0117daini\u0173 rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "Savanori\u0173 pr. 404, Kauno m.": {
+        "lat": 54.9276381, 
+        "lng": 23.9709778, 
+        "normalized": "Savanori\u0173 prospektas 404, Kauno miestas, Lietuva"
+    }, 
+    "L. Stuokos-Gucevi\u010diaus g. 1, Vilniaus m.": {
+        "lat": 54.685185, 
+        "lng": 25.2855815, 
+        "normalized": "L. Stuokos-Gucevi\u010diaus gatv\u0117 1, Vilniaus miestas, Lietuva"
+    }, 
+    "Vytauto g. 76, Palangos m.": {
+        "lat": 55.9150632, 
+        "lng": 21.0649101, 
+        "normalized": "Vytauto gatv\u0117 76, Palangos miestas, Lietuva"
+    }, 
+    "Kirneil\u0117s k., Mol\u0117t\u0173 r.": {
+        "lat": 55.2098483, 
+        "lng": 25.4723211, 
+        "normalized": "Kirneil\u0117, Mol\u0117t\u0173 r., Lietuva"
+    }, 
+    "Pulko g. 14-1, Alytus": {
+        "lat": 54.3959444, 
+        "lng": 24.0460449, 
+        "normalized": "Pulko gatv\u0117 14, Alytus, Lietuva"
+    }, 
+    "Draugyst\u0117s pr. 25, \u0160iauliai": {
+        "lat": 55.9281397, 
+        "lng": 23.3211883, 
+        "normalized": "Draugyst\u0117s prospektas 25, \u0160iauliai, Lietuva"
+    }, 
+    "Laisv\u0117s a. 26, Panev\u0117\u017eys": {
+        "lat": 55.7293777, 
+        "lng": 24.361581, 
+        "normalized": "Laisv\u0117s a. 26, Panev\u0117\u017eys, Lietuva"
+    }, 
+    "J. Basanavi\u010diaus a. 8, Marijampol\u0117s m., Marijampol\u0117s sav.": {
+        "lat": 54.5573047, 
+        "lng": 23.3484543, 
+        "normalized": "J. Basanavi\u010diaus a. 8, Marijampol\u0117s miestas, Marijampol\u0117s sav., Lietuva"
+    }, 
+    "Vilniaus m. sav., Vilnius, \u017dirni\u0173 g. 10": {
+        "lat": 54.6550249, 
+        "lng": 25.2981254, 
+        "normalized": "\u017dirni\u0173 gatv\u0117 10, Vilnius, Vilniaus m. sav., Lietuva"
+    }, 
+    "Teatro g. 1, Klaip\u0117da": {
+        "lat": 55.7083905, 
+        "lng": 21.1313968, 
+        "normalized": "Teatro gatv\u0117 1, Klaip\u0117da, Lietuva"
+    }, 
+    "Maironio g. 2, Druskinink\u0173 m., Druskinink\u0173 sav.": {
+        "lat": 54.0232187, 
+        "lng": 23.9660475, 
+        "normalized": "Maironio gatv\u0117 2, Druskinink\u0173 miestas, Lietuva"
+    }, 
+    "K. Donelai\u010dio g. 27, Kauno m.": {
+        "lat": 54.89879389999999, 
+        "lng": 23.9197192, 
+        "normalized": "K. Donelai\u010dio gatv\u0117 27, Kauno miestas, Lietuva"
+    }, 
+    "Ba\u017eny\u010dios g. 4a, Vievio m., Elektr\u0117n\u0173 sav.": {
+        "lat": 54.77055619999999, 
+        "lng": 24.8171486, 
+        "normalized": "Ba\u017eny\u010dios gatv\u0117 4a, Vievis, Elektr\u0117n\u0173 sav., Lietuva"
+    }, 
+    "Jaunimo g. 6, Bir\u0161tono m., Bir\u0161tono sav.": {
+        "lat": 54.606649, 
+        "lng": 24.0284559, 
+        "normalized": "Jaunimo gatv\u0117 6, Bir\u0161tono miestas, Bir\u0161tono sav., Lietuva"
+    }, 
+    "Draugyst\u0117s g. 18, Ma\u017eeikiai": {
+        "lat": 56.3050097, 
+        "lng": 22.3293313, 
+        "normalized": "Draugyst\u0117s gatv\u0117 18, Ma\u017eeikiai, Lietuva"
+    }, 
+    "Til\u017e\u0117s g. 63A, \u0160iauli\u0173 m.": {
+        "lat": 55.9171765, 
+        "lng": 23.2837387, 
+        "normalized": "Til\u017e\u0117s gatv\u0117 63A, \u0160iauli\u0173 miestas, Lietuva"
+    }, 
+    "T. Kosciu\u0161kos g. 3, Druskinink\u0173 m., Druskinink\u0173 sav.": {
+        "lat": 54.0219512, 
+        "lng": 23.9707873, 
+        "normalized": "T. Kosciu\u0161kos gatv\u0117 3, Druskinink\u0173 miestas, Druskinink\u0173 sav., Lietuva"
+    }, 
+    "Latvi\u0173 g. 38, Vilniaus m.": {
+        "lat": 54.6948316, 
+        "lng": 25.2473892, 
+        "normalized": "Latvi\u0173 gatv\u0117 38, Vilniaus miestas, Lietuva"
+    }, 
+    "Blind\u017ei\u0173 g. 17, Vilnius": {
+        "lat": 54.6969929, 
+        "lng": 25.2397069, 
+        "normalized": "Blind\u017ei\u0173 gatv\u0117 17, Vilnius, Lietuva"
+    }, 
+    "J. Basanavi\u010diaus a. 5, Vilkavi\u0161kio m., Vilkavi\u0161kio r.": {
+        "lat": 54.65019599999999, 
+        "lng": 23.0338577, 
+        "normalized": "J. Basanavi\u010diaus a. 5, Vilkavi\u0161kio miestas, Vilkavi\u0161kio r., Lietuva"
+    }, 
+    "Kauno m. sav., Kaunas, M. Valan\u010diaus g. 19": {
+        "lat": 54.898563, 
+        "lng": 23.8883749, 
+        "normalized": "M. Valan\u010diaus gatv\u0117 19, Kaunas, Kauno miesto savivaldyb\u0117, Lietuva"
+    }, 
+    "T. Masiulio g. 18E, Kauno m.": {
+        "lat": 54.8832783, 
+        "lng": 24.0079674, 
+        "normalized": "T. Masiulio gatv\u0117 18E, Kauno miestas, Lietuva"
+    }, 
+    "Vilnius, Did\u017eioji g. 35": {
+        "lat": 54.6772841, 
+        "lng": 25.2877592, 
+        "normalized": "Did\u017eioji gatv\u0117 35, Vilnius, Lietuva"
+    }, 
+    "Paplatel\u0117s k., \u017demai\u010di\u0173 Kalvarijos sen., Plung\u0117s r.": {
+        "lat": 56.0460852, 
+        "lng": 21.8906039, 
+        "normalized": "Paplatel\u0117, Plung\u0117s r., Lietuva"
+    }, 
+    "Klaip\u0117dos m. sav., Klaip\u0117da, Galinio Pylimo g. 16": {
+        "lat": 55.7048393, 
+        "lng": 21.1380252, 
+        "normalized": "Galinio Pylimo gatv\u0117 16, Klaip\u0117da, Klaip\u0117dos m. sav., Lietuva"
+    }, 
+    "Kurorto g. 6, Druskinink\u0173 m., Druskinink\u0173 sav.": {
+        "lat": 54.01775259999999, 
+        "lng": 23.9849977, 
+        "normalized": "Kurorto gatv\u0117 6, Druskinink\u0173 miestas, Lietuva"
+    }, 
+    "Palangos m. sav., Palanga, S. Dariaus ir S. Gir\u0117no g. 25": {
+        "lat": 55.9108901, 
+        "lng": 21.0615661, 
+        "normalized": "S. Dariaus ir S. Gir\u0117no gatv\u0117 25, Palanga, Palangos miesto savivaldyb\u0117, Lietuva"
+    }, 
+    "Palangos m. sav., Palanga, Birut\u0117s al. 60": {
+        "lat": 55.9183386, 
+        "lng": 21.0676478, 
+        "normalized": "Palanga, Lietuva"
+    }, 
+    "Ganykl\u0173 g. 30, Palangos m.": {
+        "lat": 55.9213002, 
+        "lng": 21.0733943, 
+        "normalized": "Ganykl\u0173 gatv\u0117 30, Palangos miestas, Lietuva"
+    }, 
+    "T. Daugirdo g. 4, Kauno m.": {
+        "lat": 54.8953781, 
+        "lng": 23.8848966, 
+        "normalized": "T. Daugirdo gatv\u0117 4, Kauno miestas, Lietuva"
+    }, 
+    "Liudi\u0161ki\u0173 g. 18, Anyk\u0161\u010di\u0173 m., Anyk\u0161\u010di\u0173 r.": {
+        "lat": 55.520581, 
+        "lng": 25.1157457, 
+        "normalized": "Liudi\u0161ki\u0173 gatv\u0117 18, Anyk\u0161\u010di\u0173 miestas, Anyk\u0161\u010di\u0173 rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "Druskinink\u0173 sav., Druskininkai, M. K. \u010ciurlionio g. 97": {
+        "lat": 54.0128722, 
+        "lng": 23.9867045, 
+        "normalized": "M. K. \u010ciurlionio gatv\u0117 97, Druskininkai, Lietuva"
+    }, 
+    "Smilgi\u0173 k., Kupi\u0161kio r.": {
+        "lat": 54.3966086, 
+        "lng": 23.9984023, 
+        "normalized": "Smilgys, Lietuva"
+    }, 
+    "S. Daukanto g. 10A, Palangos m.": {
+        "lat": 55.9156273, 
+        "lng": 21.06105, 
+        "normalized": "S. Daukanto gatv\u0117 10A, Palangos miestas, Lietuva"
+    }, 
+    "V. Kudirkos g. 93, Joni\u0161kio m., Joni\u0161kio r.": {
+        "lat": 56.2299787, 
+        "lng": 23.6089941, 
+        "normalized": "V. Kudirkos gatv\u0117 93, Joni\u0161kis, Lietuva"
+    }, 
+    "Palangos m. sav., Palanga, M. Valan\u010diaus g. 1": {
+        "lat": 55.917617, 
+        "lng": 21.0648831, 
+        "normalized": "M. Valan\u010diaus gatv\u0117 1, Palanga, Lietuva"
+    }, 
+    "\u0160iauli\u0173 m. sav., \u0160iauliai, Gytari\u0173 g. 25": {
+        "lat": 55.9320758, 
+        "lng": 23.3142194, 
+        "normalized": "\u0160iauliai, Gytari\u0173 gatv\u0117 25, \u0160iauli\u0173 miesto savivaldyb\u0117, Lietuva"
+    }, 
+    "Sm\u0117lyn\u0117s g. 3, Panev\u0117\u017eio m.": {
+        "lat": 55.7312332, 
+        "lng": 24.3675248, 
+        "normalized": "Sm\u0117lyn\u0117s gatv\u0117 3, Panev\u0117\u017eio miestas, Lietuva"
+    }, 
+    "Vilniaus m. sav., Vilnius, \u0160v. Ignoto g. 12-1": {
+        "lat": 54.6814657, 
+        "lng": 25.2846421, 
+        "normalized": "\u0160v. Ignoto gatv\u0117 12, Vilnius, Vilniaus m. sav., Lietuva"
+    }, 
+    "K. Donelai\u010dio 70, \u0160iauliai": {
+        "lat": 55.91792, 
+        "lng": 23.3125687, 
+        "normalized": "K. Donelai\u010dio 70, \u0160iauliai, Lietuva"
+    }, 
+    "H. Manto g. 23, Klaip\u0117dos m.": {
+        "lat": 55.7168441, 
+        "lng": 21.1283897, 
+        "normalized": "H. Manto gatv\u0117 23, Klaip\u0117dos miestas, Lietuva"
+    }, 
+    "Ventos 31 A, Ma\u017eeikiai": {
+        "lat": 56.3102612, 
+        "lng": 22.3286788, 
+        "normalized": "Ventos 31 A, Ma\u017eeikiai, Lietuva"
+    }, 
+    "Palangos m. sav., Palanga, G\u0117li\u0173 a. 1A": {
+        "lat": 55.9244916, 
+        "lng": 21.0657412, 
+        "normalized": "G\u0117li\u0173 a. 1A, Palanga, Lietuva"
+    }, 
+    "J. Basanavi\u010diaus g. 29, Palangos m.": {
+        "lat": 55.9184962, 
+        "lng": 21.0583097, 
+        "normalized": "J. Basanavi\u010diaus gatv\u0117 29, Palangos miestas, Lietuva"
+    }, 
+    "Vilniaus m. sav., Vilnius, Gedimino pr. 16": {
+        "lat": 54.68708969999999, 
+        "lng": 25.279882, 
+        "normalized": "Gedimino prospektas 16, Vilnius, Vilniaus m. sav., Lietuva"
+    }, 
+    "R\u016bd\u0117s g. 9, \u0160iauliai": {
+        "lat": 55.9263075, 
+        "lng": 23.3159265, 
+        "normalized": "R\u016bd\u0117s gatv\u0117 9, \u0160iauliai, Lietuva"
+    }, 
+    "Kurorto g. 4, Druskininkai": {
+        "lat": 54.01772949999999, 
+        "lng": 23.9838921, 
+        "normalized": "Kurorto gatv\u0117 4, Druskininkai, Lietuva"
+    }, 
+    "\u0104\u017euolyno g. 7, Vilniaus m.": {
+        "lat": 54.9802635, 
+        "lng": 25.2363514, 
+        "normalized": "\u0104\u017euolyno gatv\u0117 7, Vilniaus miestas, Lietuva"
+    }, 
+    "Klaip\u0117dos m. sav., Klaip\u0117da, Debreceno g. 27": {
+        "lat": 55.6817801, 
+        "lng": 21.1792402, 
+        "normalized": "Debreceno gatv\u0117 27, Klaip\u0117da, Klaip\u0117dos m. sav., Lietuva"
+    }, 
+    "Algirdo g. 34, Bir\u0161tono m., Bir\u0161tono sav.": {
+        "lat": 54.6105285, 
+        "lng": 24.0294936, 
+        "normalized": "Algirdo gatv\u0117 34, Bir\u0161tono miestas, Lietuva"
+    }, 
+    "Perk\u016bno al. 61, Kaunas": {
+        "lat": 54.8968721, 
+        "lng": 23.8924264, 
+        "normalized": "Perk\u016bno al. 61, Kaunas, Lietuva"
+    }, 
+    "Dar\u017e\u0173 g. 9, Klaip\u0117dos m.": {
+        "lat": 55.706516, 
+        "lng": 21.1355035, 
+        "normalized": "Dar\u017e\u0173 gatv\u0117 9, Klaip\u0117dos miestas, Lietuva"
+    }, 
+    "Kuzmos g. 8, Kaunas": {
+        "lat": 54.8959753, 
+        "lng": 23.8883024, 
+        "normalized": "Kuzmos gatv\u0117 8, Kaunas, Lietuva"
+    }, 
+    "Sodo g. 5, Garg\u017ed\u0173 m., Klaip\u0117dos r.": {
+        "lat": 55.7124386, 
+        "lng": 21.4033004, 
+        "normalized": "Sodo gatv\u0117 5, Garg\u017ed\u0173 miestas, Klaip\u0117dos r., Lietuva"
+    }, 
+    "Taikos pr. 80 , Klaip\u0117dos m.": {
+        "lat": 55.6742992, 
+        "lng": 21.1671424, 
+        "normalized": "Taikos prospektas 80, Klaip\u0117dos miestas, Lietuva"
+    }, 
+    "Vytauto g. 93A, Palangos m.": {
+        "lat": 55.9242705, 
+        "lng": 21.0703095, 
+        "normalized": "Vytauto gatv\u0117 93A, Palangos miestas, Lietuva"
+    }, 
+    "\u0160ilut\u0117s r. sav., \u0160ilut\u0117s sen., \u0160ilut\u0117, Lietuvinink\u0173 g. 70": {
+        "lat": 55.342327, 
+        "lng": 21.4697679, 
+        "normalized": "\u0160ilut\u0117, Lietuvinink\u0173 gatv\u0117 70, \u0160ilut\u0117s rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "Laisv\u0117s al. 35, Kaunas": {
+        "lat": 54.8968721, 
+        "lng": 23.8924264, 
+        "normalized": "Laisv\u0117s al. 35, Kaunas, Lietuva"
+    }, 
+    "Vilniaus m. sav., Vilnius, Gele\u017einio Vilko g. 3": {
+        "lat": 54.6707712, 
+        "lng": 25.238043, 
+        "normalized": "Gele\u017einio Vilko gatv\u0117 3, Vilnius, Vilniaus m. sav., Lietuva"
+    }, 
+    "Tilto g. 8, Vilniaus m.": {
+        "lat": 54.6874273, 
+        "lng": 25.2842278, 
+        "normalized": "Tilto gatv\u0117 8, Vilniaus miestas, Lietuva"
+    }, 
+    "Burokarais\u010dio k., Var\u0117nos r.": {
+        "lat": 54.20857669999999, 
+        "lng": 24.3402795, 
+        "normalized": "Burokarais\u010dio, Var\u0117nos r., Lietuva"
+    }, 
+    "Vytauto g. 74, Palangos m.": {
+        "lat": 55.9148516, 
+        "lng": 21.0647949, 
+        "normalized": "Vytauto gatv\u0117 74, Palangos miestas, Lietuva"
+    }, 
+    "Smil\u010di\u0173 g. 31, Palanga": {
+        "lat": 55.9221629, 
+        "lng": 21.0624742, 
+        "normalized": "Smil\u010di\u0173 gatv\u0117 31, Palanga, Lietuva"
+    }, 
+    "R\u016bd\u0117s g. 9, \u0160iauli\u0173 m.": {
+        "lat": 55.9263075, 
+        "lng": 23.3159265, 
+        "normalized": "R\u016bd\u0117s gatv\u0117 9, \u0160iauli\u0173 miestas, Lietuva"
+    }, 
+    "Tinkl\u0173 g. 51, Panev\u0117\u017eio m.": {
+        "lat": 55.7449906, 
+        "lng": 24.4237981, 
+        "normalized": "Tinkl\u0173 gatv\u0117 51, Panev\u0117\u017eio miestas, Lietuva"
+    }, 
+    "Vilkatupio g. 1, Vaivad\u0173 k., Panev\u0117\u017eio r.": {
+        "lat": 55.7595951, 
+        "lng": 24.403435, 
+        "normalized": "Vilkatupio gatv\u0117 1, Vaivadai, Panev\u0117\u017eio rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "Laisv\u0117s g. 7, Ma\u017eeiki\u0173 m., Ma\u017eeiki\u0173 r.": {
+        "lat": 56.31531, 
+        "lng": 22.34102, 
+        "normalized": "Laisv\u0117s gatv\u0117 7, Ma\u017eeiki\u0173 miestas, Ma\u017eeiki\u0173 rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "Druskinink\u0173 sav., Druskininkai, Maironio g. 45": {
+        "lat": 54.0235767, 
+        "lng": 23.9693861, 
+        "normalized": "Maironio gatv\u0117 45, Druskininkai, Lietuva"
+    }, 
+    "R\u016bdnink\u0173 g. 15/46, Vilniaus m.": {
+        "lat": 54.6756257, 
+        "lng": 25.2833706, 
+        "normalized": "R\u016bdnink\u0173 gatv\u0117 15, Vilniaus miestas, Lietuva"
+    }, 
+    "\u017dibininkai, Kretingos r.": {
+        "lat": 55.9596245, 
+        "lng": 21.1513928, 
+        "normalized": "\u017dibininkai, Kretingos r., Lietuva"
+    }, 
+    "Pamario g. 3, Neringa": {
+        "lat": 55.3062984, 
+        "lng": 21.0062504, 
+        "normalized": "Pamario gatv\u0117 3, Neringa, Lietuva"
+    }, 
+    "\u0160iauli\u0173 m. sav., \u0160iauliai, S. Lukauskio g. 5A": {
+        "lat": 55.9320758, 
+        "lng": 23.3142194, 
+        "normalized": "\u0160iauliai, S. Lukauskio gatv\u0117 5A, \u0160iauli\u0173 miesto savivaldyb\u0117, Lietuva"
+    }, 
+    "Audros g. 8a, Klaip\u0117da": {
+        "lat": 55.7374757, 
+        "lng": 21.0920962, 
+        "normalized": "Audros gatv\u0117 8a, Klaip\u0117da, Lietuva"
+    }, 
+    "Rod\u016bnios kelias 8, Vilniaus m.": {
+        "lat": 54.6315631, 
+        "lng": 25.2785548, 
+        "normalized": "Rod\u016bnios kelias 8, Vilniaus miestas, Lietuva"
+    }, 
+    "\u0160v. Jok\u016bbo g. 10, Druskinink\u0173 m., Druskinink\u0173 sav.": {
+        "lat": 54.0186097, 
+        "lng": 23.9722411, 
+        "normalized": "\u0160v. Jok\u016bbo gatv\u0117 10, Druskinink\u0173 miestas, Druskinink\u0173 sav., Lietuva"
+    }, 
+    "Dariaus ir Gir\u0117no g. 98, Jurbarko m., Jurbarko r.": {
+        "lat": 55.077726, 
+        "lng": 22.7755559, 
+        "normalized": "Dariaus ir Gir\u0117no gatv\u0117 98, Jurbarko miestas, Jurbarko rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "A. Baranausko a. 15, Anyk\u0161\u010di\u0173 m., Anyk\u0161\u010di\u0173 r.": {
+        "lat": 55.5250214, 
+        "lng": 25.1034693, 
+        "normalized": "A. Baranausko a. 15, Anyk\u0161\u010di\u0173 miestas, Anyk\u0161\u010di\u0173 rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "Palangos m. sav., Palanga, S. Dariaus ir S. Gir\u0117no g. 20": {
+        "lat": 55.9073204, 
+        "lng": 21.0722755, 
+        "normalized": "S. Dariaus ir S. Gir\u0117no gatv\u0117 20, Palanga, Palangos miesto savivaldyb\u0117, Lietuva"
+    }, 
+    "Plung\u0117s g. 10/ A. Strazdo g. 62, Kauno m.": {
+        "lat": 54.9247984, 
+        "lng": 23.9064566, 
+        "normalized": "Plung\u0117s gatv\u0117 10, Kauno miestas, Lietuva"
+    }, 
+    "J. Basanavi\u010diaus g. 45, Palangos m.": {
+        "lat": 55.9197072, 
+        "lng": 21.0525799, 
+        "normalized": "J. Basanavi\u010diaus gatv\u0117 45, Palangos miestas, Lietuva"
+    }, 
+    "S. Dariaus ir S. Gir\u0117no g. 11, Palangos m.": {
+        "lat": 55.9119677, 
+        "lng": 21.0571086, 
+        "normalized": "S. Dariaus ir S. Gir\u0117no gatv\u0117 11, Palangos miestas, Lietuva"
+    }, 
+    "Pakaln\u0117s g. 3, Bir\u0161tonas": {
+        "lat": 54.6062875, 
+        "lng": 23.9997481, 
+        "normalized": "Pakaln\u0117s gatv\u0117 3, Bir\u0161tonas, Lietuva"
+    }, 
+    "Taikos g. 26, Neringa": {
+        "lat": 55.304258, 
+        "lng": 21.0013692, 
+        "normalized": "Taikos gatv\u0117 26, Neringa, Lietuva"
+    }, 
+    "Dubysos g. 1, Bubi\u0173 k., \u0160iauli\u0173 r.": {
+        "lat": 55.8698431, 
+        "lng": 23.1956617, 
+        "normalized": "Dubysos gatv\u0117 1, Bubiai, \u0160iauli\u0173 r., Lietuva"
+    }, 
+    "T. \u0160ev\u010denkos g. 16, Vilniaus m.": {
+        "lat": 54.6772898, 
+        "lng": 25.2658015, 
+        "normalized": "T. \u0160ev\u010denkos gatv\u0117 16, Vilniaus miestas, Lietuva"
+    }, 
+    "Au\u0161ros Vart\u0173 g. 6, Vilnius": {
+        "lat": 54.6761238, 
+        "lng": 25.2884037, 
+        "normalized": "Au\u0161ros Vart\u0173 gatv\u0117 6, Vilnius, Lietuva"
+    }, 
+    "Pylimo g. 63, Vilnius": {
+        "lat": 54.67253669999999, 
+        "lng": 25.2866576, 
+        "normalized": "Pylimo gatv\u0117 63, Vilnius, Lietuva"
+    }, 
+    "Ukmerg\u0117s g. 363, Vilnius": {
+        "lat": 54.7386332, 
+        "lng": 25.2286319, 
+        "normalized": "Ukmerg\u0117s gatv\u0117 363, Vilnius, Lietuva"
+    }, 
+    "\u0160vitrigailos g. 11D, Vilnius": {
+        "lat": 54.6754233, 
+        "lng": 25.2682066, 
+        "normalized": "\u0160vitrigailos gatv\u0117 11D, Vilnius, Lietuva"
+    }, 
+    "\u0160eimyni\u0161ki\u0173 g. 21, Vilnius": {
+        "lat": 54.6945613, 
+        "lng": 25.2867837, 
+        "normalized": "\u0160eimyni\u0161ki\u0173 gatv\u0117 21, Vilnius, Lietuva"
+    }, 
+    "Statybinink\u0173 pr. 7, Klaip\u0117dos m.": {
+        "lat": 55.6741434, 
+        "lng": 21.1806361, 
+        "normalized": "Statybinink\u0173 prospektas 7, Klaip\u0117dos miestas, Lietuva"
+    }, 
+    "Vilniaus al. 13, Druskinink\u0173 m., Druskinink\u0173 sav.": {
+        "lat": 54.6893865, 
+        "lng": 25.2800243, 
+        "normalized": "Vilniaus al. 13, Druskinink\u0173 miestas, Druskinink\u0173 sav., Lietuva"
+    }, 
+    "J. Gruod\u017eio g. 21, Kauno m.": {
+        "lat": 54.8969663, 
+        "lng": 23.9008, 
+        "normalized": "J. Gruod\u017eio gatv\u0117 21, Kauno miestas, Lietuva"
+    }, 
+    "Konstitucijos pr. 20, Vilniaus m.": {
+        "lat": 54.6959944, 
+        "lng": 25.275671, 
+        "normalized": "Konstitucijos prospektas 20, Vilniaus miestas, Lietuva"
+    }, 
+    "Marijampol\u0117s sav., Marijampol\u0117, L. Giros g. 42": {
+        "lat": 54.5522206, 
+        "lng": 23.3779737, 
+        "normalized": "L. Giros gatv\u0117 42, Marijampol\u0117, Marijampol\u0117s sav., Lietuva"
+    }, 
+    "Poilsio g. 21, Marijampol\u0117s m., Marijampol\u0117s sav.": {
+        "lat": 54.525681, 
+        "lng": 23.3472639, 
+        "normalized": "Poilsio gatv\u0117 21, Marijampol\u0117s miestas, Marijampol\u0117s sav., Lietuva"
+    }, 
+    "Bazilijon\u0173 g. 3, Vilniaus m.": {
+        "lat": 54.674134, 
+        "lng": 25.2874522, 
+        "normalized": "Bazilijon\u0173 gatv\u0117 3, Vilniaus miestas, Lietuva"
+    }, 
+    "Maironio g. 2-95/20958, Raseiniai": {
+        "lat": 55.3796992, 
+        "lng": 23.1154464, 
+        "normalized": "Maironio gatv\u0117 2, Raseiniai, Lietuva"
+    }, 
+    "Roki\u0161kio r. sav., Roki\u0161kio miesto sen., Roki\u0161kis, Panev\u0117\u017eio g. 7A": {
+        "lat": 55.7374357, 
+        "lng": 24.3703332, 
+        "normalized": "Panev\u0117\u017eio gatv\u0117 7A, Roki\u0161kis, Roki\u0161kio rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "Jaunyst\u0117s g. 21, Visagino m., Visagino sav.": {
+        "lat": 55.5885447, 
+        "lng": 26.4423295, 
+        "normalized": "Jaunyst\u0117s gatv\u0117 21, Visagino miestas, Lietuva"
+    }, 
+    "Liep\u0173 g. 2, Druskininkai, Druskinink\u0173 sav.": {
+        "lat": 54.0964518, 
+        "lng": 23.8584375, 
+        "normalized": "Liep\u0173 gatv\u0117 2, Druskininkai, Lietuva"
+    }, 
+    "Liejyklos g. 11/23, Vilnius": {
+        "lat": 54.6834788, 
+        "lng": 25.2823692, 
+        "normalized": "Liejyklos gatv\u0117 11/23, Vilnius, Lietuva"
+    }, 
+    "Vytauto g. 11, Palangos m.": {
+        "lat": 55.9113787, 
+        "lng": 21.0628183, 
+        "normalized": "Vytauto gatv\u0117 11, Palangos miestas, Lietuva"
+    }, 
+    "Alytaus m. sav., Alytus, Rotu\u0161\u0117s a. 12": {
+        "lat": 54.3961586, 
+        "lng": 24.0482121, 
+        "normalized": "Rotu\u0161\u0117s a. 12, Alytus, Alytaus miesto savivaldyb\u0117, Lietuva"
+    }, 
+    "Kalvarij\u0173 g. 247, Vilniaus m.": {
+        "lat": 54.7315412, 
+        "lng": 25.2795879, 
+        "normalized": "Kalvarij\u0173 gatv\u0117 247, Vilniaus miestas, Lietuva"
+    }, 
+    "Plyt\u0173 g. 7, Palanga": {
+        "lat": 55.91572660000001, 
+        "lng": 21.0700038, 
+        "normalized": "Plyt\u0173 gatv\u0117 7, Palanga, Lietuva"
+    }, 
+    "Tu\u0161\u010diauli\u0173 k., Vilniaus r.": {
+        "lat": 54.8518252, 
+        "lng": 25.5408495, 
+        "normalized": "Tu\u0161\u010diauliai, Vilniaus r., Lietuva"
+    }, 
+    "Mokyklos g. 11, Ignalinos m., Ignalinos r.": {
+        "lat": 55.3442407, 
+        "lng": 26.1587538, 
+        "normalized": "Mokyklos gatv\u0117 11, Ignalinos miestas, Lietuva"
+    }, 
+    "Meil\u0117s al. 11, Palangos m.": {
+        "lat": 55.9183386, 
+        "lng": 21.0676478, 
+        "normalized": "Palangos miestas, Lietuva"
+    }, 
+    "Palangos m. sav., Palanga, Vanagup\u0117s g. 15": {
+        "lat": 55.9410742, 
+        "lng": 21.0724684, 
+        "normalized": "Vanagup\u0117s gatv\u0117 15, Palanga, Lietuva"
+    }, 
+    "Vytauto g. 27, Druskinink\u0173 m., Druskinink\u0173 sav.": {
+        "lat": 54.0125211, 
+        "lng": 23.9872091, 
+        "normalized": "Vytauto gatv\u0117 27, Druskinink\u0173 miestas, Lietuva"
+    }, 
+    "Au\u0161ros vart\u0173 g. 12, Vilnius": {
+        "lat": 54.67491, 
+        "lng": 25.2892789, 
+        "normalized": "Au\u0161ros vart\u0173 gatv\u0117 12, Vilnius, Lietuva"
+    }, 
+    "Suderv\u0117s g. 10, Avi\u017eieni\u0173 k., Vilniaus r.": {
+        "lat": 54.7616325, 
+        "lng": 25.1773853, 
+        "normalized": "Suderv\u0117s gatv\u0117 10, Avi\u017eieniai, Vilniaus rajono savivaldyb\u0117, Lietuva"
+    }, 
+    "\u017dvej\u0173 g. 14A, Vilnius": {
+        "lat": 54.6898424, 
+        "lng": 25.2876827, 
+        "normalized": "\u017dvej\u0173 gatv\u0117 14A, Vilnius, Lietuva"
+    }, 
+    "Liudi\u0161ki\u0173 g. 18, Anyk\u0161\u010diai": {
+        "lat": 55.520581, 
+        "lng": 25.1157457, 
+        "normalized": "Liudi\u0161ki\u0173 gatv\u0117 18, Anyk\u0161\u010diai, Lietuva"
+    }, 
+    "Savanori\u0173 pr. 176, Vilniaus m.": {
+        "lat": 54.6533877, 
+        "lng": 25.2229447, 
+        "normalized": "Savanori\u0173 prospektas 176, Vilniaus miestas, Lietuva"
+    }, 
+    "S. Daukanto g. 33, Palangos m.": {
+        "lat": 55.9130681, 
+        "lng": 21.0593434, 
+        "normalized": "S. Daukanto gatv\u0117 33, Palangos miestas, Lietuva"
+    }, 
+    "\u010c. Sugiharos g. 3, Vilniaus m.": {
+        "lat": 54.7038218, 
+        "lng": 25.2318252, 
+        "normalized": "\u010c. Sugiharos gatv\u0117 3, Vilniaus miestas, Lietuva"
+    }, 
+    "Gintaro g. 36, Palanga": {
+        "lat": 55.92149509999999, 
+        "lng": 21.0697993, 
+        "normalized": "Gintaro gatv\u0117 36, Palanga, Lietuva"
+    }, 
+    "Kauno m. sav., Kaunas, Laisv\u0117s al. 79": {
+        "lat": 54.8968721, 
+        "lng": 23.8924264, 
+        "normalized": "Laisv\u0117s al. 79, Kaunas, Lietuva"
+    }, 
+    "Barau\u010diznos k., Vilkavi\u0161kio r.": {
+        "lat": 54.6358229, 
+        "lng": 23.1091862, 
+        "normalized": "Barau\u010dizna, Vilkavi\u0161kio r., Lietuva"
+    }, 
+    "Gintaro g. 1A, Palangos m.": {
+        "lat": 55.9240256, 
+        "lng": 21.0578073, 
+        "normalized": "Gintaro gatv\u0117 1A, Palangos miestas, Lietuva"
+    }, 
+    "Vaidilut\u0117s 6A, Vilnius": {
+        "lat": 54.7337846, 
+        "lng": 25.295776, 
+        "normalized": "Vaidilut\u0117s 6A, Vilnius, Lietuva"
+    }, 
+    "S. N\u0117ries g. 14, Palanga": {
+        "lat": 55.9197146, 
+        "lng": 21.0608284, 
+        "normalized": "S. N\u0117ries gatv\u0117 14, Palanga, Lietuva"
+    }, 
+    "Pakaln\u0117s g. 3": {
+        "lat": 54.8000915, 
+        "lng": 25.5217645, 
+        "normalized": "Pakaln\u0117s gatv\u0117 3, Lietuva"
+    }, 
+    "Sausio 13-osios g. 2, Vilnius": {
+        "lat": 54.69321859999999, 
+        "lng": 25.2220444, 
+        "normalized": "Sausio 13-osios gatv\u0117 2, Vilnius, Lietuva"
+    }, 
+    "Konstitucijos pr. 14, Vilnius": {
+        "lat": 54.6956235, 
+        "lng": 25.2769919, 
+        "normalized": "Konstitucijos prospektas 14, Vilnius, Lietuva"
+    }, 
+    "Respublikos g. 11A, Naujosios Akmen\u0117s m., Akmen\u0117s r.": {
+        "lat": 56.3191315, 
+        "lng": 22.8741132, 
+        "normalized": "Respublikos gatv\u0117 11A, Naujosios Akmen\u0117s miestas, Akmen\u0117s r., Lietuva"
+    }, 
+    "Palangos m. sav., Palanga, Vanagup\u0117s g. 31": {
+        "lat": 55.9407393, 
+        "lng": 21.0768775, 
+        "normalized": "Vanagup\u0117s gatv\u0117 31, Palanga, Lietuva"
+    }, 
+    "Tylos g. 2, Bir\u017eai": {
+        "lat": 56.184038, 
+        "lng": 24.7657822, 
+        "normalized": "Tylos gatv\u0117 2, Bir\u017eai, Lietuva"
+    }, 
+    "Naujojo Sodo g. 1, Klaip\u0117dos m.": {
+        "lat": 55.7109458, 
+        "lng": 21.1291436, 
+        "normalized": "Naujojo Sodo gatv\u0117 1, Klaip\u0117dos miestas, Lietuva"
+    }, 
+    "V. Kuzmos g. 8, Kaunas": {
+        "lat": 54.8959753, 
+        "lng": 23.8883024, 
+        "normalized": "V. Kuzmos gatv\u0117 8, Kaunas, Lietuva"
+    }, 
+    "Trak\u0173 r. Kranto g. 5": {
+        "lat": 54.5048589, 
+        "lng": 24.9787608, 
+        "normalized": "Trak\u0173 r. Kranto gatv\u0117 5, Lietuva"
+    }
+}

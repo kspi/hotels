@@ -8,12 +8,19 @@ count = 0
 good_count = 0
 hotels = {}
 
+with open('coords.json', 'r') as coordsf:
+    coords = json.load(coordsf)
+
 with open('data/hotels.csv', 'r') as f:
     for row in csv.DictReader(f):
         count += 1
         name = row['Pavadinimas']
         address = row['Veiklos vykdymo vieta']
         rank = int(row['Klasė'].replace('*', ''))
+
+        cs = coords.get(address.decode('utf-8'), None)
+        if cs:
+            good_count += 1
 
         try:
             size = int(row['Vietų skaičius'])
@@ -23,7 +30,6 @@ with open('data/hotels.csv', 'r') as f:
         if size > largest:
             largest = size
 
-        good_count += 1
         
         del row['Pavadinimas']
         del row['Veiklos vykdymo vieta']
@@ -33,6 +39,7 @@ with open('data/hotels.csv', 'r') as f:
             'rank': rank,
             'size': size,
             'info': row,
+            'coords': cs,
             'halls': [],
         }
 
@@ -76,5 +83,4 @@ with open('site/js/data.js', 'w') as f:
     f.write('largest_hotel_size = %s;\n' % json.dumps(largest))
 
 
-print('Largest: %d' % largest)
 print('Good: %d/%d' % (good_count, count))
