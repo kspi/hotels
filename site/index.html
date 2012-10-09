@@ -26,111 +26,111 @@
         <h1>Viešbučių ir konferencijų salių paieška</h1>
       </div>
       <div id="sidebar">
-        <div id="sidebar_inner">
-          <div class="alert alert-block">
-            <button type="button" class="close" data-dismiss="alert">×</button>
-            <p>Raskite viešbučius nakvynei arba sales konferencijoms pagal
-            vietą žemėlapyje ir pasirinktus kriterijus.</p>
-          </div>
-          <div class="smallblock">
-            <h4>Ieškau:</h4>
+        
+        <div class="alert alert-block">
+          <button type="button" class="close" data-dismiss="alert">×</button>
+          <p>Raskite viešbučius nakvynei arba sales konferencijoms pagal
+          vietą žemėlapyje ir pasirinktus kriterijus.</p>
+        </div>
+        <div class="smallblock">
+          <h4>Ieškau:</h4>
+          <label class="checkbox">
+            <input type="checkbox" class="model-type-hall" checked> Konferencijų salės 
+          </label>
+          <label class="checkbox">
+            <input type="checkbox" class="model-type-hotel"> Nakvynės 
+          </label>
+        </div>
+        <div class="smallblock">
+          <h4>Žvaigždutės:</h4>
+          <div class="model-grade">
             <label class="checkbox">
-              <input type="checkbox" class="model-type-hall" checked> Konferencijų salės 
+              <input type="checkbox" data-value="1" checked="checked"> <img src="img/stars-1.png" alt="1 žvaigždutė">
             </label>
             <label class="checkbox">
-              <input type="checkbox" class="model-type-hotel"> Nakvynės 
-            </label>
-          </div>
-          <div class="smallblock">
-            <h4>Žvaigždutės:</h4>
-            <div class="model-grade">
-              <label class="checkbox">
-                <input type="checkbox" data-value="1" checked="checked"> <img src="img/stars-1.png" alt="1 žvaigždutė">
-              </label>
-              <label class="checkbox">
-                <input type="checkbox" data-value="2" checked> <img src="img/stars-2.png" alt="2 žvaigždutės">
-              </label>
-              <label class="checkbox">
-                <input type="checkbox" data-value="3" checked> <img src="img/stars-3.png" alt="3 žvaigždutės">
-              </label>
-              <label class="checkbox">
-                <input type="checkbox" data-value="4" checked> <img src="img/stars-4.png" alt="4 žvaigždutės">
-              </label>
-              <label class="checkbox">
-                <input type="checkbox" data-value="5" checked> <img src="img/stars-5.png" alt="5 žvaigždutės">
-              </label>
-            </div>
-          </div>
-
-          <div class="block model-hall">
-            <h5>Papildoma informacija konferencijai</h5>
-
-            <label>Vietų skaičius: <span class="slider-count label-hall-capacity">1 - 500</span></label>
-            <div class="model-hall-capacity"></div>
-            <label>Salių skaičius: <span class="slider-count label-hall-count">1</span></label> 
-            <div class="model-hall-count"></div>
-            <label>Salės išdėstymas:</label>
-            <select class="model-hall-configuration select2" multiple data-placeholder="Pasirinkite...">
-              <option value="Teatro stilius">Teatro stilius</option>
-              <option value="Klasės stilius">Klasės stilius</option>
-              <option value="U stilius">U stilius</option>
-              <option value="Apvalaus stalo stilius">Apvalaus stalo stilius</option>
-              <option value="Banketo stilius">Banketo stilius</option>
-            </select>
-
-            <label>Naudojama:</label>
-            <label class="checkbox">
-              <input type="checkbox" class="model-hall-celebration"> Pobūviui 
+              <input type="checkbox" data-value="2" checked> <img src="img/stars-2.png" alt="2 žvaigždutės">
             </label>
             <label class="checkbox">
-              <input type="checkbox" class="model-hall-conference"> Konferencijai 
+              <input type="checkbox" data-value="3" checked> <img src="img/stars-3.png" alt="3 žvaigždutės">
             </label>
-
-            <label>Papildoma įranga:</label>
-            <select class="model-hall-hardware select2" multiple data-placeholder="Pasirinkite...">
-              <option value="CD grotuvas">CD grotuvas</option>
-              <option value="DVD grotuvas">DVD grotuvas</option>
-              <option value="Diktofonas">Diktofonas</option>
-              <option value="Ekranas">Ekranas</option>
-              <option value="Grafinis projektorius">Grafinis projektorius</option>
-              <option value="Interneto ryšys">Interneto ryšys</option>
-              <option value="Kompiuteris">Kompiuteris</option>
-              <option value="Lazerinė rodyklė">Lazerinė rodyklė</option>
-              <option value="Mikrofonas">Mikrofonas</option>
-              <option value="Multimedia">Multimedia</option>
-              <option value="Oro kondicionierius">Oro kondicionierius</option>
-              <option value="Popierius">Popierius</option>
-              <option value="Rašymo lenta">Rašymo lenta</option>
-              <option value="Scena">Scena</option>
-              <option value="Sinchroninis vertimas">Sinchroninis vertimas</option>
-              <option value="Skaidrių projektorius">Skaidrių projektorius</option>
-              <option value="TV">TV</option>
-              <option value="Telefonas">Telefonas</option>
-              <option value="Tribūbna">Tribūbna</option>
-              <option value="Video grotuvas">Video grotuvas</option>
-              <option value="Įranga garso įrašymui">Įranga garso įrašymui</option>
-            </select>
-          </div>
-
-          <div class="block model-hotel">
-            <h5>Papildoma informacija nakvynei</h5>
-
-            <label>Vietų skaičius: <span class="slider-count label-hotel-capacity">1 - 500</span></label>
-            <div class="model-hotel-capacity"></div>
-            <label>Kambarių skaičius: <span class="slider-count label-hotel-room-capacity">1 - 500</span></label>
-            <div class="model-hotel-room-capacity"></div>
-            <label>Maitinimas:</label>
-            <select class="model-hotel-food select2" multiple data-placeholder="Pasirinkite...">
-              <option value="Pusryčiai">Pusryčiai</option>
-              <option value="Kavinė">Kavinė</option>
-              <option value="Restoranas">Restoranas</option>
-              <option value="Baras">Baras</option>
-            </select>
             <label class="checkbox">
-              <input type="checkbox" class="model-hotel-for-disabled"> Pritaikyta neįgaliesiems 
+              <input type="checkbox" data-value="4" checked> <img src="img/stars-4.png" alt="4 žvaigždutės">
+            </label>
+            <label class="checkbox">
+              <input type="checkbox" data-value="5" checked> <img src="img/stars-5.png" alt="5 žvaigždutės">
             </label>
           </div>
         </div>
+
+        <div class="block model-hall">
+          <h5>Papildoma informacija konferencijai</h5>
+
+          <label>Vietų skaičius: <span class="slider-count label-hall-capacity">1 - 500</span></label>
+          <div class="model-hall-capacity"></div>
+          <label>Salių skaičius: <span class="slider-count label-hall-count">1</span></label> 
+          <div class="model-hall-count"></div>
+          <label>Salės išdėstymas:</label>
+          <select class="model-hall-configuration select2" multiple data-placeholder="Pasirinkite...">
+            <option value="Teatro stilius">Teatro stilius</option>
+            <option value="Klasės stilius">Klasės stilius</option>
+            <option value="U stilius">U stilius</option>
+            <option value="Apvalaus stalo stilius">Apvalaus stalo stilius</option>
+            <option value="Banketo stilius">Banketo stilius</option>
+          </select>
+
+          <label>Naudojama:</label>
+          <label class="checkbox">
+            <input type="checkbox" class="model-hall-celebration"> Pobūviui 
+          </label>
+          <label class="checkbox">
+            <input type="checkbox" class="model-hall-conference"> Konferencijai 
+          </label>
+
+          <label>Papildoma įranga:</label>
+          <select class="model-hall-hardware select2" multiple data-placeholder="Pasirinkite...">
+            <option value="CD grotuvas">CD grotuvas</option>
+            <option value="DVD grotuvas">DVD grotuvas</option>
+            <option value="Diktofonas">Diktofonas</option>
+            <option value="Ekranas">Ekranas</option>
+            <option value="Grafinis projektorius">Grafinis projektorius</option>
+            <option value="Interneto ryšys">Interneto ryšys</option>
+            <option value="Kompiuteris">Kompiuteris</option>
+            <option value="Lazerinė rodyklė">Lazerinė rodyklė</option>
+            <option value="Mikrofonas">Mikrofonas</option>
+            <option value="Multimedia">Multimedia</option>
+            <option value="Oro kondicionierius">Oro kondicionierius</option>
+            <option value="Popierius">Popierius</option>
+            <option value="Rašymo lenta">Rašymo lenta</option>
+            <option value="Scena">Scena</option>
+            <option value="Sinchroninis vertimas">Sinchroninis vertimas</option>
+            <option value="Skaidrių projektorius">Skaidrių projektorius</option>
+            <option value="TV">TV</option>
+            <option value="Telefonas">Telefonas</option>
+            <option value="Tribūbna">Tribūbna</option>
+            <option value="Video grotuvas">Video grotuvas</option>
+            <option value="Įranga garso įrašymui">Įranga garso įrašymui</option>
+          </select>
+        </div>
+
+        <div class="block model-hotel">
+          <h5>Papildoma informacija nakvynei</h5>
+
+          <label>Vietų skaičius: <span class="slider-count label-hotel-capacity">1 - 500</span></label>
+          <div class="model-hotel-capacity"></div>
+          <label>Kambarių skaičius: <span class="slider-count label-hotel-room-capacity">1 - 500</span></label>
+          <div class="model-hotel-room-capacity"></div>
+          <label>Maitinimas:</label>
+          <select class="model-hotel-food select2" multiple data-placeholder="Pasirinkite...">
+            <option value="Pusryčiai">Pusryčiai</option>
+            <option value="Kavinė">Kavinė</option>
+            <option value="Restoranas">Restoranas</option>
+            <option value="Baras">Baras</option>
+          </select>
+          <label class="checkbox">
+            <input type="checkbox" class="model-hotel-for-disabled"> Pritaikyta neįgaliesiems 
+          </label>
+        </div>
+        
       </div>
       <div id="map_canvas"></div>
     </div>
