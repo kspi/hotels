@@ -10,6 +10,7 @@
     <link type="text/css" href="inc/select2/select2.css" rel="stylesheet">
     <link type="text/css" href="css/style.css" rel="stylesheet">		
     <script src="inc/jquery/jquery-1.8.2.js"></script>
+    <script src="inc/bootstrap/js/bootstrap.min.js"></script>
     <script src="inc/jquery/jquery-ui-1.8.24.custom.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?sensor=false&key=AIzaSyCZ1zscULTQRSTgdBJ8NBk4-xBUakewSQs&libraries=places"></script>
     <script src="inc/select2/select2.min.js"></script>
@@ -21,35 +22,44 @@
     <div id="main-container">
       <div id="topbar">
         <input type="text" class="search-query" autocomplete="off" placeholder="Ieškoti vietos..." id="search">
+        <a href="#about" data-toggle="modal">Apie projektą</a>
         <h1>Viešbučių ir konferencijų salių paieška</h1>
       </div>
       <div id="sidebar">
         <div id="sidebar_inner">
-          <label><h3>Ieškau:</h3></label>
-          <label class="checkbox">
-            <input type="checkbox" class="model-type-hall" checked> Konferencijų salės 
-          </label>
-          <label class="checkbox">
-            <input type="checkbox" class="model-type-hotel"> Nakvynės 
-          </label>
-
-          <label>Žvaigždutės:</label>
-          <div class="model-grade">
+          <div class="alert alert-block">
+            <button type="button" class="close" data-dismiss="alert">×</button>
+            <p>Raskite viešbučius nakvynei arba sales konferencijoms pagal
+            vietą žemėlapyje ir pasirinktus kriterijus.</p>
+          </div>
+          <div class="smallblock">
+            <h4>Ieškau:</h4>
             <label class="checkbox">
-              <input type="checkbox" data-value="1" checked="checked"> <img src="img/stars-1.png" alt="1 žvaigždutė">
+              <input type="checkbox" class="model-type-hall" checked> Konferencijų salės 
             </label>
             <label class="checkbox">
-              <input type="checkbox" data-value="2" checked> <img src="img/stars-2.png" alt="2 žvaigždutės">
+              <input type="checkbox" class="model-type-hotel"> Nakvynės 
             </label>
-            <label class="checkbox">
-              <input type="checkbox" data-value="3" checked> <img src="img/stars-3.png" alt="3 žvaigždutės">
-            </label>
-            <label class="checkbox">
-              <input type="checkbox" data-value="4" checked> <img src="img/stars-4.png" alt="4 žvaigždutės">
-            </label>
-            <label class="checkbox">
-              <input type="checkbox" data-value="5" checked> <img src="img/stars-5.png" alt="5 žvaigždutės">
-            </label>
+          </div>
+          <div class="smallblock">
+            <h4>Žvaigždutės:</h4>
+            <div class="model-grade">
+              <label class="checkbox">
+                <input type="checkbox" data-value="1" checked="checked"> <img src="img/stars-1.png" alt="1 žvaigždutė">
+              </label>
+              <label class="checkbox">
+                <input type="checkbox" data-value="2" checked> <img src="img/stars-2.png" alt="2 žvaigždutės">
+              </label>
+              <label class="checkbox">
+                <input type="checkbox" data-value="3" checked> <img src="img/stars-3.png" alt="3 žvaigždutės">
+              </label>
+              <label class="checkbox">
+                <input type="checkbox" data-value="4" checked> <img src="img/stars-4.png" alt="4 žvaigždutės">
+              </label>
+              <label class="checkbox">
+                <input type="checkbox" data-value="5" checked> <img src="img/stars-5.png" alt="5 žvaigždutės">
+              </label>
+            </div>
           </div>
 
           <div class="block model-hall">
@@ -60,7 +70,7 @@
             <label>Salių skaičius: <span class="slider-count label-hall-count">1</span></label> 
             <div class="model-hall-count"></div>
             <label>Salės išdėstymas:</label>
-            <select class="model-hall-configuration select2" multiple data-placeholder="Pageidavimai salės išdėstymui">
+            <select class="model-hall-configuration select2" multiple data-placeholder="Pasirinkite...">
               <option value="Teatro stilius">Teatro stilius</option>
               <option value="Klasės stilius">Klasės stilius</option>
               <option value="U stilius">U stilius</option>
@@ -77,7 +87,7 @@
             </label>
 
             <label>Papildoma įranga:</label>
-            <select class="model-hall-hardware select2" multiple data-placeholder="Reikalavimai papildomai įrangai">
+            <select class="model-hall-hardware select2" multiple data-placeholder="Pasirinkite...">
               <option value="CD grotuvas">CD grotuvas</option>
               <option value="DVD grotuvas">DVD grotuvas</option>
               <option value="Diktofonas">Diktofonas</option>
@@ -110,7 +120,7 @@
             <label>Kambarių skaičius: <span class="slider-count label-hotel-room-capacity">1 - 500</span></label>
             <div class="model-hotel-room-capacity"></div>
             <label>Maitinimas:</label>
-            <select class="model-hotel-food select2" multiple data-placeholder="Pageidavimai maitinimui">
+            <select class="model-hotel-food select2" multiple data-placeholder="Pasirinkite...">
               <option value="Pusryčiai">Pusryčiai</option>
               <option value="Kavinė">Kavinė</option>
               <option value="Restoranas">Restoranas</option>
@@ -123,6 +133,26 @@
         </div>
       </div>
       <div id="map_canvas"></div>
+    </div>
+
+    <div class="modal hide fade" id="about" tabindex="-1" role="dialog">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h3>Apie projektą</h3>
+      </div>
+      <div class="modal-body">
+        <p>Naudojami atviri duomenys iš <a target="_blank" href="http://data.ukmin.lt">data.ukmin.lt</a>.</p>
+
+        <p>Projektas yra atviro kodo ir jį galima rasti
+        <a target="_blank" href="http://github.com/kspi/hotels/">github.com/kspi/hotels/</a>.</p>
+
+        <p>Autoriai:
+        <a href="mailto:k.spiridonovas+viesbuciai@gmail.com">Kiprianas Spiridonovas</a>
+        ir <a href="mailto:kmalin+viesbuciai@gmail.com">Kęstutis Malinauskas</a>.</p>
+
+        <p>Sukurta <a target="_blank" href="http://transparencyworks.lt">Transparency Works 2012</a>
+        metu, per vieną savaitgalį.</p>
+      </div>
     </div>
   </body>
 </html>		

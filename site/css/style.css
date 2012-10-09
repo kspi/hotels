@@ -15,7 +15,7 @@ html, body {
 
 #map_canvas {
   z-index: 0;
-  margin: 0 0 0 340px;
+  margin: 0 0 0 300px;
   padding: 0;
   height: 100%;
 }
@@ -25,7 +25,7 @@ html, body {
   position: absolute;
   left: 0px;
   top: 0px;
-  width: 340px;
+  width: 300px;
   background: #fff;
   height: 100%;
   overflow: hidden;
@@ -53,6 +53,24 @@ html, body {
   box-shadow:  0px -10px 20px 10px rgba(0, 0, 0, 0.5);
 }
 
+#topbar a {
+  float: right;
+  color: #ddd;
+  display: block;
+  margin: 5px 20px;
+  line-height: 20px;
+  padding: 5px 15px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 30px;
+}
+
+#topbar a:hover {
+  color: white;
+  text-decoration: none;
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 30px;
+}
+
 .search-query {
   float: right;
   margin-top: 5px;
@@ -64,22 +82,40 @@ html, body {
 }
 
 .block {
-  margin: 5px;
-  padding: 5px 15px;
-  border: 1px solid #ddd;
+  margin: 15px 0 0 12px;
+  padding: 5px 15px 15px 15px;
+  border: 1px solid #dfdfdf;
+  border-radius: 5px;
+  float: left;
+  width: 230px;
 }
+
+.ui-slider {
+  margin: 5px 0;
+}
+
+.alert {
+  margin-bottom: 0;
+}
+
+.smallblock {
+  width: 120px;
+  margin: 10px 0 0 12px;
+  float: left;
+}
+
 .select2 {
   width: 100%;
+  margin-bottom: 5px;
 }
 
 .slider-count {
-  color: #F6A828;
   font-weight: bold;
 }
 
 h1 {
-  font-size: 18pt;
-  font-weight: normal;
+  font-size: 15pt;
+  font-weight: bold;
   margin: 0;
 }
 #sidebar_inner {
@@ -90,13 +126,19 @@ h1 {
   right: 0px;
   border-right: 1px solid #ddd;
   overflow: auto;
-  padding: 0 20px;
+  padding: 0;
 }
 
 .hall-info {
-  border: 1px solid #ddd;
-  padding: 5px;
-  margin: 2px;
+  background: #efefef;
+  border: 1px solid #dfdfdf;
+  border-radius: 5px;
+  padding: 5px 7px;
+  margin: 5px 0;
+}
+
+.hall-info p {
+  margin: 0;
 }
 
 .additional-info {

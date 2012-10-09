@@ -21,6 +21,8 @@ with open('data/hotels.csv', 'r') as f:
         address = row[u'Veiklos vykdymo vieta']
         rank = int(row[u'Klasė'].replace('*', ''))
 
+        row[u'Priėmimo mėn.'] = row[u'Priėmimo mėn.'].replace(',', ', ')
+
         cs = coords.get(address, None)
         if cs:
             good_count += 1
