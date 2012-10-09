@@ -61,7 +61,7 @@ function toggleMarker(title, loc,  hotel, visible) {
     markerArray[title] = marker;
 
     var info = [];
-    info.push('<h5>', title, ' ( ', hotel.rank, ' žvaigždutės )</h5>');
+    info.push('<h5>', title, ' <img src="img/stars-', hotel.rank, '.png" alt="', hotel.rank, ' žvaigždutės" class="stars"></h5>');
     if (hotel.size != null) {
       info.push(formatKey(hotel.info, 'Vietų skaičius', true));
     }

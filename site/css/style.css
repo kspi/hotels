@@ -89,5 +89,9 @@ h1 {
   margin-top: 10px;
 }
 
+.stars {
+  float: right;
+}
+
 /* vim: sw=2
  */
