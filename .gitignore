@@ -27,4 +27,4 @@ pip-log.txt
 .mr.developer.cfg
 
 # Deployment
-upload.sh
+update.sh
