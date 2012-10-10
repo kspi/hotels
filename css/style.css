@@ -15,20 +15,23 @@ html, body {
 
 #map_canvas {
   z-index: 0;
-  margin: 0 0 0 300px;
-  padding: 0;
-  height: 100%;
+  position: absolute;
+  top: 42px;
+  left: 300px;
+  right: 0px;
+  bottom: 0px;
 }
 
 #sidebar {
   z-index: 1;
   position: absolute;
   left: 0px;
-  top: 0px;
+  top: 42px;
   width: 300px;
-  background: #fff;
-  height: 100%;
-  overflow: hidden;
+  bottom: 0px;
+  overflow: auto;
+  background: #fff;  
+  border-right: 1px solid #ddd;
   -webkit-box-shadow:  -10px 0px 20px 10px rgba(0, 0, 0, 0.3);
   box-shadow:  -10px 0px 20px 10px rgba(0, 0, 0, 0.3);
 }
@@ -117,16 +120,6 @@ h1 {
   font-size: 15pt;
   font-weight: bold;
   margin: 0;
-}
-#sidebar_inner {
-  position: absolute;
-  top: 42px;
-  bottom: 0px;
-  left: 0px;
-  right: 0px;
-  border-right: 1px solid #ddd;
-  overflow: auto;
-  padding: 0;
 }
 
 .hall-info {
