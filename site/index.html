@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html>
 <html>
   <head>
-    <title>Viešbučių ir konferencijų salių paieška</title>
+    <title>Viešbučių apžvalga</title>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="keywords" content="">
     <meta name="description" content="">
@@ -23,25 +23,15 @@
       <div id="topbar">
         <input type="text" class="search-query" autocomplete="off" placeholder="Ieškoti vietos..." id="search">
         <a href="#about" data-toggle="modal">Apie projektą</a>
-        <h1>Viešbučių ir konferencijų salių paieška</h1>
+        <h1>Viešbučių apžvalga</h1>
       </div>
       <div id="sidebar">
         
         <div class="alert alert-block">
           <button type="button" class="close" data-dismiss="alert">×</button>
-          <p>Raskite viešbučius nakvynei arba sales konferencijoms pagal
-          vietą žemėlapyje ir pasirinktus kriterijus.</p>
+          <p>Žemėlapyje vaizduojami Lietuvos viešbučiai. Galite juos filtruoti pagal įvairius parametrus.</p>
         </div>
-        <div class="smallblock">
-          <h4>Ieškau:</h4>
-          <label class="checkbox">
-            <input type="checkbox" class="model-type-hall" checked> Konferencijų salės 
-          </label>
-          <label class="checkbox">
-            <input type="checkbox" class="model-type-hotel"> Nakvynės 
-          </label>
-        </div>
-        <div class="smallblock">
+        <div class="block">
           <h4>Žvaigždutės:</h4>
           <div class="model-grade">
             <label class="checkbox">
@@ -62,8 +52,28 @@
           </div>
         </div>
 
+        <div class="block model-hotel">
+          <h4>Viešbučio savybės</h4>
+
+          <label>Vietų skaičius: <span class="slider-count label-hotel-capacity">1 - 500</span></label>
+          <div class="model-hotel-capacity"></div>
+          <label>Kambarių skaičius: <span class="slider-count label-hotel-room-capacity">1 - 500</span></label>
+          <div class="model-hotel-room-capacity"></div>
+          <label>Maitinimas:</label>
+          <select class="model-hotel-food select2" multiple data-placeholder="Pasirinkite...">
+            <option value="Pusryčiai">Pusryčiai</option>
+            <option value="Kavinė">Kavinė</option>
+            <option value="Restoranas">Restoranas</option>
+            <option value="Baras">Baras</option>
+          </select>
+          <label class="checkbox">
+            <input type="checkbox" class="model-hotel-for-disabled"> Pritaikyta neįgaliesiems 
+          </label>
+        </div>
+        
+
         <div class="block model-hall">
-          <h5>Papildoma informacija konferencijai</h5>
+          <h4>Konferencijų salės viešbutyje</h4>
 
           <label>Vietų skaičius: <span class="slider-count label-hall-capacity">1 - 500</span></label>
           <div class="model-hall-capacity"></div>
@@ -111,26 +121,6 @@
             <option value="Įranga garso įrašymui">Įranga garso įrašymui</option>
           </select>
         </div>
-
-        <div class="block model-hotel">
-          <h5>Papildoma informacija nakvynei</h5>
-
-          <label>Vietų skaičius: <span class="slider-count label-hotel-capacity">1 - 500</span></label>
-          <div class="model-hotel-capacity"></div>
-          <label>Kambarių skaičius: <span class="slider-count label-hotel-room-capacity">1 - 500</span></label>
-          <div class="model-hotel-room-capacity"></div>
-          <label>Maitinimas:</label>
-          <select class="model-hotel-food select2" multiple data-placeholder="Pasirinkite...">
-            <option value="Pusryčiai">Pusryčiai</option>
-            <option value="Kavinė">Kavinė</option>
-            <option value="Restoranas">Restoranas</option>
-            <option value="Baras">Baras</option>
-          </select>
-          <label class="checkbox">
-            <input type="checkbox" class="model-hotel-for-disabled"> Pritaikyta neįgaliesiems 
-          </label>
-        </div>
-        
       </div>
       <div id="map_canvas"></div>
     </div>

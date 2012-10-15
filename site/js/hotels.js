@@ -337,11 +337,7 @@ $(function() {
 
     setTimeout(function() {
       var model = {};
-      //Determine selected type
-      var type = [];
-      $sidebar.find('.model-type-hall').is(':checked') && type.push('hall');
-      $sidebar.find('.model-type-hotel').is(':checked') && type.push('hotel');
-      model.type = type.join('_');
+      model.type = 'hall_hotel';
 
       model.grades = {};
       $sidebar.find('.model-grade input').each(function() {
